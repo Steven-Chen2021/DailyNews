@@ -22,8 +22,8 @@ window.DAILY_NEWS = {
   // Stories are fetched on-demand from data-YYYY-MM.js files.
   editions: [
     { date: "2026-06-13", color: "rust",
-      theme:   { en: "Trade Routes in Motion",        zh: "變動中的全球貿易航線" },
-      summary: { en: "Ports, technology and the new geography of global commerce.", zh: "從港口、科技到全球商業版圖的重新配置。" } },
+      theme:   { en: "Fragile Corridors, Fast Machines", zh: "脆弱航道與高速機器" },
+      summary: { en: "From Taiwan's AI hubs to Hormuz shipping lanes, today's edition tracks how geopolitics, infrastructure and regulation are reshaping global flows.", zh: "從台灣的 AI 樞紐到荷莫茲海峽航道，今日版面追蹤地緣政治、基礎建設與監管如何重塑全球流動。" } },
     { date: "2026-06-12", color: "navy",
       theme:   { en: "The Connected Port",            zh: "智慧港口新時代" },
       summary: { en: "A daily briefing on automation, labor and maritime infrastructure.", zh: "聚焦自動化、勞動力與海運基礎建設的每日專題。" } },
