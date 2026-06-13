@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Read today's edition of The Daily Ledger." />
+    <title>Today’s Edition | The Daily Ledger</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Libre+Franklin:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="site-header compact-header">
+      <div class="utility-bar shell">
+        <a class="back-link" href="index.html">← All editions</a>
+        <p class="utility-tagline">Independent. Considered. Daily.</p>
+        <div class="text-controls" aria-label="Text size controls">
+          <span>Text</span>
+          <button type="button" data-font-action="decrease" aria-label="Decrease text size">A−</button>
+          <button type="button" data-font-action="increase" aria-label="Increase text size">A+</button>
+        </div>
+      </div>
+      <div class="masthead shell">
+        <a class="brand" href="index.html">
+          <span class="brand-kicker">Est. 2026</span>
+          <span class="brand-name">The Daily Ledger</span>
+          <span class="brand-edition">Morning Edition</span>
+        </a>
+      </div>
+    </header>
+
+    <main id="main-content" class="edition-main">
+      <section class="edition-heading shell">
+        <div>
+          <p class="eyebrow">Complete edition</p>
+          <h1 id="edition-date">Saturday, June 13, 2026</h1>
+        </div>
+        <div class="edition-nav-actions">
+          <button type="button" id="previous-edition">← Previous</button>
+          <button type="button" id="next-edition">Next →</button>
+        </div>
+      </section>
+
+      <div class="category-wrap">
+        <nav class="category-tabs shell" id="category-tabs" aria-label="News categories"></nav>
+      </div>
+
+      <section class="edition-content shell section-space">
+        <div class="edition-lead" id="edition-lead"></div>
+        <div class="edition-list" id="edition-list"></div>
+      </section>
+
+      <section class="edition-quote shell">
+        <p>“The purpose of journalism is not to settle the world, but to help us see it clearly.”</p>
+        <span>From the editor’s desk</span>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="shell footer-grid">
+        <div><a class="footer-brand" href="index.html">The Daily Ledger</a><p>An independent newspaper for a complicated world.</p></div>
+        <div><strong>Navigate</strong><a href="index.html">Front page</a><a href="index.html#archive-heading">Archive</a></div>
+        <div><strong>Contact</strong><a href="mailto:editor@example.com">Editorial desk</a><a href="mailto:letters@example.com">Letters</a></div>
+        <p class="copyright">© 2026 The Daily Ledger.</p>
+      </div>
+    </footer>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+    <script src="edition.js"></script>
+  </body>
+</html>
