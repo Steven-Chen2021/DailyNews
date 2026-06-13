@@ -3,183 +3,59 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="The Daily Ledger — an independent daily newspaper for thoughtful readers." />
-    <title>The Daily Ledger</title>
+    <meta name="description" content="Daily global news in English and Traditional Chinese." />
+    <title>Daily News | 每日新聞</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Libre+Franklin:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,600&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Libre+Franklin:wght@400;500;600;700&family=Noto+Sans+TC:wght@400;500;700;900&family=Noto+Serif+TC:wght@600;700;900&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <a class="skip-link" href="#main-content">Skip to content</a>
-
+    <a class="skip-link" href="#main-content" data-i18n="skip">Skip to content</a>
     <header class="site-header">
       <div class="utility-bar shell">
         <p id="today-label"></p>
-        <p class="utility-tagline">Independent. Considered. Daily.</p>
-        <div class="text-controls" aria-label="Text size controls">
-          <span>Text</span>
-          <button type="button" data-font-action="decrease" aria-label="Decrease text size">A−</button>
-          <button type="button" data-font-action="increase" aria-label="Increase text size">A+</button>
+        <p class="utility-tagline" data-i18n="tagline">Global insight. Every day.</p>
+        <div class="header-tools">
+          <div class="language-switch" aria-label="Language">
+            <button type="button" data-lang="en">EN</button><button type="button" data-lang="zh">繁中</button>
+          </div>
+          <div class="text-controls" aria-label="Text size controls">
+            <span data-i18n="text">Text</span><button type="button" data-font-action="decrease" aria-label="Decrease text size">A−</button><button type="button" data-font-action="increase" aria-label="Increase text size">A+</button>
+          </div>
         </div>
       </div>
-
       <div class="masthead shell">
-        <a class="brand" href="index.html" aria-label="The Daily Ledger home">
-          <span class="brand-kicker">Est. 2026</span>
-          <span class="brand-name">The Daily Ledger</span>
-          <span class="brand-edition">Morning Edition</span>
-        </a>
+        <a class="brand" href="index.html"><span class="brand-kicker">Est. 2026</span><span class="brand-name">Daily News <i>每日新聞</i></span><span class="brand-edition" data-i18n="morning">Morning Edition</span></a>
       </div>
-
       <nav class="main-nav" aria-label="Main navigation">
         <div class="shell nav-inner">
-          <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="nav-links">
-            <span></span><span></span><span></span><b>Sections</b>
-          </button>
-          <div class="nav-links" id="nav-links">
-            <a class="active" href="index.html">Front Page</a>
-            <a href="edition.html?date=2026-06-13&category=world">World</a>
-            <a href="edition.html?date=2026-06-13&category=business">Business</a>
-            <a href="edition.html?date=2026-06-13&category=technology">Technology</a>
-            <a href="edition.html?date=2026-06-13&category=culture">Culture</a>
-            <a href="edition.html?date=2026-06-13&category=life">Life</a>
-          </div>
+          <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="nav-links"><span></span><span></span><span></span><b data-i18n="sections">Sections</b></button>
+          <div class="nav-links" id="nav-links"></div>
         </div>
       </nav>
     </header>
 
     <main id="main-content">
-      <section class="breaking-strip" aria-label="Breaking news">
-        <div class="shell breaking-inner">
-          <strong>Live Briefing</strong>
-          <p>Markets steady as leaders gather for the Global Cities Forum</p>
-          <a href="edition.html?date=2026-06-13&category=world">Follow updates <span aria-hidden="true">→</span></a>
-        </div>
-      </section>
+      <section class="breaking-strip"><div class="shell breaking-inner"><strong data-i18n="latest">Latest Edition</strong><p data-i18n="breaking">Ports, technology and the new geography of global commerce</p><a id="breaking-link" href="edition.html"><span data-i18n="openEdition">Open edition</span> →</a></div></section>
 
       <section class="lead-grid shell section-space" aria-labelledby="top-stories">
-        <div class="section-heading full-span">
-          <p class="eyebrow">Saturday, June 13</p>
-          <h1 id="top-stories">Today’s Essential Stories</h1>
-          <a href="edition.html?date=2026-06-13">Read today’s edition <span aria-hidden="true">→</span></a>
-        </div>
-
-        <article class="lead-story">
-          <a class="story-image image-city" href="edition.html?date=2026-06-13&story=cities" aria-label="Read The cities rewriting the rules of urban life">
-            <span class="image-credit">Photo / Luca Bravo</span>
-          </a>
-          <div class="lead-copy">
-            <p class="story-category">World / Special Report</p>
-            <h2><a href="edition.html?date=2026-06-13&story=cities">The cities rewriting the rules of urban life</a></h2>
-            <p class="dek">From shaded streets to shared rooftops, a new generation of mayors is turning climate pressure into a blueprint for better living.</p>
-            <div class="story-meta"><span>By Maya Chen</span><span>8 min read</span></div>
-          </div>
-        </article>
-
-        <aside class="side-stories" aria-label="More top stories">
-          <article class="compact-story">
-            <p class="story-category">Business</p>
-            <h3><a href="edition.html?date=2026-06-13&category=business">Small manufacturers find a second wind closer to home</a></h3>
-            <p>Regional production is moving from contingency plan to competitive advantage.</p>
-            <div class="story-meta"><span>5 min read</span></div>
-          </article>
-          <article class="compact-story">
-            <p class="story-category">Technology</p>
-            <h3><a href="edition.html?date=2026-06-13&category=technology">The quiet race to make AI use less energy</a></h3>
-            <p>Researchers are finding that smaller, specialized systems can do more with less.</p>
-            <div class="story-meta"><span>6 min read</span></div>
-          </article>
-          <article class="compact-story quote-story">
-            <p class="story-category">The Saturday Interview</p>
-            <blockquote>“A city is not a machine. It is a conversation that never ends.”</blockquote>
-            <a href="edition.html?date=2026-06-13&category=culture">Architect Lina Ortega on designing for belonging →</a>
-          </article>
-        </aside>
+        <div class="section-heading full-span"><p class="eyebrow" id="current-date"></p><h1 id="top-stories" data-i18n="todayStories">Today's Essential Stories</h1><a id="today-link" href="edition.html"><span data-i18n="readToday">Read today's edition</span> →</a></div>
+        <article class="lead-story" id="home-lead"></article>
+        <aside class="side-stories" id="home-side"></aside>
       </section>
 
-      <section class="news-section shell section-space" aria-labelledby="latest-heading">
-        <div class="section-rule">
-          <h2 id="latest-heading">Across the Desk</h2>
-          <span>Latest reporting</span>
-        </div>
-        <div class="story-card-grid">
-          <article class="story-card">
-            <a class="card-image image-market" href="edition.html?date=2026-06-13&category=business" aria-label="Read market story"></a>
-            <p class="story-category">Business</p>
-            <h3><a href="edition.html?date=2026-06-13&category=business">Markets look past the noise and toward a steadier summer</a></h3>
-            <p>Investors are rediscovering patience after a season of sharp swings.</p>
-          </article>
-          <article class="story-card">
-            <a class="card-image image-gallery" href="edition.html?date=2026-06-13&category=culture" aria-label="Read culture story"></a>
-            <p class="story-category">Culture</p>
-            <h3><a href="edition.html?date=2026-06-13&category=culture">The neighborhood gallery with no white walls</a></h3>
-            <p>A former repair shop has become the city’s most democratic art room.</p>
-          </article>
-          <article class="story-card">
-            <a class="card-image image-kitchen" href="edition.html?date=2026-06-13&category=life" aria-label="Read life story"></a>
-            <p class="story-category">Life</p>
-            <h3><a href="edition.html?date=2026-06-13&category=life">The slow return of the long Sunday lunch</a></h3>
-            <p>Why setting aside an afternoon for the table feels newly radical.</p>
-          </article>
-        </div>
+      <section class="news-section shell section-space">
+        <div class="section-rule"><h2 data-i18n="fiveDesks">Five News Desks</h2><span data-i18n="dailyCoverage">Daily coverage</span></div>
+        <div class="desk-grid" id="desk-grid"></div>
       </section>
 
-      <section class="edition-banner section-space">
-        <div class="shell edition-banner-inner">
-          <div>
-            <p class="eyebrow">The complete paper</p>
-            <h2>Today’s Edition</h2>
-            <p>Seven sections. Twenty-four original stories. One clear view of the day.</p>
-          </div>
-          <div class="edition-stack" aria-hidden="true">
-            <div class="paper paper-back"></div>
-            <div class="paper paper-front">
-              <span>The Daily Ledger</span>
-              <strong>A WORLD<br />IN MOTION</strong>
-            </div>
-          </div>
-          <a class="button button-light" href="edition.html?date=2026-06-13">Open the June 13 edition <span aria-hidden="true">→</span></a>
-        </div>
-      </section>
+      <section class="edition-banner section-space"><div class="shell edition-banner-inner"><div><p class="eyebrow" data-i18n="completePaper">The complete paper</p><h2 data-i18n="todayEdition">Today's Edition</h2><p data-i18n="editionDescription">Five focused sections. One permanent edition for every day.</p></div><div class="edition-stack" aria-hidden="true"><div class="paper paper-back"></div><div class="paper paper-front"><span>Daily News 每日新聞</span><strong>GLOBAL<br />ROUTES</strong></div></div><a class="button button-light" id="banner-link" href="edition.html"><span data-i18n="openToday">Open today's edition</span> →</a></div></section>
 
-      <section class="archive-section shell section-space" aria-labelledby="archive-heading">
-        <div class="section-rule">
-          <h2 id="archive-heading">Recent Editions</h2>
-          <span>Your daily archive</span>
-        </div>
-        <div class="archive-grid" id="archive-grid"></div>
-      </section>
-
-      <section class="newsletter shell section-space" aria-labelledby="newsletter-heading">
-        <div class="newsletter-mark" aria-hidden="true">DL</div>
-        <div>
-          <p class="eyebrow">The Morning Note</p>
-          <h2 id="newsletter-heading">Start informed, not overwhelmed.</h2>
-          <p>A concise guide to the stories shaping your day, delivered every weekday morning.</p>
-        </div>
-        <form class="newsletter-form" id="newsletter-form">
-          <label class="sr-only" for="email">Email address</label>
-          <input id="email" type="email" placeholder="your@email.com" required />
-          <button type="submit">Join the list</button>
-          <p class="form-message" id="form-message" aria-live="polite"></p>
-        </form>
-      </section>
+      <section class="archive-section shell section-space" aria-labelledby="archive-heading"><div class="section-rule"><h2 id="archive-heading" data-i18n="archive">All Daily Editions</h2><span data-i18n="archiveForever">Permanent news archive</span></div><p class="archive-intro" data-i18n="archiveIntro">Every published day remains available here. Select a date to revisit its complete news edition.</p><div class="archive-grid" id="archive-grid"></div></section>
     </main>
 
-    <footer class="site-footer">
-      <div class="shell footer-grid">
-        <div>
-          <a class="footer-brand" href="index.html">The Daily Ledger</a>
-          <p>An independent newspaper for a complicated world.</p>
-        </div>
-        <div><strong>Sections</strong><a href="edition.html?category=world">World</a><a href="edition.html?category=business">Business</a><a href="edition.html?category=technology">Technology</a></div>
-        <div><strong>More</strong><a href="#archive-heading">Archive</a><a href="#newsletter-heading">Newsletter</a><a href="mailto:editor@example.com">Contact</a></div>
-        <p class="copyright">© 2026 The Daily Ledger. Built for independent publishing.</p>
-      </div>
-    </footer>
-
-    <script src="data.js"></script>
-    <script src="app.js"></script>
+    <footer class="site-footer"><div class="shell footer-grid"><div><a class="footer-brand" href="index.html">Daily News 每日新聞</a><p data-i18n="footerAbout">Bilingual daily reporting on the forces moving our world.</p></div><div><strong data-i18n="sections">Sections</strong><div id="footer-sections"></div></div><div><strong data-i18n="more">More</strong><a href="#archive-heading" data-i18n="archive">All Daily Editions</a><a href="mailto:editor@jsva.uk" data-i18n="contact">Contact</a></div><p class="copyright">© 2026 Daily News 每日新聞. All editions preserved.</p></div></footer>
+    <script src="data.js"></script><script src="app.js"></script>
   </body>
 </html>

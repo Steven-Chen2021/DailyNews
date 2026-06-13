@@ -1,12 +1,14 @@
-# The Daily Ledger
+# Daily News | 每日新聞
 
-A responsive, dependency-free newspaper website designed for GitHub Pages.
+A bilingual, responsive newspaper website designed for GitHub Pages and published at [www.jsva.uk](https://www.jsva.uk).
 
 ## Features
 
-- Editorial portal page with featured stories and recent-edition archive
-- Reusable daily edition page selected with `?date=YYYY-MM-DD`
-- Category tabs for World, Business, Technology, Culture, and Life
+- English and Traditional Chinese interface with a remembered language preference
+- Editorial portal page with featured stories and a permanent daily archive
+- Daily editions selected with `?date=YYYY-MM-DD`
+- Each edition owns its historical stories, so old news remains unchanged
+- Category tabs for International, Technology, Sports, Shipping, and Supply Chain
 - Mobile navigation and responsive layouts
 - Five-step font size control remembered in the browser
 - Accessible landmarks, skip links, reduced-motion support, and keyboard-friendly controls
@@ -23,12 +25,17 @@ Then open `http://localhost:8000`.
 
 In the repository settings, open **Pages**, select **Deploy from a branch**, then choose the `main` branch and `/ (root)` folder.
 
-## Add an edition
+## Add a daily edition
 
 Edit `data.js`:
 
-1. Add an item to `editions`.
-2. Add or update stories in `stories`.
-3. Link to it with `edition.html?date=YYYY-MM-DD`.
+1. Add a new object at the beginning of `editions`.
+2. Include bilingual `theme` and `summary` values using `en` and `zh`.
+3. Add that day's stories inside the edition's `stories` array.
+4. Use one of these category IDs: `international`, `technology`, `sports`, `shipping`, or `supply-chain`.
+5. Add both English and Traditional Chinese `title` and `dek` values to every story.
+6. Mark the main story in each section with `lead: true`.
 
-The current content is demonstration copy and should be replaced with your reporting before publication.
+Old edition objects should not be removed or overwritten. This keeps every historical daily edition available at its original date URL.
+
+The current articles are demonstration copy and should be replaced with verified reporting before publication.
