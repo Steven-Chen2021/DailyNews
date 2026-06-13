@@ -27,15 +27,27 @@ In the repository settings, open **Pages**, select **Deploy from a branch**, the
 
 ## Add a daily edition
 
-Edit `data.js`:
+Edit `data-index.js` and the relevant monthly file `data-YYYY-MM.js`:
 
-1. Add a new object at the beginning of `editions`.
+1. Add a new object at the beginning of the `editions` array in `data-index.js`.
 2. Include bilingual `theme` and `summary` values using `en` and `zh`.
-3. Add that day's stories inside the edition's `stories` array.
+3. Add that day's stories to `window.DAILY_NEWS_STORIES["YYYY-MM-DD"]` inside the relevant `data-YYYY-MM.js` file.
 4. Use a category ID defined in the top-level `categories` array.
 5. Add both English and Traditional Chinese `title` and `dek` values to every story.
 6. Mark the main story in each section with `lead: true`.
 
 Old edition objects should not be removed or overwritten. This keeps every historical daily edition available at its original date URL.
+
+## Automation collector
+
+A bounded candidate collector lives at `scripts/dailynews_collect_candidates.py`.
+
+Example:
+
+```bash
+python3 scripts/dailynews_collect_candidates.py --date 2026-06-13
+```
+
+It writes a dated JSON candidate pack to `automation/candidates/` for the publishing workflow to consume. These generated candidate files are build artifacts and should not be committed.
 
 The current articles are demonstration copy and should be replaced with verified reporting before publication.
