@@ -21,6 +21,9 @@ window.DAILY_NEWS = {
   // Metadata only — no stories array here.
   // Stories are fetched on-demand from data-YYYY-MM.js files.
   editions: [
+    { date: "2026-06-14", color: "navy",
+      theme:   { en: "Conflict, Controls and Chokepoints", zh: "衝突、管制與瓶頸" },
+      summary: { en: "From Hormuz and AI controls to trade rules and transport corridors, today's edition tracks how conflict and regulation are tightening the world's critical systems.", zh: "從荷莫茲海峽與 AI 管制，到貿易規則與運輸走廊，今日版面聚焦衝突與監管如何收緊全球關鍵系統。" } },
     { date: "2026-06-13", color: "rust",
       theme:   { en: "Fragile Corridors, Fast Machines", zh: "脆弱航道與高速機器" },
       summary: { en: "From Taiwan's AI hubs to Hormuz shipping lanes, today's edition tracks how geopolitics, infrastructure and regulation are reshaping global flows.", zh: "從台灣的 AI 樞紐到荷莫茲海峽航道，今日版面追蹤地緣政治、基礎建設與監管如何重塑全球流動。" } },
