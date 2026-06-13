@@ -192,6 +192,13 @@ h1, h2, h3, .dek, .archive-card strong, .edition-quote p { font-family: var(--zh
 .edition-lead-story h2 { margin: 0; font-family: var(--serif); font-size: clamp(2.3rem, 5vw, 5rem); line-height: .95; letter-spacing: -.05em; }
 .read-button { margin-top: 28px; padding: 12px 0; border: 0; border-bottom: 1px solid; color: var(--red); background: transparent; font-weight: 700; cursor: pointer; }
 .read-button span { margin-left: 40px; }
+.read-button-inline { margin-top: 18px; }
+.story-body-panel { margin-top: 24px; padding: 24px 0 4px; border-top: 1px solid var(--line); }
+.story-body-copy { display: grid; gap: 18px; }
+.story-body-paragraph { color: var(--ink); font-size: 1rem; line-height: 1.75; }
+.story-body-paragraph .zh-text { font-family: var(--serif); font-size: 1.08em; line-height: 1.9; }
+.story-body-paragraph .en-text { margin-top: 8px; color: var(--muted); font-family: var(--sans); font-size: .95em; line-height: 1.7; }
+.story-body-empty { color: var(--muted); font-size: .92em; font-style: italic; }
 .edition-row { display: grid; grid-template-columns: 55px 1fr 260px; gap: 30px; padding: 38px 0; border-bottom: 1px solid var(--line); }
 .edition-row-number { font-family: var(--mono); font-size: .62em; color: var(--muted); }
 .edition-row h3 { margin: 0; font-family: var(--serif); font-size: clamp(1.6rem, 3.3vw, 3rem); line-height: 1; }
