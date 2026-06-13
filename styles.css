@@ -62,7 +62,8 @@ button { color: inherit; }
 
 .main-nav { border-top: 1px solid var(--ink); }
 .nav-inner { position: relative; }
-.nav-links { display: flex; align-items: center; justify-content: center; gap: clamp(20px, 4vw, 54px); min-height: 48px; font-size: .78em; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; }
+.nav-links { display: flex; align-items: center; justify-content: flex-start; gap: clamp(18px, 2.3vw, 34px); min-height: 48px; overflow-x: auto; scrollbar-width: none; font-size: .72em; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; }
+.nav-links a { flex: 0 0 auto; }
 .nav-links a { position: relative; }
 .nav-links a::after { content: ""; position: absolute; left: 50%; right: 50%; bottom: -8px; height: 2px; background: var(--red); transition: .2s; }
 .nav-links a:hover::after, .nav-links a.active::after { left: 0; right: 0; }
@@ -212,6 +213,10 @@ button { color: inherit; }
 .image-containers { background-image: url("https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1400&q=80"); }
 .image-warehouse { background-image: url("https://images.unsplash.com/photo-1553413077-190dd305871c?auto=format&fit=crop&w=1400&q=80"); }
 .image-stadium { background-image: url("https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1400&q=80"); }
+.image-energy { background-image: url("https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=1400&q=80"); }
+.image-policy { background-image: url("https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1400&q=80"); }
+.image-cyber { background-image: url("https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=1400&q=80"); }
+.image-infrastructure { background-image: url("https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=1400&q=80"); }
 
 @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: .35; transform: scale(.75); } }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; } }

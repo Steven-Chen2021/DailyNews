@@ -8,7 +8,7 @@ A bilingual, responsive newspaper website designed for GitHub Pages and publishe
 - Editorial portal page with featured stories and a permanent daily archive
 - Daily editions selected with `?date=YYYY-MM-DD`
 - Each edition owns its historical stories, so old news remains unchanged
-- Category tabs for International, Technology, Sports, Shipping, and Supply Chain
+- Ten categories covering International, Technology, Sports, Shipping, Supply Chain, Economy & Markets, Energy & Climate, Policy & Regulation, Cybersecurity, and Logistics & Infrastructure
 - Mobile navigation and responsive layouts
 - Five-step font size control remembered in the browser
 - Accessible landmarks, skip links, reduced-motion support, and keyboard-friendly controls
@@ -32,7 +32,7 @@ Edit `data.js`:
 1. Add a new object at the beginning of `editions`.
 2. Include bilingual `theme` and `summary` values using `en` and `zh`.
 3. Add that day's stories inside the edition's `stories` array.
-4. Use one of these category IDs: `international`, `technology`, `sports`, `shipping`, or `supply-chain`.
+4. Use a category ID defined in the top-level `categories` array.
 5. Add both English and Traditional Chinese `title` and `dek` values to every story.
 6. Mark the main story in each section with `lead: true`.
 
