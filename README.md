@@ -4,7 +4,7 @@ A bilingual, responsive newspaper website designed for GitHub Pages and publishe
 
 ## Features
 
-- English and Traditional Chinese interface with a remembered language preference
+- Traditional Chinese-first bilingual layout, with English shown directly after each Chinese heading and summary
 - Editorial portal page with featured stories and a permanent daily archive
 - Daily editions selected with `?date=YYYY-MM-DD`
 - Each edition owns its historical stories, so old news remains unchanged
