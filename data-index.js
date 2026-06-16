@@ -21,6 +21,9 @@ window.DAILY_NEWS = {
   // Metadata only — no stories array here.
   // Stories are fetched on-demand from data-YYYY-MM.js files.
   editions: [
+    { date: "2026-06-17", color: "navy",
+      theme:   { en: "Repricing Routes and Resilience", zh: "重估路徑與韌性" },
+      summary: { en: "From Korean diplomacy and AI build-outs to Hormuz shipping risk, market repricing and post-conflict investment plans, today's edition follows how governments and companies are rebuilding confidence across stressed global networks.", zh: "從韓半島外交、AI 擴張，到荷莫茲航運風險、市場重新定價與衝突後投資規劃，今日版面聚焦政府與企業如何在承壓的全球網絡中重建信心。" } },
     { date: "2026-06-16", color: "navy",
       theme:   { en: "Corridors, Controls and Capital", zh: "走廊、管制與資本" },
       summary: { en: "From ceasefire diplomacy and AI restrictions to supply-chain reordering and strategic infrastructure, today's edition tracks how governments and markets are repricing risk across the global system.", zh: "從停火外交、AI 限制到供應鏈重組與戰略基礎設施，今日版面追蹤政府與市場如何在全球體系中重新定價風險。" } },

@@ -5,6 +5,1509 @@
 (function () {
   window.DAILY_NEWS_STORIES = window.DAILY_NEWS_STORIES || {};
 
+  window.DAILY_NEWS_STORIES["2026-06-17"] = [
+      {
+            "id": "int-south-korea-s-lee-asks-trump-to-lead-peaceful-",
+            "category": "international",
+            "image": "meeting",
+            "lead": true,
+            "author": "Maya Chen",
+            "read": 7,
+            "title": {
+                  "en": "South Korea's Lee asks Trump to lead peaceful diplomacy with North Korea",
+                  "zh": "南韓總統李在明籲川普主導對北韓的和平外交"
+            },
+            "dek": {
+                  "en": "Fresh diplomatic moves from Asia to the Middle East showed how security, alliances and market expectations are shifting together.",
+                  "zh": "從亞洲到中東的新一輪外交動作顯示，安全、同盟與市場預期正在同步調整。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，南韓總統李在明籲川普主導對北韓的和平外交。這則進展呼應了今日版面對international議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "這則報導反映，外交訊號往往不只影響雙邊關係，也會改變區域盟友對風險、協調與安全承諾的判斷。當政策立場仍在調整時，市場與政府部門通常會先根據語氣與時點重新評估後續行動空間。",
+                        "從更廣的角度看，南韓總統李在明籲川普主導對北韓的和平外交所代表的不只是單一事件更新，而是各方如何利用公開表態塑造談判節奏。對企業與投資人而言，這會牽動制裁預期、能源風險與跨境決策的先後順序。",
+                        "接下來的觀察重點將是，相關聲明是否轉化為具體安排，以及是否出現新的回應措施。若缺乏可執行框架，這類消息仍會被視為高不確定性的前置訊號。"
+                  ],
+                  "en": [
+                        "According to Reuters, South Korea's Lee asks Trump to lead peaceful diplomacy with North Korea. The development fits the edition's broader reading of the international agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "The report suggests that diplomatic signaling affects more than bilateral ties; it also shifts how allies assess risk, coordination and security commitments. When official positions are still moving, markets and ministries tend to reprice the room for follow-on action based on tone and timing alone.",
+                        "Seen more broadly, South Korea's Lee asks Trump to lead peaceful diplomacy with North Korea is not just an isolated update but part of how governments use public messaging to shape negotiating tempo. For companies and investors, that can affect sanctions assumptions, energy risk and the sequencing of cross-border decisions.",
+                        "What matters next is whether the statements harden into executable arrangements and whether counterparties answer with new measures of their own. Without an operational framework, developments like this remain early signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "int-china-embraces-myanmar-s-president-as-former-j",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Maya Chen",
+            "read": 6,
+            "title": {
+                  "en": "China embraces Myanmar's president as former junta chief seeks legitimacy",
+                  "zh": "中國接待緬甸總統 前軍政府領袖尋求國際正當性"
+            },
+            "dek": {
+                  "en": "Fresh diplomatic moves from Asia to the Middle East showed how security, alliances and market expectations are shifting together.",
+                  "zh": "從亞洲到中東的新一輪外交動作顯示，安全、同盟與市場預期正在同步調整。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，中國接待緬甸總統 前軍政府領袖尋求國際正當性。這則進展呼應了今日版面對international議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "這則報導反映，外交訊號往往不只影響雙邊關係，也會改變區域盟友對風險、協調與安全承諾的判斷。當政策立場仍在調整時，市場與政府部門通常會先根據語氣與時點重新評估後續行動空間。",
+                        "從更廣的角度看，中國接待緬甸總統 前軍政府領袖尋求國際正當性所代表的不只是單一事件更新，而是各方如何利用公開表態塑造談判節奏。對企業與投資人而言，這會牽動制裁預期、能源風險與跨境決策的先後順序。",
+                        "接下來的觀察重點將是，相關聲明是否轉化為具體安排，以及是否出現新的回應措施。若缺乏可執行框架，這類消息仍會被視為高不確定性的前置訊號。"
+                  ],
+                  "en": [
+                        "According to Reuters, China embraces Myanmar's president as former junta chief seeks legitimacy. The development fits the edition's broader reading of the international agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "The report suggests that diplomatic signaling affects more than bilateral ties; it also shifts how allies assess risk, coordination and security commitments. When official positions are still moving, markets and ministries tend to reprice the room for follow-on action based on tone and timing alone.",
+                        "Seen more broadly, China embraces Myanmar's president as former junta chief seeks legitimacy is not just an isolated update but part of how governments use public messaging to shape negotiating tempo. For companies and investors, that can affect sanctions assumptions, energy risk and the sequencing of cross-border decisions.",
+                        "What matters next is whether the statements harden into executable arrangements and whether counterparties answer with new measures of their own. Without an operational framework, developments like this remain early signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "int-bangladesh-protests-india-questioning-pm-s-adv",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Maya Chen",
+            "read": 5,
+            "title": {
+                  "en": "Bangladesh protests India 'questioning' PM's adviser at Delhi airport",
+                  "zh": "孟加拉抗議印度在德里機場盤問總理顧問"
+            },
+            "dek": {
+                  "en": "Fresh diplomatic moves from Asia to the Middle East showed how security, alliances and market expectations are shifting together.",
+                  "zh": "從亞洲到中東的新一輪外交動作顯示，安全、同盟與市場預期正在同步調整。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，孟加拉抗議印度在德里機場盤問總理顧問。這則進展呼應了今日版面對international議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "這則報導反映，外交訊號往往不只影響雙邊關係，也會改變區域盟友對風險、協調與安全承諾的判斷。當政策立場仍在調整時，市場與政府部門通常會先根據語氣與時點重新評估後續行動空間。",
+                        "從更廣的角度看，孟加拉抗議印度在德里機場盤問總理顧問所代表的不只是單一事件更新，而是各方如何利用公開表態塑造談判節奏。對企業與投資人而言，這會牽動制裁預期、能源風險與跨境決策的先後順序。",
+                        "接下來的觀察重點將是，相關聲明是否轉化為具體安排，以及是否出現新的回應措施。若缺乏可執行框架，這類消息仍會被視為高不確定性的前置訊號。"
+                  ],
+                  "en": [
+                        "According to Reuters, Bangladesh protests India 'questioning' PM's adviser at Delhi airport. The development fits the edition's broader reading of the international agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "The report suggests that diplomatic signaling affects more than bilateral ties; it also shifts how allies assess risk, coordination and security commitments. When official positions are still moving, markets and ministries tend to reprice the room for follow-on action based on tone and timing alone.",
+                        "Seen more broadly, Bangladesh protests India 'questioning' PM's adviser at Delhi airport is not just an isolated update but part of how governments use public messaging to shape negotiating tempo. For companies and investors, that can affect sanctions assumptions, energy risk and the sequencing of cross-border decisions.",
+                        "What matters next is whether the statements harden into executable arrangements and whether counterparties answer with new measures of their own. Without an operational framework, developments like this remain early signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "int-us-and-iran-sign-ceasefire-agreement-details-r",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Maya Chen",
+            "read": 5,
+            "title": {
+                  "en": "US and Iran sign ceasefire agreement, details remain unclear",
+                  "zh": "美國與伊朗簽署停火協議 細節仍不明朗"
+            },
+            "dek": {
+                  "en": "Fresh diplomatic moves from Asia to the Middle East showed how security, alliances and market expectations are shifting together.",
+                  "zh": "從亞洲到中東的新一輪外交動作顯示，安全、同盟與市場預期正在同步調整。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，美國與伊朗簽署停火協議 細節仍不明朗。這則進展呼應了今日版面對international議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "這則報導反映，外交訊號往往不只影響雙邊關係，也會改變區域盟友對風險、協調與安全承諾的判斷。當政策立場仍在調整時，市場與政府部門通常會先根據語氣與時點重新評估後續行動空間。",
+                        "從更廣的角度看，美國與伊朗簽署停火協議 細節仍不明朗所代表的不只是單一事件更新，而是各方如何利用公開表態塑造談判節奏。對企業與投資人而言，這會牽動制裁預期、能源風險與跨境決策的先後順序。",
+                        "接下來的觀察重點將是，相關聲明是否轉化為具體安排，以及是否出現新的回應措施。若缺乏可執行框架，這類消息仍會被視為高不確定性的前置訊號。"
+                  ],
+                  "en": [
+                        "According to Reuters, US and Iran sign ceasefire agreement, details remain unclear. The development fits the edition's broader reading of the international agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "The report suggests that diplomatic signaling affects more than bilateral ties; it also shifts how allies assess risk, coordination and security commitments. When official positions are still moving, markets and ministries tend to reprice the room for follow-on action based on tone and timing alone.",
+                        "Seen more broadly, US and Iran sign ceasefire agreement, details remain unclear is not just an isolated update but part of how governments use public messaging to shape negotiating tempo. For companies and investors, that can affect sanctions assumptions, energy risk and the sequencing of cross-border decisions.",
+                        "What matters next is whether the statements harden into executable arrangements and whether counterparties answer with new measures of their own. Without an operational framework, developments like this remain early signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "int-trump-says-iran-deal-to-be-public-soon-and-wil",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Maya Chen",
+            "read": 4,
+            "title": {
+                  "en": "Trump says Iran deal to be public soon and will rule out nuclear weapon for Tehran",
+                  "zh": "川普稱美伊協議將很快公布 並排除德黑蘭擁核"
+            },
+            "dek": {
+                  "en": "Fresh diplomatic moves from Asia to the Middle East showed how security, alliances and market expectations are shifting together.",
+                  "zh": "從亞洲到中東的新一輪外交動作顯示，安全、同盟與市場預期正在同步調整。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，川普稱美伊協議將很快公布 並排除德黑蘭擁核。這則進展呼應了今日版面對international議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "這則報導反映，外交訊號往往不只影響雙邊關係，也會改變區域盟友對風險、協調與安全承諾的判斷。當政策立場仍在調整時，市場與政府部門通常會先根據語氣與時點重新評估後續行動空間。",
+                        "從更廣的角度看，川普稱美伊協議將很快公布 並排除德黑蘭擁核所代表的不只是單一事件更新，而是各方如何利用公開表態塑造談判節奏。對企業與投資人而言，這會牽動制裁預期、能源風險與跨境決策的先後順序。",
+                        "接下來的觀察重點將是，相關聲明是否轉化為具體安排，以及是否出現新的回應措施。若缺乏可執行框架，這類消息仍會被視為高不確定性的前置訊號。"
+                  ],
+                  "en": [
+                        "According to Reuters, Trump says Iran deal to be public soon and will rule out nuclear weapon for Tehran. The development fits the edition's broader reading of the international agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "The report suggests that diplomatic signaling affects more than bilateral ties; it also shifts how allies assess risk, coordination and security commitments. When official positions are still moving, markets and ministries tend to reprice the room for follow-on action based on tone and timing alone.",
+                        "Seen more broadly, Trump says Iran deal to be public soon and will rule out nuclear weapon for Tehran is not just an isolated update but part of how governments use public messaging to shape negotiating tempo. For companies and investors, that can affect sanctions assumptions, energy risk and the sequencing of cross-border decisions.",
+                        "What matters next is whether the statements harden into executable arrangements and whether counterparties answer with new measures of their own. Without an operational framework, developments like this remain early signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "tec-ohio-residents-sound-the-alarm-over-ai-data-ce",
+            "category": "technology",
+            "image": "technology",
+            "lead": true,
+            "author": "Iris Park",
+            "read": 7,
+            "title": {
+                  "en": "Ohio residents sound the alarm over AI data center 'threat'",
+                  "zh": "俄亥俄居民對 AI 資料中心帶來的「威脅」示警"
+            },
+            "dek": {
+                  "en": "New moves in AI infrastructure, financing and public scrutiny showed how compute capacity is becoming both an industrial and political issue.",
+                  "zh": "AI 基礎設施、融資與公共審視的新進展顯示，算力正同時成為產業與政治議題。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，俄亥俄居民對 AI 資料中心帶來的「威脅」示警。這則進展呼應了今日版面對technology議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "這則消息顯示，AI 競爭已從模型能力延伸到電力、土地、晶片、資本與社會接受度。隨著各地政府與社區更積極介入，科技投資不再只是企業效率問題，也成為公共治理議題。",
+                        "就產業鏈而言，俄亥俄居民對 AI 資料中心帶來的「威脅」示警提醒市場，算力建設與 AI 融資會同時影響設備供應、估值敘事與政策討論。誰能更快把資金與基礎設施轉成可持續部署，將左右下一階段的優勢。",
+                        "後續值得關注的是，相關計畫是否遇到監管、能源或社區阻力，以及企業是否能把宣示轉成實際產能。這些變數將決定 AI 熱潮能否延續為可驗證的商業成果。"
+                  ],
+                  "en": [
+                        "According to Reuters, Ohio residents sound the alarm over AI data center 'threat'. The development fits the edition's broader reading of the technology agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "The development shows that AI competition now reaches beyond model performance into power, land, chips, capital and social acceptance. As governments and communities intervene more directly, technology investment is no longer only an efficiency question but also a public-governance issue.",
+                        "From an industry-chain perspective, Ohio residents sound the alarm over AI data center 'threat' reminds the market that compute build-outs and AI financing influence equipment demand, valuation narratives and policy debates at the same time. The next edge will depend on who can turn capital and infrastructure into durable deployment fastest.",
+                        "The next question is whether these plans run into regulatory, energy or community resistance and whether companies can convert announcements into real capacity. Those variables will determine whether the AI boom translates into verifiable business outcomes."
+                  ]
+            }
+      },
+      {
+            "id": "tec-schneider-electric-foxconn-partner-on-ai-data-",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Iris Park",
+            "read": 6,
+            "title": {
+                  "en": "Schneider Electric, Foxconn partner on AI data center infrastructure",
+                  "zh": "施耐德電機與鴻海合作建設 AI 資料中心基礎設施"
+            },
+            "dek": {
+                  "en": "New moves in AI infrastructure, financing and public scrutiny showed how compute capacity is becoming both an industrial and political issue.",
+                  "zh": "AI 基礎設施、融資與公共審視的新進展顯示，算力正同時成為產業與政治議題。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，施耐德電機與鴻海合作建設 AI 資料中心基礎設施。這則進展呼應了今日版面對technology議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "這則消息顯示，AI 競爭已從模型能力延伸到電力、土地、晶片、資本與社會接受度。隨著各地政府與社區更積極介入，科技投資不再只是企業效率問題，也成為公共治理議題。",
+                        "就產業鏈而言，施耐德電機與鴻海合作建設 AI 資料中心基礎設施提醒市場，算力建設與 AI 融資會同時影響設備供應、估值敘事與政策討論。誰能更快把資金與基礎設施轉成可持續部署，將左右下一階段的優勢。",
+                        "後續值得關注的是，相關計畫是否遇到監管、能源或社區阻力，以及企業是否能把宣示轉成實際產能。這些變數將決定 AI 熱潮能否延續為可驗證的商業成果。"
+                  ],
+                  "en": [
+                        "According to Reuters, Schneider Electric, Foxconn partner on AI data center infrastructure. The development fits the edition's broader reading of the technology agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "The development shows that AI competition now reaches beyond model performance into power, land, chips, capital and social acceptance. As governments and communities intervene more directly, technology investment is no longer only an efficiency question but also a public-governance issue.",
+                        "From an industry-chain perspective, Schneider Electric, Foxconn partner on AI data center infrastructure reminds the market that compute build-outs and AI financing influence equipment demand, valuation narratives and policy debates at the same time. The next edge will depend on who can turn capital and infrastructure into durable deployment fastest.",
+                        "The next question is whether these plans run into regulatory, energy or community resistance and whether companies can convert announcements into real capacity. Those variables will determine whether the AI boom translates into verifiable business outcomes."
+                  ]
+            }
+      },
+      {
+            "id": "tec-china-s-deepseek-closes-over-7-billion-funding",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Iris Park",
+            "read": 5,
+            "title": {
+                  "en": "China's DeepSeek closes over $7 billion funding with unusual deal structure, the Information reports",
+                  "zh": "傳中國 DeepSeek 完成逾 70 億美元募資 採非常規交易架構"
+            },
+            "dek": {
+                  "en": "New moves in AI infrastructure, financing and public scrutiny showed how compute capacity is becoming both an industrial and political issue.",
+                  "zh": "AI 基礎設施、融資與公共審視的新進展顯示，算力正同時成為產業與政治議題。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，傳中國 DeepSeek 完成逾 70 億美元募資 採非常規交易架構。這則進展呼應了今日版面對technology議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "這則消息顯示，AI 競爭已從模型能力延伸到電力、土地、晶片、資本與社會接受度。隨著各地政府與社區更積極介入，科技投資不再只是企業效率問題，也成為公共治理議題。",
+                        "就產業鏈而言，傳中國 DeepSeek 完成逾 70 億美元募資 採非常規交易架構提醒市場，算力建設與 AI 融資會同時影響設備供應、估值敘事與政策討論。誰能更快把資金與基礎設施轉成可持續部署，將左右下一階段的優勢。",
+                        "後續值得關注的是，相關計畫是否遇到監管、能源或社區阻力，以及企業是否能把宣示轉成實際產能。這些變數將決定 AI 熱潮能否延續為可驗證的商業成果。"
+                  ],
+                  "en": [
+                        "According to Reuters, China's DeepSeek closes over $7 billion funding with unusual deal structure, the Information reports. The development fits the edition's broader reading of the technology agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "The development shows that AI competition now reaches beyond model performance into power, land, chips, capital and social acceptance. As governments and communities intervene more directly, technology investment is no longer only an efficiency question but also a public-governance issue.",
+                        "From an industry-chain perspective, China's DeepSeek closes over $7 billion funding with unusual deal structure, the Information reports reminds the market that compute build-outs and AI financing influence equipment demand, valuation narratives and policy debates at the same time. The next edge will depend on who can turn capital and infrastructure into durable deployment fastest.",
+                        "The next question is whether these plans run into regulatory, energy or community resistance and whether companies can convert announcements into real capacity. Those variables will determine whether the AI boom translates into verifiable business outcomes."
+                  ]
+            }
+      },
+      {
+            "id": "tec-asia-hedge-funds-notch-triple-digit-gains-in-a",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Iris Park",
+            "read": 5,
+            "title": {
+                  "en": "Asia hedge funds notch triple-digit gains in AI-led rally",
+                  "zh": "AI 帶動漲勢 亞洲對沖基金獲得三位數報酬"
+            },
+            "dek": {
+                  "en": "New moves in AI infrastructure, financing and public scrutiny showed how compute capacity is becoming both an industrial and political issue.",
+                  "zh": "AI 基礎設施、融資與公共審視的新進展顯示，算力正同時成為產業與政治議題。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，AI 帶動漲勢 亞洲對沖基金獲得三位數報酬。這則進展呼應了今日版面對technology議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "這則消息顯示，AI 競爭已從模型能力延伸到電力、土地、晶片、資本與社會接受度。隨著各地政府與社區更積極介入，科技投資不再只是企業效率問題，也成為公共治理議題。",
+                        "就產業鏈而言，AI 帶動漲勢 亞洲對沖基金獲得三位數報酬提醒市場，算力建設與 AI 融資會同時影響設備供應、估值敘事與政策討論。誰能更快把資金與基礎設施轉成可持續部署，將左右下一階段的優勢。",
+                        "後續值得關注的是，相關計畫是否遇到監管、能源或社區阻力，以及企業是否能把宣示轉成實際產能。這些變數將決定 AI 熱潮能否延續為可驗證的商業成果。"
+                  ],
+                  "en": [
+                        "According to Reuters, Asia hedge funds notch triple-digit gains in AI-led rally. The development fits the edition's broader reading of the technology agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "The development shows that AI competition now reaches beyond model performance into power, land, chips, capital and social acceptance. As governments and communities intervene more directly, technology investment is no longer only an efficiency question but also a public-governance issue.",
+                        "From an industry-chain perspective, Asia hedge funds notch triple-digit gains in AI-led rally reminds the market that compute build-outs and AI financing influence equipment demand, valuation narratives and policy debates at the same time. The next edge will depend on who can turn capital and infrastructure into durable deployment fastest.",
+                        "The next question is whether these plans run into regulatory, energy or community resistance and whether companies can convert announcements into real capacity. Those variables will determine whether the AI boom translates into verifiable business outcomes."
+                  ]
+            }
+      },
+      {
+            "id": "tec-taiwan-president-says-he-won-t-give-up-on-defe",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Iris Park",
+            "read": 4,
+            "title": {
+                  "en": "Taiwan president says he 'won't give up' on defence spending after parliament cuts",
+                  "zh": "台灣總統稱在國會刪減後仍不會放棄提高國防支出"
+            },
+            "dek": {
+                  "en": "New moves in AI infrastructure, financing and public scrutiny showed how compute capacity is becoming both an industrial and political issue.",
+                  "zh": "AI 基礎設施、融資與公共審視的新進展顯示，算力正同時成為產業與政治議題。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，台灣總統稱在國會刪減後仍不會放棄提高國防支出。這則進展呼應了今日版面對technology議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "這則消息顯示，AI 競爭已從模型能力延伸到電力、土地、晶片、資本與社會接受度。隨著各地政府與社區更積極介入，科技投資不再只是企業效率問題，也成為公共治理議題。",
+                        "就產業鏈而言，台灣總統稱在國會刪減後仍不會放棄提高國防支出提醒市場，算力建設與 AI 融資會同時影響設備供應、估值敘事與政策討論。誰能更快把資金與基礎設施轉成可持續部署，將左右下一階段的優勢。",
+                        "後續值得關注的是，相關計畫是否遇到監管、能源或社區阻力，以及企業是否能把宣示轉成實際產能。這些變數將決定 AI 熱潮能否延續為可驗證的商業成果。"
+                  ],
+                  "en": [
+                        "According to Reuters, Taiwan president says he 'won't give up' on defence spending after parliament cuts. The development fits the edition's broader reading of the technology agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "The development shows that AI competition now reaches beyond model performance into power, land, chips, capital and social acceptance. As governments and communities intervene more directly, technology investment is no longer only an efficiency question but also a public-governance issue.",
+                        "From an industry-chain perspective, Taiwan president says he 'won't give up' on defence spending after parliament cuts reminds the market that compute build-outs and AI financing influence equipment demand, valuation narratives and policy debates at the same time. The next edge will depend on who can turn capital and infrastructure into durable deployment fastest.",
+                        "The next question is whether these plans run into regulatory, energy or community resistance and whether companies can convert announcements into real capacity. Those variables will determine whether the AI boom translates into verifiable business outcomes."
+                  ]
+            }
+      },
+      {
+            "id": "spo-vancouver-soccer-shop-basks-in-world-cup-spotl",
+            "category": "sports",
+            "image": "stadium",
+            "lead": true,
+            "author": "Daniel Wu",
+            "read": 7,
+            "title": {
+                  "en": "Vancouver soccer shop basks in World Cup spotlight nearly five decades on",
+                  "zh": "溫哥華足球用品店在近半世紀後再度沐浴世界盃聚光燈"
+            },
+            "dek": {
+                  "en": "World Cup storylines mixed competition, politics and identity as teams, fans and organisers faced pressure beyond the pitch.",
+                  "zh": "世界盃相關報導交織競技、政治與身分議題，顯示球隊、球迷與主辦方都承受場外壓力。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，溫哥華足球用品店在近半世紀後再度沐浴世界盃聚光燈。這則進展呼應了今日版面對sports議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "世界盃帶來的不只是比賽結果，也放大了主辦成本、國族情緒與運動治理等議題。當球場內外的敘事同步升溫，相關話題往往會超出體育版面本身。",
+                        "以溫哥華足球用品店在近半世紀後再度沐浴世界盃聚光燈為例，這類故事顯示球員、球迷與地方社群都在重新定義賽事的社會意義。品牌、轉播商與主辦單位也因此必須同時處理競技表現與公共觀感。",
+                        "接下來要看的，是相關爭議或熱度是否延續到後續賽程與商業安排。若場外壓力持續，賽事敘事可能比比分本身更快改變市場與觀眾情緒。"
+                  ],
+                  "en": [
+                        "According to Reuters, Vancouver soccer shop basks in World Cup spotlight nearly five decades on. The development fits the edition's broader reading of the sports agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "The World Cup is generating more than match results; it is also amplifying debates over hosting costs, national identity and sports governance. When narratives inside and outside the stadium rise together, the implications quickly spill beyond the sports page.",
+                        "In the case of Vancouver soccer shop basks in World Cup spotlight nearly five decades on, the story shows how players, fans and local communities are redefining the social meaning of the tournament. Brands, broadcasters and organisers therefore have to manage performance and public perception at the same time.",
+                        "The next thing to watch is whether the controversy or momentum carries into later fixtures and commercial decisions. If off-pitch pressure persists, tournament narratives may move audience sentiment and business choices faster than the scorelines do."
+                  ]
+            }
+      },
+      {
+            "id": "spo-gazans-displaced-by-war-watch-world-cup-from-t",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Daniel Wu",
+            "read": 6,
+            "title": {
+                  "en": "Gazans displaced by war watch World Cup from the ruins",
+                  "zh": "因戰火流離失所的加薩人在瓦礫中觀看世界盃"
+            },
+            "dek": {
+                  "en": "World Cup storylines mixed competition, politics and identity as teams, fans and organisers faced pressure beyond the pitch.",
+                  "zh": "世界盃相關報導交織競技、政治與身分議題，顯示球隊、球迷與主辦方都承受場外壓力。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，因戰火流離失所的加薩人在瓦礫中觀看世界盃。這則進展呼應了今日版面對sports議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "世界盃帶來的不只是比賽結果，也放大了主辦成本、國族情緒與運動治理等議題。當球場內外的敘事同步升溫，相關話題往往會超出體育版面本身。",
+                        "以因戰火流離失所的加薩人在瓦礫中觀看世界盃為例，這類故事顯示球員、球迷與地方社群都在重新定義賽事的社會意義。品牌、轉播商與主辦單位也因此必須同時處理競技表現與公共觀感。",
+                        "接下來要看的，是相關爭議或熱度是否延續到後續賽程與商業安排。若場外壓力持續，賽事敘事可能比比分本身更快改變市場與觀眾情緒。"
+                  ],
+                  "en": [
+                        "According to Reuters, Gazans displaced by war watch World Cup from the ruins. The development fits the edition's broader reading of the sports agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "The World Cup is generating more than match results; it is also amplifying debates over hosting costs, national identity and sports governance. When narratives inside and outside the stadium rise together, the implications quickly spill beyond the sports page.",
+                        "In the case of Gazans displaced by war watch World Cup from the ruins, the story shows how players, fans and local communities are redefining the social meaning of the tournament. Brands, broadcasters and organisers therefore have to manage performance and public perception at the same time.",
+                        "The next thing to watch is whether the controversy or momentum carries into later fixtures and commercial decisions. If off-pitch pressure persists, tournament narratives may move audience sentiment and business choices faster than the scorelines do."
+                  ]
+            }
+      },
+      {
+            "id": "spo-us-not-taking-australia-lightly-despite-pundit",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Daniel Wu",
+            "read": 5,
+            "title": {
+                  "en": "US not taking Australia lightly despite pundits' barbs",
+                  "zh": "儘管外界揶揄 美國隊仍不敢輕視澳洲"
+            },
+            "dek": {
+                  "en": "World Cup storylines mixed competition, politics and identity as teams, fans and organisers faced pressure beyond the pitch.",
+                  "zh": "世界盃相關報導交織競技、政治與身分議題，顯示球隊、球迷與主辦方都承受場外壓力。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，儘管外界揶揄 美國隊仍不敢輕視澳洲。這則進展呼應了今日版面對sports議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "世界盃帶來的不只是比賽結果，也放大了主辦成本、國族情緒與運動治理等議題。當球場內外的敘事同步升溫，相關話題往往會超出體育版面本身。",
+                        "以儘管外界揶揄 美國隊仍不敢輕視澳洲為例，這類故事顯示球員、球迷與地方社群都在重新定義賽事的社會意義。品牌、轉播商與主辦單位也因此必須同時處理競技表現與公共觀感。",
+                        "接下來要看的，是相關爭議或熱度是否延續到後續賽程與商業安排。若場外壓力持續，賽事敘事可能比比分本身更快改變市場與觀眾情緒。"
+                  ],
+                  "en": [
+                        "According to Reuters, US not taking Australia lightly despite pundits' barbs. The development fits the edition's broader reading of the sports agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "The World Cup is generating more than match results; it is also amplifying debates over hosting costs, national identity and sports governance. When narratives inside and outside the stadium rise together, the implications quickly spill beyond the sports page.",
+                        "In the case of US not taking Australia lightly despite pundits' barbs, the story shows how players, fans and local communities are redefining the social meaning of the tournament. Brands, broadcasters and organisers therefore have to manage performance and public perception at the same time.",
+                        "The next thing to watch is whether the controversy or momentum carries into later fixtures and commercial decisions. If off-pitch pressure persists, tournament narratives may move audience sentiment and business choices faster than the scorelines do."
+                  ]
+            }
+      },
+      {
+            "id": "spo-viral-world-cup-sensation-payne-signs-for-para",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Daniel Wu",
+            "read": 5,
+            "title": {
+                  "en": "Viral World Cup sensation Payne signs for Paraguay's Olimpia",
+                  "zh": "爆紅世界盃話題人物佩恩加盟巴拉圭奧林匹亞"
+            },
+            "dek": {
+                  "en": "World Cup storylines mixed competition, politics and identity as teams, fans and organisers faced pressure beyond the pitch.",
+                  "zh": "世界盃相關報導交織競技、政治與身分議題，顯示球隊、球迷與主辦方都承受場外壓力。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，爆紅世界盃話題人物佩恩加盟巴拉圭奧林匹亞。這則進展呼應了今日版面對sports議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "世界盃帶來的不只是比賽結果，也放大了主辦成本、國族情緒與運動治理等議題。當球場內外的敘事同步升溫，相關話題往往會超出體育版面本身。",
+                        "以爆紅世界盃話題人物佩恩加盟巴拉圭奧林匹亞為例，這類故事顯示球員、球迷與地方社群都在重新定義賽事的社會意義。品牌、轉播商與主辦單位也因此必須同時處理競技表現與公共觀感。",
+                        "接下來要看的，是相關爭議或熱度是否延續到後續賽程與商業安排。若場外壓力持續，賽事敘事可能比比分本身更快改變市場與觀眾情緒。"
+                  ],
+                  "en": [
+                        "According to Reuters, Viral World Cup sensation Payne signs for Paraguay's Olimpia. The development fits the edition's broader reading of the sports agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "The World Cup is generating more than match results; it is also amplifying debates over hosting costs, national identity and sports governance. When narratives inside and outside the stadium rise together, the implications quickly spill beyond the sports page.",
+                        "In the case of Viral World Cup sensation Payne signs for Paraguay's Olimpia, the story shows how players, fans and local communities are redefining the social meaning of the tournament. Brands, broadcasters and organisers therefore have to manage performance and public perception at the same time.",
+                        "The next thing to watch is whether the controversy or momentum carries into later fixtures and commercial decisions. If off-pitch pressure persists, tournament narratives may move audience sentiment and business choices faster than the scorelines do."
+                  ]
+            }
+      },
+      {
+            "id": "spo-south-korea-players-shun-media-duties-after-re",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Daniel Wu",
+            "read": 4,
+            "title": {
+                  "en": "South Korea players shun media duties after remarks about Son's military service",
+                  "zh": "孫興慜兵役言論惹議後 南韓球員拒絕媒體採訪"
+            },
+            "dek": {
+                  "en": "World Cup storylines mixed competition, politics and identity as teams, fans and organisers faced pressure beyond the pitch.",
+                  "zh": "世界盃相關報導交織競技、政治與身分議題，顯示球隊、球迷與主辦方都承受場外壓力。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，孫興慜兵役言論惹議後 南韓球員拒絕媒體採訪。這則進展呼應了今日版面對sports議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "世界盃帶來的不只是比賽結果，也放大了主辦成本、國族情緒與運動治理等議題。當球場內外的敘事同步升溫，相關話題往往會超出體育版面本身。",
+                        "以孫興慜兵役言論惹議後 南韓球員拒絕媒體採訪為例，這類故事顯示球員、球迷與地方社群都在重新定義賽事的社會意義。品牌、轉播商與主辦單位也因此必須同時處理競技表現與公共觀感。",
+                        "接下來要看的，是相關爭議或熱度是否延續到後續賽程與商業安排。若場外壓力持續，賽事敘事可能比比分本身更快改變市場與觀眾情緒。"
+                  ],
+                  "en": [
+                        "According to Reuters, South Korea players shun media duties after remarks about Son's military service. The development fits the edition's broader reading of the sports agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "The World Cup is generating more than match results; it is also amplifying debates over hosting costs, national identity and sports governance. When narratives inside and outside the stadium rise together, the implications quickly spill beyond the sports page.",
+                        "In the case of South Korea players shun media duties after remarks about Son's military service, the story shows how players, fans and local communities are redefining the social meaning of the tournament. Brands, broadcasters and organisers therefore have to manage performance and public perception at the same time.",
+                        "The next thing to watch is whether the controversy or momentum carries into later fixtures and commercial decisions. If off-pitch pressure persists, tournament narratives may move audience sentiment and business choices faster than the scorelines do."
+                  ]
+            }
+      },
+      {
+            "id": "shi-spot-oil-premiums-slip-after-us-iran-deal-but-",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": true,
+            "author": "Leo Lin",
+            "read": 7,
+            "title": {
+                  "en": "Spot oil premiums slip after US-Iran deal, but shipping angst provides floor",
+                  "zh": "美伊協議後現貨油品升水回落 但航運憂慮提供支撐"
+            },
+            "dek": {
+                  "en": "Shipping and energy lanes remained tightly linked as the Iran deal eased some pricing pressure without fully restoring confidence in transit.",
+                  "zh": "在美伊協議稍微緩解價格壓力之際，航運與能源通道仍緊密連動，通行信心尚未完全恢復。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，美伊協議後現貨油品升水回落 但航運憂慮提供支撐。這則進展呼應了今日版面對shipping議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "航運與能源市場仍把荷莫茲海峽視為關鍵風險節點，即使外交局勢稍有改善，船舶調度、保險費率與現貨價格也不會立刻恢復常態。這說明物流網路對安全風險的反應往往慢於政治宣示。",
+                        "就操作層面而言，美伊協議後現貨油品升水回落 但航運憂慮提供支撐說明承運人與貨主更在意實際可通行性，而不只是協議文本。只要掃雷、護航或保險條件仍不明朗，運能與成本就會繼續受到限制。",
+                        "後續關鍵在於海域安全措施能否快速落地，以及主要船公司是否調整航線與風險附加費。這些訊號將決定能源與貨櫃流動何時真正回穩。"
+                  ],
+                  "en": [
+                        "According to Reuters, Spot oil premiums slip after US-Iran deal, but shipping angst provides floor. The development fits the edition's broader reading of the shipping agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Shipping and energy markets still treat the Strait of Hormuz as a critical risk node. Even if diplomacy improves at the margin, vessel routing, insurance pricing and spot markets do not instantly return to normal, showing that logistics networks react more slowly than political headlines.",
+                        "Operationally, Spot oil premiums slip after US-Iran deal, but shipping angst provides floor shows that carriers and cargo owners care more about real navigability than about the agreement text itself. As long as mine clearance, escorts or insurance terms remain uncertain, capacity and cost will stay constrained.",
+                        "The crucial next step is whether maritime security measures can be implemented quickly and whether major operators revise routes and risk surcharges. Those signals will determine when energy and container flows genuinely stabilise."
+                  ]
+            }
+      },
+      {
+            "id": "shi-container-imports-soar-at-busiest-us-port-in-m",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Leo Lin",
+            "read": 6,
+            "title": {
+                  "en": "Container imports soar at busiest US port in May as buyers try to outrun rising fuel costs",
+                  "zh": "買家搶在燃料成本上升前備貨 美國最繁忙港口 5 月貨櫃進口激增"
+            },
+            "dek": {
+                  "en": "Shipping and energy lanes remained tightly linked as the Iran deal eased some pricing pressure without fully restoring confidence in transit.",
+                  "zh": "在美伊協議稍微緩解價格壓力之際，航運與能源通道仍緊密連動，通行信心尚未完全恢復。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，買家搶在燃料成本上升前備貨 美國最繁忙港口 5 月貨櫃進口激增。這則進展呼應了今日版面對shipping議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "航運與能源市場仍把荷莫茲海峽視為關鍵風險節點，即使外交局勢稍有改善，船舶調度、保險費率與現貨價格也不會立刻恢復常態。這說明物流網路對安全風險的反應往往慢於政治宣示。",
+                        "就操作層面而言，買家搶在燃料成本上升前備貨 美國最繁忙港口 5 月貨櫃進口激增說明承運人與貨主更在意實際可通行性，而不只是協議文本。只要掃雷、護航或保險條件仍不明朗，運能與成本就會繼續受到限制。",
+                        "後續關鍵在於海域安全措施能否快速落地，以及主要船公司是否調整航線與風險附加費。這些訊號將決定能源與貨櫃流動何時真正回穩。"
+                  ],
+                  "en": [
+                        "According to Reuters, Container imports soar at busiest US port in May as buyers try to outrun rising fuel costs. The development fits the edition's broader reading of the shipping agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Shipping and energy markets still treat the Strait of Hormuz as a critical risk node. Even if diplomacy improves at the margin, vessel routing, insurance pricing and spot markets do not instantly return to normal, showing that logistics networks react more slowly than political headlines.",
+                        "Operationally, Container imports soar at busiest US port in May as buyers try to outrun rising fuel costs shows that carriers and cargo owners care more about real navigability than about the agreement text itself. As long as mine clearance, escorts or insurance terms remain uncertain, capacity and cost will stay constrained.",
+                        "The crucial next step is whether maritime security measures can be implemented quickly and whether major operators revise routes and risk surcharges. Those signals will determine when energy and container flows genuinely stabilise."
+                  ]
+            }
+      },
+      {
+            "id": "shi-strait-of-hormuz-transit-will-take-weeks-to-re",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Leo Lin",
+            "read": 5,
+            "title": {
+                  "en": "Strait of Hormuz transit will take ‘weeks’ to resume, largest tanker operator tells FT",
+                  "zh": "最大油輪業者稱 荷莫茲海峽通行恢復仍需數週"
+            },
+            "dek": {
+                  "en": "Shipping and energy lanes remained tightly linked as the Iran deal eased some pricing pressure without fully restoring confidence in transit.",
+                  "zh": "在美伊協議稍微緩解價格壓力之際，航運與能源通道仍緊密連動，通行信心尚未完全恢復。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，最大油輪業者稱 荷莫茲海峽通行恢復仍需數週。這則進展呼應了今日版面對shipping議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "航運與能源市場仍把荷莫茲海峽視為關鍵風險節點，即使外交局勢稍有改善，船舶調度、保險費率與現貨價格也不會立刻恢復常態。這說明物流網路對安全風險的反應往往慢於政治宣示。",
+                        "就操作層面而言，最大油輪業者稱 荷莫茲海峽通行恢復仍需數週說明承運人與貨主更在意實際可通行性，而不只是協議文本。只要掃雷、護航或保險條件仍不明朗，運能與成本就會繼續受到限制。",
+                        "後續關鍵在於海域安全措施能否快速落地，以及主要船公司是否調整航線與風險附加費。這些訊號將決定能源與貨櫃流動何時真正回穩。"
+                  ],
+                  "en": [
+                        "According to Reuters, Strait of Hormuz transit will take ‘weeks’ to resume, largest tanker operator tells FT. The development fits the edition's broader reading of the shipping agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Shipping and energy markets still treat the Strait of Hormuz as a critical risk node. Even if diplomacy improves at the margin, vessel routing, insurance pricing and spot markets do not instantly return to normal, showing that logistics networks react more slowly than political headlines.",
+                        "Operationally, Strait of Hormuz transit will take ‘weeks’ to resume, largest tanker operator tells FT shows that carriers and cargo owners care more about real navigability than about the agreement text itself. As long as mine clearance, escorts or insurance terms remain uncertain, capacity and cost will stay constrained.",
+                        "The crucial next step is whether maritime security measures can be implemented quickly and whether major operators revise routes and risk surcharges. Those signals will determine when energy and container flows genuinely stabilise."
+                  ]
+            }
+      },
+      {
+            "id": "shi-scouring-the-strait-of-hormuz-for-mines-could-",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Leo Lin",
+            "read": 5,
+            "title": {
+                  "en": "Scouring the Strait of Hormuz for mines could take weeks",
+                  "zh": "清除荷莫茲海峽水雷可能需要數週"
+            },
+            "dek": {
+                  "en": "Shipping and energy lanes remained tightly linked as the Iran deal eased some pricing pressure without fully restoring confidence in transit.",
+                  "zh": "在美伊協議稍微緩解價格壓力之際，航運與能源通道仍緊密連動，通行信心尚未完全恢復。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，清除荷莫茲海峽水雷可能需要數週。這則進展呼應了今日版面對shipping議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "航運與能源市場仍把荷莫茲海峽視為關鍵風險節點，即使外交局勢稍有改善，船舶調度、保險費率與現貨價格也不會立刻恢復常態。這說明物流網路對安全風險的反應往往慢於政治宣示。",
+                        "就操作層面而言，清除荷莫茲海峽水雷可能需要數週說明承運人與貨主更在意實際可通行性，而不只是協議文本。只要掃雷、護航或保險條件仍不明朗，運能與成本就會繼續受到限制。",
+                        "後續關鍵在於海域安全措施能否快速落地，以及主要船公司是否調整航線與風險附加費。這些訊號將決定能源與貨櫃流動何時真正回穩。"
+                  ],
+                  "en": [
+                        "According to Reuters, Scouring the Strait of Hormuz for mines could take weeks. The development fits the edition's broader reading of the shipping agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Shipping and energy markets still treat the Strait of Hormuz as a critical risk node. Even if diplomacy improves at the margin, vessel routing, insurance pricing and spot markets do not instantly return to normal, showing that logistics networks react more slowly than political headlines.",
+                        "Operationally, Scouring the Strait of Hormuz for mines could take weeks shows that carriers and cargo owners care more about real navigability than about the agreement text itself. As long as mine clearance, escorts or insurance terms remain uncertain, capacity and cost will stay constrained.",
+                        "The crucial next step is whether maritime security measures can be implemented quickly and whether major operators revise routes and risk surcharges. Those signals will determine when energy and container flows genuinely stabilise."
+                  ]
+            }
+      },
+      {
+            "id": "shi-global-shippers-cautious-on-hormuz-transit-des",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Leo Lin",
+            "read": 4,
+            "title": {
+                  "en": "Global shippers cautious on Hormuz transit despite US-Iran deal",
+                  "zh": "儘管美伊達成協議 全球航商對荷莫茲通行仍保持謹慎"
+            },
+            "dek": {
+                  "en": "Shipping and energy lanes remained tightly linked as the Iran deal eased some pricing pressure without fully restoring confidence in transit.",
+                  "zh": "在美伊協議稍微緩解價格壓力之際，航運與能源通道仍緊密連動，通行信心尚未完全恢復。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，儘管美伊達成協議 全球航商對荷莫茲通行仍保持謹慎。這則進展呼應了今日版面對shipping議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "航運與能源市場仍把荷莫茲海峽視為關鍵風險節點，即使外交局勢稍有改善，船舶調度、保險費率與現貨價格也不會立刻恢復常態。這說明物流網路對安全風險的反應往往慢於政治宣示。",
+                        "就操作層面而言，儘管美伊達成協議 全球航商對荷莫茲通行仍保持謹慎說明承運人與貨主更在意實際可通行性，而不只是協議文本。只要掃雷、護航或保險條件仍不明朗，運能與成本就會繼續受到限制。",
+                        "後續關鍵在於海域安全措施能否快速落地，以及主要船公司是否調整航線與風險附加費。這些訊號將決定能源與貨櫃流動何時真正回穩。"
+                  ],
+                  "en": [
+                        "According to Reuters, Global shippers cautious on Hormuz transit despite US-Iran deal. The development fits the edition's broader reading of the shipping agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Shipping and energy markets still treat the Strait of Hormuz as a critical risk node. Even if diplomacy improves at the margin, vessel routing, insurance pricing and spot markets do not instantly return to normal, showing that logistics networks react more slowly than political headlines.",
+                        "Operationally, Global shippers cautious on Hormuz transit despite US-Iran deal shows that carriers and cargo owners care more about real navigability than about the agreement text itself. As long as mine clearance, escorts or insurance terms remain uncertain, capacity and cost will stay constrained.",
+                        "The crucial next step is whether maritime security measures can be implemented quickly and whether major operators revise routes and risk surcharges. Those signals will determine when energy and container flows genuinely stabilise."
+                  ]
+            }
+      },
+      {
+            "id": "sup-tata-says-india-pollution-board-drops-scrutiny",
+            "category": "supply-chain",
+            "image": "factory",
+            "lead": true,
+            "author": "Nora Tang",
+            "read": 7,
+            "title": {
+                  "en": "Tata says India pollution board drops scrutiny of Apple iPhone parts plant",
+                  "zh": "塔塔稱印度污染監管機構已停止審查蘋果 iPhone 零件廠"
+            },
+            "dek": {
+                  "en": "Factory oversight, commodity flows and trade rules showed how supply chains are still absorbing geopolitical and regulatory shocks.",
+                  "zh": "工廠監管、原料流向與貿易規則的變化顯示，供應鏈仍在吸收地緣政治與監管衝擊。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，塔塔稱印度污染監管機構已停止審查蘋果 iPhone 零件廠。這則進展呼應了今日版面對supply-chain議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "供應鏈壓力目前同時來自監管審查、原料流向與地緣政治摩擦。即使單一瓶頸看似可控，企業仍需要為更長的交期、替代採購與合規成本預留空間。",
+                        "從採購端來看，塔塔稱印度污染監管機構已停止審查蘋果 iPhone 零件廠提醒企業，韌性不只來自庫存，更來自能否快速調整供應商與地理布局。當政策與價格同時變動時，反應速度本身就會成為競爭力。",
+                        "接下來值得關注的是，監管方是否提出更明確要求，以及企業能否把短期應對轉成長期佈局。這將左右成本壓力是暫時波動還是結構性上升。"
+                  ],
+                  "en": [
+                        "According to Reuters, Tata says India pollution board drops scrutiny of Apple iPhone parts plant. The development fits the edition's broader reading of the supply-chain agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Supply-chain stress is now coming simultaneously from regulatory scrutiny, material flows and geopolitical friction. Even when a single bottleneck looks manageable, companies still need to make room for longer lead times, alternate sourcing and compliance costs.",
+                        "From a procurement perspective, Tata says India pollution board drops scrutiny of Apple iPhone parts plant reminds companies that resilience comes not only from inventory but from the ability to reconfigure suppliers and geography quickly. When policy and pricing move together, response speed becomes a competitive advantage in its own right.",
+                        "The next thing to watch is whether regulators set clearer requirements and whether companies can turn short-term fixes into longer-term redesign. That will shape whether cost pressure proves temporary or becomes structural."
+                  ]
+            }
+      },
+      {
+            "id": "sup-from-durex-to-diamonds-companies-count-cost-of",
+            "category": "supply-chain",
+            "image": "factory",
+            "lead": false,
+            "author": "Nora Tang",
+            "read": 6,
+            "title": {
+                  "en": "From Durex to diamonds, companies count cost of global crises",
+                  "zh": "從杜蕾斯到鑽石 企業盤點全球危機帶來的成本"
+            },
+            "dek": {
+                  "en": "Factory oversight, commodity flows and trade rules showed how supply chains are still absorbing geopolitical and regulatory shocks.",
+                  "zh": "工廠監管、原料流向與貿易規則的變化顯示，供應鏈仍在吸收地緣政治與監管衝擊。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，從杜蕾斯到鑽石 企業盤點全球危機帶來的成本。這則進展呼應了今日版面對supply-chain議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "供應鏈壓力目前同時來自監管審查、原料流向與地緣政治摩擦。即使單一瓶頸看似可控，企業仍需要為更長的交期、替代採購與合規成本預留空間。",
+                        "從採購端來看，從杜蕾斯到鑽石 企業盤點全球危機帶來的成本提醒企業，韌性不只來自庫存，更來自能否快速調整供應商與地理布局。當政策與價格同時變動時，反應速度本身就會成為競爭力。",
+                        "接下來值得關注的是，監管方是否提出更明確要求，以及企業能否把短期應對轉成長期佈局。這將左右成本壓力是暫時波動還是結構性上升。"
+                  ],
+                  "en": [
+                        "According to Reuters, From Durex to diamonds, companies count cost of global crises. The development fits the edition's broader reading of the supply-chain agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Supply-chain stress is now coming simultaneously from regulatory scrutiny, material flows and geopolitical friction. Even when a single bottleneck looks manageable, companies still need to make room for longer lead times, alternate sourcing and compliance costs.",
+                        "From a procurement perspective, From Durex to diamonds, companies count cost of global crises reminds companies that resilience comes not only from inventory but from the ability to reconfigure suppliers and geography quickly. When policy and pricing move together, response speed becomes a competitive advantage in its own right.",
+                        "The next thing to watch is whether regulators set clearer requirements and whether companies can turn short-term fixes into longer-term redesign. That will shape whether cost pressure proves temporary or becomes structural."
+                  ]
+            }
+      },
+      {
+            "id": "sup-us-iran-deal-may-not-bring-quick-relief-for-au",
+            "category": "supply-chain",
+            "image": "factory",
+            "lead": false,
+            "author": "Nora Tang",
+            "read": 5,
+            "title": {
+                  "en": "US-Iran deal may not bring quick relief for auto shops",
+                  "zh": "美伊協議未必能迅速緩解汽車維修供應壓力"
+            },
+            "dek": {
+                  "en": "Factory oversight, commodity flows and trade rules showed how supply chains are still absorbing geopolitical and regulatory shocks.",
+                  "zh": "工廠監管、原料流向與貿易規則的變化顯示，供應鏈仍在吸收地緣政治與監管衝擊。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，美伊協議未必能迅速緩解汽車維修供應壓力。這則進展呼應了今日版面對supply-chain議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "供應鏈壓力目前同時來自監管審查、原料流向與地緣政治摩擦。即使單一瓶頸看似可控，企業仍需要為更長的交期、替代採購與合規成本預留空間。",
+                        "從採購端來看，美伊協議未必能迅速緩解汽車維修供應壓力提醒企業，韌性不只來自庫存，更來自能否快速調整供應商與地理布局。當政策與價格同時變動時，反應速度本身就會成為競爭力。",
+                        "接下來值得關注的是，監管方是否提出更明確要求，以及企業能否把短期應對轉成長期佈局。這將左右成本壓力是暫時波動還是結構性上升。"
+                  ],
+                  "en": [
+                        "According to Reuters, US-Iran deal may not bring quick relief for auto shops. The development fits the edition's broader reading of the supply-chain agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Supply-chain stress is now coming simultaneously from regulatory scrutiny, material flows and geopolitical friction. Even when a single bottleneck looks manageable, companies still need to make room for longer lead times, alternate sourcing and compliance costs.",
+                        "From a procurement perspective, US-Iran deal may not bring quick relief for auto shops reminds companies that resilience comes not only from inventory but from the ability to reconfigure suppliers and geography quickly. When policy and pricing move together, response speed becomes a competitive advantage in its own right.",
+                        "The next thing to watch is whether regulators set clearer requirements and whether companies can turn short-term fixes into longer-term redesign. That will shape whether cost pressure proves temporary or becomes structural."
+                  ]
+            }
+      },
+      {
+            "id": "sup-soaring-scrap-aluminium-exports-threaten-uk-de",
+            "category": "supply-chain",
+            "image": "factory",
+            "lead": false,
+            "author": "Nora Tang",
+            "read": 5,
+            "title": {
+                  "en": "Soaring scrap aluminium exports threaten UK defence, auto supply chains, industry group says",
+                  "zh": "業界稱廢鋁出口飆升威脅英國國防與汽車供應鏈"
+            },
+            "dek": {
+                  "en": "Factory oversight, commodity flows and trade rules showed how supply chains are still absorbing geopolitical and regulatory shocks.",
+                  "zh": "工廠監管、原料流向與貿易規則的變化顯示，供應鏈仍在吸收地緣政治與監管衝擊。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，業界稱廢鋁出口飆升威脅英國國防與汽車供應鏈。這則進展呼應了今日版面對supply-chain議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "供應鏈壓力目前同時來自監管審查、原料流向與地緣政治摩擦。即使單一瓶頸看似可控，企業仍需要為更長的交期、替代採購與合規成本預留空間。",
+                        "從採購端來看，業界稱廢鋁出口飆升威脅英國國防與汽車供應鏈提醒企業，韌性不只來自庫存，更來自能否快速調整供應商與地理布局。當政策與價格同時變動時，反應速度本身就會成為競爭力。",
+                        "接下來值得關注的是，監管方是否提出更明確要求，以及企業能否把短期應對轉成長期佈局。這將左右成本壓力是暫時波動還是結構性上升。"
+                  ],
+                  "en": [
+                        "According to Reuters, Soaring scrap aluminium exports threaten UK defence, auto supply chains, industry group says. The development fits the edition's broader reading of the supply-chain agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Supply-chain stress is now coming simultaneously from regulatory scrutiny, material flows and geopolitical friction. Even when a single bottleneck looks manageable, companies still need to make room for longer lead times, alternate sourcing and compliance costs.",
+                        "From a procurement perspective, Soaring scrap aluminium exports threaten UK defence, auto supply chains, industry group says reminds companies that resilience comes not only from inventory but from the ability to reconfigure suppliers and geography quickly. When policy and pricing move together, response speed becomes a competitive advantage in its own right.",
+                        "The next thing to watch is whether regulators set clearer requirements and whether companies can turn short-term fixes into longer-term redesign. That will shape whether cost pressure proves temporary or becomes structural."
+                  ]
+            }
+      },
+      {
+            "id": "sup-us-connected-car-rule-prompts-ford-other-autom",
+            "category": "supply-chain",
+            "image": "factory",
+            "lead": false,
+            "author": "Nora Tang",
+            "read": 4,
+            "title": {
+                  "en": "US connected-car rule prompts Ford, other automakers to seek licenses for China-built models",
+                  "zh": "美國聯網車新規促使福特等車廠為中國製車款申請許可"
+            },
+            "dek": {
+                  "en": "Factory oversight, commodity flows and trade rules showed how supply chains are still absorbing geopolitical and regulatory shocks.",
+                  "zh": "工廠監管、原料流向與貿易規則的變化顯示，供應鏈仍在吸收地緣政治與監管衝擊。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，美國聯網車新規促使福特等車廠為中國製車款申請許可。這則進展呼應了今日版面對supply-chain議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "供應鏈壓力目前同時來自監管審查、原料流向與地緣政治摩擦。即使單一瓶頸看似可控，企業仍需要為更長的交期、替代採購與合規成本預留空間。",
+                        "從採購端來看，美國聯網車新規促使福特等車廠為中國製車款申請許可提醒企業，韌性不只來自庫存，更來自能否快速調整供應商與地理布局。當政策與價格同時變動時，反應速度本身就會成為競爭力。",
+                        "接下來值得關注的是，監管方是否提出更明確要求，以及企業能否把短期應對轉成長期佈局。這將左右成本壓力是暫時波動還是結構性上升。"
+                  ],
+                  "en": [
+                        "According to Reuters, US connected-car rule prompts Ford, other automakers to seek licenses for China-built models. The development fits the edition's broader reading of the supply-chain agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Supply-chain stress is now coming simultaneously from regulatory scrutiny, material flows and geopolitical friction. Even when a single bottleneck looks manageable, companies still need to make room for longer lead times, alternate sourcing and compliance costs.",
+                        "From a procurement perspective, US connected-car rule prompts Ford, other automakers to seek licenses for China-built models reminds companies that resilience comes not only from inventory but from the ability to reconfigure suppliers and geography quickly. When policy and pricing move together, response speed becomes a competitive advantage in its own right.",
+                        "The next thing to watch is whether regulators set clearer requirements and whether companies can turn short-term fixes into longer-term redesign. That will shape whether cost pressure proves temporary or becomes structural."
+                  ]
+            }
+      },
+      {
+            "id": "eco-french-central-bank-cuts-economic-growth-outlo",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": true,
+            "author": "Ethan Kao",
+            "read": 7,
+            "title": {
+                  "en": "French central bank cuts economic growth outlook as energy prices bite",
+                  "zh": "能源價格上升之際 法國央行下調經濟成長預測"
+            },
+            "dek": {
+                  "en": "Markets, trade policy and corporate restructuring underscored how investors are repricing growth after the latest energy and policy shocks.",
+                  "zh": "市場、貿易政策與企業重整的發展凸顯，投資人正重新評估能源與政策震盪後的成長前景。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，能源價格上升之際 法國央行下調經濟成長預測。這則進展呼應了今日版面對economy-markets議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "最新市場走勢顯示，投資人仍在同時消化能源價格、政策不確定性與企業基本面。即使指數表現分化，資本配置的核心問題仍是成長能否在高波動環境下持續。",
+                        "以能源價格上升之際 法國央行下調經濟成長預測來看，這類消息通常會重新設定風險偏好、估值假設與政策預期。從央行到企業裁員或貿易談判，每一項變數都可能透過市場敘事放大影響。",
+                        "後續要看的，是資金是否持續集中在少數高成長標的，還是開始回流到防禦與價值部位。這將反映投資人對下半年景氣與政策路徑的真實判斷。"
+                  ],
+                  "en": [
+                        "According to Reuters, French central bank cuts economic growth outlook as energy prices bite. The development fits the edition's broader reading of the economy-markets agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Recent market action shows investors are still processing energy prices, policy uncertainty and corporate fundamentals all at once. Even when indexes diverge, the central capital-allocation question remains whether growth can hold up in a higher-volatility setting.",
+                        "In the case of French central bank cuts economic growth outlook as energy prices bite, developments like this tend to reset risk appetite, valuation assumptions and policy expectations. Whether the trigger is a central bank, a workforce reduction or a trade discussion, the market narrative can amplify each variable quickly.",
+                        "The next issue is whether money stays concentrated in a handful of growth names or rotates back toward defensive and value positions. That will reveal how investors really see the second-half outlook for growth and policy."
+                  ]
+            }
+      },
+      {
+            "id": "eco-trading-platform-robinhood-to-cut-10-of-workfo",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Ethan Kao",
+            "read": 6,
+            "title": {
+                  "en": "Trading platform Robinhood to cut 10% of workforce in restructuring",
+                  "zh": "Robinhood 重整業務將裁員 10%"
+            },
+            "dek": {
+                  "en": "Markets, trade policy and corporate restructuring underscored how investors are repricing growth after the latest energy and policy shocks.",
+                  "zh": "市場、貿易政策與企業重整的發展凸顯，投資人正重新評估能源與政策震盪後的成長前景。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，Robinhood 重整業務將裁員 10%。這則進展呼應了今日版面對economy-markets議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "最新市場走勢顯示，投資人仍在同時消化能源價格、政策不確定性與企業基本面。即使指數表現分化，資本配置的核心問題仍是成長能否在高波動環境下持續。",
+                        "以Robinhood 重整業務將裁員 10%來看，這類消息通常會重新設定風險偏好、估值假設與政策預期。從央行到企業裁員或貿易談判，每一項變數都可能透過市場敘事放大影響。",
+                        "後續要看的，是資金是否持續集中在少數高成長標的，還是開始回流到防禦與價值部位。這將反映投資人對下半年景氣與政策路徑的真實判斷。"
+                  ],
+                  "en": [
+                        "According to Reuters, Trading platform Robinhood to cut 10% of workforce in restructuring. The development fits the edition's broader reading of the economy-markets agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Recent market action shows investors are still processing energy prices, policy uncertainty and corporate fundamentals all at once. Even when indexes diverge, the central capital-allocation question remains whether growth can hold up in a higher-volatility setting.",
+                        "In the case of Trading platform Robinhood to cut 10% of workforce in restructuring, developments like this tend to reset risk appetite, valuation assumptions and policy expectations. Whether the trigger is a central bank, a workforce reduction or a trade discussion, the market narrative can amplify each variable quickly.",
+                        "The next issue is whether money stays concentrated in a handful of growth names or rotates back toward defensive and value positions. That will reveal how investors really see the second-half outlook for growth and policy."
+                  ]
+            }
+      },
+      {
+            "id": "eco-nasdaq-and-s-p-500-slip-while-dow-hits-record-",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Ethan Kao",
+            "read": 5,
+            "title": {
+                  "en": "Nasdaq and S&P 500 slip while Dow hits record close",
+                  "zh": "那斯達克與標普回落 道瓊再創收盤新高"
+            },
+            "dek": {
+                  "en": "Markets, trade policy and corporate restructuring underscored how investors are repricing growth after the latest energy and policy shocks.",
+                  "zh": "市場、貿易政策與企業重整的發展凸顯，投資人正重新評估能源與政策震盪後的成長前景。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，那斯達克與標普回落 道瓊再創收盤新高。這則進展呼應了今日版面對economy-markets議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "最新市場走勢顯示，投資人仍在同時消化能源價格、政策不確定性與企業基本面。即使指數表現分化，資本配置的核心問題仍是成長能否在高波動環境下持續。",
+                        "以那斯達克與標普回落 道瓊再創收盤新高來看，這類消息通常會重新設定風險偏好、估值假設與政策預期。從央行到企業裁員或貿易談判，每一項變數都可能透過市場敘事放大影響。",
+                        "後續要看的，是資金是否持續集中在少數高成長標的，還是開始回流到防禦與價值部位。這將反映投資人對下半年景氣與政策路徑的真實判斷。"
+                  ],
+                  "en": [
+                        "According to Reuters, Nasdaq and S&P 500 slip while Dow hits record close. The development fits the edition's broader reading of the economy-markets agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Recent market action shows investors are still processing energy prices, policy uncertainty and corporate fundamentals all at once. Even when indexes diverge, the central capital-allocation question remains whether growth can hold up in a higher-volatility setting.",
+                        "In the case of Nasdaq and S&P 500 slip while Dow hits record close, developments like this tend to reset risk appetite, valuation assumptions and policy expectations. Whether the trigger is a central bank, a workforce reduction or a trade discussion, the market narrative can amplify each variable quickly.",
+                        "The next issue is whether money stays concentrated in a handful of growth names or rotates back toward defensive and value positions. That will reveal how investors really see the second-half outlook for growth and policy."
+                  ]
+            }
+      },
+      {
+            "id": "eco-us-mexican-officials-to-discuss-agriculture-en",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Ethan Kao",
+            "read": 5,
+            "title": {
+                  "en": "US, Mexican officials to discuss agriculture, energy as Trump casts doubt on trade deal",
+                  "zh": "川普質疑貿易協議之際 美墨官員將討論農業與能源議題"
+            },
+            "dek": {
+                  "en": "Markets, trade policy and corporate restructuring underscored how investors are repricing growth after the latest energy and policy shocks.",
+                  "zh": "市場、貿易政策與企業重整的發展凸顯，投資人正重新評估能源與政策震盪後的成長前景。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，川普質疑貿易協議之際 美墨官員將討論農業與能源議題。這則進展呼應了今日版面對economy-markets議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "最新市場走勢顯示，投資人仍在同時消化能源價格、政策不確定性與企業基本面。即使指數表現分化，資本配置的核心問題仍是成長能否在高波動環境下持續。",
+                        "以川普質疑貿易協議之際 美墨官員將討論農業與能源議題來看，這類消息通常會重新設定風險偏好、估值假設與政策預期。從央行到企業裁員或貿易談判，每一項變數都可能透過市場敘事放大影響。",
+                        "後續要看的，是資金是否持續集中在少數高成長標的，還是開始回流到防禦與價值部位。這將反映投資人對下半年景氣與政策路徑的真實判斷。"
+                  ],
+                  "en": [
+                        "According to Reuters, US, Mexican officials to discuss agriculture, energy as Trump casts doubt on trade deal. The development fits the edition's broader reading of the economy-markets agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Recent market action shows investors are still processing energy prices, policy uncertainty and corporate fundamentals all at once. Even when indexes diverge, the central capital-allocation question remains whether growth can hold up in a higher-volatility setting.",
+                        "In the case of US, Mexican officials to discuss agriculture, energy as Trump casts doubt on trade deal, developments like this tend to reset risk appetite, valuation assumptions and policy expectations. Whether the trigger is a central bank, a workforce reduction or a trade discussion, the market narrative can amplify each variable quickly.",
+                        "The next issue is whether money stays concentrated in a handful of growth names or rotates back toward defensive and value positions. That will reveal how investors really see the second-half outlook for growth and policy."
+                  ]
+            }
+      },
+      {
+            "id": "eco-spacex-vaults-past-amazon-s-market-value-as-op",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Ethan Kao",
+            "read": 4,
+            "title": {
+                  "en": "SpaceX vaults past Amazon's market value as options listing fuels surge",
+                  "zh": "選擇權上市推升漲勢 SpaceX 市值超越亞馬遜"
+            },
+            "dek": {
+                  "en": "Markets, trade policy and corporate restructuring underscored how investors are repricing growth after the latest energy and policy shocks.",
+                  "zh": "市場、貿易政策與企業重整的發展凸顯，投資人正重新評估能源與政策震盪後的成長前景。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，選擇權上市推升漲勢 SpaceX 市值超越亞馬遜。這則進展呼應了今日版面對economy-markets議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "最新市場走勢顯示，投資人仍在同時消化能源價格、政策不確定性與企業基本面。即使指數表現分化，資本配置的核心問題仍是成長能否在高波動環境下持續。",
+                        "以選擇權上市推升漲勢 SpaceX 市值超越亞馬遜來看，這類消息通常會重新設定風險偏好、估值假設與政策預期。從央行到企業裁員或貿易談判，每一項變數都可能透過市場敘事放大影響。",
+                        "後續要看的，是資金是否持續集中在少數高成長標的，還是開始回流到防禦與價值部位。這將反映投資人對下半年景氣與政策路徑的真實判斷。"
+                  ],
+                  "en": [
+                        "According to Reuters, SpaceX vaults past Amazon's market value as options listing fuels surge. The development fits the edition's broader reading of the economy-markets agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Recent market action shows investors are still processing energy prices, policy uncertainty and corporate fundamentals all at once. Even when indexes diverge, the central capital-allocation question remains whether growth can hold up in a higher-volatility setting.",
+                        "In the case of SpaceX vaults past Amazon's market value as options listing fuels surge, developments like this tend to reset risk appetite, valuation assumptions and policy expectations. Whether the trigger is a central bank, a workforce reduction or a trade discussion, the market narrative can amplify each variable quickly.",
+                        "The next issue is whether money stays concentrated in a handful of growth names or rotates back toward defensive and value positions. That will reveal how investors really see the second-half outlook for growth and policy."
+                  ]
+            }
+      },
+      {
+            "id": "ene-scientists-identify-64-000-sq-miles-of-coral-r",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": true,
+            "author": "Ava Liu",
+            "read": 7,
+            "title": {
+                  "en": "Scientists identify 64,000 sq miles of coral reef capable of surviving climate crisis",
+                  "zh": "科學家確認 6.4 萬平方英里的珊瑚礁具備度過氣候危機的能力"
+            },
+            "dek": {
+                  "en": "Climate exposure and energy transition decisions highlighted the widening gap between physical risk and the pace of adaptation.",
+                  "zh": "氣候暴露與能源轉型決策凸顯，實體風險與調適速度之間的落差正在擴大。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，科學家確認 6.4 萬平方英里的珊瑚礁具備度過氣候危機的能力。這則進展呼應了今日版面對energy-climate議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "氣候與能源報導持續說明，物理風險與轉型投資正在同時加快。從生態系存續到新技術部署，政策制定者面對的已不是單一時間尺度，而是短期衝擊與長期調整並存。",
+                        "就決策意涵而言，科學家確認 6.4 萬平方英里的珊瑚礁具備度過氣候危機的能力凸顯資本、監管與科學評估之間的連動。如果適應速度追不上風險累積，未來成本將更頻繁地轉化為保險、公共支出與企業投資壓力。",
+                        "後續應觀察的是，相關研究或企業決策是否引發新的資金配置與政策回應。真正的分水嶺不只是宣布目標，而是是否形成可持續的執行路徑。"
+                  ],
+                  "en": [
+                        "According to Reuters, Scientists identify 64,000 sq miles of coral reef capable of surviving climate crisis. The development fits the edition's broader reading of the energy-climate agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Energy and climate coverage continues to show that physical risk and transition investment are accelerating together. From ecosystem survival to new technology deployment, policymakers are dealing not with one timeline but with immediate shocks layered on top of long-term adjustment.",
+                        "In decision-making terms, Scientists identify 64,000 sq miles of coral reef capable of surviving climate crisis highlights the interaction between capital, regulation and scientific assessment. If adaptation keeps lagging behind risk accumulation, more of the future cost will be transmitted through insurance, public spending and corporate investment choices.",
+                        "The next thing to monitor is whether the research or corporate move triggers new capital allocation and policy responses. The real dividing line is not the announcement of a target but whether a durable implementation path follows."
+                  ]
+            }
+      },
+      {
+            "id": "ene-heatwaves-early-springs-threatening-migratory-",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Ava Liu",
+            "read": 6,
+            "title": {
+                  "en": "Heatwaves, early springs threatening migratory birds in Toronto",
+                  "zh": "熱浪與春季提早到來正威脅多倫多候鳥"
+            },
+            "dek": {
+                  "en": "Climate exposure and energy transition decisions highlighted the widening gap between physical risk and the pace of adaptation.",
+                  "zh": "氣候暴露與能源轉型決策凸顯，實體風險與調適速度之間的落差正在擴大。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，熱浪與春季提早到來正威脅多倫多候鳥。這則進展呼應了今日版面對energy-climate議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "氣候與能源報導持續說明，物理風險與轉型投資正在同時加快。從生態系存續到新技術部署，政策制定者面對的已不是單一時間尺度，而是短期衝擊與長期調整並存。",
+                        "就決策意涵而言，熱浪與春季提早到來正威脅多倫多候鳥凸顯資本、監管與科學評估之間的連動。如果適應速度追不上風險累積，未來成本將更頻繁地轉化為保險、公共支出與企業投資壓力。",
+                        "後續應觀察的是，相關研究或企業決策是否引發新的資金配置與政策回應。真正的分水嶺不只是宣布目標，而是是否形成可持續的執行路徑。"
+                  ],
+                  "en": [
+                        "According to Reuters, Heatwaves, early springs threatening migratory birds in Toronto. The development fits the edition's broader reading of the energy-climate agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Energy and climate coverage continues to show that physical risk and transition investment are accelerating together. From ecosystem survival to new technology deployment, policymakers are dealing not with one timeline but with immediate shocks layered on top of long-term adjustment.",
+                        "In decision-making terms, Heatwaves, early springs threatening migratory birds in Toronto highlights the interaction between capital, regulation and scientific assessment. If adaptation keeps lagging behind risk accumulation, more of the future cost will be transmitted through insurance, public spending and corporate investment choices.",
+                        "The next thing to monitor is whether the research or corporate move triggers new capital allocation and policy responses. The real dividing line is not the announcement of a target but whether a durable implementation path follows."
+                  ]
+            }
+      },
+      {
+            "id": "ene-helion-says-it-is-first-us-fusion-energy-firm-",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Ava Liu",
+            "read": 5,
+            "title": {
+                  "en": "Helion says it is first US fusion energy firm to clear regulatory licenses",
+                  "zh": "Helion 稱成為首家通過監管許可的美國核融合能源公司"
+            },
+            "dek": {
+                  "en": "Climate exposure and energy transition decisions highlighted the widening gap between physical risk and the pace of adaptation.",
+                  "zh": "氣候暴露與能源轉型決策凸顯，實體風險與調適速度之間的落差正在擴大。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，Helion 稱成為首家通過監管許可的美國核融合能源公司。這則進展呼應了今日版面對energy-climate議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "氣候與能源報導持續說明，物理風險與轉型投資正在同時加快。從生態系存續到新技術部署，政策制定者面對的已不是單一時間尺度，而是短期衝擊與長期調整並存。",
+                        "就決策意涵而言，Helion 稱成為首家通過監管許可的美國核融合能源公司凸顯資本、監管與科學評估之間的連動。如果適應速度追不上風險累積，未來成本將更頻繁地轉化為保險、公共支出與企業投資壓力。",
+                        "後續應觀察的是，相關研究或企業決策是否引發新的資金配置與政策回應。真正的分水嶺不只是宣布目標，而是是否形成可持續的執行路徑。"
+                  ],
+                  "en": [
+                        "According to Reuters, Helion says it is first US fusion energy firm to clear regulatory licenses. The development fits the edition's broader reading of the energy-climate agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Energy and climate coverage continues to show that physical risk and transition investment are accelerating together. From ecosystem survival to new technology deployment, policymakers are dealing not with one timeline but with immediate shocks layered on top of long-term adjustment.",
+                        "In decision-making terms, Helion says it is first US fusion energy firm to clear regulatory licenses highlights the interaction between capital, regulation and scientific assessment. If adaptation keeps lagging behind risk accumulation, more of the future cost will be transmitted through insurance, public spending and corporate investment choices.",
+                        "The next thing to monitor is whether the research or corporate move triggers new capital allocation and policy responses. The real dividing line is not the announcement of a target but whether a durable implementation path follows."
+                  ]
+            }
+      },
+      {
+            "id": "ene-almost-all-of-world-s-children-exposed-to-clim",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Ava Liu",
+            "read": 5,
+            "title": {
+                  "en": "Almost all of world's children exposed to climate hazards, UN agency says",
+                  "zh": "聯合國機構稱 全球幾乎所有兒童都暴露在氣候風險中"
+            },
+            "dek": {
+                  "en": "Climate exposure and energy transition decisions highlighted the widening gap between physical risk and the pace of adaptation.",
+                  "zh": "氣候暴露與能源轉型決策凸顯，實體風險與調適速度之間的落差正在擴大。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，聯合國機構稱 全球幾乎所有兒童都暴露在氣候風險中。這則進展呼應了今日版面對energy-climate議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "氣候與能源報導持續說明，物理風險與轉型投資正在同時加快。從生態系存續到新技術部署，政策制定者面對的已不是單一時間尺度，而是短期衝擊與長期調整並存。",
+                        "就決策意涵而言，聯合國機構稱 全球幾乎所有兒童都暴露在氣候風險中凸顯資本、監管與科學評估之間的連動。如果適應速度追不上風險累積，未來成本將更頻繁地轉化為保險、公共支出與企業投資壓力。",
+                        "後續應觀察的是，相關研究或企業決策是否引發新的資金配置與政策回應。真正的分水嶺不只是宣布目標，而是是否形成可持續的執行路徑。"
+                  ],
+                  "en": [
+                        "According to Reuters, Almost all of world's children exposed to climate hazards, UN agency says. The development fits the edition's broader reading of the energy-climate agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Energy and climate coverage continues to show that physical risk and transition investment are accelerating together. From ecosystem survival to new technology deployment, policymakers are dealing not with one timeline but with immediate shocks layered on top of long-term adjustment.",
+                        "In decision-making terms, Almost all of world's children exposed to climate hazards, UN agency says highlights the interaction between capital, regulation and scientific assessment. If adaptation keeps lagging behind risk accumulation, more of the future cost will be transmitted through insurance, public spending and corporate investment choices.",
+                        "The next thing to monitor is whether the research or corporate move triggers new capital allocation and policy responses. The real dividing line is not the announcement of a target but whether a durable implementation path follows."
+                  ]
+            }
+      },
+      {
+            "id": "ene-equinor-scraps-renewable-energy-capacity-targe",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Ava Liu",
+            "read": 4,
+            "title": {
+                  "en": "Equinor scraps renewable energy capacity target",
+                  "zh": "挪威國家石油公司取消再生能源裝置容量目標"
+            },
+            "dek": {
+                  "en": "Climate exposure and energy transition decisions highlighted the widening gap between physical risk and the pace of adaptation.",
+                  "zh": "氣候暴露與能源轉型決策凸顯，實體風險與調適速度之間的落差正在擴大。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，挪威國家石油公司取消再生能源裝置容量目標。這則進展呼應了今日版面對energy-climate議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "氣候與能源報導持續說明，物理風險與轉型投資正在同時加快。從生態系存續到新技術部署，政策制定者面對的已不是單一時間尺度，而是短期衝擊與長期調整並存。",
+                        "就決策意涵而言，挪威國家石油公司取消再生能源裝置容量目標凸顯資本、監管與科學評估之間的連動。如果適應速度追不上風險累積，未來成本將更頻繁地轉化為保險、公共支出與企業投資壓力。",
+                        "後續應觀察的是，相關研究或企業決策是否引發新的資金配置與政策回應。真正的分水嶺不只是宣布目標，而是是否形成可持續的執行路徑。"
+                  ],
+                  "en": [
+                        "According to Reuters, Equinor scraps renewable energy capacity target. The development fits the edition's broader reading of the energy-climate agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Energy and climate coverage continues to show that physical risk and transition investment are accelerating together. From ecosystem survival to new technology deployment, policymakers are dealing not with one timeline but with immediate shocks layered on top of long-term adjustment.",
+                        "In decision-making terms, Equinor scraps renewable energy capacity target highlights the interaction between capital, regulation and scientific assessment. If adaptation keeps lagging behind risk accumulation, more of the future cost will be transmitted through insurance, public spending and corporate investment choices.",
+                        "The next thing to monitor is whether the research or corporate move triggers new capital allocation and policy responses. The real dividing line is not the announcement of a target but whether a durable implementation path follows."
+                  ]
+            }
+      },
+      {
+            "id": "pol-helion-says-it-is-first-us-fusion-energy-firm-",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": true,
+            "author": "Grace Hsu",
+            "read": 7,
+            "title": {
+                  "en": "Helion says it is first US fusion energy firm to clear regulatory licenses",
+                  "zh": "Helion 稱成為首家完成監管許可程序的美國核融合公司"
+            },
+            "dek": {
+                  "en": "Regulators across sectors continued to test how competition, digital markets and emerging energy technologies should be governed.",
+                  "zh": "各領域監管機關持續測試競爭、數位市場與新興能源技術應如何被治理。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，Helion 稱成為首家完成監管許可程序的美國核融合公司。這則進展呼應了今日版面對policy-regulation議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "跨產業監管正在從原則爭論進入執行細節階段，競爭法、數位市場規則與能源技術審批都變得更具體。這意味企業必須把法律風險視為產品與商業模式的一部分。",
+                        "從治理角度看，Helion 稱成為首家完成監管許可程序的美國核融合公司反映監管機關正在重新界定平台權力、市場公平與公共利益的邊界。即使個案結果不同，整體趨勢都是對執行透明度與市場責任提出更高要求。",
+                        "接下來值得留意的是，調查、判決或自願守則是否擴散為跨司法轄區標準。若是如此，單一市場的法規變動就可能迅速外溢成全球合規成本。"
+                  ],
+                  "en": [
+                        "According to Reuters, Helion says it is first US fusion energy firm to clear regulatory licenses. The development fits the edition's broader reading of the policy-regulation agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Cross-sector regulation is moving from principle debates into operational detail, with competition law, digital-market rules and energy-technology approvals becoming more concrete. That means companies must treat legal risk as part of product and business-model design.",
+                        "From a governance angle, Helion says it is first US fusion energy firm to clear regulatory licenses reflects how regulators are redefining the boundaries of platform power, market fairness and public interest. Even when case outcomes differ, the broader trend is toward higher demands for transparency and market accountability.",
+                        "The next point to watch is whether probes, rulings or voluntary codes spread into cross-jurisdiction standards. If they do, a rule change in one market can quickly spill over into global compliance costs."
+                  ]
+            }
+      },
+      {
+            "id": "pol-yachtworld-operator-defeats-antitrust-lawsuit-",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Grace Hsu",
+            "read": 6,
+            "title": {
+                  "en": "YachtWorld operator defeats antitrust lawsuit over online boat listings",
+                  "zh": "YachtWorld 營運商在線上船艇清單反壟斷訴訟中勝訴"
+            },
+            "dek": {
+                  "en": "Regulators across sectors continued to test how competition, digital markets and emerging energy technologies should be governed.",
+                  "zh": "各領域監管機關持續測試競爭、數位市場與新興能源技術應如何被治理。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，YachtWorld 營運商在線上船艇清單反壟斷訴訟中勝訴。這則進展呼應了今日版面對policy-regulation議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "跨產業監管正在從原則爭論進入執行細節階段，競爭法、數位市場規則與能源技術審批都變得更具體。這意味企業必須把法律風險視為產品與商業模式的一部分。",
+                        "從治理角度看，YachtWorld 營運商在線上船艇清單反壟斷訴訟中勝訴反映監管機關正在重新界定平台權力、市場公平與公共利益的邊界。即使個案結果不同，整體趨勢都是對執行透明度與市場責任提出更高要求。",
+                        "接下來值得留意的是，調查、判決或自願守則是否擴散為跨司法轄區標準。若是如此，單一市場的法規變動就可能迅速外溢成全球合規成本。"
+                  ],
+                  "en": [
+                        "According to Reuters, YachtWorld operator defeats antitrust lawsuit over online boat listings. The development fits the edition's broader reading of the policy-regulation agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Cross-sector regulation is moving from principle debates into operational detail, with competition law, digital-market rules and energy-technology approvals becoming more concrete. That means companies must treat legal risk as part of product and business-model design.",
+                        "From a governance angle, YachtWorld operator defeats antitrust lawsuit over online boat listings reflects how regulators are redefining the boundaries of platform power, market fairness and public interest. Even when case outcomes differ, the broader trend is toward higher demands for transparency and market accountability.",
+                        "The next point to watch is whether probes, rulings or voluntary codes spread into cross-jurisdiction standards. If they do, a rule change in one market can quickly spill over into global compliance costs."
+                  ]
+            }
+      },
+      {
+            "id": "pol-eu-rules-out-mandate-to-keep-video-games-playa",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Grace Hsu",
+            "read": 5,
+            "title": {
+                  "en": "EU rules out mandate to keep video games playable, seeks voluntary code",
+                  "zh": "歐盟排除強制保存電子遊戲可玩性的命令 傾向採自願準則"
+            },
+            "dek": {
+                  "en": "Regulators across sectors continued to test how competition, digital markets and emerging energy technologies should be governed.",
+                  "zh": "各領域監管機關持續測試競爭、數位市場與新興能源技術應如何被治理。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，歐盟排除強制保存電子遊戲可玩性的命令 傾向採自願準則。這則進展呼應了今日版面對policy-regulation議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "跨產業監管正在從原則爭論進入執行細節階段，競爭法、數位市場規則與能源技術審批都變得更具體。這意味企業必須把法律風險視為產品與商業模式的一部分。",
+                        "從治理角度看，歐盟排除強制保存電子遊戲可玩性的命令 傾向採自願準則反映監管機關正在重新界定平台權力、市場公平與公共利益的邊界。即使個案結果不同，整體趨勢都是對執行透明度與市場責任提出更高要求。",
+                        "接下來值得留意的是，調查、判決或自願守則是否擴散為跨司法轄區標準。若是如此，單一市場的法規變動就可能迅速外溢成全球合規成本。"
+                  ],
+                  "en": [
+                        "According to Reuters, EU rules out mandate to keep video games playable, seeks voluntary code. The development fits the edition's broader reading of the policy-regulation agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Cross-sector regulation is moving from principle debates into operational detail, with competition law, digital-market rules and energy-technology approvals becoming more concrete. That means companies must treat legal risk as part of product and business-model design.",
+                        "From a governance angle, EU rules out mandate to keep video games playable, seeks voluntary code reflects how regulators are redefining the boundaries of platform power, market fairness and public interest. Even when case outcomes differ, the broader trend is toward higher demands for transparency and market accountability.",
+                        "The next point to watch is whether probes, rulings or voluntary codes spread into cross-jurisdiction standards. If they do, a rule change in one market can quickly spill over into global compliance costs."
+                  ]
+            }
+      },
+      {
+            "id": "pol-spain-s-antitrust-watchdog-probes-banks-over-m",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Grace Hsu",
+            "read": 5,
+            "title": {
+                  "en": "Spain's antitrust watchdog probes banks over mortgage practices",
+                  "zh": "西班牙反壟斷監管機構調查銀行房貸作法"
+            },
+            "dek": {
+                  "en": "Regulators across sectors continued to test how competition, digital markets and emerging energy technologies should be governed.",
+                  "zh": "各領域監管機關持續測試競爭、數位市場與新興能源技術應如何被治理。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，西班牙反壟斷監管機構調查銀行房貸作法。這則進展呼應了今日版面對policy-regulation議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "跨產業監管正在從原則爭論進入執行細節階段，競爭法、數位市場規則與能源技術審批都變得更具體。這意味企業必須把法律風險視為產品與商業模式的一部分。",
+                        "從治理角度看，西班牙反壟斷監管機構調查銀行房貸作法反映監管機關正在重新界定平台權力、市場公平與公共利益的邊界。即使個案結果不同，整體趨勢都是對執行透明度與市場責任提出更高要求。",
+                        "接下來值得留意的是，調查、判決或自願守則是否擴散為跨司法轄區標準。若是如此，單一市場的法規變動就可能迅速外溢成全球合規成本。"
+                  ],
+                  "en": [
+                        "According to Reuters, Spain's antitrust watchdog probes banks over mortgage practices. The development fits the edition's broader reading of the policy-regulation agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Cross-sector regulation is moving from principle debates into operational detail, with competition law, digital-market rules and energy-technology approvals becoming more concrete. That means companies must treat legal risk as part of product and business-model design.",
+                        "From a governance angle, Spain's antitrust watchdog probes banks over mortgage practices reflects how regulators are redefining the boundaries of platform power, market fairness and public interest. Even when case outcomes differ, the broader trend is toward higher demands for transparency and market accountability.",
+                        "The next point to watch is whether probes, rulings or voluntary codes spread into cross-jurisdiction standards. If they do, a rule change in one market can quickly spill over into global compliance costs."
+                  ]
+            }
+      },
+      {
+            "id": "pol-italy-s-antitrust-regulator-probes-apple-over-",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Grace Hsu",
+            "read": 4,
+            "title": {
+                  "en": "Italy's antitrust regulator probes Apple over cloud services under Digital Market rules",
+                  "zh": "義大利依數位市場規則調查蘋果雲端服務"
+            },
+            "dek": {
+                  "en": "Regulators across sectors continued to test how competition, digital markets and emerging energy technologies should be governed.",
+                  "zh": "各領域監管機關持續測試競爭、數位市場與新興能源技術應如何被治理。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，義大利依數位市場規則調查蘋果雲端服務。這則進展呼應了今日版面對policy-regulation議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "跨產業監管正在從原則爭論進入執行細節階段，競爭法、數位市場規則與能源技術審批都變得更具體。這意味企業必須把法律風險視為產品與商業模式的一部分。",
+                        "從治理角度看，義大利依數位市場規則調查蘋果雲端服務反映監管機關正在重新界定平台權力、市場公平與公共利益的邊界。即使個案結果不同，整體趨勢都是對執行透明度與市場責任提出更高要求。",
+                        "接下來值得留意的是，調查、判決或自願守則是否擴散為跨司法轄區標準。若是如此，單一市場的法規變動就可能迅速外溢成全球合規成本。"
+                  ],
+                  "en": [
+                        "According to Reuters, Italy's antitrust regulator probes Apple over cloud services under Digital Market rules. The development fits the edition's broader reading of the policy-regulation agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Cross-sector regulation is moving from principle debates into operational detail, with competition law, digital-market rules and energy-technology approvals becoming more concrete. That means companies must treat legal risk as part of product and business-model design.",
+                        "From a governance angle, Italy's antitrust regulator probes Apple over cloud services under Digital Market rules reflects how regulators are redefining the boundaries of platform power, market fairness and public interest. Even when case outcomes differ, the broader trend is toward higher demands for transparency and market accountability.",
+                        "The next point to watch is whether probes, rulings or voluntary codes spread into cross-jurisdiction standards. If they do, a rule change in one market can quickly spill over into global compliance costs."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-databricks-strikes-deal-to-buy-panther-labs-in",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": true,
+            "author": "Owen Tsai",
+            "read": 7,
+            "title": {
+                  "en": "Databricks strikes deal to buy Panther Labs in cybersecurity push",
+                  "zh": "Databricks 收購 Panther Labs 強化網路安全布局"
+            },
+            "dek": {
+                  "en": "Deal-making, encryption rules and state-linked hacking claims showed that cyber defence is becoming a core business and policy priority.",
+                  "zh": "併購、加密規則與國家相關駭侵指控顯示，網路防禦正成為企業與政策的核心優先事項。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，Databricks 收購 Panther Labs 強化網路安全布局。這則進展呼應了今日版面對cybersecurity議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "網路安全正同時受到企業併購、技術升級與國安考量推動。無論是新產品、加密規則還是駭侵事件，核心問題都在於機構能否更快辨識風險並縮短防禦反應時間。",
+                        "以Databricks 收購 Panther Labs 強化網路安全布局為例，相關發展顯示安全能力已不再只是後端支援功能，而是會影響產品銷售、監管評價與國際信任。對研究機構與企業而言，攻防門檻都在抬高。",
+                        "後續要觀察的是，事件是否引發更嚴格的採購標準、通報要求或加密升級。這些措施將決定安全投資是一次性支出還是長期的結構性成本。"
+                  ],
+                  "en": [
+                        "According to Reuters, Databricks strikes deal to buy Panther Labs in cybersecurity push. The development fits the edition's broader reading of the cybersecurity agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Cybersecurity is being driven at once by corporate deal-making, technical upgrades and national-security concerns. Whether the trigger is a new product, an encryption rule or a hacking incident, the core issue is how quickly institutions can identify risk and compress response time.",
+                        "In the case of Databricks strikes deal to buy Panther Labs in cybersecurity push, the development shows that security capability is no longer a back-office support function; it affects product sales, regulatory standing and international trust. For research institutions and companies alike, the threshold for defence is rising.",
+                        "The next question is whether the event triggers stricter procurement standards, reporting duties or encryption upgrades. Those steps will determine whether cyber spending is treated as a one-off cost or as a long-term structural requirement."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-softbank-launches-cybersecurity-product-based-",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Owen Tsai",
+            "read": 6,
+            "title": {
+                  "en": "SoftBank launches cybersecurity product based on OpenAI models",
+                  "zh": "軟銀推出基於 OpenAI 模型的網路安全產品"
+            },
+            "dek": {
+                  "en": "Deal-making, encryption rules and state-linked hacking claims showed that cyber defence is becoming a core business and policy priority.",
+                  "zh": "併購、加密規則與國家相關駭侵指控顯示，網路防禦正成為企業與政策的核心優先事項。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，軟銀推出基於 OpenAI 模型的網路安全產品。這則進展呼應了今日版面對cybersecurity議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "網路安全正同時受到企業併購、技術升級與國安考量推動。無論是新產品、加密規則還是駭侵事件，核心問題都在於機構能否更快辨識風險並縮短防禦反應時間。",
+                        "以軟銀推出基於 OpenAI 模型的網路安全產品為例，相關發展顯示安全能力已不再只是後端支援功能，而是會影響產品銷售、監管評價與國際信任。對研究機構與企業而言，攻防門檻都在抬高。",
+                        "後續要觀察的是，事件是否引發更嚴格的採購標準、通報要求或加密升級。這些措施將決定安全投資是一次性支出還是長期的結構性成本。"
+                  ],
+                  "en": [
+                        "According to Reuters, SoftBank launches cybersecurity product based on OpenAI models. The development fits the edition's broader reading of the cybersecurity agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Cybersecurity is being driven at once by corporate deal-making, technical upgrades and national-security concerns. Whether the trigger is a new product, an encryption rule or a hacking incident, the core issue is how quickly institutions can identify risk and compress response time.",
+                        "In the case of SoftBank launches cybersecurity product based on OpenAI models, the development shows that security capability is no longer a back-office support function; it affects product sales, regulatory standing and international trust. For research institutions and companies alike, the threshold for defence is rising.",
+                        "The next question is whether the event triggers stricter procurement standards, reporting duties or encryption upgrades. Those steps will determine whether cyber spending is treated as a one-off cost or as a long-term structural requirement."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-france-to-stop-certifying-products-without-qua",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Owen Tsai",
+            "read": 5,
+            "title": {
+                  "en": "France to stop certifying products without quantum-safe encryption",
+                  "zh": "法國將停止認證未採量子安全加密的產品"
+            },
+            "dek": {
+                  "en": "Deal-making, encryption rules and state-linked hacking claims showed that cyber defence is becoming a core business and policy priority.",
+                  "zh": "併購、加密規則與國家相關駭侵指控顯示，網路防禦正成為企業與政策的核心優先事項。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，法國將停止認證未採量子安全加密的產品。這則進展呼應了今日版面對cybersecurity議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "網路安全正同時受到企業併購、技術升級與國安考量推動。無論是新產品、加密規則還是駭侵事件，核心問題都在於機構能否更快辨識風險並縮短防禦反應時間。",
+                        "以法國將停止認證未採量子安全加密的產品為例，相關發展顯示安全能力已不再只是後端支援功能，而是會影響產品銷售、監管評價與國際信任。對研究機構與企業而言，攻防門檻都在抬高。",
+                        "後續要觀察的是，事件是否引發更嚴格的採購標準、通報要求或加密升級。這些措施將決定安全投資是一次性支出還是長期的結構性成本。"
+                  ],
+                  "en": [
+                        "According to Reuters, France to stop certifying products without quantum-safe encryption. The development fits the edition's broader reading of the cybersecurity agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Cybersecurity is being driven at once by corporate deal-making, technical upgrades and national-security concerns. Whether the trigger is a new product, an encryption rule or a hacking incident, the core issue is how quickly institutions can identify risk and compress response time.",
+                        "In the case of France to stop certifying products without quantum-safe encryption, the development shows that security capability is no longer a back-office support function; it affects product sales, regulatory standing and international trust. For research institutions and companies alike, the threshold for defence is rising.",
+                        "The next question is whether the event triggers stricter procurement standards, reporting duties or encryption upgrades. Those steps will determine whether cyber spending is treated as a one-off cost or as a long-term structural requirement."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-hacking-group-claims-major-hack-of-novo-nordis",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Owen Tsai",
+            "read": 5,
+            "title": {
+                  "en": "Hacking group claims major hack of Novo Nordisk and attempted $25 million extortion",
+                  "zh": "駭客組織聲稱重大入侵諾和諾德 並企圖勒索 2500 萬美元"
+            },
+            "dek": {
+                  "en": "Deal-making, encryption rules and state-linked hacking claims showed that cyber defence is becoming a core business and policy priority.",
+                  "zh": "併購、加密規則與國家相關駭侵指控顯示，網路防禦正成為企業與政策的核心優先事項。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，駭客組織聲稱重大入侵諾和諾德 並企圖勒索 2500 萬美元。這則進展呼應了今日版面對cybersecurity議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "網路安全正同時受到企業併購、技術升級與國安考量推動。無論是新產品、加密規則還是駭侵事件，核心問題都在於機構能否更快辨識風險並縮短防禦反應時間。",
+                        "以駭客組織聲稱重大入侵諾和諾德 並企圖勒索 2500 萬美元為例，相關發展顯示安全能力已不再只是後端支援功能，而是會影響產品銷售、監管評價與國際信任。對研究機構與企業而言，攻防門檻都在抬高。",
+                        "後續要觀察的是，事件是否引發更嚴格的採購標準、通報要求或加密升級。這些措施將決定安全投資是一次性支出還是長期的結構性成本。"
+                  ],
+                  "en": [
+                        "According to Reuters, Hacking group claims major hack of Novo Nordisk and attempted $25 million extortion. The development fits the edition's broader reading of the cybersecurity agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Cybersecurity is being driven at once by corporate deal-making, technical upgrades and national-security concerns. Whether the trigger is a new product, an encryption rule or a hacking incident, the core issue is how quickly institutions can identify risk and compress response time.",
+                        "In the case of Hacking group claims major hack of Novo Nordisk and attempted $25 million extortion, the development shows that security capability is no longer a back-office support function; it affects product sales, regulatory standing and international trust. For research institutions and companies alike, the threshold for defence is rising.",
+                        "The next question is whether the event triggers stricter procurement standards, reporting duties or encryption upgrades. Those steps will determine whether cyber spending is treated as a one-off cost or as a long-term structural requirement."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-chinese-linked-hackers-targeted-u-s-canadian-r",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Owen Tsai",
+            "read": 4,
+            "title": {
+                  "en": "Chinese-linked hackers targeted U.S.,Canadian research facilities for a year, Google says",
+                  "zh": "Google 指與中國有關聯的駭客對美加研究設施持續攻擊一年"
+            },
+            "dek": {
+                  "en": "Deal-making, encryption rules and state-linked hacking claims showed that cyber defence is becoming a core business and policy priority.",
+                  "zh": "併購、加密規則與國家相關駭侵指控顯示，網路防禦正成為企業與政策的核心優先事項。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，Google 指與中國有關聯的駭客對美加研究設施持續攻擊一年。這則進展呼應了今日版面對cybersecurity議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "網路安全正同時受到企業併購、技術升級與國安考量推動。無論是新產品、加密規則還是駭侵事件，核心問題都在於機構能否更快辨識風險並縮短防禦反應時間。",
+                        "以Google 指與中國有關聯的駭客對美加研究設施持續攻擊一年為例，相關發展顯示安全能力已不再只是後端支援功能，而是會影響產品銷售、監管評價與國際信任。對研究機構與企業而言，攻防門檻都在抬高。",
+                        "後續要觀察的是，事件是否引發更嚴格的採購標準、通報要求或加密升級。這些措施將決定安全投資是一次性支出還是長期的結構性成本。"
+                  ],
+                  "en": [
+                        "According to Reuters, Chinese-linked hackers targeted U.S.,Canadian research facilities for a year, Google says. The development fits the edition's broader reading of the cybersecurity agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Cybersecurity is being driven at once by corporate deal-making, technical upgrades and national-security concerns. Whether the trigger is a new product, an encryption rule or a hacking incident, the core issue is how quickly institutions can identify risk and compress response time.",
+                        "In the case of Chinese-linked hackers targeted U.S.,Canadian research facilities for a year, Google says, the development shows that security capability is no longer a back-office support function; it affects product sales, regulatory standing and international trust. For research institutions and companies alike, the threshold for defence is rising.",
+                        "The next question is whether the event triggers stricter procurement standards, reporting duties or encryption upgrades. Those steps will determine whether cyber spending is treated as a one-off cost or as a long-term structural requirement."
+                  ]
+            }
+      },
+      {
+            "id": "log-mcdermott-expects-to-deliver-qatarenergy-expan",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": true,
+            "author": "Victor Chen",
+            "read": 7,
+            "title": {
+                  "en": "McDermott expects to deliver QatarEnergy expansion project on time, post-conflict, says CEO",
+                  "zh": "麥克德莫特稱卡達能源擴建計畫在衝突後仍可如期交付"
+            },
+            "dek": {
+                  "en": "Large capital projects and transport investment plans showed how post-conflict rebuilding and infrastructure finance are shaping the next logistics cycle.",
+                  "zh": "大型資本專案與運輸投資規劃顯示，衝突後重建與基建融資正塑造下一輪物流周期。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，麥克德莫特稱卡達能源擴建計畫在衝突後仍可如期交付。這則進展呼應了今日版面對logistics-infrastructure議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "基礎建設與物流投資越來越受到地緣政治、融資可得性與施工風險共同影響。對承包商與政府而言，真正的挑戰不是宣布大計畫，而是如何確保資金、供應與時程能持續匹配。",
+                        "從這個角度看，麥克德莫特稱卡達能源擴建計畫在衝突後仍可如期交付說明交通與能源專案已成為經濟重建和戰略布局的重要載體。一旦資金承諾、民營化或場館物流出現變化，連帶影響通常會穿透到運輸能力與地方財政。",
+                        "接下來要注意的是，專案能否按計畫推進，以及投資承諾是否真正轉成工程與運營成果。只有當執行面跟上，基建消息才會從政治口號變成可驗證的物流能力。"
+                  ],
+                  "en": [
+                        "According to Reuters, McDermott expects to deliver QatarEnergy expansion project on time, post-conflict, says CEO. The development fits the edition's broader reading of the logistics-infrastructure agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Infrastructure and logistics investment is increasingly shaped by geopolitics, financing availability and execution risk at the same time. For contractors and governments, the real challenge is not announcing a large project but keeping funding, supply and schedules aligned.",
+                        "Viewed through that lens, McDermott expects to deliver QatarEnergy expansion project on time, post-conflict, says CEO shows how transport and energy projects are becoming vehicles for economic rebuilding and strategic positioning. When funding commitments, privatisation terms or event logistics change, the effects often run straight through to transport capacity and local finance.",
+                        "The next thing to watch is whether these projects move ahead on schedule and whether pledged investment turns into actual construction and operations. Only when execution catches up do infrastructure headlines become verifiable logistics capacity."
+                  ]
+            }
+      },
+      {
+            "id": "log-exclusive-iran-deal-includes-300-billion-fund-",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Victor Chen",
+            "read": 6,
+            "title": {
+                  "en": "Exclusive: Iran deal includes $300 billion fund, more than half of which already committed, source says",
+                  "zh": "消息人士稱伊朗協議包含 3000 億美元基金 且逾半資金已承諾"
+            },
+            "dek": {
+                  "en": "Large capital projects and transport investment plans showed how post-conflict rebuilding and infrastructure finance are shaping the next logistics cycle.",
+                  "zh": "大型資本專案與運輸投資規劃顯示，衝突後重建與基建融資正塑造下一輪物流周期。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Reuters報導，消息人士稱伊朗協議包含 3000 億美元基金 且逾半資金已承諾。這則進展呼應了今日版面對logistics-infrastructure議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "基礎建設與物流投資越來越受到地緣政治、融資可得性與施工風險共同影響。對承包商與政府而言，真正的挑戰不是宣布大計畫，而是如何確保資金、供應與時程能持續匹配。",
+                        "從這個角度看，消息人士稱伊朗協議包含 3000 億美元基金 且逾半資金已承諾說明交通與能源專案已成為經濟重建和戰略布局的重要載體。一旦資金承諾、民營化或場館物流出現變化，連帶影響通常會穿透到運輸能力與地方財政。",
+                        "接下來要注意的是，專案能否按計畫推進，以及投資承諾是否真正轉成工程與運營成果。只有當執行面跟上，基建消息才會從政治口號變成可驗證的物流能力。"
+                  ],
+                  "en": [
+                        "According to Reuters, Exclusive: Iran deal includes $300 billion fund, more than half of which already committed, source says. The development fits the edition's broader reading of the logistics-infrastructure agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Infrastructure and logistics investment is increasingly shaped by geopolitics, financing availability and execution risk at the same time. For contractors and governments, the real challenge is not announcing a large project but keeping funding, supply and schedules aligned.",
+                        "Viewed through that lens, Exclusive: Iran deal includes $300 billion fund, more than half of which already committed, source says shows how transport and energy projects are becoming vehicles for economic rebuilding and strategic positioning. When funding commitments, privatisation terms or event logistics change, the effects often run straight through to transport capacity and local finance.",
+                        "The next thing to watch is whether these projects move ahead on schedule and whether pledged investment turns into actual construction and operations. Only when execution catches up do infrastructure headlines become verifiable logistics capacity."
+                  ]
+            }
+      },
+      {
+            "id": "log-us-iran-framework-envisions-300b-investment-pu",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Victor Chen",
+            "read": 5,
+            "title": {
+                  "en": "US-Iran framework envisions $300B investment push",
+                  "zh": "美伊框架設想啟動 3000 億美元投資推進計畫"
+            },
+            "dek": {
+                  "en": "Large capital projects and transport investment plans showed how post-conflict rebuilding and infrastructure finance are shaping the next logistics cycle.",
+                  "zh": "大型資本專案與運輸投資規劃顯示，衝突後重建與基建融資正塑造下一輪物流周期。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Daily Sabah報導，美伊框架設想啟動 3000 億美元投資推進計畫。這則進展呼應了今日版面對logistics-infrastructure議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "基礎建設與物流投資越來越受到地緣政治、融資可得性與施工風險共同影響。對承包商與政府而言，真正的挑戰不是宣布大計畫，而是如何確保資金、供應與時程能持續匹配。",
+                        "從這個角度看，美伊框架設想啟動 3000 億美元投資推進計畫說明交通與能源專案已成為經濟重建和戰略布局的重要載體。一旦資金承諾、民營化或場館物流出現變化，連帶影響通常會穿透到運輸能力與地方財政。",
+                        "接下來要注意的是，專案能否按計畫推進，以及投資承諾是否真正轉成工程與運營成果。只有當執行面跟上，基建消息才會從政治口號變成可驗證的物流能力。"
+                  ],
+                  "en": [
+                        "According to Daily Sabah, US-Iran framework envisions $300B investment push. The development fits the edition's broader reading of the logistics-infrastructure agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Infrastructure and logistics investment is increasingly shaped by geopolitics, financing availability and execution risk at the same time. For contractors and governments, the real challenge is not announcing a large project but keeping funding, supply and schedules aligned.",
+                        "Viewed through that lens, US-Iran framework envisions $300B investment push shows how transport and energy projects are becoming vehicles for economic rebuilding and strategic positioning. When funding commitments, privatisation terms or event logistics change, the effects often run straight through to transport capacity and local finance.",
+                        "The next thing to watch is whether these projects move ahead on schedule and whether pledged investment turns into actual construction and operations. Only when execution catches up do infrastructure headlines become verifiable logistics capacity."
+                  ]
+            }
+      },
+      {
+            "id": "log-argentina-rail-freight-privatisation-heats-up",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Victor Chen",
+            "read": 5,
+            "title": {
+                  "en": "Argentina rail freight privatisation heats up",
+                  "zh": "阿根廷鐵路貨運民營化進程升溫"
+            },
+            "dek": {
+                  "en": "Large capital projects and transport investment plans showed how post-conflict rebuilding and infrastructure finance are shaping the next logistics cycle.",
+                  "zh": "大型資本專案與運輸投資規劃顯示，衝突後重建與基建融資正塑造下一輪物流周期。"
+            },
+            "body": {
+                  "zh": [
+                        "根據International Railway Journal報導，阿根廷鐵路貨運民營化進程升溫。這則進展呼應了今日版面對logistics-infrastructure議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "基礎建設與物流投資越來越受到地緣政治、融資可得性與施工風險共同影響。對承包商與政府而言，真正的挑戰不是宣布大計畫，而是如何確保資金、供應與時程能持續匹配。",
+                        "從這個角度看，阿根廷鐵路貨運民營化進程升溫說明交通與能源專案已成為經濟重建和戰略布局的重要載體。一旦資金承諾、民營化或場館物流出現變化，連帶影響通常會穿透到運輸能力與地方財政。",
+                        "接下來要注意的是，專案能否按計畫推進，以及投資承諾是否真正轉成工程與運營成果。只有當執行面跟上，基建消息才會從政治口號變成可驗證的物流能力。"
+                  ],
+                  "en": [
+                        "According to International Railway Journal, Argentina rail freight privatisation heats up. The development fits the edition's broader reading of the logistics-infrastructure agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Infrastructure and logistics investment is increasingly shaped by geopolitics, financing availability and execution risk at the same time. For contractors and governments, the real challenge is not announcing a large project but keeping funding, supply and schedules aligned.",
+                        "Viewed through that lens, Argentina rail freight privatisation heats up shows how transport and energy projects are becoming vehicles for economic rebuilding and strategic positioning. When funding commitments, privatisation terms or event logistics change, the effects often run straight through to transport capacity and local finance.",
+                        "The next thing to watch is whether these projects move ahead on schedule and whether pledged investment turns into actual construction and operations. Only when execution catches up do infrastructure headlines become verifiable logistics capacity."
+                  ]
+            }
+      },
+      {
+            "id": "log-soaring-costs-and-logistics-issues-overshadow-",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Victor Chen",
+            "read": 4,
+            "title": {
+                  "en": "Soaring costs and logistics issues overshadow 2026 World Cup start",
+                  "zh": "成本飆升與物流問題為 2026 世界盃開幕蒙上陰影"
+            },
+            "dek": {
+                  "en": "Large capital projects and transport investment plans showed how post-conflict rebuilding and infrastructure finance are shaping the next logistics cycle.",
+                  "zh": "大型資本專案與運輸投資規劃顯示，衝突後重建與基建融資正塑造下一輪物流周期。"
+            },
+            "body": {
+                  "zh": [
+                        "根據Kursiv Media報導，成本飆升與物流問題為 2026 世界盃開幕蒙上陰影。這則進展呼應了今日版面對logistics-infrastructure議題的核心觀察，也說明單一新聞事件如何迅速外溢到更廣泛的政策與市場判斷。",
+                        "基礎建設與物流投資越來越受到地緣政治、融資可得性與施工風險共同影響。對承包商與政府而言，真正的挑戰不是宣布大計畫，而是如何確保資金、供應與時程能持續匹配。",
+                        "從這個角度看，成本飆升與物流問題為 2026 世界盃開幕蒙上陰影說明交通與能源專案已成為經濟重建和戰略布局的重要載體。一旦資金承諾、民營化或場館物流出現變化，連帶影響通常會穿透到運輸能力與地方財政。",
+                        "接下來要注意的是，專案能否按計畫推進，以及投資承諾是否真正轉成工程與運營成果。只有當執行面跟上，基建消息才會從政治口號變成可驗證的物流能力。"
+                  ],
+                  "en": [
+                        "According to Kursiv Media, Soaring costs and logistics issues overshadow 2026 World Cup start. The development fits the edition's broader reading of the logistics-infrastructure agenda and shows how a single headline can spill into wider policy and market judgments very quickly.",
+                        "Infrastructure and logistics investment is increasingly shaped by geopolitics, financing availability and execution risk at the same time. For contractors and governments, the real challenge is not announcing a large project but keeping funding, supply and schedules aligned.",
+                        "Viewed through that lens, Soaring costs and logistics issues overshadow 2026 World Cup start shows how transport and energy projects are becoming vehicles for economic rebuilding and strategic positioning. When funding commitments, privatisation terms or event logistics change, the effects often run straight through to transport capacity and local finance.",
+                        "The next thing to watch is whether these projects move ahead on schedule and whether pledged investment turns into actual construction and operations. Only when execution catches up do infrastructure headlines become verifiable logistics capacity."
+                  ]
+            }
+      }
+];
+
   window.DAILY_NEWS_STORIES["2026-06-16"] = [
       {
             "id": "int-ukraine-s-zelenskiy-discusses-peace-talks-in-cal",
