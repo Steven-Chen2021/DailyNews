@@ -21,6 +21,9 @@ window.DAILY_NEWS = {
   // Metadata only — no stories array here.
   // Stories are fetched on-demand from data-YYYY-MM.js files.
   editions: [
+    { date: "2026-06-16", color: "navy",
+      theme:   { en: "Corridors, Controls and Capital", zh: "走廊、管制與資本" },
+      summary: { en: "From ceasefire diplomacy and AI restrictions to supply-chain reordering and strategic infrastructure, today's edition tracks how governments and markets are repricing risk across the global system.", zh: "從停火外交、AI 限制到供應鏈重組與戰略基礎設施，今日版面追蹤政府與市場如何在全球體系中重新定價風險。" } },
     { date: "2026-06-15", color: "navy",
       theme:   { en: "Controls, Corridors and Risk", zh: "管制、通道與風險" },
       summary: { en: "From Iran diplomacy and AI access controls to shipping chokepoints and cross-border infrastructure, today's edition follows how regulation and conflict are reshaping global flows.", zh: "從伊朗外交與 AI 存取限制，到航運瓶頸與跨境基礎建設，今日版面聚焦監管與衝突如何重塑全球流動。" } },

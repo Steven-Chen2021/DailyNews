@@ -5,6 +5,1509 @@
 (function () {
   window.DAILY_NEWS_STORIES = window.DAILY_NEWS_STORIES || {};
 
+  window.DAILY_NEWS_STORIES["2026-06-16"] = [
+      {
+            "id": "int-ukraine-s-zelenskiy-discusses-peace-talks-in-cal",
+            "category": "international",
+            "image": "meeting",
+            "lead": true,
+            "author": "Maya Chen",
+            "read": 7,
+            "title": {
+                  "en": "Ukraine's Zelenskiy discusses peace talks in call with Trump",
+                  "zh": "烏克蘭澤倫斯基與川普通話討論和平談判"
+            },
+            "dek": {
+                  "en": "The development highlighted how diplomacy, conflict risk and alliance signaling are still moving in parallel across the global system.",
+                  "zh": "這一事態發展凸顯了外交、衝突風險和聯盟訊號仍然在全球體系中並行發展。"
+            },
+            "body": {
+                  "zh": [
+                        "烏克蘭澤倫斯基與川普通話討論和平談判。這一事態發展凸顯了外交、衝突風險和聯盟訊號仍然在全球體系中並行發展。",
+                        "這個故事表明，外交、軍事壓力和聯盟管理仍然在同一風險框架內運作。對政府和企業來說，其重要性不僅在於標題本身，還在於它能以多快的速度改變有關安全、投資時機和跨國協調的假設。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。烏克蘭澤倫斯基與川普通話討論和平談判這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Ukraine's Zelenskiy discusses peace talks in call with Trump. The development highlighted how diplomacy, conflict risk and alliance signaling are still moving in parallel across the global system.",
+                        "The story shows that diplomacy, military pressure and alliance management are still moving inside the same risk frame. For governments and companies, the significance lies not just in the headline itself but in how quickly it can alter assumptions about security, investment timing and cross-border coordination.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Ukraine's Zelenskiy discusses peace talks in call with Trump shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "int-us-and-iran-sign-ceasefire-agreement-details-rem",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Maya Chen",
+            "read": 6,
+            "title": {
+                  "en": "US and Iran sign ceasefire agreement, details remain unclear",
+                  "zh": "美國與伊朗簽署停火協議 細節尚不清楚"
+            },
+            "dek": {
+                  "en": "The development highlighted how diplomacy, conflict risk and alliance signaling are still moving in parallel across the global system.",
+                  "zh": "這一事態發展凸顯了外交、衝突風險和聯盟訊號仍然在全球體系中並行發展。"
+            },
+            "body": {
+                  "zh": [
+                        "美國與伊朗簽署停火協議 細節尚不清楚。這一事態發展凸顯了外交、衝突風險和聯盟訊號仍然在全球體系中並行發展。",
+                        "這個故事表明，外交、軍事壓力和聯盟管理仍然在同一風險框架內運作。對政府和企業來說，其重要性不僅在於標題本身，還在於它能以多快的速度改變有關安全、投資時機和跨國協調的假設。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。美國與伊朗簽署停火協議 細節尚不清楚這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "US and Iran sign ceasefire agreement, details remain unclear. The development highlighted how diplomacy, conflict risk and alliance signaling are still moving in parallel across the global system.",
+                        "The story shows that diplomacy, military pressure and alliance management are still moving inside the same risk frame. For governments and companies, the significance lies not just in the headline itself but in how quickly it can alter assumptions about security, investment timing and cross-border coordination.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in US and Iran sign ceasefire agreement, details remain unclear shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "int-trump-says-israeli-strike-on-lebanon-should-not-",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Maya Chen",
+            "read": 5,
+            "title": {
+                  "en": "Trump says Israeli strike on Lebanon should not have happened, but Iran deal close",
+                  "zh": "川普稱以色列不應該對黎巴嫩發動攻擊，但伊朗協議已接近"
+            },
+            "dek": {
+                  "en": "The development highlighted how diplomacy, conflict risk and alliance signaling are still moving in parallel across the global system.",
+                  "zh": "這一事態發展凸顯了外交、衝突風險和聯盟訊號仍然在全球體系中並行發展。"
+            },
+            "body": {
+                  "zh": [
+                        "川普稱以色列不應該對黎巴嫩發動攻擊，但伊朗協議已接近。這一事態發展凸顯了外交、衝突風險和聯盟訊號仍然在全球體系中並行發展。",
+                        "這個故事表明，外交、軍事壓力和聯盟管理仍然在同一風險框架內運作。對政府和企業來說，其重要性不僅在於標題本身，還在於它能以多快的速度改變有關安全、投資時機和跨國協調的假設。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。川普稱以色列不應該對黎巴嫩發動攻擊，但伊朗協議已接近這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Trump says Israeli strike on Lebanon should not have happened, but Iran deal close. The development highlighted how diplomacy, conflict risk and alliance signaling are still moving in parallel across the global system.",
+                        "The story shows that diplomacy, military pressure and alliance management are still moving inside the same risk frame. For governments and companies, the significance lies not just in the headline itself but in how quickly it can alter assumptions about security, investment timing and cross-border coordination.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Trump says Israeli strike on Lebanon should not have happened, but Iran deal close shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "int-uae-urges-full-implementation-of-us-iran-deal-st",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Maya Chen",
+            "read": 5,
+            "title": {
+                  "en": "UAE urges full implementation of US-Iran deal, stresses freedom of navigation in Hormuz",
+                  "zh": "阿聯酋敦促全面執行美伊協議，強調霍爾木茲海峽的航行自由"
+            },
+            "dek": {
+                  "en": "The development highlighted how diplomacy, conflict risk and alliance signaling are still moving in parallel across the global system.",
+                  "zh": "這一事態發展凸顯了外交、衝突風險和聯盟訊號仍然在全球體系中並行發展。"
+            },
+            "body": {
+                  "zh": [
+                        "阿聯酋敦促全面執行美伊協議，強調霍爾木茲海峽的航行自由。這一事態發展凸顯了外交、衝突風險和聯盟訊號仍然在全球體系中並行發展。",
+                        "這個故事表明，外交、軍事壓力和聯盟管理仍然在同一風險框架內運作。對政府和企業來說，其重要性不僅在於標題本身，還在於它能以多快的速度改變有關安全、投資時機和跨國協調的假設。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。阿聯酋敦促全面執行美伊協議，強調霍爾木茲海峽的航行自由這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "UAE urges full implementation of US-Iran deal, stresses freedom of navigation in Hormuz. The development highlighted how diplomacy, conflict risk and alliance signaling are still moving in parallel across the global system.",
+                        "The story shows that diplomacy, military pressure and alliance management are still moving inside the same risk frame. For governments and companies, the significance lies not just in the headline itself but in how quickly it can alter assumptions about security, investment timing and cross-border coordination.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in UAE urges full implementation of US-Iran deal, stresses freedom of navigation in Hormuz shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "int-ukraine-starts-first-phase-of-eu-membership-talk",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Maya Chen",
+            "read": 4,
+            "title": {
+                  "en": "Ukraine starts first phase of EU membership talks in 'Rubicon' moment",
+                  "zh": "烏克蘭在「盧比孔河」時刻開始第一階段歐盟成員資格談判"
+            },
+            "dek": {
+                  "en": "The development highlighted how diplomacy, conflict risk and alliance signaling are still moving in parallel across the global system.",
+                  "zh": "這一事態發展凸顯了外交、衝突風險和聯盟訊號仍然在全球體系中並行發展。"
+            },
+            "body": {
+                  "zh": [
+                        "烏克蘭在「盧比孔河」時刻開始第一階段歐盟成員資格談判。這一事態發展凸顯了外交、衝突風險和聯盟訊號仍然在全球體系中並行發展。",
+                        "這個故事表明，外交、軍事壓力和聯盟管理仍然在同一風險框架內運作。對政府和企業來說，其重要性不僅在於標題本身，還在於它能以多快的速度改變有關安全、投資時機和跨國協調的假設。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。烏克蘭在「盧比孔河」時刻開始第一階段歐盟成員資格談判這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Ukraine starts first phase of EU membership talks in 'Rubicon' moment. The development highlighted how diplomacy, conflict risk and alliance signaling are still moving in parallel across the global system.",
+                        "The story shows that diplomacy, military pressure and alliance management are still moving inside the same risk frame. For governments and companies, the significance lies not just in the headline itself but in how quickly it can alter assumptions about security, investment timing and cross-border coordination.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Ukraine starts first phase of EU membership talks in 'Rubicon' moment shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "tec-schneider-electric-foxconn-partner-on-ai-data-ce",
+            "category": "technology",
+            "image": "technology",
+            "lead": true,
+            "author": "Iris Park",
+            "read": 7,
+            "title": {
+                  "en": "Schneider Electric, Foxconn partner on AI data center infrastructure",
+                  "zh": "施耐德電機與富士康合作開發人工智慧資料中心基礎設施"
+            },
+            "dek": {
+                  "en": "The report showed how AI, digital platforms and strategic technology controls are increasingly shaping industrial decisions and security planning.",
+                  "zh": "該報告展示了人工智慧、數位平臺和戰略技術控制如何日益影響工業決策和安全規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "施耐德電機與富士康合作開發人工智慧資料中心基礎設施。該報告展示了人工智慧、數位平臺和戰略技術控制如何日益影響工業決策和安全規劃。",
+                        "這個故事表明，技術競爭現在涵蓋了計算存取、平臺控制、估值敘述和治理。如果機構無法在創新速度的同時管理政策摩擦，它們將難以將技術優勢轉化為持久部署。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。施耐德電機與富士康合作開發人工智慧資料中心基礎設施這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Schneider Electric, Foxconn partner on AI data center infrastructure. The report showed how AI, digital platforms and strategic technology controls are increasingly shaping industrial decisions and security planning.",
+                        "The story shows that technology competition now spans compute access, platform control, valuation narratives and governance. If institutions cannot manage policy friction alongside innovation speed, they will struggle to turn technical advantage into durable deployment.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Schneider Electric, Foxconn partner on AI data center infrastructure shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "tec-india-s-hcltech-to-buy-10-5-stake-in-sarvam-ai-v",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Iris Park",
+            "read": 6,
+            "title": {
+                  "en": "India's HCLTech to buy 10.5% stake in Sarvam AI, valuing startup at $1.5 billion",
+                  "zh": "印度 HCLTech 將收購 Sarvam AI 10.5% 的股份，對這家新創公司的估值為 15 億美元"
+            },
+            "dek": {
+                  "en": "The report showed how AI, digital platforms and strategic technology controls are increasingly shaping industrial decisions and security planning.",
+                  "zh": "該報告展示了人工智慧、數位平臺和戰略技術控制如何日益影響工業決策和安全規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "印度 HCLTech 將收購 Sarvam AI 10.5% 的股份，對這家新創公司的估值為 15 億美元。該報告展示了人工智慧、數位平臺和戰略技術控制如何日益影響工業決策和安全規劃。",
+                        "這個故事表明，技術競爭現在涵蓋了計算存取、平臺控制、估值敘述和治理。如果機構無法在創新速度的同時管理政策摩擦，它們將難以將技術優勢轉化為持久部署。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。印度 HCLTech 將收購 Sarvam AI 10.5% 的股份，對這家新創公司的估值為 15 億美元這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "India's HCLTech to buy 10.5% stake in Sarvam AI, valuing startup at $1.5 billion. The report showed how AI, digital platforms and strategic technology controls are increasingly shaping industrial decisions and security planning.",
+                        "The story shows that technology competition now spans compute access, platform control, valuation narratives and governance. If institutions cannot manage policy friction alongside innovation speed, they will struggle to turn technical advantage into durable deployment.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in India's HCLTech to buy 10.5% stake in Sarvam AI, valuing startup at $1.5 billion shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "tec-taiwan-launches-website-for-chinese-nationals-to",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Iris Park",
+            "read": 5,
+            "title": {
+                  "en": "Taiwan launches website for Chinese nationals to report intelligence",
+                  "zh": "臺灣推出中國公民檢舉情報網站"
+            },
+            "dek": {
+                  "en": "The report showed how AI, digital platforms and strategic technology controls are increasingly shaping industrial decisions and security planning.",
+                  "zh": "該報告展示了人工智慧、數位平臺和戰略技術控制如何日益影響工業決策和安全規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "臺灣推出中國公民檢舉情報網站。該報告展示了人工智慧、數位平臺和戰略技術控制如何日益影響工業決策和安全規劃。",
+                        "這個故事表明，技術競爭現在涵蓋了計算存取、平臺控制、估值敘述和治理。如果機構無法在創新速度的同時管理政策摩擦，它們將難以將技術優勢轉化為持久部署。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。臺灣推出中國公民檢舉情報網站這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Taiwan launches website for Chinese nationals to report intelligence. The report showed how AI, digital platforms and strategic technology controls are increasingly shaping industrial decisions and security planning.",
+                        "The story shows that technology competition now spans compute access, platform control, valuation narratives and governance. If institutions cannot manage policy friction alongside innovation speed, they will struggle to turn technical advantage into durable deployment.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Taiwan launches website for Chinese nationals to report intelligence shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "tec-cyber-leaders-urge-us-to-lift-curbs-on-anthropic",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Iris Park",
+            "read": 5,
+            "title": {
+                  "en": "Cyber leaders urge US to lift curbs on Anthropic's security models",
+                  "zh": "網路領導人敦促美國取消對 Anthropic 安全模型的限制"
+            },
+            "dek": {
+                  "en": "The report showed how AI, digital platforms and strategic technology controls are increasingly shaping industrial decisions and security planning.",
+                  "zh": "該報告展示了人工智慧、數位平臺和戰略技術控制如何日益影響工業決策和安全規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "網路領導人敦促美國取消對 Anthropic 安全模型的限制。該報告展示了人工智慧、數位平臺和戰略技術控制如何日益影響工業決策和安全規劃。",
+                        "這個故事表明，技術競爭現在涵蓋了計算存取、平臺控制、估值敘述和治理。如果機構無法在創新速度的同時管理政策摩擦，它們將難以將技術優勢轉化為持久部署。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。網路領導人敦促美國取消對 Anthropic 安全模型的限制這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Cyber leaders urge US to lift curbs on Anthropic's security models. The report showed how AI, digital platforms and strategic technology controls are increasingly shaping industrial decisions and security planning.",
+                        "The story shows that technology competition now spans compute access, platform control, valuation narratives and governance. If institutions cannot manage policy friction alongside innovation speed, they will struggle to turn technical advantage into durable deployment.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Cyber leaders urge US to lift curbs on Anthropic's security models shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "tec-china-s-control-over-indium-phosphide-exports-th",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Iris Park",
+            "read": 4,
+            "title": {
+                  "en": "China's control over indium phosphide exports threatens AI data centre rollout",
+                  "zh": "中國對磷化銦出口的控制威脅人工智慧資料中心的推出"
+            },
+            "dek": {
+                  "en": "The report showed how AI, digital platforms and strategic technology controls are increasingly shaping industrial decisions and security planning.",
+                  "zh": "該報告展示了人工智慧、數位平臺和戰略技術控制如何日益影響工業決策和安全規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "中國對磷化銦出口的控制威脅人工智慧資料中心的推出。該報告展示了人工智慧、數位平臺和戰略技術控制如何日益影響工業決策和安全規劃。",
+                        "這個故事表明，技術競爭現在涵蓋了計算存取、平臺控制、估值敘述和治理。如果機構無法在創新速度的同時管理政策摩擦，它們將難以將技術優勢轉化為持久部署。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。中國對磷化銦出口的控制威脅人工智慧資料中心的推出這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "China's control over indium phosphide exports threatens AI data centre rollout. The report showed how AI, digital platforms and strategic technology controls are increasingly shaping industrial decisions and security planning.",
+                        "The story shows that technology competition now spans compute access, platform control, valuation narratives and governance. If institutions cannot manage policy friction alongside innovation speed, they will struggle to turn technical advantage into durable deployment.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in China's control over indium phosphide exports threatens AI data centre rollout shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "spo-cape-verde-frustrate-spain-on-stunning-world-cup",
+            "category": "sports",
+            "image": "stadium",
+            "lead": true,
+            "author": "Leo Huang",
+            "read": 6,
+            "title": {
+                  "en": "Cape Verde frustrate Spain on stunning World Cup debut as Vozinha stars",
+                  "zh": "維德角隊在世界盃首秀擊敗西班牙隊，由沃齊尼亞領銜主演"
+            },
+            "dek": {
+                  "en": "The story reflected how the 2026 World Cup is driving competition, politics and commercial attention well beyond the pitch.",
+                  "zh": "這個故事反映了 2026 年世界盃如何推動賽場之外的競爭、政治和商業關注。"
+            },
+            "body": {
+                  "zh": [
+                        "維德角隊在世界盃首秀擊敗西班牙隊，由沃齊尼亞領銜主演。這個故事反映了 2026 年世界盃如何推動賽場之外的競爭、政治和商業關注。",
+                        "這個故事表明，現在的重大體育賽事處於表演、政治、氣候和商業的交叉點。賽場上發生的事情可以迅速重塑贊助商的期望、主辦城市的規劃以及圍繞賽事的更廣泛的公眾情緒。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。維德角隊在世界盃首秀擊敗西班牙隊，由沃齊尼亞領銜主演這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Cape Verde frustrate Spain on stunning World Cup debut as Vozinha stars. The story reflected how the 2026 World Cup is driving competition, politics and commercial attention well beyond the pitch.",
+                        "The story shows that major sports events now sit at the intersection of performance, politics, climate and commerce. What happens on the field can quickly reshape sponsor expectations, host-city planning and the broader public mood around the tournament.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Cape Verde frustrate Spain on stunning World Cup debut as Vozinha stars shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "spo-saudi-arabia-sports-minister-vows-affordable-and",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Leo Huang",
+            "read": 5,
+            "title": {
+                  "en": "Saudi Arabia sports minister vows affordable and safe World Cup in 2034",
+                  "zh": "沙烏地阿拉伯體育部長誓言 2034 年舉辦經濟實惠且安全的世界盃"
+            },
+            "dek": {
+                  "en": "The story reflected how the 2026 World Cup is driving competition, politics and commercial attention well beyond the pitch.",
+                  "zh": "這個故事反映了 2026 年世界盃如何推動賽場之外的競爭、政治和商業關注。"
+            },
+            "body": {
+                  "zh": [
+                        "沙烏地阿拉伯體育部長誓言 2034 年舉辦經濟實惠且安全的世界盃。這個故事反映了 2026 年世界盃如何推動賽場之外的競爭、政治和商業關注。",
+                        "這個故事表明，現在的重大體育賽事處於表演、政治、氣候和商業的交叉點。賽場上發生的事情可以迅速重塑贊助商的期望、主辦城市的規劃以及圍繞賽事的更廣泛的公眾情緒。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。沙烏地阿拉伯體育部長誓言 2034 年舉辦經濟實惠且安全的世界盃這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Saudi Arabia sports minister vows affordable and safe World Cup in 2034. The story reflected how the 2026 World Cup is driving competition, politics and commercial attention well beyond the pitch.",
+                        "The story shows that major sports events now sit at the intersection of performance, politics, climate and commerce. What happens on the field can quickly reshape sponsor expectations, host-city planning and the broader public mood around the tournament.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Saudi Arabia sports minister vows affordable and safe World Cup in 2034 shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "spo-world-cup-fuels-popularity-of-soccer-in-hockey-m",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Leo Huang",
+            "read": 5,
+            "title": {
+                  "en": "World Cup fuels popularity of soccer in hockey-mad Canada",
+                  "zh": "世界盃在冰球熱潮的加拿大推動了足球運動的普及"
+            },
+            "dek": {
+                  "en": "The story reflected how the 2026 World Cup is driving competition, politics and commercial attention well beyond the pitch.",
+                  "zh": "這個故事反映了 2026 年世界盃如何推動賽場之外的競爭、政治和商業關注。"
+            },
+            "body": {
+                  "zh": [
+                        "世界盃在冰球熱潮的加拿大推動了足球運動的普及。這個故事反映了 2026 年世界盃如何推動賽場之外的競爭、政治和商業關注。",
+                        "這個故事表明，現在的重大體育賽事處於表演、政治、氣候和商業的交叉點。賽場上發生的事情可以迅速重塑贊助商的期望、主辦城市的規劃以及圍繞賽事的更廣泛的公眾情緒。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。世界盃在冰球熱潮的加拿大推動了足球運動的普及這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "World Cup fuels popularity of soccer in hockey-mad Canada. The story reflected how the 2026 World Cup is driving competition, politics and commercial attention well beyond the pitch.",
+                        "The story shows that major sports events now sit at the intersection of performance, politics, climate and commerce. What happens on the field can quickly reshape sponsor expectations, host-city planning and the broader public mood around the tournament.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in World Cup fuels popularity of soccer in hockey-mad Canada shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "spo-uruguay-held-to-1-1-draw-by-saudi-arabia-in-worl",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Leo Huang",
+            "read": 4,
+            "title": {
+                  "en": "Uruguay held to 1-1 draw by Saudi Arabia in World Cup opener",
+                  "zh": "世界盃揭幕戰烏拉圭1-1戰平沙烏地阿拉伯"
+            },
+            "dek": {
+                  "en": "The story reflected how the 2026 World Cup is driving competition, politics and commercial attention well beyond the pitch.",
+                  "zh": "這個故事反映了 2026 年世界盃如何推動賽場之外的競爭、政治和商業關注。"
+            },
+            "body": {
+                  "zh": [
+                        "世界盃揭幕戰烏拉圭1-1戰平沙烏地阿拉伯。這個故事反映了 2026 年世界盃如何推動賽場之外的競爭、政治和商業關注。",
+                        "這個故事表明，現在的重大體育賽事處於表演、政治、氣候和商業的交叉點。賽場上發生的事情可以迅速重塑贊助商的期望、主辦城市的規劃以及圍繞賽事的更廣泛的公眾情緒。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。世界盃揭幕戰烏拉圭1-1戰平沙烏地阿拉伯這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Uruguay held to 1-1 draw by Saudi Arabia in World Cup opener. The story reflected how the 2026 World Cup is driving competition, politics and commercial attention well beyond the pitch.",
+                        "The story shows that major sports events now sit at the intersection of performance, politics, climate and commerce. What happens on the field can quickly reshape sponsor expectations, host-city planning and the broader public mood around the tournament.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Uruguay held to 1-1 draw by Saudi Arabia in World Cup opener shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "spo-argentina-rally-around-competitive-animal-messi-",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Leo Huang",
+            "read": 4,
+            "title": {
+                  "en": "Argentina rally around 'competitive animal' Messi ahead of World Cup opener",
+                  "zh": "世界盃揭幕戰前，阿根廷團結在「競爭動物」梅西周圍"
+            },
+            "dek": {
+                  "en": "The story reflected how the 2026 World Cup is driving competition, politics and commercial attention well beyond the pitch.",
+                  "zh": "這個故事反映了 2026 年世界盃如何推動賽場之外的競爭、政治和商業關注。"
+            },
+            "body": {
+                  "zh": [
+                        "世界盃揭幕戰前，阿根廷團結在「競爭動物」梅西周圍。這個故事反映了 2026 年世界盃如何推動賽場之外的競爭、政治和商業關注。",
+                        "這個故事表明，現在的重大體育賽事處於表演、政治、氣候和商業的交叉點。賽場上發生的事情可以迅速重塑贊助商的期望、主辦城市的規劃以及圍繞賽事的更廣泛的公眾情緒。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。世界盃揭幕戰前，阿根廷團結在「競爭動物」梅西周圍這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Argentina rally around 'competitive animal' Messi ahead of World Cup opener. The story reflected how the 2026 World Cup is driving competition, politics and commercial attention well beyond the pitch.",
+                        "The story shows that major sports events now sit at the intersection of performance, politics, climate and commerce. What happens on the field can quickly reshape sponsor expectations, host-city planning and the broader public mood around the tournament.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Argentina rally around 'competitive animal' Messi ahead of World Cup opener shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "shi-global-shippers-cautious-on-hormuz-transit-despi",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 7,
+            "title": {
+                  "en": "Global shippers cautious on Hormuz transit despite US-Iran deal",
+                  "zh": "儘管美國與伊朗達成協議，全球託運人對霍爾木茲過境持謹慎態度"
+            },
+            "dek": {
+                  "en": "The update showed how maritime operators are still balancing route security, insurance exposure and cargo timing in a fragile environment.",
+                  "zh": "這項更新顯示了海運業者如何在脆弱的環境中平衡航線安全、保險風險和貨運時間。"
+            },
+            "body": {
+                  "zh": [
+                        "儘管美國與伊朗達成協議，全球託運人對霍爾木茲過境持謹慎態度。這項更新顯示了海運業者如何在脆弱的環境中平衡航線安全、保險風險和貨運時間。",
+                        "這個故事表明，航運風險不僅取決於距離，還取決於阻塞點、保險條件和安全保證的可信度。即使地區前景發生微小變化，也可能很快重新定價航線、時刻表和貨運決策。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。儘管美國與伊朗達成協議，全球託運人對霍爾木茲過境持謹慎態度這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Global shippers cautious on Hormuz transit despite US-Iran deal. The update showed how maritime operators are still balancing route security, insurance exposure and cargo timing in a fragile environment.",
+                        "The story shows that shipping risk is not determined by distance alone but by chokepoints, insurance conditions and the credibility of security guarantees. Even small changes in the regional outlook can reprice routes, schedules and cargo decisions very quickly.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Global shippers cautious on Hormuz transit despite US-Iran deal shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "shi-scouring-the-strait-of-hormuz-for-mines-could-ta",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Scouring the Strait of Hormuz for mines could take weeks",
+                  "zh": "在霍爾木茲海峽搜尋地雷可能需要數週時間"
+            },
+            "dek": {
+                  "en": "The update showed how maritime operators are still balancing route security, insurance exposure and cargo timing in a fragile environment.",
+                  "zh": "這項更新顯示了海運業者如何在脆弱的環境中平衡航線安全、保險風險和貨運時間。"
+            },
+            "body": {
+                  "zh": [
+                        "在霍爾木茲海峽搜尋地雷可能需要數週時間。這項更新顯示了海運業者如何在脆弱的環境中平衡航線安全、保險風險和貨運時間。",
+                        "這個故事表明，航運風險不僅取決於距離，還取決於阻塞點、保險條件和安全保證的可信度。即使地區前景發生微小變化，也可能很快重新定價航線、時刻表和貨運決策。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。在霍爾木茲海峽搜尋地雷可能需要數週時間這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Scouring the Strait of Hormuz for mines could take weeks. The update showed how maritime operators are still balancing route security, insurance exposure and cargo timing in a fragile environment.",
+                        "The story shows that shipping risk is not determined by distance alone but by chokepoints, insurance conditions and the credibility of security guarantees. Even small changes in the regional outlook can reprice routes, schedules and cargo decisions very quickly.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Scouring the Strait of Hormuz for mines could take weeks shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "shi-maersk-welcomes-us-iran-deal-but-makes-no-change",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Maersk welcomes US-Iran deal, but makes no change to Middle East operation yet",
+                  "zh": "馬士基歡迎美伊協議，但尚未改變中東業務"
+            },
+            "dek": {
+                  "en": "The update showed how maritime operators are still balancing route security, insurance exposure and cargo timing in a fragile environment.",
+                  "zh": "這項更新顯示了海運業者如何在脆弱的環境中平衡航線安全、保險風險和貨運時間。"
+            },
+            "body": {
+                  "zh": [
+                        "馬士基歡迎美伊協議，但尚未改變中東業務。這項更新顯示了海運業者如何在脆弱的環境中平衡航線安全、保險風險和貨運時間。",
+                        "這個故事表明，航運風險不僅取決於距離，還取決於阻塞點、保險條件和安全保證的可信度。即使地區前景發生微小變化，也可能很快重新定價航線、時刻表和貨運決策。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。馬士基歡迎美伊協議，但尚未改變中東業務這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Maersk welcomes US-Iran deal, but makes no change to Middle East operation yet. The update showed how maritime operators are still balancing route security, insurance exposure and cargo timing in a fragile environment.",
+                        "The story shows that shipping risk is not determined by distance alone but by chokepoints, insurance conditions and the credibility of security guarantees. Even small changes in the regional outlook can reprice routes, schedules and cargo decisions very quickly.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Maersk welcomes US-Iran deal, but makes no change to Middle East operation yet shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "shi-france-britain-push-hormuz-mission-as-truce-near",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "France, Britain push Hormuz mission as truce nears, but Iran’s stance key",
+                  "zh": "隨著休戰臨近，法國和英國推動霍爾木茲任務，但伊朗的立場至關重要"
+            },
+            "dek": {
+                  "en": "The update showed how maritime operators are still balancing route security, insurance exposure and cargo timing in a fragile environment.",
+                  "zh": "這項更新顯示了海運業者如何在脆弱的環境中平衡航線安全、保險風險和貨運時間。"
+            },
+            "body": {
+                  "zh": [
+                        "隨著休戰臨近，法國和英國推動霍爾木茲任務，但伊朗的立場至關重要。這項更新顯示了海運業者如何在脆弱的環境中平衡航線安全、保險風險和貨運時間。",
+                        "這個故事表明，航運風險不僅取決於距離，還取決於阻塞點、保險條件和安全保證的可信度。即使地區前景發生微小變化，也可能很快重新定價航線、時刻表和貨運決策。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。隨著休戰臨近，法國和英國推動霍爾木茲任務，但伊朗的立場至關重要這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "France, Britain push Hormuz mission as truce nears, but Iran’s stance key. The update showed how maritime operators are still balancing route security, insurance exposure and cargo timing in a fragile environment.",
+                        "The story shows that shipping risk is not determined by distance alone but by chokepoints, insurance conditions and the credibility of security guarantees. Even small changes in the regional outlook can reprice routes, schedules and cargo decisions very quickly.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in France, Britain push Hormuz mission as truce nears, but Iran’s stance key shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "shi-imo-definition-of-brazil-corn-ethanol-carbon-foo",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 4,
+            "title": {
+                  "en": "IMO definition of Brazil corn ethanol carbon footprint a landmark step, producers say",
+                  "zh": "生產商表示，國際海事組織對巴西玉米乙醇碳足跡的定義是具有里程碑意義的一步"
+            },
+            "dek": {
+                  "en": "The update showed how maritime operators are still balancing route security, insurance exposure and cargo timing in a fragile environment.",
+                  "zh": "這項更新顯示了海運業者如何在脆弱的環境中平衡航線安全、保險風險和貨運時間。"
+            },
+            "body": {
+                  "zh": [
+                        "生產商表示，國際海事組織對巴西玉米乙醇碳足跡的定義是具有里程碑意義的一步。這項更新顯示了海運業者如何在脆弱的環境中平衡航線安全、保險風險和貨運時間。",
+                        "這個故事表明，航運風險不僅取決於距離，還取決於阻塞點、保險條件和安全保證的可信度。即使地區前景發生微小變化，也可能很快重新定價航線、時刻表和貨運決策。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。生產商表示，國際海事組織對巴西玉米乙醇碳足跡的定義是具有里程碑意義的一步這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "IMO definition of Brazil corn ethanol carbon footprint a landmark step, producers say. The update showed how maritime operators are still balancing route security, insurance exposure and cargo timing in a fragile environment.",
+                        "The story shows that shipping risk is not determined by distance alone but by chokepoints, insurance conditions and the credibility of security guarantees. Even small changes in the regional outlook can reprice routes, schedules and cargo decisions very quickly.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in IMO definition of Brazil corn ethanol carbon footprint a landmark step, producers say shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "sup-eu-vote-on-us-trade-deal-is-set-to-bring-tariff-",
+            "category": "supply-chain",
+            "image": "factory",
+            "lead": true,
+            "author": "Nina Shah",
+            "read": 7,
+            "title": {
+                  "en": "EU vote on US trade deal is set to bring tariff peace, but for how long?",
+                  "zh": "歐盟對美國貿易協定的投票將帶來關稅和平，但能持續多久？"
+            },
+            "dek": {
+                  "en": "The report underscored how trade rules, industrial strategy and sourcing decisions continue to reshape cross-border production networks.",
+                  "zh": "該報告強調了貿易規則、產業戰略和採購決策如何繼續重塑跨境生產網路。"
+            },
+            "body": {
+                  "zh": [
+                        "歐盟對美國貿易協定的投票將帶來關稅和平，但能持續多久？。該報告強調了貿易規則、產業戰略和採購決策如何繼續重塑跨境生產網路。",
+                        "這個故事表明，供應鏈的重組不僅受到成本的影響，還受到關稅、許可、彈性規劃和國內政治壓力的影響。對製造商來說，營運問題日益成為在下一次政策轉變到來之前將產能放在哪裡。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。歐盟對美國貿易協定的投票將帶來關稅和平，但能持續多久？這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "EU vote on US trade deal is set to bring tariff peace, but for how long?. The report underscored how trade rules, industrial strategy and sourcing decisions continue to reshape cross-border production networks.",
+                        "The story shows that supply chains are being reorganised not only by cost but also by tariffs, licensing, resilience planning and domestic political pressure. For manufacturers, the operational question is increasingly where to place capacity before the next policy shift arrives.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in EU vote on US trade deal is set to bring tariff peace, but for how long? shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "sup-soaring-scrap-aluminium-exports-threaten-uk-defe",
+            "category": "supply-chain",
+            "image": "factory",
+            "lead": false,
+            "author": "Nina Shah",
+            "read": 6,
+            "title": {
+                  "en": "Soaring scrap aluminium exports threaten UK defence, auto supply chains, industry group says",
+                  "zh": "產業組織稱廢鋁出口飆升威脅英國國防和汽車供應鏈"
+            },
+            "dek": {
+                  "en": "The report underscored how trade rules, industrial strategy and sourcing decisions continue to reshape cross-border production networks.",
+                  "zh": "該報告強調了貿易規則、產業戰略和採購決策如何繼續重塑跨境生產網路。"
+            },
+            "body": {
+                  "zh": [
+                        "產業組織稱廢鋁出口飆升威脅英國國防和汽車供應鏈。該報告強調了貿易規則、產業戰略和採購決策如何繼續重塑跨境生產網路。",
+                        "這個故事表明，供應鏈的重組不僅受到成本的影響，還受到關稅、許可、彈性規劃和國內政治壓力的影響。對製造商來說，營運問題日益成為在下一次政策轉變到來之前將產能放在哪裡。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。產業組織稱廢鋁出口飆升威脅英國國防和汽車供應鏈這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Soaring scrap aluminium exports threaten UK defence, auto supply chains, industry group says. The report underscored how trade rules, industrial strategy and sourcing decisions continue to reshape cross-border production networks.",
+                        "The story shows that supply chains are being reorganised not only by cost but also by tariffs, licensing, resilience planning and domestic political pressure. For manufacturers, the operational question is increasingly where to place capacity before the next policy shift arrives.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Soaring scrap aluminium exports threaten UK defence, auto supply chains, industry group says shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "sup-us-connected-car-rule-prompts-ford-other-automak",
+            "category": "supply-chain",
+            "image": "factory",
+            "lead": false,
+            "author": "Nina Shah",
+            "read": 5,
+            "title": {
+                  "en": "US connected-car rule prompts Ford, other automakers to seek licenses for China-built models",
+                  "zh": "美國連網汽車規則促使福特和其他汽車製造商為中國製造的車型尋求許可"
+            },
+            "dek": {
+                  "en": "The report underscored how trade rules, industrial strategy and sourcing decisions continue to reshape cross-border production networks.",
+                  "zh": "該報告強調了貿易規則、產業戰略和採購決策如何繼續重塑跨境生產網路。"
+            },
+            "body": {
+                  "zh": [
+                        "美國連網汽車規則促使福特和其他汽車製造商為中國製造的車型尋求許可。該報告強調了貿易規則、產業戰略和採購決策如何繼續重塑跨境生產網路。",
+                        "這個故事表明，供應鏈的重組不僅受到成本的影響，還受到關稅、許可、彈性規劃和國內政治壓力的影響。對製造商來說，營運問題日益成為在下一次政策轉變到來之前將產能放在哪裡。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。美國連網汽車規則促使福特和其他汽車製造商為中國製造的車型尋求許可這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "US connected-car rule prompts Ford, other automakers to seek licenses for China-built models. The report underscored how trade rules, industrial strategy and sourcing decisions continue to reshape cross-border production networks.",
+                        "The story shows that supply chains are being reorganised not only by cost but also by tariffs, licensing, resilience planning and domestic political pressure. For manufacturers, the operational question is increasingly where to place capacity before the next policy shift arrives.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in US connected-car rule prompts Ford, other automakers to seek licenses for China-built models shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "sup-us-factory-production-flat-in-may-ai-investment-",
+            "category": "supply-chain",
+            "image": "factory",
+            "lead": false,
+            "author": "Nina Shah",
+            "read": 5,
+            "title": {
+                  "en": "US factory production flat in May; AI investment supporting manufacturing",
+                  "zh": "5月美國工廠產量持平； AI投資支援製造業"
+            },
+            "dek": {
+                  "en": "The report underscored how trade rules, industrial strategy and sourcing decisions continue to reshape cross-border production networks.",
+                  "zh": "該報告強調了貿易規則、產業戰略和採購決策如何繼續重塑跨境生產網路。"
+            },
+            "body": {
+                  "zh": [
+                        "5月美國工廠產量持平； AI投資支援製造業。該報告強調了貿易規則、產業戰略和採購決策如何繼續重塑跨境生產網路。",
+                        "這個故事表明，供應鏈的重組不僅受到成本的影響，還受到關稅、許可、彈性規劃和國內政治壓力的影響。對製造商來說，營運問題日益成為在下一次政策轉變到來之前將產能放在哪裡。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。5月美國工廠產量持平； AI投資支援製造業這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "US factory production flat in May; AI investment supporting manufacturing. The report underscored how trade rules, industrial strategy and sourcing decisions continue to reshape cross-border production networks.",
+                        "The story shows that supply chains are being reorganised not only by cost but also by tariffs, licensing, resilience planning and domestic political pressure. For manufacturers, the operational question is increasingly where to place capacity before the next policy shift arrives.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in US factory production flat in May; AI investment supporting manufacturing shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "sup-global-drugmakers-invest-billions-to-boost-us-pr",
+            "category": "supply-chain",
+            "image": "factory",
+            "lead": false,
+            "author": "Nina Shah",
+            "read": 4,
+            "title": {
+                  "en": "Global drugmakers invest billions to boost US presence",
+                  "zh": "全球製藥商投資數十億美元以擴大在美國的影響力"
+            },
+            "dek": {
+                  "en": "The report underscored how trade rules, industrial strategy and sourcing decisions continue to reshape cross-border production networks.",
+                  "zh": "該報告強調了貿易規則、產業戰略和採購決策如何繼續重塑跨境生產網路。"
+            },
+            "body": {
+                  "zh": [
+                        "全球製藥商投資數十億美元以擴大在美國的影響力。該報告強調了貿易規則、產業戰略和採購決策如何繼續重塑跨境生產網路。",
+                        "這個故事表明，供應鏈的重組不僅受到成本的影響，還受到關稅、許可、彈性規劃和國內政治壓力的影響。對製造商來說，營運問題日益成為在下一次政策轉變到來之前將產能放在哪裡。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。全球製藥商投資數十億美元以擴大在美國的影響力這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Global drugmakers invest billions to boost US presence. The report underscored how trade rules, industrial strategy and sourcing decisions continue to reshape cross-border production networks.",
+                        "The story shows that supply chains are being reorganised not only by cost but also by tariffs, licensing, resilience planning and domestic political pressure. For manufacturers, the operational question is increasingly where to place capacity before the next policy shift arrives.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Global drugmakers invest billions to boost US presence shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "eco-peru-s-economy-beats-expectations-up-3-7-in-apri",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": true,
+            "author": "Priya Raman",
+            "read": 7,
+            "title": {
+                  "en": "Peru's economy beats expectations, up 3.7% in April",
+                  "zh": "秘魯4月經濟超預期成長3.7%"
+            },
+            "dek": {
+                  "en": "The development showed how policy expectations, commodity moves and investor sentiment are rapidly feeding into the global outlook.",
+                  "zh": "這一事態發展顯示政策預期、大宗商品走勢和投資者情緒正在迅速影響全球前景。"
+            },
+            "body": {
+                  "zh": [
+                        "秘魯4月經濟超預期成長3.7%。這一事態發展顯示政策預期、大宗商品走勢和投資者情緒正在迅速影響全球前景。",
+                        "這個故事表明，市場仍在對利率、成長訊號、能源價格和地緣政治風險的嚴格組合做出反應。看似單一的宏觀標題可能會迅速影響各地區的貨幣、股票、借貸條件和信心。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。秘魯4月經濟超預期成長3.7%這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Peru's economy beats expectations, up 3.7% in April. The development showed how policy expectations, commodity moves and investor sentiment are rapidly feeding into the global outlook.",
+                        "The story shows that markets are still reacting to a tight mix of rates, growth signals, energy prices and geopolitical risk. What looks like a single macro headline can quickly affect currencies, equities, borrowing conditions and confidence across regions.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Peru's economy beats expectations, up 3.7% in April shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "eco-wall-street-rallies-dow-ends-with-record-on-us-i",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Priya Raman",
+            "read": 6,
+            "title": {
+                  "en": "Wall Street rallies, Dow ends with record on US-Iran deal, oil price slide",
+                  "zh": "華爾街反彈，道瓊工業指數收盤，美伊協議創歷史新高，油價下滑"
+            },
+            "dek": {
+                  "en": "The development showed how policy expectations, commodity moves and investor sentiment are rapidly feeding into the global outlook.",
+                  "zh": "這一事態發展顯示政策預期、大宗商品走勢和投資者情緒正在迅速影響全球前景。"
+            },
+            "body": {
+                  "zh": [
+                        "華爾街反彈，道瓊工業指數收盤，美伊協議創歷史新高，油價下滑。這一事態發展顯示政策預期、大宗商品走勢和投資者情緒正在迅速影響全球前景。",
+                        "這個故事表明，市場仍在對利率、成長訊號、能源價格和地緣政治風險的嚴格組合做出反應。看似單一的宏觀標題可能會迅速影響各地區的貨幣、股票、借貸條件和信心。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。華爾街反彈，道瓊工業指數收盤，美伊協議創歷史新高，油價下滑這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Wall Street rallies, Dow ends with record on US-Iran deal, oil price slide. The development showed how policy expectations, commodity moves and investor sentiment are rapidly feeding into the global outlook.",
+                        "The story shows that markets are still reacting to a tight mix of rates, growth signals, energy prices and geopolitical risk. What looks like a single macro headline can quickly affect currencies, equities, borrowing conditions and confidence across regions.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Wall Street rallies, Dow ends with record on US-Iran deal, oil price slide shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "eco-china-s-may-retail-sales-fall-for-first-time-in-",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Priya Raman",
+            "read": 5,
+            "title": {
+                  "en": "China's May retail sales fall for first time in over three years",
+                  "zh": "中國5月零售額三年多來首度下降"
+            },
+            "dek": {
+                  "en": "The development showed how policy expectations, commodity moves and investor sentiment are rapidly feeding into the global outlook.",
+                  "zh": "這一事態發展顯示政策預期、大宗商品走勢和投資者情緒正在迅速影響全球前景。"
+            },
+            "body": {
+                  "zh": [
+                        "中國5月零售額三年多來首度下降。這一事態發展顯示政策預期、大宗商品走勢和投資者情緒正在迅速影響全球前景。",
+                        "這個故事表明，市場仍在對利率、成長訊號、能源價格和地緣政治風險的嚴格組合做出反應。看似單一的宏觀標題可能會迅速影響各地區的貨幣、股票、借貸條件和信心。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。中國5月零售額三年多來首度下降這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "China's May retail sales fall for first time in over three years. The development showed how policy expectations, commodity moves and investor sentiment are rapidly feeding into the global outlook.",
+                        "The story shows that markets are still reacting to a tight mix of rates, growth signals, energy prices and geopolitical risk. What looks like a single macro headline can quickly affect currencies, equities, borrowing conditions and confidence across regions.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in China's May retail sales fall for first time in over three years shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "eco-asia-markets-temper-iran-deal-optimism-boj-decis",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Priya Raman",
+            "read": 5,
+            "title": {
+                  "en": "Asia markets temper Iran deal optimism, BOJ decision in view",
+                  "zh": "亞洲市場緩和伊朗協議的樂觀情緒，日本央行即將做出決定"
+            },
+            "dek": {
+                  "en": "The development showed how policy expectations, commodity moves and investor sentiment are rapidly feeding into the global outlook.",
+                  "zh": "這一事態發展顯示政策預期、大宗商品走勢和投資者情緒正在迅速影響全球前景。"
+            },
+            "body": {
+                  "zh": [
+                        "亞洲市場緩和伊朗協議的樂觀情緒，日本央行即將做出決定。這一事態發展顯示政策預期、大宗商品走勢和投資者情緒正在迅速影響全球前景。",
+                        "這個故事表明，市場仍在對利率、成長訊號、能源價格和地緣政治風險的嚴格組合做出反應。看似單一的宏觀標題可能會迅速影響各地區的貨幣、股票、借貸條件和信心。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。亞洲市場緩和伊朗協議的樂觀情緒，日本央行即將做出決定這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Asia markets temper Iran deal optimism, BOJ decision in view. The development showed how policy expectations, commodity moves and investor sentiment are rapidly feeding into the global outlook.",
+                        "The story shows that markets are still reacting to a tight mix of rates, growth signals, energy prices and geopolitical risk. What looks like a single macro headline can quickly affect currencies, equities, borrowing conditions and confidence across regions.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Asia markets temper Iran deal optimism, BOJ decision in view shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "eco-taiwan-likely-to-hold-rates-steady-but-inflation",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Priya Raman",
+            "read": 4,
+            "title": {
+                  "en": "Taiwan likely to hold rates steady but inflation a concern ahead",
+                  "zh": "臺灣可能維持利率穩定，但未來通膨令人擔憂"
+            },
+            "dek": {
+                  "en": "The development showed how policy expectations, commodity moves and investor sentiment are rapidly feeding into the global outlook.",
+                  "zh": "這一事態發展顯示政策預期、大宗商品走勢和投資者情緒正在迅速影響全球前景。"
+            },
+            "body": {
+                  "zh": [
+                        "臺灣可能維持利率穩定，但未來通膨令人擔憂。這一事態發展顯示政策預期、大宗商品走勢和投資者情緒正在迅速影響全球前景。",
+                        "這個故事表明，市場仍在對利率、成長訊號、能源價格和地緣政治風險的嚴格組合做出反應。看似單一的宏觀標題可能會迅速影響各地區的貨幣、股票、借貸條件和信心。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。臺灣可能維持利率穩定，但未來通膨令人擔憂這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Taiwan likely to hold rates steady but inflation a concern ahead. The development showed how policy expectations, commodity moves and investor sentiment are rapidly feeding into the global outlook.",
+                        "The story shows that markets are still reacting to a tight mix of rates, growth signals, energy prices and geopolitical risk. What looks like a single macro headline can quickly affect currencies, equities, borrowing conditions and confidence across regions.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Taiwan likely to hold rates steady but inflation a concern ahead shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "ene-brazil-farm-auctions-explode-as-rural-debt-spira",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": true,
+            "author": "Amara Okafor",
+            "read": 7,
+            "title": {
+                  "en": "Brazil farm auctions explode as rural debt spirals in a changing climate",
+                  "zh": "隨著氣候變遷導致農村債務螺旋上升，巴西農場拍賣激增"
+            },
+            "dek": {
+                  "en": "The update highlighted how energy pricing, climate pressures and physical resource constraints are increasingly influencing each other.",
+                  "zh": "該更新強調了能源定價、氣候壓力和物質資源限制如何日益相互影響。"
+            },
+            "body": {
+                  "zh": [
+                        "隨著氣候變遷導致農村債務螺旋上升，巴西農場拍賣激增。該更新強調了能源定價、氣候壓力和物質資源限制如何日益相互影響。",
+                        "這個故事表明，能源和氣候風險現在透過定價、天氣破壞、資源規劃和公共政策緊密聯絡在一起。系統某部分受到的衝擊可能會迅速波及食品成本、工業利潤或國家能源安全。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。隨著氣候變遷導致農村債務螺旋上升，巴西農場拍賣激增這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Brazil farm auctions explode as rural debt spirals in a changing climate. The update highlighted how energy pricing, climate pressures and physical resource constraints are increasingly influencing each other.",
+                        "The story shows that energy and climate risks are now tightly linked through pricing, weather disruption, resource planning and public policy. A shock in one part of the system can quickly spill into food costs, industrial margins or national energy security.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Brazil farm auctions explode as rural debt spirals in a changing climate shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "ene-stocks-of-oil-in-us-strategic-petroleum-reserve-",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Amara Okafor",
+            "read": 6,
+            "title": {
+                  "en": "Stocks of oil in US Strategic Petroleum Reserve falls to lowest since 1983",
+                  "zh": "美國戰略石油儲備中的石油庫存跌至1983年以來的最低水平"
+            },
+            "dek": {
+                  "en": "The update highlighted how energy pricing, climate pressures and physical resource constraints are increasingly influencing each other.",
+                  "zh": "該更新強調了能源定價、氣候壓力和物質資源限制如何日益相互影響。"
+            },
+            "body": {
+                  "zh": [
+                        "美國戰略石油儲備中的石油庫存跌至1983年以來的最低水平。該更新強調了能源定價、氣候壓力和物質資源限制如何日益相互影響。",
+                        "這個故事表明，能源和氣候風險現在透過定價、天氣破壞、資源規劃和公共政策緊密聯絡在一起。系統某部分受到的衝擊可能會迅速波及食品成本、工業利潤或國家能源安全。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。美國戰略石油儲備中的石油庫存跌至1983年以來的最低水平這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Stocks of oil in US Strategic Petroleum Reserve falls to lowest since 1983. The update highlighted how energy pricing, climate pressures and physical resource constraints are increasingly influencing each other.",
+                        "The story shows that energy and climate risks are now tightly linked through pricing, weather disruption, resource planning and public policy. A shock in one part of the system can quickly spill into food costs, industrial margins or national energy security.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Stocks of oil in US Strategic Petroleum Reserve falls to lowest since 1983 shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "ene-rains-disrupt-brazil-coffee-harvest-raising-dise",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Amara Okafor",
+            "read": 5,
+            "title": {
+                  "en": "Rains disrupt Brazil coffee harvest, raising disease risk",
+                  "zh": "降雨擾亂了巴西咖啡的收成，增加了疾病風險"
+            },
+            "dek": {
+                  "en": "The update highlighted how energy pricing, climate pressures and physical resource constraints are increasingly influencing each other.",
+                  "zh": "該更新強調了能源定價、氣候壓力和物質資源限制如何日益相互影響。"
+            },
+            "body": {
+                  "zh": [
+                        "降雨擾亂了巴西咖啡的收成，增加了疾病風險。該更新強調了能源定價、氣候壓力和物質資源限制如何日益相互影響。",
+                        "這個故事表明，能源和氣候風險現在透過定價、天氣破壞、資源規劃和公共政策緊密聯絡在一起。系統某部分受到的衝擊可能會迅速波及食品成本、工業利潤或國家能源安全。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。降雨擾亂了巴西咖啡的收成，增加了疾病風險這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Rains disrupt Brazil coffee harvest, raising disease risk. The update highlighted how energy pricing, climate pressures and physical resource constraints are increasingly influencing each other.",
+                        "The story shows that energy and climate risks are now tightly linked through pricing, weather disruption, resource planning and public policy. A shock in one part of the system can quickly spill into food costs, industrial margins or national energy security.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Rains disrupt Brazil coffee harvest, raising disease risk shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "ene-us-energy-shares-slump-as-iran-deal-lowers-hormu",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Amara Okafor",
+            "read": 5,
+            "title": {
+                  "en": "US energy shares slump as Iran deal lowers Hormuz supply disruption risk",
+                  "zh": "伊朗協議降低霍爾木茲供應中斷風險，美國能源股暴跌"
+            },
+            "dek": {
+                  "en": "The update highlighted how energy pricing, climate pressures and physical resource constraints are increasingly influencing each other.",
+                  "zh": "該更新強調了能源定價、氣候壓力和物質資源限制如何日益相互影響。"
+            },
+            "body": {
+                  "zh": [
+                        "伊朗協議降低霍爾木茲供應中斷風險，美國能源股暴跌。該更新強調了能源定價、氣候壓力和物質資源限制如何日益相互影響。",
+                        "這個故事表明，能源和氣候風險現在透過定價、天氣破壞、資源規劃和公共政策緊密聯絡在一起。系統某部分受到的衝擊可能會迅速波及食品成本、工業利潤或國家能源安全。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。伊朗協議降低霍爾木茲供應中斷風險，美國能源股暴跌這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "US energy shares slump as Iran deal lowers Hormuz supply disruption risk. The update highlighted how energy pricing, climate pressures and physical resource constraints are increasingly influencing each other.",
+                        "The story shows that energy and climate risks are now tightly linked through pricing, weather disruption, resource planning and public policy. A shock in one part of the system can quickly spill into food costs, industrial margins or national energy security.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in US energy shares slump as Iran deal lowers Hormuz supply disruption risk shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "ene-oil-settles-at-three-month-low-after-trump-says-",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Amara Okafor",
+            "read": 4,
+            "title": {
+                  "en": "Oil settles at three-month low after Trump says deal signed to end Iran war",
+                  "zh": "川普表示簽署協議以結束伊朗戰爭後油價收在三個月低點"
+            },
+            "dek": {
+                  "en": "The update highlighted how energy pricing, climate pressures and physical resource constraints are increasingly influencing each other.",
+                  "zh": "該更新強調了能源定價、氣候壓力和物質資源限制如何日益相互影響。"
+            },
+            "body": {
+                  "zh": [
+                        "川普表示簽署協議以結束伊朗戰爭後油價收在三個月低點。該更新強調了能源定價、氣候壓力和物質資源限制如何日益相互影響。",
+                        "這個故事表明，能源和氣候風險現在透過定價、天氣破壞、資源規劃和公共政策緊密聯絡在一起。系統某部分受到的衝擊可能會迅速波及食品成本、工業利潤或國家能源安全。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。川普表示簽署協議以結束伊朗戰爭後油價收在三個月低點這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Oil settles at three-month low after Trump says deal signed to end Iran war. The update highlighted how energy pricing, climate pressures and physical resource constraints are increasingly influencing each other.",
+                        "The story shows that energy and climate risks are now tightly linked through pricing, weather disruption, resource planning and public policy. A shock in one part of the system can quickly spill into food costs, industrial margins or national energy security.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Oil settles at three-month low after Trump says deal signed to end Iran war shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "pol-airbus-ceo-criticises-europe-s-regulatory-costs-",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": true,
+            "author": "Leila Haddad",
+            "read": 7,
+            "title": {
+                  "en": "Airbus CEO criticises Europe's regulatory costs as it opens new line",
+                  "zh": "空中巴士執行長批評歐洲新航線開通時的監管成本"
+            },
+            "dek": {
+                  "en": "The report showed how new rules, enforcement choices and compliance costs are becoming central to corporate strategy.",
+                  "zh": "該報告展示了新規則、執行選擇和合規成本如何成為企業策略的核心。"
+            },
+            "body": {
+                  "zh": [
+                        "空中巴士執行長批評歐洲新航線開通時的監管成本。該報告展示了新規則、執行選擇和合規成本如何成為企業策略的核心。",
+                        "這個故事表明，監管不再是背景約束，而是塑造投資、市場准入和公司結構的正面力量。對於高階主管和政策制定者來說，關鍵問題是新規則是否會帶來清晰度或增加另一層不確定性。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。空中巴士執行長批評歐洲新航線開通時的監管成本這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Airbus CEO criticises Europe's regulatory costs as it opens new line. The report showed how new rules, enforcement choices and compliance costs are becoming central to corporate strategy.",
+                        "The story shows that regulation is no longer a background constraint but an active force shaping investment, market access and corporate structure. For executives and policymakers alike, the key issue is whether new rules create clarity or add another layer of uncertainty.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Airbus CEO criticises Europe's regulatory costs as it opens new line shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "pol-stanley-woodward-to-run-us-doj-s-antitrust-divis",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Leila Haddad",
+            "read": 6,
+            "title": {
+                  "en": "Stanley Woodward to run US DOJ's antitrust division, MLex reports",
+                  "zh": "MLex 報導稱，史丹利·伍德沃德將負責美國司法部的反壟斷部門"
+            },
+            "dek": {
+                  "en": "The report showed how new rules, enforcement choices and compliance costs are becoming central to corporate strategy.",
+                  "zh": "該報告展示了新規則、執行選擇和合規成本如何成為企業策略的核心。"
+            },
+            "body": {
+                  "zh": [
+                        "MLex 報導稱，史丹利·伍德沃德將負責美國司法部的反壟斷部門。該報告展示了新規則、執行選擇和合規成本如何成為企業策略的核心。",
+                        "這個故事表明，監管不再是背景約束，而是塑造投資、市場准入和公司結構的正面力量。對於高階主管和政策制定者來說，關鍵問題是新規則是否會帶來清晰度或增加另一層不確定性。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。MLex 報導稱，史丹利·伍德沃德將負責美國司法部的反壟斷部門這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Stanley Woodward to run US DOJ's antitrust division, MLex reports. The report showed how new rules, enforcement choices and compliance costs are becoming central to corporate strategy.",
+                        "The story shows that regulation is no longer a background constraint but an active force shaping investment, market access and corporate structure. For executives and policymakers alike, the key issue is whether new rules create clarity or add another layer of uncertainty.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Stanley Woodward to run US DOJ's antitrust division, MLex reports shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "pol-us-connected-car-rule-prompts-ford-other-automak",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Leila Haddad",
+            "read": 5,
+            "title": {
+                  "en": "US connected-car rule prompts Ford, other automakers to seek licenses for China-built models",
+                  "zh": "美國連網汽車規則促使福特和其他汽車製造商為中國製造的車型尋求許可"
+            },
+            "dek": {
+                  "en": "The report showed how new rules, enforcement choices and compliance costs are becoming central to corporate strategy.",
+                  "zh": "該報告展示了新規則、執行選擇和合規成本如何成為企業策略的核心。"
+            },
+            "body": {
+                  "zh": [
+                        "美國連網汽車規則促使福特和其他汽車製造商為中國製造的車型尋求許可。該報告展示了新規則、執行選擇和合規成本如何成為企業策略的核心。",
+                        "這個故事表明，監管不再是背景約束，而是塑造投資、市場准入和公司結構的正面力量。對於高階主管和政策制定者來說，關鍵問題是新規則是否會帶來清晰度或增加另一層不確定性。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。美國連網汽車規則促使福特和其他汽車製造商為中國製造的車型尋求許可這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "US connected-car rule prompts Ford, other automakers to seek licenses for China-built models. The report showed how new rules, enforcement choices and compliance costs are becoming central to corporate strategy.",
+                        "The story shows that regulation is no longer a background constraint but an active force shaping investment, market access and corporate structure. For executives and policymakers alike, the key issue is whether new rules create clarity or add another layer of uncertainty.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in US connected-car rule prompts Ford, other automakers to seek licenses for China-built models shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "pol-russia-slashes-fuel-quality-rules-to-stave-off-s",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Leila Haddad",
+            "read": 5,
+            "title": {
+                  "en": "Russia slashes fuel quality rules to stave off shortages, Kommersant reports",
+                  "zh": "據《生意人報》報道，俄羅斯大幅削減燃油品質規定以避免短缺"
+            },
+            "dek": {
+                  "en": "The report showed how new rules, enforcement choices and compliance costs are becoming central to corporate strategy.",
+                  "zh": "該報告展示了新規則、執行選擇和合規成本如何成為企業策略的核心。"
+            },
+            "body": {
+                  "zh": [
+                        "據《生意人報》報道，俄羅斯大幅削減燃油品質規定以避免短缺。該報告展示了新規則、執行選擇和合規成本如何成為企業策略的核心。",
+                        "這個故事表明，監管不再是背景約束，而是塑造投資、市場准入和公司結構的正面力量。對於高階主管和政策制定者來說，關鍵問題是新規則是否會帶來清晰度或增加另一層不確定性。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。據《生意人報》報道，俄羅斯大幅削減燃油品質規定以避免短缺這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Russia slashes fuel quality rules to stave off shortages, Kommersant reports. The report showed how new rules, enforcement choices and compliance costs are becoming central to corporate strategy.",
+                        "The story shows that regulation is no longer a background constraint but an active force shaping investment, market access and corporate structure. For executives and policymakers alike, the key issue is whether new rules create clarity or add another layer of uncertainty.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Russia slashes fuel quality rules to stave off shortages, Kommersant reports shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "pol-indian-cenbank-tightens-rules-to-curb-mis-sellin",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Leila Haddad",
+            "read": 4,
+            "title": {
+                  "en": "Indian cenbank tightens rules to curb mis-selling by lenders, bans 'dark patterns'",
+                  "zh": "印度中央銀行收緊規則，遏制貸款機構不當銷售，禁止“黑暗模式”"
+            },
+            "dek": {
+                  "en": "The report showed how new rules, enforcement choices and compliance costs are becoming central to corporate strategy.",
+                  "zh": "該報告展示了新規則、執行選擇和合規成本如何成為企業策略的核心。"
+            },
+            "body": {
+                  "zh": [
+                        "印度中央銀行收緊規則，遏制貸款機構不當銷售，禁止“黑暗模式”。該報告展示了新規則、執行選擇和合規成本如何成為企業策略的核心。",
+                        "這個故事表明，監管不再是背景約束，而是塑造投資、市場准入和公司結構的正面力量。對於高階主管和政策制定者來說，關鍵問題是新規則是否會帶來清晰度或增加另一層不確定性。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。印度中央銀行收緊規則，遏制貸款機構不當銷售，禁止“黑暗模式”這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Indian cenbank tightens rules to curb mis-selling by lenders, bans 'dark patterns'. The report showed how new rules, enforcement choices and compliance costs are becoming central to corporate strategy.",
+                        "The story shows that regulation is no longer a background constraint but an active force shaping investment, market access and corporate structure. For executives and policymakers alike, the key issue is whether new rules create clarity or add another layer of uncertainty.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Indian cenbank tightens rules to curb mis-selling by lenders, bans 'dark patterns' shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-cyber-leaders-urge-us-to-lift-curbs-on-anthropic",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": true,
+            "author": "Ethan Lin",
+            "read": 7,
+            "title": {
+                  "en": "Cyber leaders urge US to lift curbs on Anthropic's security models",
+                  "zh": "網路領導人敦促美國取消對 Anthropic 安全模型的限制"
+            },
+            "dek": {
+                  "en": "The story underscored how cyber defense, software vulnerability management and AI-enabled threats are converging more quickly.",
+                  "zh": "這個故事強調了網路防禦、軟體漏洞管理和人工智慧威脅如何更快地融合。"
+            },
+            "body": {
+                  "zh": [
+                        "網路領導人敦促美國取消對 Anthropic 安全模型的限制。這個故事強調了網路防禦、軟體漏洞管理和人工智慧威脅如何更快地融合。",
+                        "這個故事表明，網路安全現在處於軟體缺陷、國家競爭和人工智慧輔助攻擊工具的交叉點。防禦能力越來越取決於機構是否能夠縮短發現弱點和採取行動之間的差距。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。網路領導人敦促美國取消對 Anthropic 安全模型的限制這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Cyber leaders urge US to lift curbs on Anthropic's security models. The story underscored how cyber defense, software vulnerability management and AI-enabled threats are converging more quickly.",
+                        "The story shows that cybersecurity now sits at the intersection of software flaws, state competition and AI-assisted attack tools. Defensive capacity increasingly depends on whether institutions can shorten the gap between detecting a weakness and acting on it.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Cyber leaders urge US to lift curbs on Anthropic's security models shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-eu-extends-emergency-cyber-security-support-to-u",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Ethan Lin",
+            "read": 6,
+            "title": {
+                  "en": "EU extends emergency cyber security support to Ukraine",
+                  "zh": "歐盟向烏克蘭提供緊急網路安全支援"
+            },
+            "dek": {
+                  "en": "The story underscored how cyber defense, software vulnerability management and AI-enabled threats are converging more quickly.",
+                  "zh": "這個故事強調了網路防禦、軟體漏洞管理和人工智慧威脅如何更快地融合。"
+            },
+            "body": {
+                  "zh": [
+                        "歐盟向烏克蘭提供緊急網路安全支援。這個故事強調了網路防禦、軟體漏洞管理和人工智慧威脅如何更快地融合。",
+                        "這個故事表明，網路安全現在處於軟體缺陷、國家競爭和人工智慧輔助攻擊工具的交叉點。防禦能力越來越取決於機構是否能夠縮短發現弱點和採取行動之間的差距。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。歐盟向烏克蘭提供緊急網路安全支援這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "EU extends emergency cyber security support to Ukraine. The story underscored how cyber defense, software vulnerability management and AI-enabled threats are converging more quickly.",
+                        "The story shows that cybersecurity now sits at the intersection of software flaws, state competition and AI-assisted attack tools. Defensive capacity increasingly depends on whether institutions can shorten the gap between detecting a weakness and acting on it.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in EU extends emergency cyber security support to Ukraine shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-us-cybersecurity-firm-n-able-opens-india-gcc-pla",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Ethan Lin",
+            "read": 5,
+            "title": {
+                  "en": "US cybersecurity firm N-able opens India GCC, plans 50% local workforce expansion by end-2026",
+                  "zh": "美國網路安全公司 N-able 在印度開設 GCC，計畫在 2026 年底將本地勞動力擴張 50%"
+            },
+            "dek": {
+                  "en": "The story underscored how cyber defense, software vulnerability management and AI-enabled threats are converging more quickly.",
+                  "zh": "這個故事強調了網路防禦、軟體漏洞管理和人工智慧威脅如何更快地融合。"
+            },
+            "body": {
+                  "zh": [
+                        "美國網路安全公司 N-able 在印度開設 GCC，計畫在 2026 年底將本地勞動力擴張 50%。這個故事強調了網路防禦、軟體漏洞管理和人工智慧威脅如何更快地融合。",
+                        "這個故事表明，網路安全現在處於軟體缺陷、國家競爭和人工智慧輔助攻擊工具的交叉點。防禦能力越來越取決於機構是否能夠縮短發現弱點和採取行動之間的差距。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。美國網路安全公司 N-able 在印度開設 GCC，計畫在 2026 年底將本地勞動力擴張 50%這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "US cybersecurity firm N-able opens India GCC, plans 50% local workforce expansion by end-2026. The story underscored how cyber defense, software vulnerability management and AI-enabled threats are converging more quickly.",
+                        "The story shows that cybersecurity now sits at the intersection of software flaws, state competition and AI-assisted attack tools. Defensive capacity increasingly depends on whether institutions can shorten the gap between detecting a weakness and acting on it.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in US cybersecurity firm N-able opens India GCC, plans 50% local workforce expansion by end-2026 shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-chinese-linked-hackers-targeted-u-s-canadian-res",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Ethan Lin",
+            "read": 5,
+            "title": {
+                  "en": "Chinese-linked hackers targeted U.S.,Canadian research facilities for a year, Google says",
+                  "zh": "谷歌稱，與中國有關的駭客針對美國和加拿大的研究設施進行了一年的攻擊"
+            },
+            "dek": {
+                  "en": "The story underscored how cyber defense, software vulnerability management and AI-enabled threats are converging more quickly.",
+                  "zh": "這個故事強調了網路防禦、軟體漏洞管理和人工智慧威脅如何更快地融合。"
+            },
+            "body": {
+                  "zh": [
+                        "谷歌稱，與中國有關的駭客針對美國和加拿大的研究設施進行了一年的攻擊。這個故事強調了網路防禦、軟體漏洞管理和人工智慧威脅如何更快地融合。",
+                        "這個故事表明，網路安全現在處於軟體缺陷、國家競爭和人工智慧輔助攻擊工具的交叉點。防禦能力越來越取決於機構是否能夠縮短發現弱點和採取行動之間的差距。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。谷歌稱，與中國有關的駭客針對美國和加拿大的研究設施進行了一年的攻擊這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Chinese-linked hackers targeted U.S.,Canadian research facilities for a year, Google says. The story underscored how cyber defense, software vulnerability management and AI-enabled threats are converging more quickly.",
+                        "The story shows that cybersecurity now sits at the intersection of software flaws, state competition and AI-assisted attack tools. Defensive capacity increasingly depends on whether institutions can shorten the gap between detecting a weakness and acting on it.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Chinese-linked hackers targeted U.S.,Canadian research facilities for a year, Google says shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-us-charges-suspected-russian-hacker-with-facilit",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Ethan Lin",
+            "read": 4,
+            "title": {
+                  "en": "US charges suspected Russian hacker with facilitating cyber campaign",
+                  "zh": "美國指控俄羅斯駭客涉嫌協助網路活動"
+            },
+            "dek": {
+                  "en": "The story underscored how cyber defense, software vulnerability management and AI-enabled threats are converging more quickly.",
+                  "zh": "這個故事強調了網路防禦、軟體漏洞管理和人工智慧威脅如何更快地融合。"
+            },
+            "body": {
+                  "zh": [
+                        "美國指控俄羅斯駭客涉嫌協助網路活動。這個故事強調了網路防禦、軟體漏洞管理和人工智慧威脅如何更快地融合。",
+                        "這個故事表明，網路安全現在處於軟體缺陷、國家競爭和人工智慧輔助攻擊工具的交叉點。防禦能力越來越取決於機構是否能夠縮短發現弱點和採取行動之間的差距。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。美國指控俄羅斯駭客涉嫌協助網路活動這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "US charges suspected Russian hacker with facilitating cyber campaign. The story underscored how cyber defense, software vulnerability management and AI-enabled threats are converging more quickly.",
+                        "The story shows that cybersecurity now sits at the intersection of software flaws, state competition and AI-assisted attack tools. Defensive capacity increasingly depends on whether institutions can shorten the gap between detecting a weakness and acting on it.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in US charges suspected Russian hacker with facilitating cyber campaign shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "log-turkey-and-saudi-arabia-aim-to-build-a-rail-link",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": true,
+            "author": "Sofia Reyes",
+            "read": 7,
+            "title": {
+                  "en": "Turkey and Saudi Arabia aim to build a rail link with Jordan and Syria, minister says",
+                  "zh": "部長表示，土耳其和沙烏地阿拉伯計劃與約旦和敘利亞建立鐵路連線"
+            },
+            "dek": {
+                  "en": "The development highlighted how rail, bridge, port and corridor projects are being treated as strategic assets as well as transport links.",
+                  "zh": "這一發展突顯了鐵路、橋樑、港口和走廊計畫如何被視為戰略資產和交通樞紐。"
+            },
+            "body": {
+                  "zh": [
+                        "部長表示，土耳其和沙烏地阿拉伯計劃與約旦和敘利亞建立鐵路連線。這一發展突顯了鐵路、橋樑、港口和走廊計畫如何被視為戰略資產和交通樞紐。",
+                        "這個故事表明，走廊、橋樑、港口和鐵路線不僅僅是工程專案，而是經濟和地緣政治能力的具體體現。當融資、治理或安全條件改變時，整條路線的價值可以重新定價。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。部長表示，土耳其和沙烏地阿拉伯計劃與約旦和敘利亞建立鐵路連線這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Turkey and Saudi Arabia aim to build a rail link with Jordan and Syria, minister says. The development highlighted how rail, bridge, port and corridor projects are being treated as strategic assets as well as transport links.",
+                        "The story shows that corridors, bridges, ports and rail lines are not just engineering projects but concrete expressions of economic and geopolitical capacity. When financing, governance or security conditions shift, the value of an entire route can be repriced.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Turkey and Saudi Arabia aim to build a rail link with Jordan and Syria, minister says shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "log-new-us-canada-bridge-nears-opening-despite-earli",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Sofia Reyes",
+            "read": 6,
+            "title": {
+                  "en": "New US-Canada bridge nears opening despite earlier Trump threat",
+                  "zh": "儘管川普早些時候發出威脅，新的美加大橋即將開通"
+            },
+            "dek": {
+                  "en": "The development highlighted how rail, bridge, port and corridor projects are being treated as strategic assets as well as transport links.",
+                  "zh": "這一發展突顯了鐵路、橋樑、港口和走廊計畫如何被視為戰略資產和交通樞紐。"
+            },
+            "body": {
+                  "zh": [
+                        "儘管川普早些時候發出威脅，新的美加大橋即將開通。這一發展突顯了鐵路、橋樑、港口和走廊計畫如何被視為戰略資產和交通樞紐。",
+                        "這個故事表明，走廊、橋樑、港口和鐵路線不僅僅是工程專案，而是經濟和地緣政治能力的具體體現。當融資、治理或安全條件改變時，整條路線的價值可以重新定價。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。儘管川普早些時候發出威脅，新的美加大橋即將開通這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "New US-Canada bridge nears opening despite earlier Trump threat. The development highlighted how rail, bridge, port and corridor projects are being treated as strategic assets as well as transport links.",
+                        "The story shows that corridors, bridges, ports and rail lines are not just engineering projects but concrete expressions of economic and geopolitical capacity. When financing, governance or security conditions shift, the value of an entire route can be repriced.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in New US-Canada bridge nears opening despite earlier Trump threat shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "log-cost-of-uk-s-hs2-rail-project-may-soar-to-138-bi",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Sofia Reyes",
+            "read": 5,
+            "title": {
+                  "en": "Cost of UK's HS2 rail project may soar to $138 billion, minister says",
+                  "zh": "部長稱英國HS2鐵路專案成本可能飆升至1,380億美元"
+            },
+            "dek": {
+                  "en": "The development highlighted how rail, bridge, port and corridor projects are being treated as strategic assets as well as transport links.",
+                  "zh": "這一發展突顯了鐵路、橋樑、港口和走廊計畫如何被視為戰略資產和交通樞紐。"
+            },
+            "body": {
+                  "zh": [
+                        "部長稱英國HS2鐵路專案成本可能飆升至1,380億美元。這一發展突顯了鐵路、橋樑、港口和走廊計畫如何被視為戰略資產和交通樞紐。",
+                        "這個故事表明，走廊、橋樑、港口和鐵路線不僅僅是工程專案，而是經濟和地緣政治能力的具體體現。當融資、治理或安全條件改變時，整條路線的價值可以重新定價。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。部長稱英國HS2鐵路專案成本可能飆升至1,380億美元這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Cost of UK's HS2 rail project may soar to $138 billion, minister says. The development highlighted how rail, bridge, port and corridor projects are being treated as strategic assets as well as transport links.",
+                        "The story shows that corridors, bridges, ports and rail lines are not just engineering projects but concrete expressions of economic and geopolitical capacity. When financing, governance or security conditions shift, the value of an entire route can be repriced.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Cost of UK's HS2 rail project may soar to $138 billion, minister says shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "log-turkey-plans-tanap-style-electricity-corridor-wi",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Sofia Reyes",
+            "read": 5,
+            "title": {
+                  "en": "Turkey plans TANAP-style electricity corridor with Azerbaijan, minister says",
+                  "zh": "部長表示，土耳其計劃與亞塞拜然建立 TANAP 式電力走廊"
+            },
+            "dek": {
+                  "en": "The development highlighted how rail, bridge, port and corridor projects are being treated as strategic assets as well as transport links.",
+                  "zh": "這一發展突顯了鐵路、橋樑、港口和走廊計畫如何被視為戰略資產和交通樞紐。"
+            },
+            "body": {
+                  "zh": [
+                        "部長表示，土耳其計劃與亞塞拜然建立 TANAP 式電力走廊。這一發展突顯了鐵路、橋樑、港口和走廊計畫如何被視為戰略資產和交通樞紐。",
+                        "這個故事表明，走廊、橋樑、港口和鐵路線不僅僅是工程專案，而是經濟和地緣政治能力的具體體現。當融資、治理或安全條件改變時，整條路線的價值可以重新定價。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。部長表示，土耳其計劃與亞塞拜然建立 TANAP 式電力走廊這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Turkey plans TANAP-style electricity corridor with Azerbaijan, minister says. The development highlighted how rail, bridge, port and corridor projects are being treated as strategic assets as well as transport links.",
+                        "The story shows that corridors, bridges, ports and rail lines are not just engineering projects but concrete expressions of economic and geopolitical capacity. When financing, governance or security conditions shift, the value of an entire route can be repriced.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Turkey plans TANAP-style electricity corridor with Azerbaijan, minister says shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      },
+      {
+            "id": "log-germany-finance-ministry-says-infrastructure-spe",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Sofia Reyes",
+            "read": 4,
+            "title": {
+                  "en": "Germany finance ministry says infrastructure spending needs to speed up",
+                  "zh": "德國財政部表示基礎建設支出需要加快"
+            },
+            "dek": {
+                  "en": "The development highlighted how rail, bridge, port and corridor projects are being treated as strategic assets as well as transport links.",
+                  "zh": "這一發展突顯了鐵路、橋樑、港口和走廊計畫如何被視為戰略資產和交通樞紐。"
+            },
+            "body": {
+                  "zh": [
+                        "德國財政部表示基礎建設支出需要加快。這一發展突顯了鐵路、橋樑、港口和走廊計畫如何被視為戰略資產和交通樞紐。",
+                        "這個故事表明，走廊、橋樑、港口和鐵路線不僅僅是工程專案，而是經濟和地緣政治能力的具體體現。當融資、治理或安全條件改變時，整條路線的價值可以重新定價。",
+                        "就這則報導本身而言，決策者最需要留意的是它背後的連鎖效應，而不只是表面的即時進展。德國財政部表示基礎建設支出需要加快這個訊號，說明同一議題往往會同時牽動成本、信心、制度與執行能力，並可能在短時間內改變原本看似穩定的預期。",
+                        "接下來的觀察重點，將是相關各方是否把表態轉化為可執行安排，以及市場或制度能否吸收後續波動。若沒有更清楚的框架，這類訊息仍會被視為高不確定性的前哨訊號。"
+                  ],
+                  "en": [
+                        "Germany finance ministry says infrastructure spending needs to speed up. The development highlighted how rail, bridge, port and corridor projects are being treated as strategic assets as well as transport links.",
+                        "The story shows that corridors, bridges, ports and rail lines are not just engineering projects but concrete expressions of economic and geopolitical capacity. When financing, governance or security conditions shift, the value of an entire route can be repriced.",
+                        "In practical terms, the main value of the report is not only the immediate update but the chain reaction behind it. The signal embedded in Germany finance ministry says infrastructure spending needs to speed up shows how the same issue can simultaneously affect costs, confidence, institutions and execution, and can quickly change assumptions that previously looked stable.",
+                        "What matters next is whether public statements become executable arrangements and whether markets or institutions can absorb the follow-on volatility. Without a clearer framework, developments like this are likely to remain early warning signals of elevated uncertainty."
+                  ]
+            }
+      }
+];
+
   window.DAILY_NEWS_STORIES["2026-06-15"] = [
       {
             "id": "int-ukraine-s-zelenskiy-discusses-peace-talks-in",
