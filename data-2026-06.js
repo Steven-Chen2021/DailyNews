@@ -5,6 +5,1509 @@
 (function () {
   window.DAILY_NEWS_STORIES = window.DAILY_NEWS_STORIES || {};
 
+  window.DAILY_NEWS_STORIES["2026-06-19"] = [
+      {
+            "id": "shp-three-saudi-flagged-supertankers-sail-thro",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 7,
+            "title": {
+                  "en": "Three Saudi-flagged supertankers sail through Hormuz after Iran deal signed, data shows",
+                  "zh": "伊朗協議簽署後 三艘沙烏地阿拉伯籍超級油輪通過荷莫茲 數據顯示"
+            },
+            "dek": {
+                  "en": "Tanker movements, chokepoints and corridor projects showed how maritime risk is being repriced in real time.",
+                  "zh": "油輪動向、航運瓶頸與通道建設顯示，海運風險正在被即時重新定價。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，伊朗協議簽署後 三艘沙烏地阿拉伯籍超級油輪通過荷莫茲 數據顯示。這項發展再次說明，一旦海運瓶頸、海軍部署或能源流向出現變化，航運市場的反應速度有多快。",
+                        "航運決策對安全情勢極為敏感，因為改道會改變航程時間、保險成本、船舶供給，並最終影響交付價格。因此，爭議水道中的單一訊號就可能連帶牽動油輪、貨櫃與大宗商品規劃。",
+                        "這類新聞的重要性不只在船東。煉油商、交易商、港口與政府都會據此判斷，緊急改道是否該持續、解除，或轉向更長期的基礎建設布局。",
+                        "後續發展將取決於通行情況是否穩定、官方指引是否改變，以及市場最終把這次調整視為短暫喘息，還是新的常態起點。"
+                  ],
+                  "en": [
+                        "Reuters reported on Three Saudi-flagged supertankers sail through Hormuz after Iran deal signed, data shows. The development reinforced how quickly maritime markets respond when chokepoints, naval deployments and energy flows start to move in a different direction.",
+                        "Shipping decisions are highly sensitive to security conditions because route changes alter transit time, insurance costs, vessel availability and ultimately delivered prices. A single signal in a contested corridor can therefore ripple across tanker, container and commodity planning.",
+                        "Stories like this matter beyond shipowners alone. Refiners, traders, ports and governments all use them to judge whether emergency routing should be maintained, unwound or replaced by longer-term infrastructure bets.",
+                        "What comes next will depend on whether traffic patterns stabilize, whether official guidance changes and whether the market concludes that the latest adjustment is temporary relief or the start of a new baseline."
+                  ]
+            }
+      },
+      {
+            "id": "shp-germany-deploys-ships-to-red-sea-for-possi",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Germany deploys ships to Red Sea for possible Hormuz mission, minister says",
+                  "zh": "德國派遣艦艇前往紅海 部長稱可望投入荷莫茲任務"
+            },
+            "dek": {
+                  "en": "Tanker movements, chokepoints and corridor projects showed how maritime risk is being repriced in real time.",
+                  "zh": "油輪動向、航運瓶頸與通道建設顯示，海運風險正在被即時重新定價。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，德國派遣艦艇前往紅海 部長稱可望投入荷莫茲任務。這項發展再次說明，一旦海運瓶頸、海軍部署或能源流向出現變化，航運市場的反應速度有多快。",
+                        "航運決策對安全情勢極為敏感，因為改道會改變航程時間、保險成本、船舶供給，並最終影響交付價格。因此，爭議水道中的單一訊號就可能連帶牽動油輪、貨櫃與大宗商品規劃。",
+                        "這類新聞的重要性不只在船東。煉油商、交易商、港口與政府都會據此判斷，緊急改道是否該持續、解除，或轉向更長期的基礎建設布局。",
+                        "後續發展將取決於通行情況是否穩定、官方指引是否改變，以及市場最終把這次調整視為短暫喘息，還是新的常態起點。"
+                  ],
+                  "en": [
+                        "Reuters reported on Germany deploys ships to Red Sea for possible Hormuz mission, minister says. The development reinforced how quickly maritime markets respond when chokepoints, naval deployments and energy flows start to move in a different direction.",
+                        "Shipping decisions are highly sensitive to security conditions because route changes alter transit time, insurance costs, vessel availability and ultimately delivered prices. A single signal in a contested corridor can therefore ripple across tanker, container and commodity planning.",
+                        "Stories like this matter beyond shipowners alone. Refiners, traders, ports and governments all use them to judge whether emergency routing should be maintained, unwound or replaced by longer-term infrastructure bets.",
+                        "What comes next will depend on whether traffic patterns stabilize, whether official guidance changes and whether the market concludes that the latest adjustment is temporary relief or the start of a new baseline."
+                  ]
+            }
+      },
+      {
+            "id": "shp-eu-commission-clarifies-all-russian-lng-tr",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "EU Commission clarifies all Russian LNG trade is banned from 2027 for EU operators, letter shows",
+                  "zh": "歐盟執委會澄清 自 2027 年起歐盟業者全面禁止俄羅斯 LNG 貿易"
+            },
+            "dek": {
+                  "en": "Tanker movements, chokepoints and corridor projects showed how maritime risk is being repriced in real time.",
+                  "zh": "油輪動向、航運瓶頸與通道建設顯示，海運風險正在被即時重新定價。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，歐盟執委會澄清 自 2027 年起歐盟業者全面禁止俄羅斯 LNG 貿易。這項發展再次說明，一旦海運瓶頸、海軍部署或能源流向出現變化，航運市場的反應速度有多快。",
+                        "航運決策對安全情勢極為敏感，因為改道會改變航程時間、保險成本、船舶供給，並最終影響交付價格。因此，爭議水道中的單一訊號就可能連帶牽動油輪、貨櫃與大宗商品規劃。",
+                        "這類新聞的重要性不只在船東。煉油商、交易商、港口與政府都會據此判斷，緊急改道是否該持續、解除，或轉向更長期的基礎建設布局。",
+                        "後續發展將取決於通行情況是否穩定、官方指引是否改變，以及市場最終把這次調整視為短暫喘息，還是新的常態起點。"
+                  ],
+                  "en": [
+                        "Reuters reported on EU Commission clarifies all Russian LNG trade is banned from 2027 for EU operators, letter shows. The development reinforced how quickly maritime markets respond when chokepoints, naval deployments and energy flows start to move in a different direction.",
+                        "Shipping decisions are highly sensitive to security conditions because route changes alter transit time, insurance costs, vessel availability and ultimately delivered prices. A single signal in a contested corridor can therefore ripple across tanker, container and commodity planning.",
+                        "Stories like this matter beyond shipowners alone. Refiners, traders, ports and governments all use them to judge whether emergency routing should be maintained, unwound or replaced by longer-term infrastructure bets.",
+                        "What comes next will depend on whether traffic patterns stabilize, whether official guidance changes and whether the market concludes that the latest adjustment is temporary relief or the start of a new baseline."
+                  ]
+            }
+      },
+      {
+            "id": "shp-thailand-revives-30-billion-coast-to-coast",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Thailand revives $30 billion coast-to-coast corridor to rival Malacca Strait",
+                  "zh": "泰國重啟 300 億美元東西兩岸走廊計畫 挑戰麻六甲海峽"
+            },
+            "dek": {
+                  "en": "Tanker movements, chokepoints and corridor projects showed how maritime risk is being repriced in real time.",
+                  "zh": "油輪動向、航運瓶頸與通道建設顯示，海運風險正在被即時重新定價。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，泰國重啟 300 億美元東西兩岸走廊計畫 挑戰麻六甲海峽。這項發展再次說明，一旦海運瓶頸、海軍部署或能源流向出現變化，航運市場的反應速度有多快。",
+                        "航運決策對安全情勢極為敏感，因為改道會改變航程時間、保險成本、船舶供給，並最終影響交付價格。因此，爭議水道中的單一訊號就可能連帶牽動油輪、貨櫃與大宗商品規劃。",
+                        "這類新聞的重要性不只在船東。煉油商、交易商、港口與政府都會據此判斷，緊急改道是否該持續、解除，或轉向更長期的基礎建設布局。",
+                        "後續發展將取決於通行情況是否穩定、官方指引是否改變，以及市場最終把這次調整視為短暫喘息，還是新的常態起點。"
+                  ],
+                  "en": [
+                        "Reuters reported on Thailand revives $30 billion coast-to-coast corridor to rival Malacca Strait. The development reinforced how quickly maritime markets respond when chokepoints, naval deployments and energy flows start to move in a different direction.",
+                        "Shipping decisions are highly sensitive to security conditions because route changes alter transit time, insurance costs, vessel availability and ultimately delivered prices. A single signal in a contested corridor can therefore ripple across tanker, container and commodity planning.",
+                        "Stories like this matter beyond shipowners alone. Refiners, traders, ports and governments all use them to judge whether emergency routing should be maintained, unwound or replaced by longer-term infrastructure bets.",
+                        "What comes next will depend on whether traffic patterns stabilize, whether official guidance changes and whether the market concludes that the latest adjustment is temporary relief or the start of a new baseline."
+                  ]
+            }
+      },
+      {
+            "id": "shp-gulf-exporters-quest-to-bypass-hormuz-will",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 4,
+            "title": {
+                  "en": "Gulf exporters' quest to bypass Hormuz will reshape the region",
+                  "zh": "波灣出口國尋求繞開荷莫茲的布局 將重塑區域版圖"
+            },
+            "dek": {
+                  "en": "Tanker movements, chokepoints and corridor projects showed how maritime risk is being repriced in real time.",
+                  "zh": "油輪動向、航運瓶頸與通道建設顯示，海運風險正在被即時重新定價。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，波灣出口國尋求繞開荷莫茲的布局 將重塑區域版圖。這項發展再次說明，一旦海運瓶頸、海軍部署或能源流向出現變化，航運市場的反應速度有多快。",
+                        "航運決策對安全情勢極為敏感，因為改道會改變航程時間、保險成本、船舶供給，並最終影響交付價格。因此，爭議水道中的單一訊號就可能連帶牽動油輪、貨櫃與大宗商品規劃。",
+                        "這類新聞的重要性不只在船東。煉油商、交易商、港口與政府都會據此判斷，緊急改道是否該持續、解除，或轉向更長期的基礎建設布局。",
+                        "後續發展將取決於通行情況是否穩定、官方指引是否改變，以及市場最終把這次調整視為短暫喘息，還是新的常態起點。"
+                  ],
+                  "en": [
+                        "Reuters reported on Gulf exporters' quest to bypass Hormuz will reshape the region. The development reinforced how quickly maritime markets respond when chokepoints, naval deployments and energy flows start to move in a different direction.",
+                        "Shipping decisions are highly sensitive to security conditions because route changes alter transit time, insurance costs, vessel availability and ultimately delivered prices. A single signal in a contested corridor can therefore ripple across tanker, container and commodity planning.",
+                        "Stories like this matter beyond shipowners alone. Refiners, traders, ports and governments all use them to judge whether emergency routing should be maintained, unwound or replaced by longer-term infrastructure bets.",
+                        "What comes next will depend on whether traffic patterns stabilize, whether official guidance changes and whether the market concludes that the latest adjustment is temporary relief or the start of a new baseline."
+                  ]
+            }
+      },
+      {
+            "id": "int-china-defends-critical-minerals-export-con",
+            "category": "international",
+            "image": "meeting",
+            "lead": true,
+            "author": "Maya Chen",
+            "read": 7,
+            "title": {
+                  "en": "China defends critical minerals export controls after G7 statement",
+                  "zh": "中國在 G7 聲明後為關鍵礦物出口管制辯護"
+            },
+            "dek": {
+                  "en": "Diplomatic moves from Europe to Asia showed how security decisions and trade leverage are increasingly intertwined.",
+                  "zh": "從歐洲到亞洲的外交動作顯示，安全決策與貿易籌碼正愈發緊密交織。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，中國在 G7 聲明後為關鍵礦物出口管制辯護。這項發展凸顯，當前外交訊號已與貿易籌碼、同盟管理與國家權力可信度緊密綁定。",
+                        "即使新聞表面上只圍繞單一會晤、人事安排或報復措施，其更大的意義往往在於向盟友與對手釋放何種訊號。各國政府會藉此判讀談判立場、執行意願與降溫空間。",
+                        "對企業與投資人而言，這類消息之所以重要，在於地緣政治語言能迅速改變對供應安全、制裁風險與政策協調的預期。實際影響通常先反映在風險定價，之後才體現在正式協議。",
+                        "接下來的觀察重點是，這項訊號是否會轉化為具體行動、對手是否回應，以及這一步是否真正改變標題之外的營運環境。"
+                  ],
+                  "en": [
+                        "Reuters reported on China defends critical minerals export controls after G7 statement. The development highlighted how diplomatic messaging is now tightly bound up with trade leverage, alliance management and the credibility of state power.",
+                        "Even when a headline is framed around a single meeting, appointment or retaliation, the wider significance often lies in what it signals to partners and rivals. Governments watch these moves for clues about bargaining positions, enforcement appetite and room for de-escalation.",
+                        "For businesses and investors, stories like this matter because geopolitical language can quickly alter assumptions about supply security, sanctions exposure and policy coordination. The practical effect is often felt first in risk pricing before it appears in formal agreements.",
+                        "The next test will be whether the signal hardens into action, whether counterparties answer in kind and whether the diplomatic move changes the operating environment beyond the immediate headline."
+                  ]
+            }
+      },
+      {
+            "id": "int-macron-s-versailles-diplomacy-wins-mixed-r",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Maya Chen",
+            "read": 6,
+            "title": {
+                  "en": "Macron's Versailles diplomacy wins mixed results over decade in power",
+                  "zh": "馬克宏的凡爾賽外交十年成績好壞參半"
+            },
+            "dek": {
+                  "en": "Diplomatic moves from Europe to Asia showed how security decisions and trade leverage are increasingly intertwined.",
+                  "zh": "從歐洲到亞洲的外交動作顯示，安全決策與貿易籌碼正愈發緊密交織。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，馬克宏的凡爾賽外交十年成績好壞參半。這項發展凸顯，當前外交訊號已與貿易籌碼、同盟管理與國家權力可信度緊密綁定。",
+                        "即使新聞表面上只圍繞單一會晤、人事安排或報復措施，其更大的意義往往在於向盟友與對手釋放何種訊號。各國政府會藉此判讀談判立場、執行意願與降溫空間。",
+                        "對企業與投資人而言，這類消息之所以重要，在於地緣政治語言能迅速改變對供應安全、制裁風險與政策協調的預期。實際影響通常先反映在風險定價，之後才體現在正式協議。",
+                        "接下來的觀察重點是，這項訊號是否會轉化為具體行動、對手是否回應，以及這一步是否真正改變標題之外的營運環境。"
+                  ],
+                  "en": [
+                        "Reuters reported on Macron's Versailles diplomacy wins mixed results over decade in power. The development highlighted how diplomatic messaging is now tightly bound up with trade leverage, alliance management and the credibility of state power.",
+                        "Even when a headline is framed around a single meeting, appointment or retaliation, the wider significance often lies in what it signals to partners and rivals. Governments watch these moves for clues about bargaining positions, enforcement appetite and room for de-escalation.",
+                        "For businesses and investors, stories like this matter because geopolitical language can quickly alter assumptions about supply security, sanctions exposure and policy coordination. The practical effect is often felt first in risk pricing before it appears in formal agreements.",
+                        "The next test will be whether the signal hardens into action, whether counterparties answer in kind and whether the diplomatic move changes the operating environment beyond the immediate headline."
+                  ]
+            }
+      },
+      {
+            "id": "int-china-s-cai-qi-cements-spot-as-xi-confidan",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Maya Chen",
+            "read": 5,
+            "title": {
+                  "en": "China's Cai Qi cements spot as Xi confidant as head of Communist Party school",
+                  "zh": "蔡奇掌中共中央黨校 再鞏固其作為習近平親信地位"
+            },
+            "dek": {
+                  "en": "Diplomatic moves from Europe to Asia showed how security decisions and trade leverage are increasingly intertwined.",
+                  "zh": "從歐洲到亞洲的外交動作顯示，安全決策與貿易籌碼正愈發緊密交織。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，蔡奇掌中共中央黨校 再鞏固其作為習近平親信地位。這項發展凸顯，當前外交訊號已與貿易籌碼、同盟管理與國家權力可信度緊密綁定。",
+                        "即使新聞表面上只圍繞單一會晤、人事安排或報復措施，其更大的意義往往在於向盟友與對手釋放何種訊號。各國政府會藉此判讀談判立場、執行意願與降溫空間。",
+                        "對企業與投資人而言，這類消息之所以重要，在於地緣政治語言能迅速改變對供應安全、制裁風險與政策協調的預期。實際影響通常先反映在風險定價，之後才體現在正式協議。",
+                        "接下來的觀察重點是，這項訊號是否會轉化為具體行動、對手是否回應，以及這一步是否真正改變標題之外的營運環境。"
+                  ],
+                  "en": [
+                        "Reuters reported on China's Cai Qi cements spot as Xi confidant as head of Communist Party school. The development highlighted how diplomatic messaging is now tightly bound up with trade leverage, alliance management and the credibility of state power.",
+                        "Even when a headline is framed around a single meeting, appointment or retaliation, the wider significance often lies in what it signals to partners and rivals. Governments watch these moves for clues about bargaining positions, enforcement appetite and room for de-escalation.",
+                        "For businesses and investors, stories like this matter because geopolitical language can quickly alter assumptions about supply security, sanctions exposure and policy coordination. The practical effect is often felt first in risk pricing before it appears in formal agreements.",
+                        "The next test will be whether the signal hardens into action, whether counterparties answer in kind and whether the diplomatic move changes the operating environment beyond the immediate headline."
+                  ]
+            }
+      },
+      {
+            "id": "int-north-korea-recalls-its-ambassador-to-brit",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Maya Chen",
+            "read": 5,
+            "title": {
+                  "en": "North Korea recalls its ambassador to Britain after sanctions on children's camp, report says",
+                  "zh": "報導稱北韓在兒童夏令營遭制裁後召回駐英大使"
+            },
+            "dek": {
+                  "en": "Diplomatic moves from Europe to Asia showed how security decisions and trade leverage are increasingly intertwined.",
+                  "zh": "從歐洲到亞洲的外交動作顯示，安全決策與貿易籌碼正愈發緊密交織。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，報導稱北韓在兒童夏令營遭制裁後召回駐英大使。這項發展凸顯，當前外交訊號已與貿易籌碼、同盟管理與國家權力可信度緊密綁定。",
+                        "即使新聞表面上只圍繞單一會晤、人事安排或報復措施，其更大的意義往往在於向盟友與對手釋放何種訊號。各國政府會藉此判讀談判立場、執行意願與降溫空間。",
+                        "對企業與投資人而言，這類消息之所以重要，在於地緣政治語言能迅速改變對供應安全、制裁風險與政策協調的預期。實際影響通常先反映在風險定價，之後才體現在正式協議。",
+                        "接下來的觀察重點是，這項訊號是否會轉化為具體行動、對手是否回應，以及這一步是否真正改變標題之外的營運環境。"
+                  ],
+                  "en": [
+                        "Reuters reported on North Korea recalls its ambassador to Britain after sanctions on children's camp, report says. The development highlighted how diplomatic messaging is now tightly bound up with trade leverage, alliance management and the credibility of state power.",
+                        "Even when a headline is framed around a single meeting, appointment or retaliation, the wider significance often lies in what it signals to partners and rivals. Governments watch these moves for clues about bargaining positions, enforcement appetite and room for de-escalation.",
+                        "For businesses and investors, stories like this matter because geopolitical language can quickly alter assumptions about supply security, sanctions exposure and policy coordination. The practical effect is often felt first in risk pricing before it appears in formal agreements.",
+                        "The next test will be whether the signal hardens into action, whether counterparties answer in kind and whether the diplomatic move changes the operating environment beyond the immediate headline."
+                  ]
+            }
+      },
+      {
+            "id": "int-south-korea-s-lee-leaves-g7-with-trump-s-p",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Maya Chen",
+            "read": 4,
+            "title": {
+                  "en": "South Korea's Lee leaves G7 with Trump's pen after talks about peace on the peninsula",
+                  "zh": "南韓總統李在明在半島和平會談後帶著川普的筆離開 G7"
+            },
+            "dek": {
+                  "en": "Diplomatic moves from Europe to Asia showed how security decisions and trade leverage are increasingly intertwined.",
+                  "zh": "從歐洲到亞洲的外交動作顯示，安全決策與貿易籌碼正愈發緊密交織。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，南韓總統李在明在半島和平會談後帶著川普的筆離開 G7。這項發展凸顯，當前外交訊號已與貿易籌碼、同盟管理與國家權力可信度緊密綁定。",
+                        "即使新聞表面上只圍繞單一會晤、人事安排或報復措施，其更大的意義往往在於向盟友與對手釋放何種訊號。各國政府會藉此判讀談判立場、執行意願與降溫空間。",
+                        "對企業與投資人而言，這類消息之所以重要，在於地緣政治語言能迅速改變對供應安全、制裁風險與政策協調的預期。實際影響通常先反映在風險定價，之後才體現在正式協議。",
+                        "接下來的觀察重點是，這項訊號是否會轉化為具體行動、對手是否回應，以及這一步是否真正改變標題之外的營運環境。"
+                  ],
+                  "en": [
+                        "Reuters reported on South Korea's Lee leaves G7 with Trump's pen after talks about peace on the peninsula. The development highlighted how diplomatic messaging is now tightly bound up with trade leverage, alliance management and the credibility of state power.",
+                        "Even when a headline is framed around a single meeting, appointment or retaliation, the wider significance often lies in what it signals to partners and rivals. Governments watch these moves for clues about bargaining positions, enforcement appetite and room for de-escalation.",
+                        "For businesses and investors, stories like this matter because geopolitical language can quickly alter assumptions about supply security, sanctions exposure and policy coordination. The practical effect is often felt first in risk pricing before it appears in formal agreements.",
+                        "The next test will be whether the signal hardens into action, whether counterparties answer in kind and whether the diplomatic move changes the operating environment beyond the immediate headline."
+                  ]
+            }
+      },
+      {
+            "id": "tec-manus-original-investors-plan-to-buy-back",
+            "category": "technology",
+            "image": "technology",
+            "lead": true,
+            "author": "Iris Park",
+            "read": 7,
+            "title": {
+                  "en": "Manus original investors plan to buy back AI firm from Meta for $2 billion, The Information reports",
+                  "zh": "《The Information》稱 Manus 原始投資人擬以 20 億美元從 Meta 回購 AI 公司"
+            },
+            "dek": {
+                  "en": "AI funding, enterprise controls and specialist chip bets showed how the next computing cycle is spreading through the wider economy.",
+                  "zh": "AI 融資、企業管控與專用晶片押注顯示，下一輪運算週期正擴散至更廣泛的經濟領域。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，《The Information》稱 Manus 原始投資人擬以 20 億美元從 Meta 回購 AI 公司。這則新聞顯示，AI 週期已不只是模型競賽，也關乎所有權、基礎設施存取、專用硬體，以及企業內部使用的治理規則。",
+                        "資金仍在流向這個產業，但競爭條件正變得更具體。誰掌握算力、誰能供應利基晶片、誰被允許在受監管機構內使用特定系統，如今都和產品野心一樣重要。",
+                        "因此，每一輪募資或存取限制的意義都超越單一公司。供應商、雲端業者、銀行與政府都在判斷價值將在哪裡累積，以及哪些依賴關係可能演變為戰略弱點。",
+                        "下一步值得關注的是執行層面：這些宣布能否轉化為持久營收、技術優勢，或更緊的政策邊界，進一步界定 AI 工具的建置與使用方式。"
+                  ],
+                  "en": [
+                        "Reuters reported on Manus original investors plan to buy back AI firm from Meta for $2 billion, The Information reports. The story showed that the AI cycle is no longer just about models, but also about ownership, infrastructure access, specialist hardware and the governance of enterprise use.",
+                        "Capital is still flowing into the sector, yet the terms of competition are becoming more specific. Who controls compute, who can ship niche chips, and who is allowed to use certain systems inside regulated organizations now matter as much as raw product ambition.",
+                        "That makes each financing round or access restriction relevant well beyond the company involved. Suppliers, cloud providers, banks and governments are all trying to understand where value will accumulate and where dependence could become a strategic weakness.",
+                        "The next phase to watch is execution: whether these announcements produce durable revenue, technical advantage or tighter policy boundaries around how AI tools can be built and used."
+                  ]
+            }
+      },
+      {
+            "id": "tec-architect-labs-raises-24-million-to-take-o",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Iris Park",
+            "read": 6,
+            "title": {
+                  "en": "Architect Labs raises $24 million to take on Broadcom, Marvell custom chip business",
+                  "zh": "Architect Labs 募得 2400 萬美元 挑戰博通與邁威爾客製晶片業務"
+            },
+            "dek": {
+                  "en": "AI funding, enterprise controls and specialist chip bets showed how the next computing cycle is spreading through the wider economy.",
+                  "zh": "AI 融資、企業管控與專用晶片押注顯示，下一輪運算週期正擴散至更廣泛的經濟領域。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，Architect Labs 募得 2400 萬美元 挑戰博通與邁威爾客製晶片業務。這則新聞顯示，AI 週期已不只是模型競賽，也關乎所有權、基礎設施存取、專用硬體，以及企業內部使用的治理規則。",
+                        "資金仍在流向這個產業，但競爭條件正變得更具體。誰掌握算力、誰能供應利基晶片、誰被允許在受監管機構內使用特定系統，如今都和產品野心一樣重要。",
+                        "因此，每一輪募資或存取限制的意義都超越單一公司。供應商、雲端業者、銀行與政府都在判斷價值將在哪裡累積，以及哪些依賴關係可能演變為戰略弱點。",
+                        "下一步值得關注的是執行層面：這些宣布能否轉化為持久營收、技術優勢，或更緊的政策邊界，進一步界定 AI 工具的建置與使用方式。"
+                  ],
+                  "en": [
+                        "Reuters reported on Architect Labs raises $24 million to take on Broadcom, Marvell custom chip business. The story showed that the AI cycle is no longer just about models, but also about ownership, infrastructure access, specialist hardware and the governance of enterprise use.",
+                        "Capital is still flowing into the sector, yet the terms of competition are becoming more specific. Who controls compute, who can ship niche chips, and who is allowed to use certain systems inside regulated organizations now matter as much as raw product ambition.",
+                        "That makes each financing round or access restriction relevant well beyond the company involved. Suppliers, cloud providers, banks and governments are all trying to understand where value will accumulate and where dependence could become a strategic weakness.",
+                        "The next phase to watch is execution: whether these announcements produce durable revenue, technical advantage or tighter policy boundaries around how AI tools can be built and used."
+                  ]
+            }
+      },
+      {
+            "id": "tec-jpmorgan-blocks-anthropic-ai-access-for-ho",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Iris Park",
+            "read": 5,
+            "title": {
+                  "en": "JPMorgan blocks Anthropic AI access for Hong Kong staff, FT reports",
+                  "zh": "《金融時報》稱摩根大通禁止香港員工使用 Anthropic AI"
+            },
+            "dek": {
+                  "en": "AI funding, enterprise controls and specialist chip bets showed how the next computing cycle is spreading through the wider economy.",
+                  "zh": "AI 融資、企業管控與專用晶片押注顯示，下一輪運算週期正擴散至更廣泛的經濟領域。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，《金融時報》稱摩根大通禁止香港員工使用 Anthropic AI。這則新聞顯示，AI 週期已不只是模型競賽，也關乎所有權、基礎設施存取、專用硬體，以及企業內部使用的治理規則。",
+                        "資金仍在流向這個產業，但競爭條件正變得更具體。誰掌握算力、誰能供應利基晶片、誰被允許在受監管機構內使用特定系統，如今都和產品野心一樣重要。",
+                        "因此，每一輪募資或存取限制的意義都超越單一公司。供應商、雲端業者、銀行與政府都在判斷價值將在哪裡累積，以及哪些依賴關係可能演變為戰略弱點。",
+                        "下一步值得關注的是執行層面：這些宣布能否轉化為持久營收、技術優勢，或更緊的政策邊界，進一步界定 AI 工具的建置與使用方式。"
+                  ],
+                  "en": [
+                        "Reuters reported on JPMorgan blocks Anthropic AI access for Hong Kong staff, FT reports. The story showed that the AI cycle is no longer just about models, but also about ownership, infrastructure access, specialist hardware and the governance of enterprise use.",
+                        "Capital is still flowing into the sector, yet the terms of competition are becoming more specific. Who controls compute, who can ship niche chips, and who is allowed to use certain systems inside regulated organizations now matter as much as raw product ambition.",
+                        "That makes each financing round or access restriction relevant well beyond the company involved. Suppliers, cloud providers, banks and governments are all trying to understand where value will accumulate and where dependence could become a strategic weakness.",
+                        "The next phase to watch is execution: whether these announcements produce durable revenue, technical advantage or tighter policy boundaries around how AI tools can be built and used."
+                  ]
+            }
+      },
+      {
+            "id": "tec-ai-lab-odyssey-valued-at-1-45-billion-in-l",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Iris Park",
+            "read": 5,
+            "title": {
+                  "en": "AI lab Odyssey valued at $1.45 billion in latest funding round",
+                  "zh": "AI 實驗室 Odyssey 在最新募資中估值達 14.5 億美元"
+            },
+            "dek": {
+                  "en": "AI funding, enterprise controls and specialist chip bets showed how the next computing cycle is spreading through the wider economy.",
+                  "zh": "AI 融資、企業管控與專用晶片押注顯示，下一輪運算週期正擴散至更廣泛的經濟領域。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，AI 實驗室 Odyssey 在最新募資中估值達 14.5 億美元。這則新聞顯示，AI 週期已不只是模型競賽，也關乎所有權、基礎設施存取、專用硬體，以及企業內部使用的治理規則。",
+                        "資金仍在流向這個產業，但競爭條件正變得更具體。誰掌握算力、誰能供應利基晶片、誰被允許在受監管機構內使用特定系統，如今都和產品野心一樣重要。",
+                        "因此，每一輪募資或存取限制的意義都超越單一公司。供應商、雲端業者、銀行與政府都在判斷價值將在哪裡累積，以及哪些依賴關係可能演變為戰略弱點。",
+                        "下一步值得關注的是執行層面：這些宣布能否轉化為持久營收、技術優勢，或更緊的政策邊界，進一步界定 AI 工具的建置與使用方式。"
+                  ],
+                  "en": [
+                        "Reuters reported on AI lab Odyssey valued at $1.45 billion in latest funding round. The story showed that the AI cycle is no longer just about models, but also about ownership, infrastructure access, specialist hardware and the governance of enterprise use.",
+                        "Capital is still flowing into the sector, yet the terms of competition are becoming more specific. Who controls compute, who can ship niche chips, and who is allowed to use certain systems inside regulated organizations now matter as much as raw product ambition.",
+                        "That makes each financing round or access restriction relevant well beyond the company involved. Suppliers, cloud providers, banks and governments are all trying to understand where value will accumulate and where dependence could become a strategic weakness.",
+                        "The next phase to watch is execution: whether these announcements produce durable revenue, technical advantage or tighter policy boundaries around how AI tools can be built and used."
+                  ]
+            }
+      },
+      {
+            "id": "tec-saab-invests-13-million-in-defence-technol",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Iris Park",
+            "read": 4,
+            "title": {
+                  "en": "Saab invests $13 million in defence technology company Comand AI",
+                  "zh": "薩博投資 1300 萬美元於國防科技公司 Comand AI"
+            },
+            "dek": {
+                  "en": "AI funding, enterprise controls and specialist chip bets showed how the next computing cycle is spreading through the wider economy.",
+                  "zh": "AI 融資、企業管控與專用晶片押注顯示，下一輪運算週期正擴散至更廣泛的經濟領域。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，薩博投資 1300 萬美元於國防科技公司 Comand AI。這則新聞顯示，AI 週期已不只是模型競賽，也關乎所有權、基礎設施存取、專用硬體，以及企業內部使用的治理規則。",
+                        "資金仍在流向這個產業，但競爭條件正變得更具體。誰掌握算力、誰能供應利基晶片、誰被允許在受監管機構內使用特定系統，如今都和產品野心一樣重要。",
+                        "因此，每一輪募資或存取限制的意義都超越單一公司。供應商、雲端業者、銀行與政府都在判斷價值將在哪裡累積，以及哪些依賴關係可能演變為戰略弱點。",
+                        "下一步值得關注的是執行層面：這些宣布能否轉化為持久營收、技術優勢，或更緊的政策邊界，進一步界定 AI 工具的建置與使用方式。"
+                  ],
+                  "en": [
+                        "Reuters reported on Saab invests $13 million in defence technology company Comand AI. The story showed that the AI cycle is no longer just about models, but also about ownership, infrastructure access, specialist hardware and the governance of enterprise use.",
+                        "Capital is still flowing into the sector, yet the terms of competition are becoming more specific. Who controls compute, who can ship niche chips, and who is allowed to use certain systems inside regulated organizations now matter as much as raw product ambition.",
+                        "That makes each financing round or access restriction relevant well beyond the company involved. Suppliers, cloud providers, banks and governments are all trying to understand where value will accumulate and where dependence could become a strategic weakness.",
+                        "The next phase to watch is execution: whether these announcements produce durable revenue, technical advantage or tighter policy boundaries around how AI tools can be built and used."
+                  ]
+            }
+      },
+      {
+            "id": "sup-g7-sets-up-critical-minerals-alliance-plat",
+            "category": "supply-chain",
+            "image": "warehouse",
+            "lead": true,
+            "author": "Nina Shah",
+            "read": 7,
+            "title": {
+                  "en": "G7 sets up critical minerals alliance, platform to cut reliance on China",
+                  "zh": "G7 成立關鍵礦物聯盟與平台 以降低對中國依賴"
+            },
+            "dek": {
+                  "en": "Investment plans, strategic sourcing and factory disruptions highlighted the political stakes of supply-chain resilience.",
+                  "zh": "投資計畫、戰略採購與工廠干擾凸顯供應鏈韌性的政治利害。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，G7 成立關鍵礦物聯盟與平台 以降低對中國依賴。這則新聞顯示，供應鏈韌性如今不只取決於實體產能，也愈來愈依賴政治設計與融資架構。",
+                        "各國政府與企業都在下一次衝擊來臨前，設法鎖定原料、中間品與戰略製造環節的取得。這使供應鏈更靠近產業政策，而不再只是成本最佳化問題。",
+                        "因此，無論是投資工具、礦物協調或工廠中斷的宣布，都可能改寫整個網絡中誰承擔風險、誰攫取價值的預期，並立刻波及放款機構、保險公司與下游製造商。",
+                        "接下來的問題是，這些措施能否在實務上提高韌性，還是只是把瓶頸重新分配到供應鏈的另一個環節。"
+                  ],
+                  "en": [
+                        "Reuters reported on G7 sets up critical minerals alliance, platform to cut reliance on China. The story showed how supply-chain resilience now depends as much on political design and financing structure as on physical production capacity.",
+                        "Governments and companies are trying to lock in access to materials, intermediate goods and strategic manufacturing steps before the next disruption hits. That is pushing supply chains closer to industrial policy and away from purely cost-based optimization.",
+                        "As a result, announcements about investment vehicles, minerals coordination or plant interruptions can reshape expectations for who absorbs risk and who captures value across a network. The effect often reaches lenders, insurers and downstream manufacturers immediately.",
+                        "The next question is whether these measures improve resilience in practice, or simply redistribute bottlenecks to a different stage of the chain."
+                  ]
+            }
+      },
+      {
+            "id": "sup-south-korea-launches-company-to-manage-350",
+            "category": "supply-chain",
+            "image": "warehouse",
+            "lead": false,
+            "author": "Nina Shah",
+            "read": 6,
+            "title": {
+                  "en": "South Korea launches company to manage $350 billion US investment pledge",
+                  "zh": "南韓設立公司 管理對美 3500 億美元投資承諾"
+            },
+            "dek": {
+                  "en": "Investment plans, strategic sourcing and factory disruptions highlighted the political stakes of supply-chain resilience.",
+                  "zh": "投資計畫、戰略採購與工廠干擾凸顯供應鏈韌性的政治利害。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，南韓設立公司 管理對美 3500 億美元投資承諾。這則新聞顯示，供應鏈韌性如今不只取決於實體產能，也愈來愈依賴政治設計與融資架構。",
+                        "各國政府與企業都在下一次衝擊來臨前，設法鎖定原料、中間品與戰略製造環節的取得。這使供應鏈更靠近產業政策，而不再只是成本最佳化問題。",
+                        "因此，無論是投資工具、礦物協調或工廠中斷的宣布，都可能改寫整個網絡中誰承擔風險、誰攫取價值的預期，並立刻波及放款機構、保險公司與下游製造商。",
+                        "接下來的問題是，這些措施能否在實務上提高韌性，還是只是把瓶頸重新分配到供應鏈的另一個環節。"
+                  ],
+                  "en": [
+                        "Reuters reported on South Korea launches company to manage $350 billion US investment pledge. The story showed how supply-chain resilience now depends as much on political design and financing structure as on physical production capacity.",
+                        "Governments and companies are trying to lock in access to materials, intermediate goods and strategic manufacturing steps before the next disruption hits. That is pushing supply chains closer to industrial policy and away from purely cost-based optimization.",
+                        "As a result, announcements about investment vehicles, minerals coordination or plant interruptions can reshape expectations for who absorbs risk and who captures value across a network. The effect often reaches lenders, insurers and downstream manufacturers immediately.",
+                        "The next question is whether these measures improve resilience in practice, or simply redistribute bottlenecks to a different stage of the chain."
+                  ]
+            }
+      },
+      {
+            "id": "sup-trump-administration-pivots-to-buying-stak",
+            "category": "supply-chain",
+            "image": "warehouse",
+            "lead": false,
+            "author": "Nina Shah",
+            "read": 5,
+            "title": {
+                  "en": "Trump administration pivots to buying stakes in critical sectors",
+                  "zh": "川普政府轉向直接持有關鍵產業股權"
+            },
+            "dek": {
+                  "en": "Investment plans, strategic sourcing and factory disruptions highlighted the political stakes of supply-chain resilience.",
+                  "zh": "投資計畫、戰略採購與工廠干擾凸顯供應鏈韌性的政治利害。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，川普政府轉向直接持有關鍵產業股權。這則新聞顯示，供應鏈韌性如今不只取決於實體產能，也愈來愈依賴政治設計與融資架構。",
+                        "各國政府與企業都在下一次衝擊來臨前，設法鎖定原料、中間品與戰略製造環節的取得。這使供應鏈更靠近產業政策，而不再只是成本最佳化問題。",
+                        "因此，無論是投資工具、礦物協調或工廠中斷的宣布，都可能改寫整個網絡中誰承擔風險、誰攫取價值的預期，並立刻波及放款機構、保險公司與下游製造商。",
+                        "接下來的問題是，這些措施能否在實務上提高韌性，還是只是把瓶頸重新分配到供應鏈的另一個環節。"
+                  ],
+                  "en": [
+                        "Reuters reported on Trump administration pivots to buying stakes in critical sectors. The story showed how supply-chain resilience now depends as much on political design and financing structure as on physical production capacity.",
+                        "Governments and companies are trying to lock in access to materials, intermediate goods and strategic manufacturing steps before the next disruption hits. That is pushing supply chains closer to industrial policy and away from purely cost-based optimization.",
+                        "As a result, announcements about investment vehicles, minerals coordination or plant interruptions can reshape expectations for who absorbs risk and who captures value across a network. The effect often reaches lenders, insurers and downstream manufacturers immediately.",
+                        "The next question is whether these measures improve resilience in practice, or simply redistribute bottlenecks to a different stage of the chain."
+                  ]
+            }
+      },
+      {
+            "id": "sup-us-progesterone-supplies-tighten-as-menopa",
+            "category": "supply-chain",
+            "image": "warehouse",
+            "lead": false,
+            "author": "Nina Shah",
+            "read": 5,
+            "title": {
+                  "en": "US progesterone supplies tighten as menopause treatment demand grows",
+                  "zh": "美國黃體素供應趨緊 更年期治療需求上升"
+            },
+            "dek": {
+                  "en": "Investment plans, strategic sourcing and factory disruptions highlighted the political stakes of supply-chain resilience.",
+                  "zh": "投資計畫、戰略採購與工廠干擾凸顯供應鏈韌性的政治利害。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，美國黃體素供應趨緊 更年期治療需求上升。這則新聞顯示，供應鏈韌性如今不只取決於實體產能，也愈來愈依賴政治設計與融資架構。",
+                        "各國政府與企業都在下一次衝擊來臨前，設法鎖定原料、中間品與戰略製造環節的取得。這使供應鏈更靠近產業政策，而不再只是成本最佳化問題。",
+                        "因此，無論是投資工具、礦物協調或工廠中斷的宣布，都可能改寫整個網絡中誰承擔風險、誰攫取價值的預期，並立刻波及放款機構、保險公司與下游製造商。",
+                        "接下來的問題是，這些措施能否在實務上提高韌性，還是只是把瓶頸重新分配到供應鏈的另一個環節。"
+                  ],
+                  "en": [
+                        "Reuters reported on US progesterone supplies tighten as menopause treatment demand grows. The story showed how supply-chain resilience now depends as much on political design and financing structure as on physical production capacity.",
+                        "Governments and companies are trying to lock in access to materials, intermediate goods and strategic manufacturing steps before the next disruption hits. That is pushing supply chains closer to industrial policy and away from purely cost-based optimization.",
+                        "As a result, announcements about investment vehicles, minerals coordination or plant interruptions can reshape expectations for who absorbs risk and who captures value across a network. The effect often reaches lenders, insurers and downstream manufacturers immediately.",
+                        "The next question is whether these measures improve resilience in practice, or simply redistribute bottlenecks to a different stage of the chain."
+                  ]
+            }
+      },
+      {
+            "id": "sup-gkn-aerospace-factory-in-california-prepar",
+            "category": "supply-chain",
+            "image": "warehouse",
+            "lead": false,
+            "author": "Nina Shah",
+            "read": 4,
+            "title": {
+                  "en": "GKN aerospace factory in California prepares to restart after chemical tank scare",
+                  "zh": "加州 GKN 航太工廠在化學槽警報後準備重啟"
+            },
+            "dek": {
+                  "en": "Investment plans, strategic sourcing and factory disruptions highlighted the political stakes of supply-chain resilience.",
+                  "zh": "投資計畫、戰略採購與工廠干擾凸顯供應鏈韌性的政治利害。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，加州 GKN 航太工廠在化學槽警報後準備重啟。這則新聞顯示，供應鏈韌性如今不只取決於實體產能，也愈來愈依賴政治設計與融資架構。",
+                        "各國政府與企業都在下一次衝擊來臨前，設法鎖定原料、中間品與戰略製造環節的取得。這使供應鏈更靠近產業政策，而不再只是成本最佳化問題。",
+                        "因此，無論是投資工具、礦物協調或工廠中斷的宣布，都可能改寫整個網絡中誰承擔風險、誰攫取價值的預期，並立刻波及放款機構、保險公司與下游製造商。",
+                        "接下來的問題是，這些措施能否在實務上提高韌性，還是只是把瓶頸重新分配到供應鏈的另一個環節。"
+                  ],
+                  "en": [
+                        "Reuters reported on GKN aerospace factory in California prepares to restart after chemical tank scare. The story showed how supply-chain resilience now depends as much on political design and financing structure as on physical production capacity.",
+                        "Governments and companies are trying to lock in access to materials, intermediate goods and strategic manufacturing steps before the next disruption hits. That is pushing supply chains closer to industrial policy and away from purely cost-based optimization.",
+                        "As a result, announcements about investment vehicles, minerals coordination or plant interruptions can reshape expectations for who absorbs risk and who captures value across a network. The effect often reaches lenders, insurers and downstream manufacturers immediately.",
+                        "The next question is whether these measures improve resilience in practice, or simply redistribute bottlenecks to a different stage of the chain."
+                  ]
+            }
+      },
+      {
+            "id": "eco-trading-day-stocks-rally-oil-hits-pre-iran",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": true,
+            "author": "Priya Raman",
+            "read": 7,
+            "title": {
+                  "en": "Trading Day: Stocks rally, oil hits pre-Iran-war lows as Strait of Hormuz reopens for business",
+                  "zh": "交易日：隨荷莫茲恢復通行 股市上漲 油價跌回伊朗戰事前低點"
+            },
+            "dek": {
+                  "en": "Oil, reform signals and market benchmarks showed investors repricing growth, transparency and trade exposure all at once.",
+                  "zh": "油價、改革訊號與市場基準顯示，投資人正同時重估成長、透明度與貿易曝險。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，交易日：隨荷莫茲恢復通行 股市上漲 油價跌回伊朗戰事前低點。這則標題呈現出，當前總體市場情緒正同時受到商品流向、政策可信度與市場資訊品質的影響。",
+                        "在目前環境下，投資人重估速度很快，因為看似分離的發展可能在同一筆交易中匯合：油價與航運影響通膨，改革訊號影響主權信心，而基準調整則影響資本配置。",
+                        "這也是為何此類故事的重要性會超越單一地理範圍。它們同時左右交易員對利率、匯率、估值與跨境需求持久性的判斷。",
+                        "下一步要觀察的是，這項訊號是否會形成持續性的市場行為，還是在參與者消化初步衝擊並比對後續數據後逐漸淡出。"
+                  ],
+                  "en": [
+                        "Reuters reported on Trading Day: Stocks rally, oil hits pre-Iran-war lows as Strait of Hormuz reopens for business. The headline captured how macro sentiment is being shaped simultaneously by commodity flows, policy credibility and the quality of market information.",
+                        "In the current environment, investors are repricing quickly because seemingly separate developments can meet in the same trade: oil and shipping affect inflation, reform signals affect sovereign confidence, and benchmark decisions affect capital allocation.",
+                        "That is why these stories matter beyond their immediate geography. They influence how traders think about rates, currencies, valuation and the durability of cross-border demand at the same time.",
+                        "The next stage to watch is whether the signal produces persistent market behavior or fades once participants absorb the initial shock and compare it with incoming data."
+                  ]
+            }
+      },
+      {
+            "id": "eco-taiwan-s-cpc-ready-to-diversify-crude-impo",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Priya Raman",
+            "read": 6,
+            "title": {
+                  "en": "Taiwan's CPC ready to diversify crude imports if Hormuz reopens",
+                  "zh": "台灣中油表示 若荷莫茲重啟將準備分散原油進口來源"
+            },
+            "dek": {
+                  "en": "Oil, reform signals and market benchmarks showed investors repricing growth, transparency and trade exposure all at once.",
+                  "zh": "油價、改革訊號與市場基準顯示，投資人正同時重估成長、透明度與貿易曝險。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，台灣中油表示 若荷莫茲重啟將準備分散原油進口來源。這則標題呈現出，當前總體市場情緒正同時受到商品流向、政策可信度與市場資訊品質的影響。",
+                        "在目前環境下，投資人重估速度很快，因為看似分離的發展可能在同一筆交易中匯合：油價與航運影響通膨，改革訊號影響主權信心，而基準調整則影響資本配置。",
+                        "這也是為何此類故事的重要性會超越單一地理範圍。它們同時左右交易員對利率、匯率、估值與跨境需求持久性的判斷。",
+                        "下一步要觀察的是，這項訊號是否會形成持續性的市場行為，還是在參與者消化初步衝擊並比對後續數據後逐漸淡出。"
+                  ],
+                  "en": [
+                        "Reuters reported on Taiwan's CPC ready to diversify crude imports if Hormuz reopens. The headline captured how macro sentiment is being shaped simultaneously by commodity flows, policy credibility and the quality of market information.",
+                        "In the current environment, investors are repricing quickly because seemingly separate developments can meet in the same trade: oil and shipping affect inflation, reform signals affect sovereign confidence, and benchmark decisions affect capital allocation.",
+                        "That is why these stories matter beyond their immediate geography. They influence how traders think about rates, currencies, valuation and the durability of cross-border demand at the same time.",
+                        "The next stage to watch is whether the signal produces persistent market behavior or fades once participants absorb the initial shock and compare it with incoming data."
+                  ]
+            }
+      },
+      {
+            "id": "eco-cuba-proposes-sweeping-reforms-to-socialis",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Priya Raman",
+            "read": 5,
+            "title": {
+                  "en": "Cuba proposes sweeping reforms to socialist model amid U.S. pressure",
+                  "zh": "古巴在美國壓力下提出大幅改革社會主義模式"
+            },
+            "dek": {
+                  "en": "Oil, reform signals and market benchmarks showed investors repricing growth, transparency and trade exposure all at once.",
+                  "zh": "油價、改革訊號與市場基準顯示，投資人正同時重估成長、透明度與貿易曝險。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，古巴在美國壓力下提出大幅改革社會主義模式。這則標題呈現出，當前總體市場情緒正同時受到商品流向、政策可信度與市場資訊品質的影響。",
+                        "在目前環境下，投資人重估速度很快，因為看似分離的發展可能在同一筆交易中匯合：油價與航運影響通膨，改革訊號影響主權信心，而基準調整則影響資本配置。",
+                        "這也是為何此類故事的重要性會超越單一地理範圍。它們同時左右交易員對利率、匯率、估值與跨境需求持久性的判斷。",
+                        "下一步要觀察的是，這項訊號是否會形成持續性的市場行為，還是在參與者消化初步衝擊並比對後續數據後逐漸淡出。"
+                  ],
+                  "en": [
+                        "Reuters reported on Cuba proposes sweeping reforms to socialist model amid U.S. pressure. The headline captured how macro sentiment is being shaped simultaneously by commodity flows, policy credibility and the quality of market information.",
+                        "In the current environment, investors are repricing quickly because seemingly separate developments can meet in the same trade: oil and shipping affect inflation, reform signals affect sovereign confidence, and benchmark decisions affect capital allocation.",
+                        "That is why these stories matter beyond their immediate geography. They influence how traders think about rates, currencies, valuation and the durability of cross-border demand at the same time.",
+                        "The next stage to watch is whether the signal produces persistent market behavior or fades once participants absorb the initial shock and compare it with incoming data."
+                  ]
+            }
+      },
+      {
+            "id": "eco-germany-in-talks-on-extending-oil-reserve",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Priya Raman",
+            "read": 5,
+            "title": {
+                  "en": "Germany in talks on extending oil reserve waiver, economy ministry says",
+                  "zh": "德國經濟部稱正討論延長石油儲備豁免"
+            },
+            "dek": {
+                  "en": "Oil, reform signals and market benchmarks showed investors repricing growth, transparency and trade exposure all at once.",
+                  "zh": "油價、改革訊號與市場基準顯示，投資人正同時重估成長、透明度與貿易曝險。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，德國經濟部稱正討論延長石油儲備豁免。這則標題呈現出，當前總體市場情緒正同時受到商品流向、政策可信度與市場資訊品質的影響。",
+                        "在目前環境下，投資人重估速度很快，因為看似分離的發展可能在同一筆交易中匯合：油價與航運影響通膨，改革訊號影響主權信心，而基準調整則影響資本配置。",
+                        "這也是為何此類故事的重要性會超越單一地理範圍。它們同時左右交易員對利率、匯率、估值與跨境需求持久性的判斷。",
+                        "下一步要觀察的是，這項訊號是否會形成持續性的市場行為，還是在參與者消化初步衝擊並比對後續數據後逐漸淡出。"
+                  ],
+                  "en": [
+                        "Reuters reported on Germany in talks on extending oil reserve waiver, economy ministry says. The headline captured how macro sentiment is being shaped simultaneously by commodity flows, policy credibility and the quality of market information.",
+                        "In the current environment, investors are repricing quickly because seemingly separate developments can meet in the same trade: oil and shipping affect inflation, reform signals affect sovereign confidence, and benchmark decisions affect capital allocation.",
+                        "That is why these stories matter beyond their immediate geography. They influence how traders think about rates, currencies, valuation and the durability of cross-border demand at the same time.",
+                        "The next stage to watch is whether the signal produces persistent market behavior or fades once participants absorb the initial shock and compare it with incoming data."
+                  ]
+            }
+      },
+      {
+            "id": "eco-msci-downgrades-indonesia-s-information-fl",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Priya Raman",
+            "read": 4,
+            "title": {
+                  "en": "MSCI downgrades Indonesia's information flow criterion on transparency concerns",
+                  "zh": "MSCI 因透明度疑慮下調印尼資訊流通評等標準"
+            },
+            "dek": {
+                  "en": "Oil, reform signals and market benchmarks showed investors repricing growth, transparency and trade exposure all at once.",
+                  "zh": "油價、改革訊號與市場基準顯示，投資人正同時重估成長、透明度與貿易曝險。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，MSCI 因透明度疑慮下調印尼資訊流通評等標準。這則標題呈現出，當前總體市場情緒正同時受到商品流向、政策可信度與市場資訊品質的影響。",
+                        "在目前環境下，投資人重估速度很快，因為看似分離的發展可能在同一筆交易中匯合：油價與航運影響通膨，改革訊號影響主權信心，而基準調整則影響資本配置。",
+                        "這也是為何此類故事的重要性會超越單一地理範圍。它們同時左右交易員對利率、匯率、估值與跨境需求持久性的判斷。",
+                        "下一步要觀察的是，這項訊號是否會形成持續性的市場行為，還是在參與者消化初步衝擊並比對後續數據後逐漸淡出。"
+                  ],
+                  "en": [
+                        "Reuters reported on MSCI downgrades Indonesia's information flow criterion on transparency concerns. The headline captured how macro sentiment is being shaped simultaneously by commodity flows, policy credibility and the quality of market information.",
+                        "In the current environment, investors are repricing quickly because seemingly separate developments can meet in the same trade: oil and shipping affect inflation, reform signals affect sovereign confidence, and benchmark decisions affect capital allocation.",
+                        "That is why these stories matter beyond their immediate geography. They influence how traders think about rates, currencies, valuation and the durability of cross-border demand at the same time.",
+                        "The next stage to watch is whether the signal produces persistent market behavior or fades once participants absorb the initial shock and compare it with incoming data."
+                  ]
+            }
+      },
+      {
+            "id": "ene-us-signs-725-million-loan-pact-with-energy",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": true,
+            "author": "Amara Okafor",
+            "read": 7,
+            "title": {
+                  "en": "US signs $725 million loan pact with Energy Fuels to boost domestic rare earth production",
+                  "zh": "美國與 Energy Fuels 簽署 7.25 億美元貸款協議 以提升國內稀土產量"
+            },
+            "dek": {
+                  "en": "Climate finance, mining support and weather damage underscored the uneven path through the energy transition.",
+                  "zh": "氣候融資、礦業支持與極端天氣損害凸顯能源轉型道路的高度不均。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，美國與 Energy Fuels 簽署 7.25 億美元貸款協議 以提升國內稀土產量。這項發展說明，能源轉型正透過公共融資、化石燃料務實考量、產業支持與氣候災損等多重力量同步推進。",
+                        "能源系統現在被要求同時完成多項任務：確保供應、降低排放、吸收極端天氣衝擊，並建立本土戰略產能。這意味著不同國家與產業的進展很少呈現筆直路徑。",
+                        "對市場而言，這些動作都可能重設對專案經濟性、監管容忍度，以及轉型目標與即時安全需求之間平衡的預期。礦業、電網、燃料與調適支出正愈來愈像同一個資本故事。",
+                        "接下來的關鍵在於，資金與政策支持能否轉化為持久產能，還是實體干擾與政治權衡會再次放慢轉型步伐。"
+                  ],
+                  "en": [
+                        "Reuters reported on US signs $725 million loan pact with Energy Fuels to boost domestic rare earth production. The development illustrated how the energy transition is unfolding through a mix of public finance, fossil-fuel pragmatism, industrial support and climate-related damage.",
+                        "Energy systems are being asked to do several things at once: secure supply, lower emissions, absorb weather shocks and create domestic strategic capacity. That means progress rarely follows a straight line across countries or sectors.",
+                        "For markets, each of these moves can reset expectations for project economics, regulatory tolerance and the balance between transition goals and immediate security needs. Mining, grids, fuels and adaptation spending are increasingly part of the same capital story.",
+                        "The key question ahead is whether funding and policy support translate into durable capacity, or whether physical disruption and political trade-offs slow the transition back down."
+                  ]
+            }
+      },
+      {
+            "id": "ene-imf-greenlights-new-211-million-climate-fu",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Amara Okafor",
+            "read": 6,
+            "title": {
+                  "en": "IMF greenlights new $211 million climate funding for Sierra Leone",
+                  "zh": "IMF 核准對獅子山提供新的 2.11 億美元氣候資金"
+            },
+            "dek": {
+                  "en": "Climate finance, mining support and weather damage underscored the uneven path through the energy transition.",
+                  "zh": "氣候融資、礦業支持與極端天氣損害凸顯能源轉型道路的高度不均。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，IMF 核准對獅子山提供新的 2.11 億美元氣候資金。這項發展說明，能源轉型正透過公共融資、化石燃料務實考量、產業支持與氣候災損等多重力量同步推進。",
+                        "能源系統現在被要求同時完成多項任務：確保供應、降低排放、吸收極端天氣衝擊，並建立本土戰略產能。這意味著不同國家與產業的進展很少呈現筆直路徑。",
+                        "對市場而言，這些動作都可能重設對專案經濟性、監管容忍度，以及轉型目標與即時安全需求之間平衡的預期。礦業、電網、燃料與調適支出正愈來愈像同一個資本故事。",
+                        "接下來的關鍵在於，資金與政策支持能否轉化為持久產能，還是實體干擾與政治權衡會再次放慢轉型步伐。"
+                  ],
+                  "en": [
+                        "Reuters reported on IMF greenlights new $211 million climate funding for Sierra Leone. The development illustrated how the energy transition is unfolding through a mix of public finance, fossil-fuel pragmatism, industrial support and climate-related damage.",
+                        "Energy systems are being asked to do several things at once: secure supply, lower emissions, absorb weather shocks and create domestic strategic capacity. That means progress rarely follows a straight line across countries or sectors.",
+                        "For markets, each of these moves can reset expectations for project economics, regulatory tolerance and the balance between transition goals and immediate security needs. Mining, grids, fuels and adaptation spending are increasingly part of the same capital story.",
+                        "The key question ahead is whether funding and policy support translate into durable capacity, or whether physical disruption and political trade-offs slow the transition back down."
+                  ]
+            }
+      },
+      {
+            "id": "ene-eu-crafts-plan-to-give-industries-extra-fr",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Amara Okafor",
+            "read": 5,
+            "title": {
+                  "en": "EU crafts plan to give industries extra free CO2 permits this year, diplomats say",
+                  "zh": "外交人士稱歐盟擬今年額外提供產業免費二氧化碳排放額度"
+            },
+            "dek": {
+                  "en": "Climate finance, mining support and weather damage underscored the uneven path through the energy transition.",
+                  "zh": "氣候融資、礦業支持與極端天氣損害凸顯能源轉型道路的高度不均。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，外交人士稱歐盟擬今年額外提供產業免費二氧化碳排放額度。這項發展說明，能源轉型正透過公共融資、化石燃料務實考量、產業支持與氣候災損等多重力量同步推進。",
+                        "能源系統現在被要求同時完成多項任務：確保供應、降低排放、吸收極端天氣衝擊，並建立本土戰略產能。這意味著不同國家與產業的進展很少呈現筆直路徑。",
+                        "對市場而言，這些動作都可能重設對專案經濟性、監管容忍度，以及轉型目標與即時安全需求之間平衡的預期。礦業、電網、燃料與調適支出正愈來愈像同一個資本故事。",
+                        "接下來的關鍵在於，資金與政策支持能否轉化為持久產能，還是實體干擾與政治權衡會再次放慢轉型步伐。"
+                  ],
+                  "en": [
+                        "Reuters reported on EU crafts plan to give industries extra free CO2 permits this year, diplomats say. The development illustrated how the energy transition is unfolding through a mix of public finance, fossil-fuel pragmatism, industrial support and climate-related damage.",
+                        "Energy systems are being asked to do several things at once: secure supply, lower emissions, absorb weather shocks and create domestic strategic capacity. That means progress rarely follows a straight line across countries or sectors.",
+                        "For markets, each of these moves can reset expectations for project economics, regulatory tolerance and the balance between transition goals and immediate security needs. Mining, grids, fuels and adaptation spending are increasingly part of the same capital story.",
+                        "The key question ahead is whether funding and policy support translate into durable capacity, or whether physical disruption and political trade-offs slow the transition back down."
+                  ]
+            }
+      },
+      {
+            "id": "ene-spanish-energy-group-repsol-seeks-to-expan",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Amara Okafor",
+            "read": 5,
+            "title": {
+                  "en": "Spanish energy group Repsol seeks to expand to new oilfield in Venezuela",
+                  "zh": "西班牙能源集團 Repsol 尋求擴展至委內瑞拉新油田"
+            },
+            "dek": {
+                  "en": "Climate finance, mining support and weather damage underscored the uneven path through the energy transition.",
+                  "zh": "氣候融資、礦業支持與極端天氣損害凸顯能源轉型道路的高度不均。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，西班牙能源集團 Repsol 尋求擴展至委內瑞拉新油田。這項發展說明，能源轉型正透過公共融資、化石燃料務實考量、產業支持與氣候災損等多重力量同步推進。",
+                        "能源系統現在被要求同時完成多項任務：確保供應、降低排放、吸收極端天氣衝擊，並建立本土戰略產能。這意味著不同國家與產業的進展很少呈現筆直路徑。",
+                        "對市場而言，這些動作都可能重設對專案經濟性、監管容忍度，以及轉型目標與即時安全需求之間平衡的預期。礦業、電網、燃料與調適支出正愈來愈像同一個資本故事。",
+                        "接下來的關鍵在於，資金與政策支持能否轉化為持久產能，還是實體干擾與政治權衡會再次放慢轉型步伐。"
+                  ],
+                  "en": [
+                        "Reuters reported on Spanish energy group Repsol seeks to expand to new oilfield in Venezuela. The development illustrated how the energy transition is unfolding through a mix of public finance, fossil-fuel pragmatism, industrial support and climate-related damage.",
+                        "Energy systems are being asked to do several things at once: secure supply, lower emissions, absorb weather shocks and create domestic strategic capacity. That means progress rarely follows a straight line across countries or sectors.",
+                        "For markets, each of these moves can reset expectations for project economics, regulatory tolerance and the balance between transition goals and immediate security needs. Mining, grids, fuels and adaptation spending are increasingly part of the same capital story.",
+                        "The key question ahead is whether funding and policy support translate into durable capacity, or whether physical disruption and political trade-offs slow the transition back down."
+                  ]
+            }
+      },
+      {
+            "id": "ene-flash-floods-destroy-houses-in-northern-sp",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Amara Okafor",
+            "read": 4,
+            "title": {
+                  "en": "Flash floods destroy houses in northern Spain village",
+                  "zh": "西班牙北部村莊暴洪沖毀房屋"
+            },
+            "dek": {
+                  "en": "Climate finance, mining support and weather damage underscored the uneven path through the energy transition.",
+                  "zh": "氣候融資、礦業支持與極端天氣損害凸顯能源轉型道路的高度不均。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，西班牙北部村莊暴洪沖毀房屋。這項發展說明，能源轉型正透過公共融資、化石燃料務實考量、產業支持與氣候災損等多重力量同步推進。",
+                        "能源系統現在被要求同時完成多項任務：確保供應、降低排放、吸收極端天氣衝擊，並建立本土戰略產能。這意味著不同國家與產業的進展很少呈現筆直路徑。",
+                        "對市場而言，這些動作都可能重設對專案經濟性、監管容忍度，以及轉型目標與即時安全需求之間平衡的預期。礦業、電網、燃料與調適支出正愈來愈像同一個資本故事。",
+                        "接下來的關鍵在於，資金與政策支持能否轉化為持久產能，還是實體干擾與政治權衡會再次放慢轉型步伐。"
+                  ],
+                  "en": [
+                        "Reuters reported on Flash floods destroy houses in northern Spain village. The development illustrated how the energy transition is unfolding through a mix of public finance, fossil-fuel pragmatism, industrial support and climate-related damage.",
+                        "Energy systems are being asked to do several things at once: secure supply, lower emissions, absorb weather shocks and create domestic strategic capacity. That means progress rarely follows a straight line across countries or sectors.",
+                        "For markets, each of these moves can reset expectations for project economics, regulatory tolerance and the balance between transition goals and immediate security needs. Mining, grids, fuels and adaptation spending are increasingly part of the same capital story.",
+                        "The key question ahead is whether funding and policy support translate into durable capacity, or whether physical disruption and political trade-offs slow the transition back down."
+                  ]
+            }
+      },
+      {
+            "id": "pol-top-us-energy-regulator-pushes-grids-to-ov",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": true,
+            "author": "Leila Haddad",
+            "read": 7,
+            "title": {
+                  "en": "Top US energy regulator pushes grids to overhaul data center power rules",
+                  "zh": "美國頂級能源監管官員推動電網全面改革資料中心供電規則"
+            },
+            "dek": {
+                  "en": "Courts and regulators kept rewriting the rulebook for finance, power systems, labor competition and app markets.",
+                  "zh": "法院與監管機關持續改寫金融、電力系統、勞動競爭與應用商店市場的規則。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，美國頂級能源監管官員推動電網全面改革資料中心供電規則。這則新聞反映，在市場集中、系統壓力與數位及金融基礎設施重要性上升的背景下，監管規則正被重新改寫。",
+                        "監管者不再只是等到中斷發生後才反應，也正試圖提前為資本緩衝、平台行為、電網接入與法律責任設定新預期。",
+                        "這之所以重要，是因為規則變化往往比投資調整更快地改變誘因。銀行、公用事業、國防企業與科技平台都必須同步重估合規成本、戰略選項與訴訟風險。",
+                        "接下來要觀察的是，諮詢與執法能否收斂成明確的營運標準，還是政治阻力會讓規則在更長時間內持續擺盪。"
+                  ],
+                  "en": [
+                        "Reuters reported on Top US energy regulator pushes grids to overhaul data center power rules. The story reflected how regulation is being rewritten under pressure from market concentration, system stress and the rising importance of digital and financial infrastructure.",
+                        "Officials are no longer only reacting after disruption occurs. They are also trying to set new expectations in advance for capital buffers, platform conduct, grid access and legal accountability.",
+                        "That matters because rule changes often alter incentives faster than investment can adapt. Banks, utilities, defense groups and technology platforms all have to reassess compliance costs, strategic options and litigation risk at the same time.",
+                        "The next development to watch is whether consultation and enforcement converge into a clear operating standard, or whether political resistance keeps the rules in flux for longer."
+                  ]
+            }
+      },
+      {
+            "id": "pol-us-banks-to-make-final-push-on-capital-rul",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Leila Haddad",
+            "read": 6,
+            "title": {
+                  "en": "US banks to make final push on capital rule changes as Fed wraps up consultation",
+                  "zh": "隨聯準會結束諮詢 美國銀行將最後力推資本規則修改"
+            },
+            "dek": {
+                  "en": "Courts and regulators kept rewriting the rulebook for finance, power systems, labor competition and app markets.",
+                  "zh": "法院與監管機關持續改寫金融、電力系統、勞動競爭與應用商店市場的規則。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，隨聯準會結束諮詢 美國銀行將最後力推資本規則修改。這則新聞反映，在市場集中、系統壓力與數位及金融基礎設施重要性上升的背景下，監管規則正被重新改寫。",
+                        "監管者不再只是等到中斷發生後才反應，也正試圖提前為資本緩衝、平台行為、電網接入與法律責任設定新預期。",
+                        "這之所以重要，是因為規則變化往往比投資調整更快地改變誘因。銀行、公用事業、國防企業與科技平台都必須同步重估合規成本、戰略選項與訴訟風險。",
+                        "接下來要觀察的是，諮詢與執法能否收斂成明確的營運標準，還是政治阻力會讓規則在更長時間內持續擺盪。"
+                  ],
+                  "en": [
+                        "Reuters reported on US banks to make final push on capital rule changes as Fed wraps up consultation. The story reflected how regulation is being rewritten under pressure from market concentration, system stress and the rising importance of digital and financial infrastructure.",
+                        "Officials are no longer only reacting after disruption occurs. They are also trying to set new expectations in advance for capital buffers, platform conduct, grid access and legal accountability.",
+                        "That matters because rule changes often alter incentives faster than investment can adapt. Banks, utilities, defense groups and technology platforms all have to reassess compliance costs, strategic options and litigation risk at the same time.",
+                        "The next development to watch is whether consultation and enforcement converge into a clear operating standard, or whether political resistance keeps the rules in flux for longer."
+                  ]
+            }
+      },
+      {
+            "id": "pol-majority-of-swiss-population-backs-stronge",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Leila Haddad",
+            "read": 5,
+            "title": {
+                  "en": "Majority of Swiss population backs stronger capital rules for UBS, poll finds",
+                  "zh": "民調顯示 多數瑞士民眾支持對瑞銀實施更嚴格資本規則"
+            },
+            "dek": {
+                  "en": "Courts and regulators kept rewriting the rulebook for finance, power systems, labor competition and app markets.",
+                  "zh": "法院與監管機關持續改寫金融、電力系統、勞動競爭與應用商店市場的規則。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，民調顯示 多數瑞士民眾支持對瑞銀實施更嚴格資本規則。這則新聞反映，在市場集中、系統壓力與數位及金融基礎設施重要性上升的背景下，監管規則正被重新改寫。",
+                        "監管者不再只是等到中斷發生後才反應，也正試圖提前為資本緩衝、平台行為、電網接入與法律責任設定新預期。",
+                        "這之所以重要，是因為規則變化往往比投資調整更快地改變誘因。銀行、公用事業、國防企業與科技平台都必須同步重估合規成本、戰略選項與訴訟風險。",
+                        "接下來要觀察的是，諮詢與執法能否收斂成明確的營運標準，還是政治阻力會讓規則在更長時間內持續擺盪。"
+                  ],
+                  "en": [
+                        "Reuters reported on Majority of Swiss population backs stronger capital rules for UBS, poll finds. The story reflected how regulation is being rewritten under pressure from market concentration, system stress and the rising importance of digital and financial infrastructure.",
+                        "Officials are no longer only reacting after disruption occurs. They are also trying to set new expectations in advance for capital buffers, platform conduct, grid access and legal accountability.",
+                        "That matters because rule changes often alter incentives faster than investment can adapt. Banks, utilities, defense groups and technology platforms all have to reassess compliance costs, strategic options and litigation risk at the same time.",
+                        "The next development to watch is whether consultation and enforcement converge into a clear operating standard, or whether political resistance keeps the rules in flux for longer."
+                  ]
+            }
+      },
+      {
+            "id": "pol-apple-allows-alternative-app-stores-paymen",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Leila Haddad",
+            "read": 5,
+            "title": {
+                  "en": "Apple allows alternative app stores, payments in Brazil after deal with regulator",
+                  "zh": "蘋果與監管機關達成協議後 在巴西開放替代應用商店與支付"
+            },
+            "dek": {
+                  "en": "Courts and regulators kept rewriting the rulebook for finance, power systems, labor competition and app markets.",
+                  "zh": "法院與監管機關持續改寫金融、電力系統、勞動競爭與應用商店市場的規則。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，蘋果與監管機關達成協議後 在巴西開放替代應用商店與支付。這則新聞反映，在市場集中、系統壓力與數位及金融基礎設施重要性上升的背景下，監管規則正被重新改寫。",
+                        "監管者不再只是等到中斷發生後才反應，也正試圖提前為資本緩衝、平台行為、電網接入與法律責任設定新預期。",
+                        "這之所以重要，是因為規則變化往往比投資調整更快地改變誘因。銀行、公用事業、國防企業與科技平台都必須同步重估合規成本、戰略選項與訴訟風險。",
+                        "接下來要觀察的是，諮詢與執法能否收斂成明確的營運標準，還是政治阻力會讓規則在更長時間內持續擺盪。"
+                  ],
+                  "en": [
+                        "Reuters reported on Apple allows alternative app stores, payments in Brazil after deal with regulator. The story reflected how regulation is being rewritten under pressure from market concentration, system stress and the rising importance of digital and financial infrastructure.",
+                        "Officials are no longer only reacting after disruption occurs. They are also trying to set new expectations in advance for capital buffers, platform conduct, grid access and legal accountability.",
+                        "That matters because rule changes often alter incentives faster than investment can adapt. Banks, utilities, defense groups and technology platforms all have to reassess compliance costs, strategic options and litigation risk at the same time.",
+                        "The next development to watch is whether consultation and enforcement converge into a clear operating standard, or whether political resistance keeps the rules in flux for longer."
+                  ]
+            }
+      },
+      {
+            "id": "pol-general-dynamics-seeks-legal-fees-after-pl",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Leila Haddad",
+            "read": 4,
+            "title": {
+                  "en": "General Dynamics seeks legal fees after plaintiffs drop antitrust lawsuit over wages",
+                  "zh": "原告撤回薪資反壟斷訴訟後 通用動力尋求法律費用賠償"
+            },
+            "dek": {
+                  "en": "Courts and regulators kept rewriting the rulebook for finance, power systems, labor competition and app markets.",
+                  "zh": "法院與監管機關持續改寫金融、電力系統、勞動競爭與應用商店市場的規則。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，原告撤回薪資反壟斷訴訟後 通用動力尋求法律費用賠償。這則新聞反映，在市場集中、系統壓力與數位及金融基礎設施重要性上升的背景下，監管規則正被重新改寫。",
+                        "監管者不再只是等到中斷發生後才反應，也正試圖提前為資本緩衝、平台行為、電網接入與法律責任設定新預期。",
+                        "這之所以重要，是因為規則變化往往比投資調整更快地改變誘因。銀行、公用事業、國防企業與科技平台都必須同步重估合規成本、戰略選項與訴訟風險。",
+                        "接下來要觀察的是，諮詢與執法能否收斂成明確的營運標準，還是政治阻力會讓規則在更長時間內持續擺盪。"
+                  ],
+                  "en": [
+                        "Reuters reported on General Dynamics seeks legal fees after plaintiffs drop antitrust lawsuit over wages. The story reflected how regulation is being rewritten under pressure from market concentration, system stress and the rising importance of digital and financial infrastructure.",
+                        "Officials are no longer only reacting after disruption occurs. They are also trying to set new expectations in advance for capital buffers, platform conduct, grid access and legal accountability.",
+                        "That matters because rule changes often alter incentives faster than investment can adapt. Banks, utilities, defense groups and technology platforms all have to reassess compliance costs, strategic options and litigation risk at the same time.",
+                        "The next development to watch is whether consultation and enforcement converge into a clear operating standard, or whether political resistance keeps the rules in flux for longer."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-major-hack-campaign-against-fortinet-devic",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": true,
+            "author": "Ethan Lin",
+            "read": 7,
+            "title": {
+                  "en": "Major hack campaign against Fortinet devices compromised prominent organizations",
+                  "zh": "針對 Fortinet 設備的大規模駭客行動已入侵多個知名機構"
+            },
+            "dek": {
+                  "en": "Fresh attacks, defensive funding and AI-linked warnings showed cyber risk moving deeper into core institutions.",
+                  "zh": "新的攻擊、資安募資與 AI 相關警示顯示，網路風險正更深地滲入核心機構。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，針對 Fortinet 設備的大規模駭客行動已入侵多個知名機構。這項發展凸顯，隨著攻擊者採用更可擴展的工具，網路風險正同時擴散到企業網路、金融系統與公共機構。",
+                        "資安新聞如今不只是技術議題，更是營運變數。一場入侵、一次警告或一輪大額募資，都可能改變組織如何編列韌性預算、信任哪些供應商，以及多快收緊存取權限。",
+                        "AI 被納入威脅版圖尤其值得注意，因為它可能降低鎖定目標的成本、提升攻擊調整速度，並擴大脆弱機構的範圍。這使資安新聞與治理與營運持續性的更大問題緊密相連。",
+                        "接下來應觀察的是，各機構是否會從被動修補轉向身分管理、網路分段與事件應變準備等結構性調整。"
+                  ],
+                  "en": [
+                        "Reuters reported on Major hack campaign against Fortinet devices compromised prominent organizations. The development highlighted how cyber risk is spreading across corporate networks, financial systems and public institutions at the same time as attackers adopt more scalable tools.",
+                        "Security news now matters as an operational variable, not just a technical one. A breach, warning or large funding round can change how organizations budget for resilience, what vendors they trust and how quickly they tighten access controls.",
+                        "The addition of AI to the threat landscape is especially important because it can lower the cost of targeting, increase the speed of adaptation and widen the range of vulnerable institutions. That keeps cyber stories closely tied to wider questions of governance and continuity.",
+                        "The next issue to watch is whether organizations move from reactive patching to structural changes in identity, network segmentation and incident response readiness."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-israeli-cyber-startup-dream-raises-260-mil",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Ethan Lin",
+            "read": 6,
+            "title": {
+                  "en": "Israeli cyber startup Dream raises $260 million, valued at $3 billion",
+                  "zh": "以色列資安新創 Dream 募得 2.6 億美元 估值達 30 億美元"
+            },
+            "dek": {
+                  "en": "Fresh attacks, defensive funding and AI-linked warnings showed cyber risk moving deeper into core institutions.",
+                  "zh": "新的攻擊、資安募資與 AI 相關警示顯示，網路風險正更深地滲入核心機構。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，以色列資安新創 Dream 募得 2.6 億美元 估值達 30 億美元。這項發展凸顯，隨著攻擊者採用更可擴展的工具，網路風險正同時擴散到企業網路、金融系統與公共機構。",
+                        "資安新聞如今不只是技術議題，更是營運變數。一場入侵、一次警告或一輪大額募資，都可能改變組織如何編列韌性預算、信任哪些供應商，以及多快收緊存取權限。",
+                        "AI 被納入威脅版圖尤其值得注意，因為它可能降低鎖定目標的成本、提升攻擊調整速度，並擴大脆弱機構的範圍。這使資安新聞與治理與營運持續性的更大問題緊密相連。",
+                        "接下來應觀察的是，各機構是否會從被動修補轉向身分管理、網路分段與事件應變準備等結構性調整。"
+                  ],
+                  "en": [
+                        "Reuters reported on Israeli cyber startup Dream raises $260 million, valued at $3 billion. The development highlighted how cyber risk is spreading across corporate networks, financial systems and public institutions at the same time as attackers adopt more scalable tools.",
+                        "Security news now matters as an operational variable, not just a technical one. A breach, warning or large funding round can change how organizations budget for resilience, what vendors they trust and how quickly they tighten access controls.",
+                        "The addition of AI to the threat landscape is especially important because it can lower the cost of targeting, increase the speed of adaptation and widen the range of vulnerable institutions. That keeps cyber stories closely tied to wider questions of governance and continuity.",
+                        "The next issue to watch is whether organizations move from reactive patching to structural changes in identity, network segmentation and incident response readiness."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-japan-bank-lobby-warns-of-potential-servic",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Ethan Lin",
+            "read": 5,
+            "title": {
+                  "en": "Japan bank lobby warns of potential service disruptions due to AI-enabled cyberattacks",
+                  "zh": "日本銀行業遊說團體警告 AI 強化網攻恐導致服務中斷"
+            },
+            "dek": {
+                  "en": "Fresh attacks, defensive funding and AI-linked warnings showed cyber risk moving deeper into core institutions.",
+                  "zh": "新的攻擊、資安募資與 AI 相關警示顯示，網路風險正更深地滲入核心機構。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，日本銀行業遊說團體警告 AI 強化網攻恐導致服務中斷。這項發展凸顯，隨著攻擊者採用更可擴展的工具，網路風險正同時擴散到企業網路、金融系統與公共機構。",
+                        "資安新聞如今不只是技術議題，更是營運變數。一場入侵、一次警告或一輪大額募資，都可能改變組織如何編列韌性預算、信任哪些供應商，以及多快收緊存取權限。",
+                        "AI 被納入威脅版圖尤其值得注意，因為它可能降低鎖定目標的成本、提升攻擊調整速度，並擴大脆弱機構的範圍。這使資安新聞與治理與營運持續性的更大問題緊密相連。",
+                        "接下來應觀察的是，各機構是否會從被動修補轉向身分管理、網路分段與事件應變準備等結構性調整。"
+                  ],
+                  "en": [
+                        "Reuters reported on Japan bank lobby warns of potential service disruptions due to AI-enabled cyberattacks. The development highlighted how cyber risk is spreading across corporate networks, financial systems and public institutions at the same time as attackers adopt more scalable tools.",
+                        "Security news now matters as an operational variable, not just a technical one. A breach, warning or large funding round can change how organizations budget for resilience, what vendors they trust and how quickly they tighten access controls.",
+                        "The addition of AI to the threat landscape is especially important because it can lower the cost of targeting, increase the speed of adaptation and widen the range of vulnerable institutions. That keeps cyber stories closely tied to wider questions of governance and continuity.",
+                        "The next issue to watch is whether organizations move from reactive patching to structural changes in identity, network segmentation and incident response readiness."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-hacking-group-claims-major-hack-of-novo-no",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Ethan Lin",
+            "read": 5,
+            "title": {
+                  "en": "Hacking group claims major hack of Novo Nordisk and attempted $25 million extortion",
+                  "zh": "駭客組織聲稱大規模入侵諾和諾德 並勒索 2500 萬美元未遂"
+            },
+            "dek": {
+                  "en": "Fresh attacks, defensive funding and AI-linked warnings showed cyber risk moving deeper into core institutions.",
+                  "zh": "新的攻擊、資安募資與 AI 相關警示顯示，網路風險正更深地滲入核心機構。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，駭客組織聲稱大規模入侵諾和諾德 並勒索 2500 萬美元未遂。這項發展凸顯，隨著攻擊者採用更可擴展的工具，網路風險正同時擴散到企業網路、金融系統與公共機構。",
+                        "資安新聞如今不只是技術議題，更是營運變數。一場入侵、一次警告或一輪大額募資，都可能改變組織如何編列韌性預算、信任哪些供應商，以及多快收緊存取權限。",
+                        "AI 被納入威脅版圖尤其值得注意，因為它可能降低鎖定目標的成本、提升攻擊調整速度，並擴大脆弱機構的範圍。這使資安新聞與治理與營運持續性的更大問題緊密相連。",
+                        "接下來應觀察的是，各機構是否會從被動修補轉向身分管理、網路分段與事件應變準備等結構性調整。"
+                  ],
+                  "en": [
+                        "Reuters reported on Hacking group claims major hack of Novo Nordisk and attempted $25 million extortion. The development highlighted how cyber risk is spreading across corporate networks, financial systems and public institutions at the same time as attackers adopt more scalable tools.",
+                        "Security news now matters as an operational variable, not just a technical one. A breach, warning or large funding round can change how organizations budget for resilience, what vendors they trust and how quickly they tighten access controls.",
+                        "The addition of AI to the threat landscape is especially important because it can lower the cost of targeting, increase the speed of adaptation and widen the range of vulnerable institutions. That keeps cyber stories closely tied to wider questions of governance and continuity.",
+                        "The next issue to watch is whether organizations move from reactive patching to structural changes in identity, network segmentation and incident response readiness."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-uk-says-three-quarters-of-cyberattacks-on",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Ethan Lin",
+            "read": 4,
+            "title": {
+                  "en": "UK says three-quarters of cyberattacks on critical systems are linked to hostile states",
+                  "zh": "英國表示 對關鍵系統的網攻有四分之三與敵對國家有關"
+            },
+            "dek": {
+                  "en": "Fresh attacks, defensive funding and AI-linked warnings showed cyber risk moving deeper into core institutions.",
+                  "zh": "新的攻擊、資安募資與 AI 相關警示顯示，網路風險正更深地滲入核心機構。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，英國表示 對關鍵系統的網攻有四分之三與敵對國家有關。這項發展凸顯，隨著攻擊者採用更可擴展的工具，網路風險正同時擴散到企業網路、金融系統與公共機構。",
+                        "資安新聞如今不只是技術議題，更是營運變數。一場入侵、一次警告或一輪大額募資，都可能改變組織如何編列韌性預算、信任哪些供應商，以及多快收緊存取權限。",
+                        "AI 被納入威脅版圖尤其值得注意，因為它可能降低鎖定目標的成本、提升攻擊調整速度，並擴大脆弱機構的範圍。這使資安新聞與治理與營運持續性的更大問題緊密相連。",
+                        "接下來應觀察的是，各機構是否會從被動修補轉向身分管理、網路分段與事件應變準備等結構性調整。"
+                  ],
+                  "en": [
+                        "Reuters reported on UK says three-quarters of cyberattacks on critical systems are linked to hostile states. The development highlighted how cyber risk is spreading across corporate networks, financial systems and public institutions at the same time as attackers adopt more scalable tools.",
+                        "Security news now matters as an operational variable, not just a technical one. A breach, warning or large funding round can change how organizations budget for resilience, what vendors they trust and how quickly they tighten access controls.",
+                        "The addition of AI to the threat landscape is especially important because it can lower the cost of targeting, increase the speed of adaptation and widen the range of vulnerable institutions. That keeps cyber stories closely tied to wider questions of governance and continuity.",
+                        "The next issue to watch is whether organizations move from reactive patching to structural changes in identity, network segmentation and incident response readiness."
+                  ]
+            }
+      },
+      {
+            "id": "log-zambia-us-expand-use-of-491-million-grant",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": true,
+            "author": "Sofia Reyes",
+            "read": 7,
+            "title": {
+                  "en": "Zambia, US expand use of $491 million grant programme to critical metals infrastructure",
+                  "zh": "尚比亞與美國擴大 4.91 億美元補助計畫用於關鍵金屬基礎建設"
+            },
+            "dek": {
+                  "en": "Ports, corridors and wartime transport assets remained central to the economics of moving grain, metals and manufactured goods.",
+                  "zh": "港口、運輸走廊與戰時運輸資產，仍是穀物、金屬與製成品流動經濟的核心。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，尚比亞與美國擴大 4.91 億美元補助計畫用於關鍵金屬基礎建設。這則新聞顯示，物流能力與實體基礎設施、運輸安全以及運輸走廊規劃的耐久性密不可分。",
+                        "港口、鐵路、煉油廠與內陸連結不只是搬運貨物的設施，它們也決定在軍事壓力、融資限制或需求突變下，貿易路徑是否仍具可信度。因此，基礎設施新聞對商業規劃至關重要。",
+                        "當一條走廊擴張，或一項物流資產遭到攻擊時，後果會迅速反映到運價、庫存策略與出口可靠性。商品交易商與政府往往在正式重建或改道方案完成前就先做出反應。",
+                        "接下來要看的是，受影響的網絡能否恢復可用產能、吸引替代投資，或把流量永久讓給更可靠的其他路線。"
+                  ],
+                  "en": [
+                        "Reuters reported on Zambia, US expand use of $491 million grant programme to critical metals infrastructure. The story showed that logistics capacity is inseparable from physical infrastructure, transport security and the durability of corridor planning.",
+                        "Ports, railways, refineries and inland links do not only move goods; they also determine whether trade routes stay credible under military pressure, financing constraints or sudden demand shifts. That makes infrastructure news central to commercial planning.",
+                        "When a corridor expands or a logistics asset comes under attack, the consequences move quickly into freight pricing, inventory strategy and export reliability. Commodity traders and governments often react before formal reconstruction or rerouting plans are complete.",
+                        "The next thing to watch is whether the affected network regains usable capacity, attracts replacement investment or loses traffic to alternative routes that prove more dependable."
+                  ]
+            }
+      },
+      {
+            "id": "log-focus-russian-attacks-could-cut-ukraine-gr",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Sofia Reyes",
+            "read": 6,
+            "title": {
+                  "en": "Focus: Russian attacks could cut Ukraine grain exports by a third",
+                  "zh": "焦點：俄羅斯攻擊恐使烏克蘭穀物出口減少三分之一"
+            },
+            "dek": {
+                  "en": "Ports, corridors and wartime transport assets remained central to the economics of moving grain, metals and manufactured goods.",
+                  "zh": "港口、運輸走廊與戰時運輸資產，仍是穀物、金屬與製成品流動經濟的核心。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，焦點：俄羅斯攻擊恐使烏克蘭穀物出口減少三分之一。這則新聞顯示，物流能力與實體基礎設施、運輸安全以及運輸走廊規劃的耐久性密不可分。",
+                        "港口、鐵路、煉油廠與內陸連結不只是搬運貨物的設施，它們也決定在軍事壓力、融資限制或需求突變下，貿易路徑是否仍具可信度。因此，基礎設施新聞對商業規劃至關重要。",
+                        "當一條走廊擴張，或一項物流資產遭到攻擊時，後果會迅速反映到運價、庫存策略與出口可靠性。商品交易商與政府往往在正式重建或改道方案完成前就先做出反應。",
+                        "接下來要看的是，受影響的網絡能否恢復可用產能、吸引替代投資，或把流量永久讓給更可靠的其他路線。"
+                  ],
+                  "en": [
+                        "Reuters reported on Focus: Russian attacks could cut Ukraine grain exports by a third. The story showed that logistics capacity is inseparable from physical infrastructure, transport security and the durability of corridor planning.",
+                        "Ports, railways, refineries and inland links do not only move goods; they also determine whether trade routes stay credible under military pressure, financing constraints or sudden demand shifts. That makes infrastructure news central to commercial planning.",
+                        "When a corridor expands or a logistics asset comes under attack, the consequences move quickly into freight pricing, inventory strategy and export reliability. Commodity traders and governments often react before formal reconstruction or rerouting plans are complete.",
+                        "The next thing to watch is whether the affected network regains usable capacity, attracts replacement investment or loses traffic to alternative routes that prove more dependable."
+                  ]
+            }
+      },
+      {
+            "id": "log-ukraine-hits-moscow-refinery-in-major-dron",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Sofia Reyes",
+            "read": 5,
+            "title": {
+                  "en": "Ukraine hits Moscow refinery in major drone attack on Russian capital",
+                  "zh": "烏克蘭以大規模無人機攻擊俄國首都 並擊中莫斯科煉油廠"
+            },
+            "dek": {
+                  "en": "Ports, corridors and wartime transport assets remained central to the economics of moving grain, metals and manufactured goods.",
+                  "zh": "港口、運輸走廊與戰時運輸資產，仍是穀物、金屬與製成品流動經濟的核心。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，烏克蘭以大規模無人機攻擊俄國首都 並擊中莫斯科煉油廠。這則新聞顯示，物流能力與實體基礎設施、運輸安全以及運輸走廊規劃的耐久性密不可分。",
+                        "港口、鐵路、煉油廠與內陸連結不只是搬運貨物的設施，它們也決定在軍事壓力、融資限制或需求突變下，貿易路徑是否仍具可信度。因此，基礎設施新聞對商業規劃至關重要。",
+                        "當一條走廊擴張，或一項物流資產遭到攻擊時，後果會迅速反映到運價、庫存策略與出口可靠性。商品交易商與政府往往在正式重建或改道方案完成前就先做出反應。",
+                        "接下來要看的是，受影響的網絡能否恢復可用產能、吸引替代投資，或把流量永久讓給更可靠的其他路線。"
+                  ],
+                  "en": [
+                        "Reuters reported on Ukraine hits Moscow refinery in major drone attack on Russian capital. The story showed that logistics capacity is inseparable from physical infrastructure, transport security and the durability of corridor planning.",
+                        "Ports, railways, refineries and inland links do not only move goods; they also determine whether trade routes stay credible under military pressure, financing constraints or sudden demand shifts. That makes infrastructure news central to commercial planning.",
+                        "When a corridor expands or a logistics asset comes under attack, the consequences move quickly into freight pricing, inventory strategy and export reliability. Commodity traders and governments often react before formal reconstruction or rerouting plans are complete.",
+                        "The next thing to watch is whether the affected network regains usable capacity, attracts replacement investment or loses traffic to alternative routes that prove more dependable."
+                  ]
+            }
+      },
+      {
+            "id": "log-ukraine-strikes-mariupol-port-significantl",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Sofia Reyes",
+            "read": 5,
+            "title": {
+                  "en": "Ukraine strikes Mariupol port, significantly limiting its use as a logistics hub",
+                  "zh": "烏克蘭打擊馬里烏波爾港 大幅限制其作為物流樞紐的用途"
+            },
+            "dek": {
+                  "en": "Ports, corridors and wartime transport assets remained central to the economics of moving grain, metals and manufactured goods.",
+                  "zh": "港口、運輸走廊與戰時運輸資產，仍是穀物、金屬與製成品流動經濟的核心。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，烏克蘭打擊馬里烏波爾港 大幅限制其作為物流樞紐的用途。這則新聞顯示，物流能力與實體基礎設施、運輸安全以及運輸走廊規劃的耐久性密不可分。",
+                        "港口、鐵路、煉油廠與內陸連結不只是搬運貨物的設施，它們也決定在軍事壓力、融資限制或需求突變下，貿易路徑是否仍具可信度。因此，基礎設施新聞對商業規劃至關重要。",
+                        "當一條走廊擴張，或一項物流資產遭到攻擊時，後果會迅速反映到運價、庫存策略與出口可靠性。商品交易商與政府往往在正式重建或改道方案完成前就先做出反應。",
+                        "接下來要看的是，受影響的網絡能否恢復可用產能、吸引替代投資，或把流量永久讓給更可靠的其他路線。"
+                  ],
+                  "en": [
+                        "Reuters reported on Ukraine strikes Mariupol port, significantly limiting its use as a logistics hub. The story showed that logistics capacity is inseparable from physical infrastructure, transport security and the durability of corridor planning.",
+                        "Ports, railways, refineries and inland links do not only move goods; they also determine whether trade routes stay credible under military pressure, financing constraints or sudden demand shifts. That makes infrastructure news central to commercial planning.",
+                        "When a corridor expands or a logistics asset comes under attack, the consequences move quickly into freight pricing, inventory strategy and export reliability. Commodity traders and governments often react before formal reconstruction or rerouting plans are complete.",
+                        "The next thing to watch is whether the affected network regains usable capacity, attracts replacement investment or loses traffic to alternative routes that prove more dependable."
+                  ]
+            }
+      },
+      {
+            "id": "log-ukraine-s-azov-fighters-were-forced-from-m",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Sofia Reyes",
+            "read": 4,
+            "title": {
+                  "en": "Ukraine's Azov fighters were forced from Mariupol. Now they're hitting back",
+                  "zh": "亞速營戰士曾被迫撤離馬里烏波爾 如今正展開反擊"
+            },
+            "dek": {
+                  "en": "Ports, corridors and wartime transport assets remained central to the economics of moving grain, metals and manufactured goods.",
+                  "zh": "港口、運輸走廊與戰時運輸資產，仍是穀物、金屬與製成品流動經濟的核心。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，亞速營戰士曾被迫撤離馬里烏波爾 如今正展開反擊。這則新聞顯示，物流能力與實體基礎設施、運輸安全以及運輸走廊規劃的耐久性密不可分。",
+                        "港口、鐵路、煉油廠與內陸連結不只是搬運貨物的設施，它們也決定在軍事壓力、融資限制或需求突變下，貿易路徑是否仍具可信度。因此，基礎設施新聞對商業規劃至關重要。",
+                        "當一條走廊擴張，或一項物流資產遭到攻擊時，後果會迅速反映到運價、庫存策略與出口可靠性。商品交易商與政府往往在正式重建或改道方案完成前就先做出反應。",
+                        "接下來要看的是，受影響的網絡能否恢復可用產能、吸引替代投資，或把流量永久讓給更可靠的其他路線。"
+                  ],
+                  "en": [
+                        "Reuters reported on Ukraine's Azov fighters were forced from Mariupol. Now they're hitting back. The story showed that logistics capacity is inseparable from physical infrastructure, transport security and the durability of corridor planning.",
+                        "Ports, railways, refineries and inland links do not only move goods; they also determine whether trade routes stay credible under military pressure, financing constraints or sudden demand shifts. That makes infrastructure news central to commercial planning.",
+                        "When a corridor expands or a logistics asset comes under attack, the consequences move quickly into freight pricing, inventory strategy and export reliability. Commodity traders and governments often react before formal reconstruction or rerouting plans are complete.",
+                        "The next thing to watch is whether the affected network regains usable capacity, attracts replacement investment or loses traffic to alternative routes that prove more dependable."
+                  ]
+            }
+      },
+      {
+            "id": "spt-the-world-cup-returned-to-mexico-after-40",
+            "category": "sports",
+            "image": "stadium",
+            "lead": true,
+            "author": "Leo Huang",
+            "read": 7,
+            "title": {
+                  "en": "The World Cup returned to Mexico after 40 years. Many locals feel left out",
+                  "zh": "世界盃時隔 40 年重返墨西哥 許多當地居民卻感到被排除在外"
+            },
+            "dek": {
+                  "en": "From the World Cup to national leagues, sport kept reflecting politics, injuries, regulation and the business of fandom.",
+                  "zh": "從世界盃到職業聯賽，體育持續映照政治、傷病、監管與粉絲經濟。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，世界盃時隔 40 年重返墨西哥 許多當地居民卻感到被排除在外。這則標題凸顯，現代體育不僅由場上競爭決定，也深受政治、粉絲經濟、球員健康與大型賽事治理選擇影響。",
+                        "世界盃與頂級聯賽愈來愈像社會張力的鏡子。關於包容性、主辦城市受益、博彩監管與球員出賽狀態的問題，往往與比數本身一樣左右輿論。",
+                        "對主辦方與贊助商而言，這意味著體育敘事已帶有營運與聲譽後果。當周邊情境成為新聞的一部分，入場人數、轉播價值與品牌連結都可能改變。",
+                        "接下來要觀察的是，這件事會只是短暫話題，還是進一步演變為對賽程、監管、名單管理或未來主辦安排的實際決策。"
+                  ],
+                  "en": [
+                        "Reuters reported on The World Cup returned to Mexico after 40 years. Many locals feel left out. The headline underscored that modern sport is shaped not only by competition on the field, but also by politics, fan economics, player health and the governance choices surrounding major events.",
+                        "Tournaments and elite leagues increasingly act as mirrors for broader social tensions. Questions about inclusion, host-city benefits, betting oversight and athlete availability can influence public perception almost as much as the scoreline itself.",
+                        "For organizers and sponsors, that means sporting narratives now carry operational and reputational consequences. Attendance, broadcast value and brand alignment can all shift when the surrounding context becomes part of the story.",
+                        "The next thing to watch is whether the issue remains a passing talking point or develops into decisions about scheduling, regulation, roster management or future hosting arrangements."
+                  ]
+            }
+      },
+      {
+            "id": "spt-minnows-make-waves-as-world-cup-aristocrat",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Leo Huang",
+            "read": 6,
+            "title": {
+                  "en": "Minnows make waves as World Cup aristocrats wobble",
+                  "zh": "世界盃弱旅掀起波瀾 傳統強隊步履不穩"
+            },
+            "dek": {
+                  "en": "From the World Cup to national leagues, sport kept reflecting politics, injuries, regulation and the business of fandom.",
+                  "zh": "從世界盃到職業聯賽，體育持續映照政治、傷病、監管與粉絲經濟。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，世界盃弱旅掀起波瀾 傳統強隊步履不穩。這則標題凸顯，現代體育不僅由場上競爭決定，也深受政治、粉絲經濟、球員健康與大型賽事治理選擇影響。",
+                        "世界盃與頂級聯賽愈來愈像社會張力的鏡子。關於包容性、主辦城市受益、博彩監管與球員出賽狀態的問題，往往與比數本身一樣左右輿論。",
+                        "對主辦方與贊助商而言，這意味著體育敘事已帶有營運與聲譽後果。當周邊情境成為新聞的一部分，入場人數、轉播價值與品牌連結都可能改變。",
+                        "接下來要觀察的是，這件事會只是短暫話題，還是進一步演變為對賽程、監管、名單管理或未來主辦安排的實際決策。"
+                  ],
+                  "en": [
+                        "Reuters reported on Minnows make waves as World Cup aristocrats wobble. The headline underscored that modern sport is shaped not only by competition on the field, but also by politics, fan economics, player health and the governance choices surrounding major events.",
+                        "Tournaments and elite leagues increasingly act as mirrors for broader social tensions. Questions about inclusion, host-city benefits, betting oversight and athlete availability can influence public perception almost as much as the scoreline itself.",
+                        "For organizers and sponsors, that means sporting narratives now carry operational and reputational consequences. Attendance, broadcast value and brand alignment can all shift when the surrounding context becomes part of the story.",
+                        "The next thing to watch is whether the issue remains a passing talking point or develops into decisions about scheduling, regulation, roster management or future hosting arrangements."
+                  ]
+            }
+      },
+      {
+            "id": "spt-injured-neymar-not-travelling-with-brazil",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Leo Huang",
+            "read": 5,
+            "title": {
+                  "en": "Injured Neymar not travelling with Brazil squad for Haiti match",
+                  "zh": "受傷的內馬爾不會隨巴西隊前往海地比賽"
+            },
+            "dek": {
+                  "en": "From the World Cup to national leagues, sport kept reflecting politics, injuries, regulation and the business of fandom.",
+                  "zh": "從世界盃到職業聯賽，體育持續映照政治、傷病、監管與粉絲經濟。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，受傷的內馬爾不會隨巴西隊前往海地比賽。這則標題凸顯，現代體育不僅由場上競爭決定，也深受政治、粉絲經濟、球員健康與大型賽事治理選擇影響。",
+                        "世界盃與頂級聯賽愈來愈像社會張力的鏡子。關於包容性、主辦城市受益、博彩監管與球員出賽狀態的問題，往往與比數本身一樣左右輿論。",
+                        "對主辦方與贊助商而言，這意味著體育敘事已帶有營運與聲譽後果。當周邊情境成為新聞的一部分，入場人數、轉播價值與品牌連結都可能改變。",
+                        "接下來要觀察的是，這件事會只是短暫話題，還是進一步演變為對賽程、監管、名單管理或未來主辦安排的實際決策。"
+                  ],
+                  "en": [
+                        "Reuters reported on Injured Neymar not travelling with Brazil squad for Haiti match. The headline underscored that modern sport is shaped not only by competition on the field, but also by politics, fan economics, player health and the governance choices surrounding major events.",
+                        "Tournaments and elite leagues increasingly act as mirrors for broader social tensions. Questions about inclusion, host-city benefits, betting oversight and athlete availability can influence public perception almost as much as the scoreline itself.",
+                        "For organizers and sponsors, that means sporting narratives now carry operational and reputational consequences. Attendance, broadcast value and brand alignment can all shift when the surrounding context becomes part of the story.",
+                        "The next thing to watch is whether the issue remains a passing talking point or develops into decisions about scheduling, regulation, roster management or future hosting arrangements."
+                  ]
+            }
+      },
+      {
+            "id": "spt-ivory-coast-forward-wahi-caught-up-in-bett",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Leo Huang",
+            "read": 5,
+            "title": {
+                  "en": "Ivory Coast forward Wahi caught up in betting investigation",
+                  "zh": "象牙海岸前鋒 Wahi 捲入博彩調查"
+            },
+            "dek": {
+                  "en": "From the World Cup to national leagues, sport kept reflecting politics, injuries, regulation and the business of fandom.",
+                  "zh": "從世界盃到職業聯賽，體育持續映照政治、傷病、監管與粉絲經濟。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，象牙海岸前鋒 Wahi 捲入博彩調查。這則標題凸顯，現代體育不僅由場上競爭決定，也深受政治、粉絲經濟、球員健康與大型賽事治理選擇影響。",
+                        "世界盃與頂級聯賽愈來愈像社會張力的鏡子。關於包容性、主辦城市受益、博彩監管與球員出賽狀態的問題，往往與比數本身一樣左右輿論。",
+                        "對主辦方與贊助商而言，這意味著體育敘事已帶有營運與聲譽後果。當周邊情境成為新聞的一部分，入場人數、轉播價值與品牌連結都可能改變。",
+                        "接下來要觀察的是，這件事會只是短暫話題，還是進一步演變為對賽程、監管、名單管理或未來主辦安排的實際決策。"
+                  ],
+                  "en": [
+                        "Reuters reported on Ivory Coast forward Wahi caught up in betting investigation. The headline underscored that modern sport is shaped not only by competition on the field, but also by politics, fan economics, player health and the governance choices surrounding major events.",
+                        "Tournaments and elite leagues increasingly act as mirrors for broader social tensions. Questions about inclusion, host-city benefits, betting oversight and athlete availability can influence public perception almost as much as the scoreline itself.",
+                        "For organizers and sponsors, that means sporting narratives now carry operational and reputational consequences. Attendance, broadcast value and brand alignment can all shift when the surrounding context becomes part of the story.",
+                        "The next thing to watch is whether the issue remains a passing talking point or develops into decisions about scheduling, regulation, roster management or future hosting arrangements."
+                  ]
+            }
+      },
+      {
+            "id": "spt-with-relations-icy-many-canadians-lament-h",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Leo Huang",
+            "read": 4,
+            "title": {
+                  "en": "With relations icy, many Canadians lament hosting World Cup with US",
+                  "zh": "在雙邊關係冰冷下 許多加拿大人對與美國共同主辦世界盃感到無奈"
+            },
+            "dek": {
+                  "en": "From the World Cup to national leagues, sport kept reflecting politics, injuries, regulation and the business of fandom.",
+                  "zh": "從世界盃到職業聯賽，體育持續映照政治、傷病、監管與粉絲經濟。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導指出，在雙邊關係冰冷下 許多加拿大人對與美國共同主辦世界盃感到無奈。這則標題凸顯，現代體育不僅由場上競爭決定，也深受政治、粉絲經濟、球員健康與大型賽事治理選擇影響。",
+                        "世界盃與頂級聯賽愈來愈像社會張力的鏡子。關於包容性、主辦城市受益、博彩監管與球員出賽狀態的問題，往往與比數本身一樣左右輿論。",
+                        "對主辦方與贊助商而言，這意味著體育敘事已帶有營運與聲譽後果。當周邊情境成為新聞的一部分，入場人數、轉播價值與品牌連結都可能改變。",
+                        "接下來要觀察的是，這件事會只是短暫話題，還是進一步演變為對賽程、監管、名單管理或未來主辦安排的實際決策。"
+                  ],
+                  "en": [
+                        "Reuters reported on With relations icy, many Canadians lament hosting World Cup with US. The headline underscored that modern sport is shaped not only by competition on the field, but also by politics, fan economics, player health and the governance choices surrounding major events.",
+                        "Tournaments and elite leagues increasingly act as mirrors for broader social tensions. Questions about inclusion, host-city benefits, betting oversight and athlete availability can influence public perception almost as much as the scoreline itself.",
+                        "For organizers and sponsors, that means sporting narratives now carry operational and reputational consequences. Attendance, broadcast value and brand alignment can all shift when the surrounding context becomes part of the story.",
+                        "The next thing to watch is whether the issue remains a passing talking point or develops into decisions about scheduling, regulation, roster management or future hosting arrangements."
+                  ]
+            }
+      }
+];
+
   window.DAILY_NEWS_STORIES["2026-06-17"] = [
       {
             "id": "int-south-korea-s-lee-asks-trump-to-lead-peaceful-",

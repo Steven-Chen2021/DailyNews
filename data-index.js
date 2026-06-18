@@ -21,6 +21,9 @@ window.DAILY_NEWS = {
   // Metadata only — no stories array here.
   // Stories are fetched on-demand from data-YYYY-MM.js files.
   editions: [
+    { date: "2026-06-19", color: "navy",
+      theme:   { en: "Routes Reopen, Risks Reprice", zh: "航道重開、風險重估" },
+      summary: { en: "From Hormuz tanker traffic and critical-minerals diplomacy to AI financing, cyber defence and revived transport corridors, today's edition tracks how governments and markets are recalibrating the systems that move energy, capital and goods.", zh: "從荷莫茲油輪通行、關鍵礦物外交，到 AI 融資、網路防禦與重啟的運輸走廊，今日版面聚焦政府與市場如何重新校準推動能源、資本與貨物流動的關鍵系統。" } },
     { date: "2026-06-17", color: "navy",
       theme:   { en: "Repricing Routes and Resilience", zh: "重估路徑與韌性" },
       summary: { en: "From Korean diplomacy and AI build-outs to Hormuz shipping risk, market repricing and post-conflict investment plans, today's edition follows how governments and companies are rebuilding confidence across stressed global networks.", zh: "從韓半島外交、AI 擴張，到荷莫茲航運風險、市場重新定價與衝突後投資規劃，今日版面聚焦政府與企業如何在承壓的全球網絡中重建信心。" } },
