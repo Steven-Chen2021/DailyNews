@@ -21,6 +21,9 @@ window.DAILY_NEWS = {
   // Metadata only — no stories array here.
   // Stories are fetched on-demand from data-YYYY-MM.js files.
   editions: [
+    { date: "2026-06-20", color: "navy",
+      theme:   { en: "Signals, Systems and Strategic Repricing", zh: "訊號、系統和策略重新定價" },
+      summary: { en: "From diplomacy, AI and shipping to cyber defence, regulation and infrastructure, today's edition tracks how fresh headlines are forcing governments and markets to reprice resilience across global systems.", zh: "從外交、人工智慧和航運到網路防禦、監管和基礎設施，今天的版本追蹤了新的頭條新聞如何迫使政府和市場重新定價全球系統的彈性。" } },
     { date: "2026-06-19", color: "navy",
       theme:   { en: "Routes Reopen, Risks Reprice", zh: "航道重開、風險重估" },
       summary: { en: "From Hormuz tanker traffic and critical-minerals diplomacy to AI financing, cyber defence and revived transport corridors, today's edition tracks how governments and markets are recalibrating the systems that move energy, capital and goods.", zh: "從荷莫茲油輪通行、關鍵礦物外交，到 AI 融資、網路防禦與重啟的運輸走廊，今日版面聚焦政府與市場如何重新校準推動能源、資本與貨物流動的關鍵系統。" } },

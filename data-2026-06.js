@@ -5,6 +5,1509 @@
 (function () {
   window.DAILY_NEWS_STORIES = window.DAILY_NEWS_STORIES || {};
 
+  window.DAILY_NEWS_STORIES["2026-06-20"] = [
+      {
+            "id": "int-ukrainian-drone-makers-target-asia-as-taiw",
+            "category": "international",
+            "image": "meeting",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Ukrainian drone makers target Asia as Taiwan tensions spur demand",
+                  "zh": "台灣緊張局勢刺激需求，烏克蘭無人機製造商瞄準亞洲"
+            },
+            "dek": {
+                  "en": "Reuters' Ukrainian drone makers target Asia as Taiwan tensions spur demand highlights how today's shifts in diplomatic alignment, conflict risk and cross-border policy signalling are influencing business and government decisions.",
+                  "zh": "路透社的烏克蘭無人機製造商瞄準亞洲，因為台灣的緊張局勢刺激了需求，這凸顯了當今外交聯盟、衝突風險和跨境政策訊號的變化如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，由於台灣緊張局勢刺激了需求，烏克蘭無人機製造商瞄準了亞洲。這一事態發展在今天的報導中脫穎而出，因為它為有關外交聯盟、衝突風險和跨境政策信號的更廣泛的故事增添了新的信號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在國際上，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Ukrainian drone makers target Asia as Taiwan tensions spur demand. The development stood out in today's coverage because it adds a fresh signal to the broader story about diplomatic alignment, conflict risk and cross-border policy signalling.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In international, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "int-japan-owned-vessel-passed-through-strait-o",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Japan-owned vessel passed through Strait of Hormuz on Friday, Japan says",
+                  "zh": "日本稱，日本擁有的船隻週五通過霍爾木茲海峽"
+            },
+            "dek": {
+                  "en": "Reuters' Japan-owned vessel passed through Strait of Hormuz on Friday, Japan says highlights how today's shifts in diplomatic alignment, conflict risk and cross-border policy signalling are influencing business and government decisions.",
+                  "zh": "日本表示，路透社的日本擁有的船隻週五通過霍爾木茲海峽，這突顯了當今外交聯盟、衝突風險和跨境政策訊號的變化如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "日本稱，路透社報道稱，日本擁有的船隻週五通過霍爾木茲海峽。這一事態發展在今天的報導中脫穎而出，因為它為有關外交聯盟、衝突風險和跨境政策信號的更廣泛的故事增添了新的信號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在國際上，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Japan-owned vessel passed through Strait of Hormuz on Friday, Japan says. The development stood out in today's coverage because it adds a fresh signal to the broader story about diplomatic alignment, conflict risk and cross-border policy signalling.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In international, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "int-macron-s-versailles-diplomacy-wins-mixed-r",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 7,
+            "title": {
+                  "en": "Macron's Versailles diplomacy wins mixed results over decade in power",
+                  "zh": "馬克宏執政十年來的凡爾賽外交成果好壞參半"
+            },
+            "dek": {
+                  "en": "Reuters' Macron's Versailles diplomacy wins mixed results over decade in power highlights how today's shifts in diplomatic alignment, conflict risk and cross-border policy signalling are influencing business and government decisions.",
+                  "zh": "路透社報道，馬克宏執政十年來的凡爾賽外交取得了好壞參半的結果，凸顯了當今外交聯盟、衝突風險和跨境政策訊號的轉變如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，馬克宏執政十年來的凡爾賽外交成果好壞參半。這一事態發展在今天的報導中脫穎而出，因為它為有關外交聯盟、衝突風險和跨境政策信號的更廣泛的故事增添了新的信號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在國際上，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Macron's Versailles diplomacy wins mixed results over decade in power. The development stood out in today's coverage because it adds a fresh signal to the broader story about diplomatic alignment, conflict risk and cross-border policy signalling.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In international, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "int-high-wire-diplomacy-delivered-us-iran-deal",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "High-wire diplomacy delivered US-Iran deal but hardest stage lies ahead, sources say",
+                  "zh": "消息人士稱，鋼絲外交促成了美伊協議，但最艱難的階段還在後面"
+            },
+            "dek": {
+                  "en": "Reuters' High-wire diplomacy delivered US-Iran deal but hardest stage lies ahead, sources say highlights how today's shifts in diplomatic alignment, conflict risk and cross-border policy signalling are influencing business and government decisions.",
+                  "zh": "消息人士稱，路透社的高架外交促成了美伊協議，但最艱難的階段還在後面，這凸顯了當今外交聯盟、衝突風險和跨境政策訊號的轉變如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，消息人士稱，美國與伊朗透過鋼絲外交達成了協議，但最艱難的階段還在後頭。這一事態發展在今天的報導中脫穎而出，因為它為有關外交聯盟、衝突風險和跨境政策信號的更廣泛的故事增添了新的信號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在國際上，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that High-wire diplomacy delivered US-Iran deal but hardest stage lies ahead, sources say. The development stood out in today's coverage because it adds a fresh signal to the broader story about diplomatic alignment, conflict risk and cross-border policy signalling.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In international, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "int-south-korea-s-lee-asks-trump-to-lead-peace",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "South Korea's Lee asks Trump to lead peaceful diplomacy with North Korea",
+                  "zh": "韓國李明博要求川普領導與北韓的和平外交"
+            },
+            "dek": {
+                  "en": "Reuters' South Korea's Lee asks Trump to lead peaceful diplomacy with North Korea highlights how today's shifts in diplomatic alignment, conflict risk and cross-border policy signalling are influencing business and government decisions.",
+                  "zh": "路透社駐韓國記者李在鎔要求川普領導與北韓的和平外交，突顯了當今外交聯盟、衝突風險和跨國政策訊號的轉變如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，南韓李明博要求川普領導與北韓的和平外交。這一事態發展在今天的報導中脫穎而出，因為它為有關外交聯盟、衝突風險和跨境政策信號的更廣泛的故事增添了新的信號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在國際上，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that South Korea's Lee asks Trump to lead peaceful diplomacy with North Korea. The development stood out in today's coverage because it adds a fresh signal to the broader story about diplomatic alignment, conflict risk and cross-border policy signalling.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In international, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "tec-ukrainian-drone-makers-target-asia-as-taiw",
+            "category": "technology",
+            "image": "technology",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Ukrainian drone makers target Asia as Taiwan tensions spur demand",
+                  "zh": "台灣緊張局勢刺激需求，烏克蘭無人機製造商瞄準亞洲"
+            },
+            "dek": {
+                  "en": "Reuters' Ukrainian drone makers target Asia as Taiwan tensions spur demand highlights how today's shifts in AI capacity, semiconductor demand and strategic technology controls are influencing business and government decisions.",
+                  "zh": "路透社的烏克蘭無人機製造商瞄準亞洲，因台灣緊張局勢刺激需求，凸顯了當今人工智慧能力、半導體需求和戰略技術控制的變化如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，由於台灣緊張局勢刺激了需求，烏克蘭無人機製造商瞄準了亞洲。這項進展在今天的報導中脫穎而出，因為它為有關人工智慧能力、半導體需求和戰略技術控制的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在技​​術領域，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Ukrainian drone makers target Asia as Taiwan tensions spur demand. The development stood out in today's coverage because it adds a fresh signal to the broader story about AI capacity, semiconductor demand and strategic technology controls.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In technology, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "tec-racers-chase-fun-during-taiwan-s-dragon-bo",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Racers chase fun during Taiwan's Dragon Boat Festival",
+                  "zh": "台灣端午節賽車手追逐樂趣"
+            },
+            "dek": {
+                  "en": "Reuters' Racers chase fun during Taiwan's Dragon Boat Festival highlights how today's shifts in AI capacity, semiconductor demand and strategic technology controls are influencing business and government decisions.",
+                  "zh": "路透社的賽車手在台灣端午節期間追逐樂趣凸顯了當今人工智慧能力、半導體需求和戰略技術控制的變化如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，台灣端午節期間，賽車手們追逐樂趣。這項進展在今天的報導中脫穎而出，因為它為有關人工智慧能力、半導體需求和戰略技術控制的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在技​​術領域，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Racers chase fun during Taiwan's Dragon Boat Festival. The development stood out in today's coverage because it adds a fresh signal to the broader story about AI capacity, semiconductor demand and strategic technology controls.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In technology, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "tec-intel-shares-rise-after-trump-announces-ap",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 7,
+            "title": {
+                  "en": "Intel shares rise after Trump announces Apple partnership",
+                  "zh": "川普宣布與蘋果合作後英特爾股價上漲"
+            },
+            "dek": {
+                  "en": "Reuters' Intel shares rise after Trump announces Apple partnership highlights how today's shifts in AI capacity, semiconductor demand and strategic technology controls are influencing business and government decisions.",
+                  "zh": "在川普宣布與蘋果建立合作關係後，路透社的英特爾股價上漲，凸顯了當今人工智慧能力、半導體需求和戰略技術控制的變化如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報導，川普宣布與蘋果合作後，英特爾股價上漲。這項進展在今天的報導中脫穎而出，因為它為有關人工智慧能力、半導體需求和戰略技術控制的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在技​​術領域，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Intel shares rise after Trump announces Apple partnership. The development stood out in today's coverage because it adds a fresh signal to the broader story about AI capacity, semiconductor demand and strategic technology controls.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In technology, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "tec-architect-labs-raises-24-million-to-take-o",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Architect Labs raises $24 million to take on Broadcom, Marvell custom chip business",
+                  "zh": "Architect Labs 融資 2,400 萬美元，接手 Broadcom 和 Marvell 客製化晶片業務"
+            },
+            "dek": {
+                  "en": "Reuters' Architect Labs raises $24 million to take on Broadcom, Marvell custom chip business highlights how today's shifts in AI capacity, semiconductor demand and strategic technology controls are influencing business and government decisions.",
+                  "zh": "路透社的 Architect Labs 籌集了 2,400 萬美元，以收購 Broadcom、Marvell 客製化晶片業務，凸顯了當今人工智慧能力、半導體需求和策略性技術控制的變化如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，Architect Labs 融資 2,400 萬美元，用於收購 Broadcom 和 Marvell 客製化晶片業務。這項進展在今天的報導中脫穎而出，因為它為有關人工智慧能力、半導體需求和戰略技術控制的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在技​​術領域，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Architect Labs raises $24 million to take on Broadcom, Marvell custom chip business. The development stood out in today's coverage because it adds a fresh signal to the broader story about AI capacity, semiconductor demand and strategic technology controls.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In technology, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "tec-behind-the-viral-praying-robot-bridging-ai",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Behind the viral praying robot bridging AI and Emirati tradition",
+                  "zh": "病毒式祈禱機器人連結人工智慧和阿聯酋傳統的背後"
+            },
+            "dek": {
+                  "en": "Reuters' Behind the viral praying robot bridging AI and Emirati tradition highlights how today's shifts in AI capacity, semiconductor demand and strategic technology controls are influencing business and government decisions.",
+                  "zh": "路透社的《病毒式祈禱機器人連接人工智慧和阿聯酋傳統的背後》強調了當今人工智慧能力、半導體需求和戰略技術控制的變化如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，病毒式祈禱機器人的背後是連接人工智慧和阿聯酋傳統的橋樑。這項進展在今天的報導中脫穎而出，因為它為有關人工智慧能力、半導體需求和戰略技術控制的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在技​​術領域，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Behind the viral praying robot bridging AI and Emirati tradition. The development stood out in today's coverage because it adds a fresh signal to the broader story about AI capacity, semiconductor demand and strategic technology controls.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In technology, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "spt-sports-cannot-become-a-luxury-says-mamdani",
+            "category": "sports",
+            "image": "stadium",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Sports cannot become a luxury, says Mamdani, outlining plans to air World Cup throughout New York",
+                  "zh": "馬姆達尼表示，運動不能成為一種奢侈品，並概述了在整個紐約轉播世界盃的計劃"
+            },
+            "dek": {
+                  "en": "Reuters' Sports cannot become a luxury, says Mamdani, outlining plans to air World Cup throughout New York highlights how today's shifts in event economics, governance pressure and the commercial reach of global sport are influencing business and government decisions.",
+                  "zh": "馬姆達尼表示，路透社的體育節目不能成為一種奢侈品，他概述了在整個紐約轉播世界盃的計劃，突顯了當今賽事經濟學、治理壓力和全球體育商業影響力的變化如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "根據路透社報道，馬姆達尼表示，體育不能成為一種奢侈品，並概述了在整個紐約轉播世界盃的計劃。這項進展在今天的報導中脫穎而出，因為它為有關賽事經濟學、治理壓力和全球體育商業影響力的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在運動中，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Sports cannot become a luxury, says Mamdani, outlining plans to air World Cup throughout New York. The development stood out in today's coverage because it adds a fresh signal to the broader story about event economics, governance pressure and the commercial reach of global sport.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In sports, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "spt-iran-to-lodge-fifa-complaint-over-world-cu",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Iran to lodge FIFA complaint over World Cup travel restrictions",
+                  "zh": "伊朗將就世界盃旅行限制向國際足總提出投訴"
+            },
+            "dek": {
+                  "en": "Reuters' Iran to lodge FIFA complaint over World Cup travel restrictions highlights how today's shifts in event economics, governance pressure and the commercial reach of global sport are influencing business and government decisions.",
+                  "zh": "路透社報道，伊朗就世界盃旅行限制向國際足總提出投訴，凸顯了當今賽事經濟、治理壓力和全球體育商業影響力的變化正在如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，伊朗就世界盃旅行限制向國際足總提出投訴。這項進展在今天的報導中脫穎而出，因為它為有關賽事經濟學、治理壓力和全球體育商業影響力的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在運動中，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Iran to lodge FIFA complaint over World Cup travel restrictions. The development stood out in today's coverage because it adds a fresh signal to the broader story about event economics, governance pressure and the commercial reach of global sport.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In sports, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "spt-world-cup-photo-daily-week-one",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 7,
+            "title": {
+                  "en": "World Cup Photo Daily — Week One",
+                  "zh": "世界盃每日照片 — 第一周"
+            },
+            "dek": {
+                  "en": "Reuters' World Cup Photo Daily — Week One highlights how today's shifts in event economics, governance pressure and the commercial reach of global sport are influencing business and government decisions.",
+                  "zh": "路透社的世界盃每日圖片——第一周強調了當今賽事經濟學、治理壓力和全球體育商業影響力的變化如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報《世界盃圖片日報》—第一週。這項進展在今天的報導中脫穎而出，因為它為有關賽事經濟學、治理壓力和全球體育商業影響力的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在運動中，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that World Cup Photo Daily — Week One. The development stood out in today's coverage because it adds a fresh signal to the broader story about event economics, governance pressure and the commercial reach of global sport.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In sports, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "spt-kansas-city-reassures-fans-after-eventful",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Kansas City reassures fans after eventful World Cup start",
+                  "zh": "堪薩斯城在世界盃開賽後讓球迷放心"
+            },
+            "dek": {
+                  "en": "Reuters' Kansas City reassures fans after eventful World Cup start highlights how today's shifts in event economics, governance pressure and the commercial reach of global sport are influencing business and government decisions.",
+                  "zh": "路透社的堪薩斯城在世界盃開幕後讓球迷放心，突顯了當今賽事經濟學、治理壓力和全球體育商業影響力的變化如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，堪薩斯城在世界盃開賽後讓球迷放心。這項進展在今天的報導中脫穎而出，因為它為有關賽事經濟學、治理壓力和全球體育商業影響力的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在運動中，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Kansas City reassures fans after eventful World Cup start. The development stood out in today's coverage because it adds a fresh signal to the broader story about event economics, governance pressure and the commercial reach of global sport.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In sports, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "spt-minnows-make-waves-as-world-cup-aristocrat",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Minnows make waves as World Cup aristocrats wobble",
+                  "zh": "世界盃貴族們搖擺不定，小魚們掀起了波瀾"
+            },
+            "dek": {
+                  "en": "Reuters' Minnows make waves as World Cup aristocrats wobble highlights how today's shifts in event economics, governance pressure and the commercial reach of global sport are influencing business and government decisions.",
+                  "zh": "路透社的《小魚們在世界盃貴族搖擺不定之際掀起波瀾》凸顯了當今賽事經濟學、治理壓力和全球體育商業影響力的變化如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，隨著世界盃貴族的搖擺不定，小魚隊掀起了波瀾。這項進展在今天的報導中脫穎而出，因為它為有關賽事經濟學、治理壓力和全球體育商業影響力的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在運動中，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Minnows make waves as World Cup aristocrats wobble. The development stood out in today's coverage because it adds a fresh signal to the broader story about event economics, governance pressure and the commercial reach of global sport.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In sports, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "shp-oil-shipments-rise-in-hormuz-although-ques",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Oil shipments rise in Hormuz although questions grow over Iran's transit terms",
+                  "zh": "儘管對伊朗過境條件的質疑不斷增加，但霍爾木茲的石油運輸量增加"
+            },
+            "dek": {
+                  "en": "Reuters' Oil shipments rise in Hormuz although questions grow over Iran's transit terms highlights how today's shifts in fleet deployment, chokepoint exposure and freight market repricing are influencing business and government decisions.",
+                  "zh": "路透社通報，儘管對伊朗過境條款的質疑不斷增加，但霍爾木茲的石油運輸量仍在增加，這突顯出當今船隊部署、阻塞點暴露和貨運市場重新定價的變化如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社通報稱，儘管對伊朗過境條件的質疑不斷增加，但霍爾木茲的石油運輸量增加。這一進展在今天的報道中脫穎而出，因為它為有關船隊部署、阻塞點暴露和貨運市場重新定價的更廣泛的故事增添了新的信號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在航運領域，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、運能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Oil shipments rise in Hormuz although questions grow over Iran's transit terms. The development stood out in today's coverage because it adds a fresh signal to the broader story about fleet deployment, chokepoint exposure and freight market repricing.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In shipping, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "shp-argentina-logs-3-5-billion-trade-surplus-i",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Argentina logs $3.5 billion trade surplus in May, topping expectations",
+                  "zh": "阿根廷5月貿易順差達35億美元，超乎預期"
+            },
+            "dek": {
+                  "en": "Reuters' Argentina logs $3.5 billion trade surplus in May, topping expectations highlights how today's shifts in fleet deployment, chokepoint exposure and freight market repricing are influencing business and government decisions.",
+                  "zh": "路透社報道，阿根廷 5 月貿易順差達到 35 億美元，超出預期，突顯了當今船隊部署、阻塞點暴露和貨運市場重新定價的變化如何影響企業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道，阿根廷 5 月貿易順差達 35 億美元，超乎預期。這一進展在今天的報道中脫穎而出，因為它為有關船隊部署、阻塞點暴露和貨運市場重新定價的更廣泛的故事增添了新的信號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在航運領域，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、運能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Argentina logs $3.5 billion trade surplus in May, topping expectations. The development stood out in today's coverage because it adds a fresh signal to the broader story about fleet deployment, chokepoint exposure and freight market repricing.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In shipping, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "shp-three-saudi-flagged-supertankers-sail-thro",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 7,
+            "title": {
+                  "en": "Three Saudi-flagged supertankers sail through Hormuz after Iran deal signed, data shows",
+                  "zh": "數據顯示，伊朗協議簽署後，三艘懸掛沙烏地阿拉伯國旗的超級油輪駛過霍爾木茲"
+            },
+            "dek": {
+                  "en": "Reuters' Three Saudi-flagged supertankers sail through Hormuz after Iran deal signed, data shows highlights how today's shifts in fleet deployment, chokepoint exposure and freight market repricing are influencing business and government decisions.",
+                  "zh": "伊朗協議簽署後，路透社的三艘懸掛沙烏地阿拉伯國旗的超級油輪駛過霍爾木茲，數據顯示，突顯了當今船隊部署、阻塞點暴露和貨運市場重新定價的變化如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道，數據顯示，伊朗協議簽署後，三艘懸掛沙烏地阿拉伯國旗的超級油輪駛過霍爾木茲。這一進展在今天的報道中脫穎而出，因為它為有關船隊部署、阻塞點暴露和貨運市場重新定價的更廣泛的故事增添了新的信號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在航運領域，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、運能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Three Saudi-flagged supertankers sail through Hormuz after Iran deal signed, data shows. The development stood out in today's coverage because it adds a fresh signal to the broader story about fleet deployment, chokepoint exposure and freight market repricing.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In shipping, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "shp-german-exports-to-britain-fell-by-around-7",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "German exports to Britain fell by around 7% since Brexit, IW study shows",
+                  "zh": "IW研究顯示，自英國脫歐以來，德國對英國的出口下降了約7%"
+            },
+            "dek": {
+                  "en": "Reuters' German exports to Britain fell by around 7% since Brexit, IW study shows highlights how today's shifts in fleet deployment, chokepoint exposure and freight market repricing are influencing business and government decisions.",
+                  "zh": "路透社的德國對英國出口自英國脫歐以來下降了約 7%，IW 研究顯示，突顯了當今船隊部署、阻塞點暴露和貨運市場重新定價的變化如何影響企業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "IW 研究顯示，路透社報告稱，自英國脫歐以來，德國對英國的出口下降了約 7%。這一進展在今天的報道中脫穎而出，因為它為有關船隊部署、阻塞點暴露和貨運市場重新定價的更廣泛的故事增添了新的信號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在航運領域，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、運能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that German exports to Britain fell by around 7% since Brexit, IW study shows. The development stood out in today's coverage because it adds a fresh signal to the broader story about fleet deployment, chokepoint exposure and freight market repricing.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In shipping, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "shp-brent-set-for-8-weekly-fall-as-israel-hezb",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Brent set for 8% weekly fall as Israel, Hezbollah agree ceasefire",
+                  "zh": "以色列和真主黨同意停火，布蘭特原油價格每週下跌 8%"
+            },
+            "dek": {
+                  "en": "Reuters' Brent set for 8% weekly fall as Israel, Hezbollah agree ceasefire highlights how today's shifts in fleet deployment, chokepoint exposure and freight market repricing are influencing business and government decisions.",
+                  "zh": "由於以色列和真主黨同意停火，路透社布蘭特原油價格預計每週下跌 8%，這突顯了當今船隊部署、阻塞點暴露和貨運市場重新定價的變化如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，由於以色列和真主黨同意停火，布蘭特原油價格每週下跌 8%。這一進展在今天的報道中脫穎而出，因為它為有關船隊部署、阻塞點暴露和貨運市場重新定價的更廣泛的故事增添了新的信號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在航運領域，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、運能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Brent set for 8% weekly fall as Israel, Hezbollah agree ceasefire. The development stood out in today's coverage because it adds a fresh signal to the broader story about fleet deployment, chokepoint exposure and freight market repricing.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In shipping, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "sup-weekend-reads-disinformation-and-china-s-b",
+            "category": "supply-chain",
+            "image": "warehouse",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Weekend Reads: Disinformation and China's battery dominance",
+                  "zh": "週末讀物：假訊息和中國的電池主導地位"
+            },
+            "dek": {
+                  "en": "Reuters' Weekend Reads: Disinformation and China's battery dominance highlights how today's shifts in inventory strategy, factory planning and supplier diversification are influencing business and government decisions.",
+                  "zh": "路透社週末報導：虛假資訊和中國的電池主導地位凸顯了當今庫存策略、工廠規劃和供應商多元化的轉變如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道《週末讀物：假訊息與中國的電池主導地位》。這一進展在今天的報導中脫穎而出，因為它為有關庫存策略、工廠規劃和供應商多元化的更廣泛的故事增添了新的信號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在供應鏈中，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Weekend Reads: Disinformation and China's battery dominance. The development stood out in today's coverage because it adds a fresh signal to the broader story about inventory strategy, factory planning and supplier diversification.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In supply chain, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "sup-guinea-bets-bauxite-dominance-can-reshape",
+            "category": "supply-chain",
+            "image": "warehouse",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Guinea bets bauxite dominance can reshape aluminium supply",
+                  "zh": "幾內亞押注鋁土礦主導地位可以重塑鋁供應"
+            },
+            "dek": {
+                  "en": "Reuters' Guinea bets bauxite dominance can reshape aluminium supply highlights how today's shifts in inventory strategy, factory planning and supplier diversification are influencing business and government decisions.",
+                  "zh": "路透社的幾內亞押注鋁土礦主導地位可以重塑鋁供應，凸顯了當今庫存策略、工廠規劃和供應商多元化的轉變如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，幾內亞押注鋁土礦的主導地位可以重塑鋁供應。這一進展在今天的報導中脫穎而出，因為它為有關庫存策略、工廠規劃和供應商多元化的更廣泛的故事增添了新的信號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在供應鏈中，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Guinea bets bauxite dominance can reshape aluminium supply. The development stood out in today's coverage because it adds a fresh signal to the broader story about inventory strategy, factory planning and supplier diversification.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In supply chain, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "sup-ambani-s-jio-platforms-files-for-3-8-billi",
+            "category": "supply-chain",
+            "image": "warehouse",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 7,
+            "title": {
+                  "en": "Ambani's Jio Platforms files for $3.8 billion IPO that could be India's biggest, sources say",
+                  "zh": "消息人士稱，安巴尼的 Jio Platforms 申請 38 億美元的 IPO，這可能是印度規模最大的 IPO"
+            },
+            "dek": {
+                  "en": "Reuters' Ambani's Jio Platforms files for $3.8 billion IPO that could be India's biggest, sources say highlights how today's shifts in inventory strategy, factory planning and supplier diversification are influencing business and government decisions.",
+                  "zh": "消息人士稱，路透社旗下的 Ambani 旗下 Jio Platforms 申請了 38 億美元的 IPO，這可能是印度規模最大的 IPO，這凸顯了當今庫存策略、工廠規劃和供應商多元化的轉變如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，消息人士稱，安巴尼的 Jio Platforms 申請了 38 億美元的 IPO，這可能是印度規模最大的 IPO。這一進展在今天的報導中脫穎而出，因為它為有關庫存策略、工廠規劃和供應商多元化的更廣泛的故事增添了新的信號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在供應鏈中，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Ambani's Jio Platforms files for $3.8 billion IPO that could be India's biggest, sources say. The development stood out in today's coverage because it adds a fresh signal to the broader story about inventory strategy, factory planning and supplier diversification.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In supply chain, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "sup-iran-war-fuel-spikes-lift-europe-s-ev-sale",
+            "category": "supply-chain",
+            "image": "warehouse",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Iran war fuel spikes lift Europe's EV sales again, but growth may not last",
+                  "zh": "伊朗戰爭燃料激增再次提振歐洲電動車銷量，但成長可能不會持續"
+            },
+            "dek": {
+                  "en": "Reuters' Iran war fuel spikes lift Europe's EV sales again, but growth may not last highlights how today's shifts in inventory strategy, factory planning and supplier diversification are influencing business and government decisions.",
+                  "zh": "路透社通報的伊朗戰爭燃料飆升再次提振了歐洲電動車銷量，但成長可能不會持久，凸顯出當今庫存策略、工廠規劃和供應商多元化的轉變如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，伊朗戰爭燃料激增再次提升了歐洲電動車銷量，但成長可能不會持續。這一進展在今天的報導中脫穎而出，因為它為有關庫存策略、工廠規劃和供應商多元化的更廣泛的故事增添了新的信號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在供應鏈中，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Iran war fuel spikes lift Europe's EV sales again, but growth may not last. The development stood out in today's coverage because it adds a fresh signal to the broader story about inventory strategy, factory planning and supplier diversification.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In supply chain, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "sup-trump-says-apple-to-partner-with-intel-on",
+            "category": "supply-chain",
+            "image": "warehouse",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Trump says Apple to partner with Intel on US chip design, production",
+                  "zh": "川普稱蘋果將與英特爾合作進行美國晶片設計和生產"
+            },
+            "dek": {
+                  "en": "Reuters' Trump says Apple to partner with Intel on US chip design, production highlights how today's shifts in inventory strategy, factory planning and supplier diversification are influencing business and government decisions.",
+                  "zh": "路透社的川普表示，蘋果將與英特爾在美國晶片設計和生產方面合作，凸顯了當今庫存策略、工廠規劃和供應商多元化的轉變如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社通報稱，川普表示蘋果將與英特爾在美國晶片設計、生產方面進行合作。這一進展在今天的報導中脫穎而出，因為它為有關庫存策略、工廠規劃和供應商多元化的更廣泛的故事增添了新的信號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在供應鏈中，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Trump says Apple to partner with Intel on US chip design, production. The development stood out in today's coverage because it adds a fresh signal to the broader story about inventory strategy, factory planning and supplier diversification.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In supply chain, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "mkt-ukrainian-drone-makers-target-asia-as-taiw",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Ukrainian drone makers target Asia as Taiwan tensions spur demand",
+                  "zh": "台灣緊張局勢刺激需求，烏克蘭無人機製造商瞄準亞洲"
+            },
+            "dek": {
+                  "en": "Reuters' Ukrainian drone makers target Asia as Taiwan tensions spur demand highlights how today's shifts in capital flows, rate expectations and asset repricing are influencing business and government decisions.",
+                  "zh": "路透社的烏克蘭無人機製造商瞄準亞洲，因台灣緊張局勢刺激需求，凸顯了當今資本流動、利率預期和資產重新定價的變化如何影響企業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，由於台灣緊張局勢刺激了需求，烏克蘭無人機製造商瞄準了亞洲。這一進展在今天的報導中脫穎而出，因為它為有關資本流動、利率預期和資產重新定價的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在經濟市場中，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Ukrainian drone makers target Asia as Taiwan tensions spur demand. The development stood out in today's coverage because it adds a fresh signal to the broader story about capital flows, rate expectations and asset repricing.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In economy markets, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "mkt-uk-s-starmer-says-he-will-stand-in-any-lea",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "UK's Starmer says he will stand in any leadership contest",
+                  "zh": "英國斯塔默表示他將參加任何領導競賽"
+            },
+            "dek": {
+                  "en": "Reuters' UK's Starmer says he will stand in any leadership contest highlights how today's shifts in capital flows, rate expectations and asset repricing are influencing business and government decisions.",
+                  "zh": "路透社英國分部的史塔默表示，他將參加任何領導競賽，凸顯了當今資本流動、利率預期和資產重新定價的變化如何影響企業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，英國斯塔默表示，他將參加任何領導力競選。這一進展在今天的報導中脫穎而出，因為它為有關資本流動、利率預期和資產重新定價的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在經濟市場中，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that UK's Starmer says he will stand in any leadership contest. The development stood out in today's coverage because it adds a fresh signal to the broader story about capital flows, rate expectations and asset repricing.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In economy markets, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "mkt-shares-ease-as-investors-ponder-us-iran-pe",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 7,
+            "title": {
+                  "en": "Shares ease as investors ponder US-Iran peace talks; yen nears 40-year lows",
+                  "zh": "由於投資者考慮美國與伊朗的和平談判，股價下跌；日圓逼近40年低點"
+            },
+            "dek": {
+                  "en": "Reuters' Shares ease as investors ponder US-Iran peace talks; yen nears 40-year lows highlights how today's shifts in capital flows, rate expectations and asset repricing are influencing business and government decisions.",
+                  "zh": "由於投資人考慮美國與伊朗的和平談判，路透社股價下跌；日圓接近 40 年來的低點凸顯了當今資本流動、利率預期和資產重新定價的變化如何影響企業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社通報稱，隨著投資人考慮美伊和平談判，股價下跌；日圓接近40年低點。這一進展在今天的報導中脫穎而出，因為它為有關資本流動、利率預期和資產重新定價的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在經濟市場中，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Shares ease as investors ponder US-Iran peace talks; yen nears 40-year lows. The development stood out in today's coverage because it adds a fresh signal to the broader story about capital flows, rate expectations and asset repricing.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In economy markets, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "mkt-charles-schwab-working-with-cboe-to-enter",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Charles Schwab working with Cboe to enter prediction market, WSJ reports",
+                  "zh": "根據《華爾街日報》報道，嘉信理財與芝加哥選擇權交易所合作進入預測市場"
+            },
+            "dek": {
+                  "en": "Reuters' Charles Schwab working with Cboe to enter prediction market, WSJ reports highlights how today's shifts in capital flows, rate expectations and asset repricing are influencing business and government decisions.",
+                  "zh": "路透社的嘉信理財與芝加哥選擇權交易所合作進入預測市場，《華爾街日報》的報導強調了當今資本流動、利率預期和資產重新定價的變化如何影響企業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "根據《華爾街日報》報道，路透報稱嘉信理財與芝加哥選擇權交易所合作進入預測市場。這一進展在今天的報導中脫穎而出，因為它為有關資本流動、利率預期和資產重新定價的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在經濟市場中，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Charles Schwab working with Cboe to enter prediction market, WSJ reports. The development stood out in today's coverage because it adds a fresh signal to the broader story about capital flows, rate expectations and asset repricing.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In economy markets, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "mkt-weather-warms-up-uk-retail-sales-in-may-in",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Weather warms up UK retail sales in May in boost for economy",
+                  "zh": "英國五月零售銷售天氣變暖，提振經濟"
+            },
+            "dek": {
+                  "en": "Reuters' Weather warms up UK retail sales in May in boost for economy highlights how today's shifts in capital flows, rate expectations and asset repricing are influencing business and government decisions.",
+                  "zh": "路透社的天氣使英國 5 月零售銷售升溫，提振經濟，凸顯了當今資本流動、利率預期和資產重新定價的變化如何影響企業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，天氣使英國 5 月零售銷售升溫，提振了經濟。這一進展在今天的報導中脫穎而出，因為它為有關資本流動、利率預期和資產重新定價的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在經濟市場中，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Weather warms up UK retail sales in May in boost for economy. The development stood out in today's coverage because it adds a fresh signal to the broader story about capital flows, rate expectations and asset repricing.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In economy markets, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "eng-suncor-says-fire-that-occurred-at-its-sarn",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Suncor says fire that occurred at its Sarnia site has been extinguished",
+                  "zh": "森科表示薩尼亞工廠發生的火災已被撲滅"
+            },
+            "dek": {
+                  "en": "Reuters' Suncor says fire that occurred at its Sarnia site has been extinguished highlights how today's shifts in fuel security, grid investment and decarbonisation trade-offs are influencing business and government decisions.",
+                  "zh": "路透社的森科爾公司表示，薩尼亞工廠的火災已經被撲滅，這突顯出當今燃料安全、電網投資和脫碳權衡方面的變化正在如何影響企業和政府的決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，森科爾公司表示，薩尼亞工廠發生的火災已被撲滅。這項進展在今天的報導中脫穎而出，因為它為有關燃料安全、電網投資和脫碳權衡的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在能源環境中，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Suncor says fire that occurred at its Sarnia site has been extinguished. The development stood out in today's coverage because it adds a fresh signal to the broader story about fuel security, grid investment and decarbonisation trade-offs.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In energy climate, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "eng-ecb-s-wunsch-keeps-july-hike-in-play-even",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "ECB’s Wunsch keeps July hike in play even as Iran deal eases energy prices",
+                  "zh": "儘管伊朗協議降低了能源價格，歐洲央行行長溫施仍維持 7 月升息"
+            },
+            "dek": {
+                  "en": "Reuters' ECB’s Wunsch keeps July hike in play even as Iran deal eases energy prices highlights how today's shifts in fuel security, grid investment and decarbonisation trade-offs are influencing business and government decisions.",
+                  "zh": "儘管伊朗協議降低了能源價格，但路透社的歐洲央行行長溫施仍堅持 7 月升息，這突顯出當今燃料安全、電網投資和脫碳權衡的轉變如何影響企業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，儘管伊朗協議降低了能源價格，但歐洲央行行長溫施仍繼續實施 7 月升息。這項進展在今天的報導中脫穎而出，因為它為有關燃料安全、電網投資和脫碳權衡的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在能源環境中，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that ECB’s Wunsch keeps July hike in play even as Iran deal eases energy prices. The development stood out in today's coverage because it adds a fresh signal to the broader story about fuel security, grid investment and decarbonisation trade-offs.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In energy climate, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "eng-take-five-the-economic-consequences-of-the",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 7,
+            "title": {
+                  "en": "Take Five: The economic consequences of the peace",
+                  "zh": "第五點：和平的經濟後果"
+            },
+            "dek": {
+                  "en": "Reuters' Take Five: The economic consequences of the peace highlights how today's shifts in fuel security, grid investment and decarbonisation trade-offs are influencing business and government decisions.",
+                  "zh": "路透社的觀點五：和平的經濟後果凸顯了當今燃料安全、電網投資和脫碳權衡的轉變如何影響企業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道了第五點：和平的經濟後果。這項進展在今天的報導中脫穎而出，因為它為有關燃料安全、電網投資和脫碳權衡的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在能源環境中，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Take Five: The economic consequences of the peace. The development stood out in today's coverage because it adds a fresh signal to the broader story about fuel security, grid investment and decarbonisation trade-offs.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In energy climate, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "eng-european-stocks-tick-lower-as-mining-losse",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "European stocks tick lower as mining losses weigh",
+                  "zh": "由於礦業損失沉重，歐洲股市走低"
+            },
+            "dek": {
+                  "en": "Reuters' European stocks tick lower as mining losses weigh highlights how today's shifts in fuel security, grid investment and decarbonisation trade-offs are influencing business and government decisions.",
+                  "zh": "路透社歐洲股市走低，礦業損失凸顯當今燃料安全、電網投資和脫碳權衡的轉變如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，由於礦業損失沉重，歐洲股市走低。這項進展在今天的報導中脫穎而出，因為它為有關燃料安全、電網投資和脫碳權衡的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在能源環境中，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that European stocks tick lower as mining losses weigh. The development stood out in today's coverage because it adds a fresh signal to the broader story about fuel security, grid investment and decarbonisation trade-offs.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In energy climate, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "eng-steel-industry-sounds-alarm-over-slow-prog",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Steel industry sounds alarm over slow progress on green steel",
+                  "zh": "鋼鐵業對綠色鋼鐵進展緩慢發出警報"
+            },
+            "dek": {
+                  "en": "Reuters' Steel industry sounds alarm over slow progress on green steel highlights how today's shifts in fuel security, grid investment and decarbonisation trade-offs are influencing business and government decisions.",
+                  "zh": "路透社的鋼鐵業對綠色鋼鐵進展緩慢發出警報，突顯了當今燃料安全、電網投資和脫碳權衡的轉變如何影響企業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，鋼鐵業對綠色鋼鐵進展緩慢發出警報。這項進展在今天的報導中脫穎而出，因為它為有關燃料安全、電網投資和脫碳權衡的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在能源環境中，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Steel industry sounds alarm over slow progress on green steel. The development stood out in today's coverage because it adds a fresh signal to the broader story about fuel security, grid investment and decarbonisation trade-offs.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In energy climate, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "pol-ai-generated-ads-should-be-exempt-from-eu",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "AI-generated ads should be exempt from EU transparency rules, retail association says",
+                  "zh": "零售協會表示，人工智慧產生的廣告應不受歐盟透明度規則的約束"
+            },
+            "dek": {
+                  "en": "Reuters' AI-generated ads should be exempt from EU transparency rules, retail association says highlights how today's shifts in rule-making, enforcement signals and compliance costs are influencing business and government decisions.",
+                  "zh": "零售協會表示，路透社的人工智慧產生廣告應不受歐盟透明度規則的約束，這突顯了當今規則制定、執行訊號和合規成本的轉變如何影響企業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社通報稱，零售協會表示，人工智慧產生的廣告應不受歐盟透明度規則的約束。這項進展在今天的報導中脫穎而出，因為它為有關規則制定、執行訊號和合規成本的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在政策監管方面，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that AI-generated ads should be exempt from EU transparency rules, retail association says. The development stood out in today's coverage because it adds a fresh signal to the broader story about rule-making, enforcement signals and compliance costs.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In policy regulation, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "pol-general-dynamics-seeks-legal-fees-after-pl",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "General Dynamics seeks legal fees after plaintiffs drop antitrust lawsuit over wages",
+                  "zh": "原告撤銷工資反壟斷訴訟後通用動力公司尋求律師費"
+            },
+            "dek": {
+                  "en": "Reuters' General Dynamics seeks legal fees after plaintiffs drop antitrust lawsuit over wages highlights how today's shifts in rule-making, enforcement signals and compliance costs are influencing business and government decisions.",
+                  "zh": "路透社旗下通用動力公司在原告撤銷有關工資的反壟斷訴訟後尋求法律費用，這凸顯了當今規則制定、執行信號和合規成本的轉變如何影響企業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，在原告撤銷有關工資的反壟斷訴訟後，通用動力公司尋求法律費用。這項進展在今天的報導中脫穎而出，因為它為有關規則制定、執行訊號和合規成本的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在政策監管方面，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that General Dynamics seeks legal fees after plaintiffs drop antitrust lawsuit over wages. The development stood out in today's coverage because it adds a fresh signal to the broader story about rule-making, enforcement signals and compliance costs.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In policy regulation, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "pol-simplifying-europe-s-bank-rules-could-unlo",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 7,
+            "title": {
+                  "en": "Simplifying Europe's bank rules could unlock €2 trillion in lending, industry says",
+                  "zh": "業界表示，簡化歐洲銀行規則可以釋放2兆歐元的貸款"
+            },
+            "dek": {
+                  "en": "Reuters' Simplifying Europe's bank rules could unlock €2 trillion in lending, industry says highlights how today's shifts in rule-making, enforcement signals and compliance costs are influencing business and government decisions.",
+                  "zh": "業界表示，路透社的《簡化歐洲銀行規則可以釋放 2 兆歐元的貸款》凸顯了當今規則制定、執行訊號和合規成本的轉變如何影響企業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道，業界表示，簡化歐洲銀行規則可以釋放 2 兆歐元的貸款。這項進展在今天的報導中脫穎而出，因為它為有關規則制定、執行訊號和合規成本的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在政策監管方面，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Simplifying Europe's bank rules could unlock €2 trillion in lending, industry says. The development stood out in today's coverage because it adds a fresh signal to the broader story about rule-making, enforcement signals and compliance costs.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In policy regulation, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "pol-indian-regulator-reinstates-open-market-bu",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Indian regulator reinstates open market buybacks, tightens rules for officials",
+                  "zh": "印度監管機構恢復公開市場回購，收緊官員規則"
+            },
+            "dek": {
+                  "en": "Reuters' Indian regulator reinstates open market buybacks, tightens rules for officials highlights how today's shifts in rule-making, enforcement signals and compliance costs are influencing business and government decisions.",
+                  "zh": "路透社的印度監管機構恢復公開市場回購，收緊官員規則，凸顯了當今規則制定、執行訊號和合規成本的轉變如何影響企業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社通報稱，印度監管機構恢復公開市場回購，並收緊對官員的規定。這項進展在今天的報導中脫穎而出，因為它為有關規則制定、執行訊號和合規成本的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在政策監管方面，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Indian regulator reinstates open market buybacks, tightens rules for officials. The development stood out in today's coverage because it adds a fresh signal to the broader story about rule-making, enforcement signals and compliance costs.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In policy regulation, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "pol-uk-proposes-softening-basel-bank-trading-r",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "UK proposes softening Basel bank trading rules, sticks to 2028 date",
+                  "zh": "英國提議放寬巴塞爾銀行交易規則，堅持2028年日期"
+            },
+            "dek": {
+                  "en": "Reuters' UK proposes softening Basel bank trading rules, sticks to 2028 date highlights how today's shifts in rule-making, enforcement signals and compliance costs are influencing business and government decisions.",
+                  "zh": "路透社英國提議放寬巴塞爾銀行交易規則，堅持 2028 年日期，突顯了當今規則制定、執行訊號和合規成本的變化如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，英國提議放寬巴塞爾銀行交易規則，堅持 2028 年日期。這項進展在今天的報導中脫穎而出，因為它為有關規則制定、執行訊號和合規成本的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在政策監管方面，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that UK proposes softening Basel bank trading rules, sticks to 2028 date. The development stood out in today's coverage because it adds a fresh signal to the broader story about rule-making, enforcement signals and compliance costs.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In policy regulation, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-accenture-forecast-takes-hit-from-iran-war",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Accenture forecast takes hit from Iran war, shares tumble over 17%",
+                  "zh": "埃森哲預測受伊朗戰爭打擊 股價暴跌逾17%"
+            },
+            "dek": {
+                  "en": "Reuters' Accenture forecast takes hit from Iran war, shares tumble over 17% highlights how today's shifts in digital resilience, threat detection and operational continuity are influencing business and government decisions.",
+                  "zh": "路透社的埃森哲預測受到伊朗戰爭的打擊，股價暴跌超過 17%，凸顯了當今數位彈性、威脅偵測和營運連續性的轉變如何影響企業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社通報，埃森哲預測受到伊朗戰爭影響，股價大跌逾17%。這項進展在今天的報導中脫穎而出，因為它為有關數位彈性、威脅偵測和營運連續性的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在網路安全領域，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Accenture forecast takes hit from Iran war, shares tumble over 17%. The development stood out in today's coverage because it adds a fresh signal to the broader story about digital resilience, threat detection and operational continuity.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In cybersecurity, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-eu-cybersecurity-agency-to-meet-anthropic",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "EU cybersecurity agency to meet Anthropic on Thursday, EU Commission says",
+                  "zh": "歐盟委員會表示，歐盟網路安全機構將於週四與 Anthropic 會面"
+            },
+            "dek": {
+                  "en": "Reuters' EU cybersecurity agency to meet Anthropic on Thursday, EU Commission says highlights how today's shifts in digital resilience, threat detection and operational continuity are influencing business and government decisions.",
+                  "zh": "歐盟委員會表示，路透社的歐盟網路安全機構將於週四與 Anthropic 會面，這凸顯了當今數位彈性、威脅偵測和營運連續性方面的轉變如何影響企業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "歐盟委員會稱，路透社報道稱，歐盟網路安全機構將於週四與 Anthropic 會面。這項進展在今天的報導中脫穎而出，因為它為有關數位彈性、威脅偵測和營運連續性的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在網路安全領域，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that EU cybersecurity agency to meet Anthropic on Thursday, EU Commission says. The development stood out in today's coverage because it adds a fresh signal to the broader story about digital resilience, threat detection and operational continuity.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In cybersecurity, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-intel-shares-rise-after-trump-announces-ap",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 7,
+            "title": {
+                  "en": "Intel shares rise after Trump announces Apple partnership",
+                  "zh": "川普宣布與蘋果合作後英特爾股價上漲"
+            },
+            "dek": {
+                  "en": "Reuters' Intel shares rise after Trump announces Apple partnership highlights how today's shifts in digital resilience, threat detection and operational continuity are influencing business and government decisions.",
+                  "zh": "在川普宣布與蘋果建立合作關係後，路透社的英特爾股價上漲，凸顯了當今數位彈性、威脅偵測和營運連續性的轉變如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報導，川普宣布與蘋果合作後，英特爾股價上漲。這項進展在今天的報導中脫穎而出，因為它為有關數位彈性、威脅偵測和營運連續性的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在網路安全領域，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Intel shares rise after Trump announces Apple partnership. The development stood out in today's coverage because it adds a fresh signal to the broader story about digital resilience, threat detection and operational continuity.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In cybersecurity, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-israeli-cyber-startup-dream-raises-260-mil",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Israeli cyber startup Dream raises $260 million, valued at $3 billion",
+                  "zh": "以色列網路新創公司 Dream 融資 2.6 億美元，估值 30 億美元"
+            },
+            "dek": {
+                  "en": "Reuters' Israeli cyber startup Dream raises $260 million, valued at $3 billion highlights how today's shifts in digital resilience, threat detection and operational continuity are influencing business and government decisions.",
+                  "zh": "路透社旗下的以色列網路新創公司 Dream 融資 2.6 億美元，估值 30 億美元，凸顯了當今數位彈性、威脅偵測和營運連續性的轉變如何影響企業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社通報稱，以色列網路新創公司 Dream 融資 2.6 億美元，估值 30 億美元。這項進展在今天的報導中脫穎而出，因為它為有關數位彈性、威脅偵測和營運連續性的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在網路安全領域，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Israeli cyber startup Dream raises $260 million, valued at $3 billion. The development stood out in today's coverage because it adds a fresh signal to the broader story about digital resilience, threat detection and operational continuity.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In cybersecurity, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-japan-bank-lobby-warns-of-potential-servic",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Japan bank lobby warns of potential service disruptions due to AI-enabled cyberattacks",
+                  "zh": "日本銀行遊說團體警告人工智慧網路攻擊可能導致服務中斷"
+            },
+            "dek": {
+                  "en": "Reuters' Japan bank lobby warns of potential service disruptions due to AI-enabled cyberattacks highlights how today's shifts in digital resilience, threat detection and operational continuity are influencing business and government decisions.",
+                  "zh": "路透社的日本銀行遊說團體警告稱，人工智慧網路攻擊可能會導致服務中斷，這凸顯了當今數位彈性、威脅偵測和營運連續性的轉變如何影響企業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社通報稱，日本銀行遊說團體警告稱，人工智慧網路攻擊可能會導致服務中斷。這項進展在今天的報導中脫穎而出，因為它為有關數位彈性、威脅偵測和營運連續性的更廣泛的故事增添了新的訊號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在網路安全領域，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Japan bank lobby warns of potential service disruptions due to AI-enabled cyberattacks. The development stood out in today's coverage because it adds a fresh signal to the broader story about digital resilience, threat detection and operational continuity.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In cybersecurity, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "log-russian-central-bank-trims-rate-by-25-bps",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Russian central bank trims rate by 25 bps to 14.25% amid fuel supply, budget risks",
+                  "zh": "由於燃料供應和預算風險，俄羅斯央行降息25個基點至14.25%"
+            },
+            "dek": {
+                  "en": "Reuters' Russian central bank trims rate by 25 bps to 14.25% amid fuel supply, budget risks highlights how today's shifts in port throughput, corridor capacity and infrastructure execution are influencing business and government decisions.",
+                  "zh": "路透社俄羅斯央行因燃料供應而將利率下調 25 個基點至 14.25%，預算風險凸顯了當今港口吞吐量、走廊容量和基礎設施執行的變化如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社通報稱，由於燃料供應和預算風險，俄羅斯央行將利率下調 25 個基點至 14.25%。這一進展在今天的報告中脫穎而出，因為它為有關港口吞吐量、走廊容量和基礎設施執行的更廣泛的故事增添了新的信號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在物流基礎設施方面，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Russian central bank trims rate by 25 bps to 14.25% amid fuel supply, budget risks. The development stood out in today's coverage because it adds a fresh signal to the broader story about port throughput, corridor capacity and infrastructure execution.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In logistics infrastructure, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "log-thailand-revives-30-billion-coast-to-coast",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Thailand revives $30 billion coast-to-coast corridor to rival Malacca Strait",
+                  "zh": "泰國耗資300億美元重振東西海岸走廊，與馬六甲海峽相媲美"
+            },
+            "dek": {
+                  "en": "Reuters' Thailand revives $30 billion coast-to-coast corridor to rival Malacca Strait highlights how today's shifts in port throughput, corridor capacity and infrastructure execution are influencing business and government decisions.",
+                  "zh": "路透社通報，泰國恢復耗資 300 億美元的東西海岸走廊，與馬六甲海峽競爭，凸顯了當今港口吞吐量、走廊容量和基礎設施執行的變化如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社通報稱，泰國耗資 300 億美元重振東西海岸走廊，與馬六甲海峽相提並論。這一進展在今天的報告中脫穎而出，因為它為有關港口吞吐量、走廊容量和基礎設施執行的更廣泛的故事增添了新的信號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在物流基礎設施方面，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Thailand revives $30 billion coast-to-coast corridor to rival Malacca Strait. The development stood out in today's coverage because it adds a fresh signal to the broader story about port throughput, corridor capacity and infrastructure execution.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In logistics infrastructure, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "log-zambia-us-expand-use-of-491-million-grant",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 7,
+            "title": {
+                  "en": "Zambia, US expand use of $491 million grant programme to critical metals infrastructure",
+                  "zh": "尚比亞和美國擴大對關鍵金屬基礎設施的 4.91 億美元補助計畫的使用"
+            },
+            "dek": {
+                  "en": "Reuters' Zambia, US expand use of $491 million grant programme to critical metals infrastructure highlights how today's shifts in port throughput, corridor capacity and infrastructure execution are influencing business and government decisions.",
+                  "zh": "路透社的尚比亞和美國擴大對關鍵金屬基礎設施的 4.91 億美元撥款計劃的使用，突顯了當今港口吞吐量、走廊容量和基礎設施執行的變化如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社报道称，赞比亚和美国将 4.91 亿美元的赠款计划扩大到关键金属基础设施。這一進展在今天的報告中脫穎而出，因為它為有關港口吞吐量、走廊容量和基礎設施執行的更廣泛的故事增添了新的信號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在物流基礎設施方面，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Zambia, US expand use of $491 million grant programme to critical metals infrastructure. The development stood out in today's coverage because it adds a fresh signal to the broader story about port throughput, corridor capacity and infrastructure execution.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In logistics infrastructure, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "log-iran-deal-includes-300-billion-fund-more-t",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Iran deal includes $300 billion fund, more than half of which already committed, source says",
+                  "zh": "消息人士稱，伊朗協議包括3,000億美元的資金，其中超過一半已經承諾"
+            },
+            "dek": {
+                  "en": "Reuters' Iran deal includes $300 billion fund, more than half of which already committed, source says highlights how today's shifts in port throughput, corridor capacity and infrastructure execution are influencing business and government decisions.",
+                  "zh": "消息人士稱，路透社的伊朗協議包括 3,000 億美元的資金，其中超過一半已經承諾，這凸顯了當今港口吞吐量、走廊容量和基礎設施執行的變化如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社通報稱，伊朗協議包括 3,000 億美元的資金，其中超過一半已經承諾，消息人士稱。這一進展在今天的報告中脫穎而出，因為它為有關港口吞吐量、走廊容量和基礎設施執行的更廣泛的故事增添了新的信號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在物流基礎設施方面，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Iran deal includes $300 billion fund, more than half of which already committed, source says. The development stood out in today's coverage because it adds a fresh signal to the broader story about port throughput, corridor capacity and infrastructure execution.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In logistics infrastructure, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      },
+      {
+            "id": "log-focus-russian-attacks-could-cut-ukraine-gr",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Focus: Russian attacks could cut Ukraine grain exports by a third",
+                  "zh": "焦點：俄羅斯襲擊可能導致烏克蘭糧食出口減少三分之一"
+            },
+            "dek": {
+                  "en": "Reuters' Focus: Russian attacks could cut Ukraine grain exports by a third highlights how today's shifts in port throughput, corridor capacity and infrastructure execution are influencing business and government decisions.",
+                  "zh": "路透社的焦點：俄羅斯的襲擊可能使烏克蘭糧食出口減少三分之一，凸顯了當今港口吞吐量、走廊能力和基礎設施執行的變化如何影響商業和政府決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透社報道稱，焦點：俄羅斯的襲擊可能使烏克蘭糧食出口減少三分之一。這一進展在今天的報告中脫穎而出，因為它為有關港口吞吐量、走廊容量和基礎設施執行的更廣泛的故事增添了新的信號。",
+                        "對決策者來說，其重要性不在於單一標題，而在於其所表達的動力、議價能力和執行風險。該領域的舉措可能會迅速影響投資時機、營運假設和近期規劃。",
+                        "類別背景也很重要。在物流基礎設施方面，參與者正在關注官方資訊、公司反應和跨境條件如何轉化為對價格、產能、需求或合規負擔的可衡量壓力。",
+                        "下一個問題是後續行動是否確認了最初的訊號。市場、營運商和政策制定者將關注即將發布的聲明、實施細節和二階效應，以判斷這個故事是否標誌著暫時的調整或更持久的轉變。"
+                  ],
+                  "en": [
+                        "Reuters reported that Focus: Russian attacks could cut Ukraine grain exports by a third. The development stood out in today's coverage because it adds a fresh signal to the broader story about port throughput, corridor capacity and infrastructure execution.",
+                        "For decision-makers, the significance is less about a single headline than about what it says regarding momentum, bargaining power and execution risk. Moves in this area can quickly affect investment timing, operating assumptions and near-term planning.",
+                        "The category context also matters. In logistics infrastructure, participants are watching how official messaging, company responses and cross-border conditions translate into measurable pressure on prices, capacity, demand or compliance burdens.",
+                        "The next question is whether follow-through confirms the initial signal. Markets, operators and policymakers will watch upcoming statements, implementation details and second-order effects to judge whether this story marks a temporary adjustment or a more durable shift."
+                  ]
+            }
+      }
+];
+
   window.DAILY_NEWS_STORIES["2026-06-19"] = [
       {
             "id": "shp-three-saudi-flagged-supertankers-sail-thro",
