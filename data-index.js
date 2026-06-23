@@ -21,6 +21,9 @@ window.DAILY_NEWS = {
   // Metadata only — no stories array here.
   // Stories are fetched on-demand from data-YYYY-MM.js files.
   editions: [
+    { date: "2026-06-23", color: "navy",
+      theme:   { en: "Risk Corridors and Strategic Resets", zh: "風險通道與策略重整" },
+      summary: { en: "From Iran diplomacy and AI capital flows to Hormuz shipping, cyber breaches and rail pricing, today's edition tracks how governments and markets are resetting strategy around fragile global systems.", zh: "從伊朗外交、AI 資本流向到荷莫茲航運、網路攻擊與鐵路定價，今日版面聚焦政府與市場如何圍繞脆弱的全球系統重新調整策略。" } },
     { date: "2026-06-20", color: "navy",
       theme:   { en: "Signals, Systems and Strategic Repricing", zh: "訊號、系統和策略重新定價" },
       summary: { en: "From diplomacy, AI and shipping to cyber defence, regulation and infrastructure, today's edition tracks how fresh headlines are forcing governments and markets to reprice resilience across global systems.", zh: "從外交、人工智慧和航運到網路防禦、監管和基礎設施，今天的版本追蹤了新的頭條新聞如何迫使政府和市場重新定價全球系統的彈性。" } },

@@ -5,6 +5,1509 @@
 (function () {
   window.DAILY_NEWS_STORIES = window.DAILY_NEWS_STORIES || {};
 
+  window.DAILY_NEWS_STORIES["2026-06-23"] = [
+      {
+            "id": "int-rubio-heads-to-uae-kuwait-bahrain-to-discuss-iran-deal-w",
+            "category": "international",
+            "image": "meeting",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 4,
+            "title": {
+                  "en": "Rubio heads to UAE, Kuwait, Bahrain to discuss Iran deal with Gulf allies",
+                  "zh": "魯比歐前往阿聯、科威特與巴林，與海灣盟友討論伊朗協議"
+            },
+            "dek": {
+                  "en": "Rubio heads to UAE, Kuwait, Bahrain to discuss Iran deal with Gulf allies shows how diplomatic positioning, regional stability and cross-border coordination are reshaping planning for governments, investors and operators.",
+                  "zh": "魯比歐前往阿聯、科威特與巴林，與海灣盟友討論伊朗協議凸顯外交布局、區域穩定與跨境協調正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，魯比歐前往阿聯、科威特與巴林，與海灣盟友討論伊朗協議。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示外交布局、區域穩定與跨境協調正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Rubio heads to UAE, Kuwait, Bahrain to discuss Iran deal with Gulf allies. The headline matters because it turns a fast-moving development into a clearer signal about diplomatic positioning, regional stability and cross-border coordination.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "int-optimism-after-first-talks-as-us-waives-iran-sanctions-a",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Optimism after first talks as US waives Iran sanctions and Lebanon fighting abates",
+                  "zh": "首輪會談後氣氛轉趨樂觀，美國豁免伊朗制裁且黎巴嫩戰事降溫"
+            },
+            "dek": {
+                  "en": "Optimism after first talks as US waives Iran sanctions and Lebanon fighting abates shows how diplomatic positioning, regional stability and cross-border coordination are reshaping planning for governments, investors and operators.",
+                  "zh": "首輪會談後氣氛轉趨樂觀，美國豁免伊朗制裁且黎巴嫩戰事降溫凸顯外交布局、區域穩定與跨境協調正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，首輪會談後氣氛轉趨樂觀，美國豁免伊朗制裁且黎巴嫩戰事降溫。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示外交布局、區域穩定與跨境協調正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Optimism after first talks as US waives Iran sanctions and Lebanon fighting abates. The headline matters because it turns a fast-moving development into a clearer signal about diplomatic positioning, regional stability and cross-border coordination.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "int-climate-fight-will-not-stall-because-certain-countries-d",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Climate fight will not stall because certain countries drop out, China says",
+                  "zh": "中國稱即使部分國家退出，氣候行動也不會停滯"
+            },
+            "dek": {
+                  "en": "Climate fight will not stall because certain countries drop out, China says shows how diplomatic positioning, regional stability and cross-border coordination are reshaping planning for governments, investors and operators.",
+                  "zh": "中國稱即使部分國家退出，氣候行動也不會停滯凸顯外交布局、區域穩定與跨境協調正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，中國稱即使部分國家退出，氣候行動也不會停滯。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示外交布局、區域穩定與跨境協調正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Climate fight will not stall because certain countries drop out, China says. The headline matters because it turns a fast-moving development into a clearer signal about diplomatic positioning, regional stability and cross-border coordination.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "int-ebola-infects-more-than-1-000-in-congo-spreads-to-kill-t",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 7,
+            "title": {
+                  "en": "Ebola infects more than 1,000 in Congo, spreads to kill toddler in new camp",
+                  "zh": "剛果伊波拉感染破千，疫情擴散至新營地並造成幼童死亡"
+            },
+            "dek": {
+                  "en": "Ebola infects more than 1,000 in Congo, spreads to kill toddler in new camp shows how diplomatic positioning, regional stability and cross-border coordination are reshaping planning for governments, investors and operators.",
+                  "zh": "剛果伊波拉感染破千，疫情擴散至新營地並造成幼童死亡凸顯外交布局、區域穩定與跨境協調正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，剛果伊波拉感染破千，疫情擴散至新營地並造成幼童死亡。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示外交布局、區域穩定與跨境協調正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Ebola infects more than 1,000 in Congo, spreads to kill toddler in new camp. The headline matters because it turns a fast-moving development into a clearer signal about diplomatic positioning, regional stability and cross-border coordination.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "int-ten-years-on-brexit-disputes-still-hold-back-britain-s-r",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Ten years on, Brexit disputes still hold back Britain's reconciliation with EU",
+                  "zh": "十年過去，脫歐爭端仍拖累英國與歐盟和解"
+            },
+            "dek": {
+                  "en": "Ten years on, Brexit disputes still hold back Britain's reconciliation with EU shows how diplomatic positioning, regional stability and cross-border coordination are reshaping planning for governments, investors and operators.",
+                  "zh": "十年過去，脫歐爭端仍拖累英國與歐盟和解凸顯外交布局、區域穩定與跨境協調正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，十年過去，脫歐爭端仍拖累英國與歐盟和解。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示外交布局、區域穩定與跨境協調正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Ten years on, Brexit disputes still hold back Britain's reconciliation with EU. The headline matters because it turns a fast-moving development into a clearer signal about diplomatic positioning, regional stability and cross-border coordination.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "tec-standard-chartered-overweights-asia-ex-japan-favours-tai",
+            "category": "technology",
+            "image": "technology",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 4,
+            "title": {
+                  "en": "Standard Chartered 'overweights' Asia ex-Japan; favours Taiwan, China on AI, earnings",
+                  "zh": "渣打看多除日本外亞洲股市，偏好受惠 AI 與獲利的台灣與中國"
+            },
+            "dek": {
+                  "en": "Standard Chartered 'overweights' Asia ex-Japan; favours Taiwan, China on AI, earnings shows how AI investment, semiconductor capacity and technology sovereignty are reshaping planning for governments, investors and operators.",
+                  "zh": "渣打看多除日本外亞洲股市，偏好受惠 AI 與獲利的台灣與中國凸顯AI 投資、半導體產能與科技主權正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，渣打看多除日本外亞洲股市，偏好受惠 AI 與獲利的台灣與中國。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示AI 投資、半導體產能與科技主權正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Standard Chartered 'overweights' Asia ex-Japan; favours Taiwan, China on AI, earnings. The headline matters because it turns a fast-moving development into a clearer signal about AI investment, semiconductor capacity and technology sovereignty.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "tec-chipmaking-tool-firm-nearfield-instruments-raises-380-mi",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Chipmaking tool firm Nearfield Instruments raises $380 million at $1.6 billion valuation",
+                  "zh": "晶片設備商 Nearfield Instruments 以 16 億美元估值募得 3.8 億美元"
+            },
+            "dek": {
+                  "en": "Chipmaking tool firm Nearfield Instruments raises $380 million at $1.6 billion valuation shows how AI investment, semiconductor capacity and technology sovereignty are reshaping planning for governments, investors and operators.",
+                  "zh": "晶片設備商 Nearfield Instruments 以 16 億美元估值募得 3.8 億美元凸顯AI 投資、半導體產能與科技主權正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，晶片設備商 Nearfield Instruments 以 16 億美元估值募得 3.8 億美元。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示AI 投資、半導體產能與科技主權正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Chipmaking tool firm Nearfield Instruments raises $380 million at $1.6 billion valuation. The headline matters because it turns a fast-moving development into a clearer signal about AI investment, semiconductor capacity and technology sovereignty.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "tec-sk-hynix-overtakes-samsung-to-become-south-korea-s-most-",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "SK Hynix overtakes Samsung to become South Korea's most valuable company",
+                  "zh": "SK 海力士超越三星，成為南韓市值最高企業"
+            },
+            "dek": {
+                  "en": "SK Hynix overtakes Samsung to become South Korea's most valuable company shows how AI investment, semiconductor capacity and technology sovereignty are reshaping planning for governments, investors and operators.",
+                  "zh": "SK 海力士超越三星，成為南韓市值最高企業凸顯AI 投資、半導體產能與科技主權正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，SK 海力士超越三星，成為南韓市值最高企業。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示AI 投資、半導體產能與科技主權正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that SK Hynix overtakes Samsung to become South Korea's most valuable company. The headline matters because it turns a fast-moving development into a clearer signal about AI investment, semiconductor capacity and technology sovereignty.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "tec-chinese-military-hovered-as-global-executives-flocked-to",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 7,
+            "title": {
+                  "en": "Chinese military hovered as global executives flocked to Taiwan tech show",
+                  "zh": "在全球高層湧向台灣科技展之際，中國軍方活動加劇關注"
+            },
+            "dek": {
+                  "en": "Chinese military hovered as global executives flocked to Taiwan tech show shows how AI investment, semiconductor capacity and technology sovereignty are reshaping planning for governments, investors and operators.",
+                  "zh": "在全球高層湧向台灣科技展之際，中國軍方活動加劇關注凸顯AI 投資、半導體產能與科技主權正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，在全球高層湧向台灣科技展之際，中國軍方活動加劇關注。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示AI 投資、半導體產能與科技主權正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Chinese military hovered as global executives flocked to Taiwan tech show. The headline matters because it turns a fast-moving development into a clearer signal about AI investment, semiconductor capacity and technology sovereignty.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "tec-europe-frets-about-us-ai-as-tech-world-flocks-to-france-",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Europe frets about US AI as tech world flocks to France for G7, VivaTech",
+                  "zh": "科技界湧向法國參加 G7 與 VivaTech 之際，歐洲憂心美國 AI 優勢"
+            },
+            "dek": {
+                  "en": "Europe frets about US AI as tech world flocks to France for G7, VivaTech shows how AI investment, semiconductor capacity and technology sovereignty are reshaping planning for governments, investors and operators.",
+                  "zh": "科技界湧向法國參加 G7 與 VivaTech 之際，歐洲憂心美國 AI 優勢凸顯AI 投資、半導體產能與科技主權正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，科技界湧向法國參加 G7 與 VivaTech 之際，歐洲憂心美國 AI 優勢。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示AI 投資、半導體產能與科技主權正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Europe frets about US AI as tech world flocks to France for G7, VivaTech. The headline matters because it turns a fast-moving development into a clearer signal about AI investment, semiconductor capacity and technology sovereignty.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "spo-messi-breaks-world-cup-scoring-record-with-a-stunning-do",
+            "category": "sports",
+            "image": "stadium",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 4,
+            "title": {
+                  "en": "Messi breaks World Cup scoring record with a stunning double",
+                  "zh": "梅西以精彩梅開二度打破世界盃進球紀錄"
+            },
+            "dek": {
+                  "en": "Messi breaks World Cup scoring record with a stunning double shows how tournament momentum, squad management and the wider atmosphere around major events are reshaping planning for governments, investors and operators.",
+                  "zh": "梅西以精彩梅開二度打破世界盃進球紀錄凸顯賽事走勢、陣容調度與大型活動周邊氛圍正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，梅西以精彩梅開二度打破世界盃進球紀錄。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示賽事走勢、陣容調度與大型活動周邊氛圍正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Messi breaks World Cup scoring record with a stunning double. The headline matters because it turns a fast-moving development into a clearer signal about tournament momentum, squad management and the wider atmosphere around major events.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "spo-neymar-edges-towards-brazil-return-as-scotland-showdown-",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Neymar edges towards Brazil return as Scotland showdown looms",
+                  "zh": "蘇格蘭對決在即，內馬爾接近重返巴西隊"
+            },
+            "dek": {
+                  "en": "Neymar edges towards Brazil return as Scotland showdown looms shows how tournament momentum, squad management and the wider atmosphere around major events are reshaping planning for governments, investors and operators.",
+                  "zh": "蘇格蘭對決在即，內馬爾接近重返巴西隊凸顯賽事走勢、陣容調度與大型活動周邊氛圍正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，蘇格蘭對決在即，內馬爾接近重返巴西隊。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示賽事走勢、陣容調度與大型活動周邊氛圍正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Neymar edges towards Brazil return as Scotland showdown looms. The headline matters because it turns a fast-moving development into a clearer signal about tournament momentum, squad management and the wider atmosphere around major events.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "spo-stadium-gates-opening-for-france-v-iraq-game-delayed-ami",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Stadium gates opening for France v Iraq game delayed amid 'inclement' weather - organisers",
+                  "zh": "主辦方稱，法國對伊拉克之戰因惡劣天候延後開門"
+            },
+            "dek": {
+                  "en": "Stadium gates opening for France v Iraq game delayed amid 'inclement' weather - organisers shows how tournament momentum, squad management and the wider atmosphere around major events are reshaping planning for governments, investors and operators.",
+                  "zh": "主辦方稱，法國對伊拉克之戰因惡劣天候延後開門凸顯賽事走勢、陣容調度與大型活動周邊氛圍正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，主辦方稱，法國對伊拉克之戰因惡劣天候延後開門。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示賽事走勢、陣容調度與大型活動周邊氛圍正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Stadium gates opening for France v Iraq game delayed amid 'inclement' weather - organisers. The headline matters because it turns a fast-moving development into a clearer signal about tournament momentum, squad management and the wider atmosphere around major events.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "spo-salah-inspires-egypt-to-beat-new-zealand-3-1-for-histori",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 7,
+            "title": {
+                  "en": "Salah inspires Egypt to beat New Zealand 3-1 for historic World Cup win",
+                  "zh": "薩拉赫帶領埃及 3 比 1 擊敗紐西蘭，寫下歷史性世界盃勝利"
+            },
+            "dek": {
+                  "en": "Salah inspires Egypt to beat New Zealand 3-1 for historic World Cup win shows how tournament momentum, squad management and the wider atmosphere around major events are reshaping planning for governments, investors and operators.",
+                  "zh": "薩拉赫帶領埃及 3 比 1 擊敗紐西蘭，寫下歷史性世界盃勝利凸顯賽事走勢、陣容調度與大型活動周邊氛圍正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，薩拉赫帶領埃及 3 比 1 擊敗紐西蘭，寫下歷史性世界盃勝利。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示賽事走勢、陣容調度與大型活動周邊氛圍正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Salah inspires Egypt to beat New Zealand 3-1 for historic World Cup win. The headline matters because it turns a fast-moving development into a clearer signal about tournament momentum, squad management and the wider atmosphere around major events.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "spo-local-world-cup-fans-wave-many-flags-in-multicultural-ho",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Local World Cup fans wave many flags in multicultural Houston",
+                  "zh": "多元文化休士頓的世界盃球迷揮舞各國旗幟"
+            },
+            "dek": {
+                  "en": "Local World Cup fans wave many flags in multicultural Houston shows how tournament momentum, squad management and the wider atmosphere around major events are reshaping planning for governments, investors and operators.",
+                  "zh": "多元文化休士頓的世界盃球迷揮舞各國旗幟凸顯賽事走勢、陣容調度與大型活動周邊氛圍正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，多元文化休士頓的世界盃球迷揮舞各國旗幟。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示賽事走勢、陣容調度與大型活動周邊氛圍正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Local World Cup fans wave many flags in multicultural Houston. The headline matters because it turns a fast-moving development into a clearer signal about tournament momentum, squad management and the wider atmosphere around major events.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "shi-oil-tanker-traffic-picks-up-through-hormuz",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 4,
+            "title": {
+                  "en": "Oil tanker traffic picks up through Hormuz",
+                  "zh": "荷莫茲海峽油輪通行量回升"
+            },
+            "dek": {
+                  "en": "Oil tanker traffic picks up through Hormuz shows how maritime chokepoints, naval risk and the cost of moving cargo are reshaping planning for governments, investors and operators.",
+                  "zh": "荷莫茲海峽油輪通行量回升凸顯海運瓶頸、軍事風險與貨物流動成本正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，荷莫茲海峽油輪通行量回升。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示海運瓶頸、軍事風險與貨物流動成本正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Oil tanker traffic picks up through Hormuz. The headline matters because it turns a fast-moving development into a clearer signal about maritime chokepoints, naval risk and the cost of moving cargo.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "shi-india-bound-fertilizer-ships-cross-hormuz-government-say",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "India-bound fertilizer ships cross Hormuz, government says",
+                  "zh": "政府表示，開往印度的化肥船已通過荷莫茲海峽"
+            },
+            "dek": {
+                  "en": "India-bound fertilizer ships cross Hormuz, government says shows how maritime chokepoints, naval risk and the cost of moving cargo are reshaping planning for governments, investors and operators.",
+                  "zh": "政府表示，開往印度的化肥船已通過荷莫茲海峽凸顯海運瓶頸、軍事風險與貨物流動成本正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，政府表示，開往印度的化肥船已通過荷莫茲海峽。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示海運瓶頸、軍事風險與貨物流動成本正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that India-bound fertilizer ships cross Hormuz, government says. The headline matters because it turns a fast-moving development into a clearer signal about maritime chokepoints, naval risk and the cost of moving cargo.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "shi-police-seize-572-million-cocaine-in-australia-s-biggest-",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Police seize $572 million cocaine in Australia's biggest haul",
+                  "zh": "警方在澳洲史上最大查獲行動中扣押 5.72 億美元古柯鹼"
+            },
+            "dek": {
+                  "en": "Police seize $572 million cocaine in Australia's biggest haul shows how maritime chokepoints, naval risk and the cost of moving cargo are reshaping planning for governments, investors and operators.",
+                  "zh": "警方在澳洲史上最大查獲行動中扣押 5.72 億美元古柯鹼凸顯海運瓶頸、軍事風險與貨物流動成本正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，警方在澳洲史上最大查獲行動中扣押 5.72 億美元古柯鹼。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示海運瓶頸、軍事風險與貨物流動成本正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Police seize $572 million cocaine in Australia's biggest haul. The headline matters because it turns a fast-moving development into a clearer signal about maritime chokepoints, naval risk and the cost of moving cargo.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "shi-china-says-liaoning-aircraft-carrier-completes-over-40-d",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 7,
+            "title": {
+                  "en": "China says Liaoning aircraft carrier completes over 40 days of drills",
+                  "zh": "中國稱遼寧號航空母艦完成逾 40 天演訓"
+            },
+            "dek": {
+                  "en": "China says Liaoning aircraft carrier completes over 40 days of drills shows how maritime chokepoints, naval risk and the cost of moving cargo are reshaping planning for governments, investors and operators.",
+                  "zh": "中國稱遼寧號航空母艦完成逾 40 天演訓凸顯海運瓶頸、軍事風險與貨物流動成本正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，中國稱遼寧號航空母艦完成逾 40 天演訓。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示海運瓶頸、軍事風險與貨物流動成本正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that China says Liaoning aircraft carrier completes over 40 days of drills. The headline matters because it turns a fast-moving development into a clearer signal about maritime chokepoints, naval risk and the cost of moving cargo.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "shi-china-s-rare-earths-curbs-extend-pressure-on-supply-to-j",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "China's rare earths curbs extend pressure on supply to Japan",
+                  "zh": "中國稀土限制措施持續加大日本供應壓力"
+            },
+            "dek": {
+                  "en": "China's rare earths curbs extend pressure on supply to Japan shows how maritime chokepoints, naval risk and the cost of moving cargo are reshaping planning for governments, investors and operators.",
+                  "zh": "中國稀土限制措施持續加大日本供應壓力凸顯海運瓶頸、軍事風險與貨物流動成本正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，中國稀土限制措施持續加大日本供應壓力。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示海運瓶頸、軍事風險與貨物流動成本正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that China's rare earths curbs extend pressure on supply to Japan. The headline matters because it turns a fast-moving development into a clearer signal about maritime chokepoints, naval risk and the cost of moving cargo.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "sup-canada-s-unifor-union-begins-detroit-three-negotiations-",
+            "category": "supply-chain",
+            "image": "containers",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 4,
+            "title": {
+                  "en": "Canada's Unifor union begins Detroit Three negotiations with Ford",
+                  "zh": "加拿大 Unifor 工會與福特展開底特律三大車廠談判"
+            },
+            "dek": {
+                  "en": "Canada's Unifor union begins Detroit Three negotiations with Ford shows how industrial resilience, sourcing strategy and control over critical inputs are reshaping planning for governments, investors and operators.",
+                  "zh": "加拿大 Unifor 工會與福特展開底特律三大車廠談判凸顯產業韌性、採購策略與關鍵投入品掌控正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，加拿大 Unifor 工會與福特展開底特律三大車廠談判。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示產業韌性、採購策略與關鍵投入品掌控正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Canada's Unifor union begins Detroit Three negotiations with Ford. The headline matters because it turns a fast-moving development into a clearer signal about industrial resilience, sourcing strategy and control over critical inputs.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "sup-china-closing-in-but-us-leads-in-biotech-quality-commerc",
+            "category": "supply-chain",
+            "image": "containers",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "China closing in but US leads in biotech quality, commercial reach, survey finds",
+                  "zh": "調查顯示，中國正急起直追，但美國在生技品質與商業化覆蓋仍領先"
+            },
+            "dek": {
+                  "en": "China closing in but US leads in biotech quality, commercial reach, survey finds shows how industrial resilience, sourcing strategy and control over critical inputs are reshaping planning for governments, investors and operators.",
+                  "zh": "調查顯示，中國正急起直追，但美國在生技品質與商業化覆蓋仍領先凸顯產業韌性、採購策略與關鍵投入品掌控正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，調查顯示，中國正急起直追，但美國在生技品質與商業化覆蓋仍領先。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示產業韌性、採購策略與關鍵投入品掌控正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that China closing in but US leads in biotech quality, commercial reach, survey finds. The headline matters because it turns a fast-moving development into a clearer signal about industrial resilience, sourcing strategy and control over critical inputs.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "sup-india-s-tata-electronics-hit-by-cyber-breach-claiming-to",
+            "category": "supply-chain",
+            "image": "containers",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets",
+                  "zh": "印度塔塔電子遭網攻，駭客稱掌握蘋果與特斯拉商業機密"
+            },
+            "dek": {
+                  "en": "India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets shows how industrial resilience, sourcing strategy and control over critical inputs are reshaping planning for governments, investors and operators.",
+                  "zh": "印度塔塔電子遭網攻，駭客稱掌握蘋果與特斯拉商業機密凸顯產業韌性、採購策略與關鍵投入品掌控正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，印度塔塔電子遭網攻，駭客稱掌握蘋果與特斯拉商業機密。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示產業韌性、採購策略與關鍵投入品掌控正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets. The headline matters because it turns a fast-moving development into a clearer signal about industrial resilience, sourcing strategy and control over critical inputs.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "sup-eu-courts-brazil-as-strategic-partner-in-global-race-for",
+            "category": "supply-chain",
+            "image": "containers",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 7,
+            "title": {
+                  "en": "EU courts Brazil as strategic partner in global race for critical minerals",
+                  "zh": "歐盟拉攏巴西成為全球關鍵礦產競逐中的戰略夥伴"
+            },
+            "dek": {
+                  "en": "EU courts Brazil as strategic partner in global race for critical minerals shows how industrial resilience, sourcing strategy and control over critical inputs are reshaping planning for governments, investors and operators.",
+                  "zh": "歐盟拉攏巴西成為全球關鍵礦產競逐中的戰略夥伴凸顯產業韌性、採購策略與關鍵投入品掌控正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，歐盟拉攏巴西成為全球關鍵礦產競逐中的戰略夥伴。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示產業韌性、採購策略與關鍵投入品掌控正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that EU courts Brazil as strategic partner in global race for critical minerals. The headline matters because it turns a fast-moving development into a clearer signal about industrial resilience, sourcing strategy and control over critical inputs.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "sup-china-targets-us-rare-earth-and-other-firms-with-export-",
+            "category": "supply-chain",
+            "image": "containers",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "China targets US rare earth and other firms with export controls",
+                  "zh": "中國以出口管制鎖定美國稀土與其他企業"
+            },
+            "dek": {
+                  "en": "China targets US rare earth and other firms with export controls shows how industrial resilience, sourcing strategy and control over critical inputs are reshaping planning for governments, investors and operators.",
+                  "zh": "中國以出口管制鎖定美國稀土與其他企業凸顯產業韌性、採購策略與關鍵投入品掌控正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，中國以出口管制鎖定美國稀土與其他企業。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示產業韌性、採購策略與關鍵投入品掌控正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that China targets US rare earth and other firms with export controls. The headline matters because it turns a fast-moving development into a clearer signal about industrial resilience, sourcing strategy and control over critical inputs.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "eco-alan-greenspan-us-fed-maestro-through-years-of-boom-and-",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 4,
+            "title": {
+                  "en": "Alan Greenspan, US Fed 'maestro' through years of boom and bust, dies at 100",
+                  "zh": "帶領聯準會走過榮枯週期的「大師」葛林斯潘辭世，享嵩壽 100 歲"
+            },
+            "dek": {
+                  "en": "Alan Greenspan, US Fed 'maestro' through years of boom and bust, dies at 100 shows how market pricing, policy expectations and investor risk appetite are reshaping planning for governments, investors and operators.",
+                  "zh": "帶領聯準會走過榮枯週期的「大師」葛林斯潘辭世，享嵩壽 100 歲凸顯市場定價、政策預期與投資人風險偏好正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，帶領聯準會走過榮枯週期的「大師」葛林斯潘辭世，享嵩壽 100 歲。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示市場定價、政策預期與投資人風險偏好正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Alan Greenspan, US Fed 'maestro' through years of boom and bust, dies at 100. The headline matters because it turns a fast-moving development into a clearer signal about market pricing, policy expectations and investor risk appetite.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "eco-trading-day-mixed-signals-wall-street-wobbles",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Trading Day: Mixed signals, Wall Street wobbles",
+                  "zh": "交易日：訊號混雜，華爾街走勢搖擺"
+            },
+            "dek": {
+                  "en": "Trading Day: Mixed signals, Wall Street wobbles shows how market pricing, policy expectations and investor risk appetite are reshaping planning for governments, investors and operators.",
+                  "zh": "交易日：訊號混雜，華爾街走勢搖擺凸顯市場定價、政策預期與投資人風險偏好正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，交易日：訊號混雜，華爾街走勢搖擺。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示市場定價、政策預期與投資人風險偏好正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Trading Day: Mixed signals, Wall Street wobbles. The headline matters because it turns a fast-moving development into a clearer signal about market pricing, policy expectations and investor risk appetite.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "eco-uk-s-ftse-100-climbs-on-banks-boost-markets-ponder-pm-st",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "UK's FTSE 100 climbs on banks boost; markets ponder PM Starmer's resignation",
+                  "zh": "銀行股帶動英國富時 100 上揚，市場消化首相施凱爾辭職消息"
+            },
+            "dek": {
+                  "en": "UK's FTSE 100 climbs on banks boost; markets ponder PM Starmer's resignation shows how market pricing, policy expectations and investor risk appetite are reshaping planning for governments, investors and operators.",
+                  "zh": "銀行股帶動英國富時 100 上揚，市場消化首相施凱爾辭職消息凸顯市場定價、政策預期與投資人風險偏好正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，銀行股帶動英國富時 100 上揚，市場消化首相施凱爾辭職消息。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示市場定價、政策預期與投資人風險偏好正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that UK's FTSE 100 climbs on banks boost; markets ponder PM Starmer's resignation. The headline matters because it turns a fast-moving development into a clearer signal about market pricing, policy expectations and investor risk appetite.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "eco-gulf-markets-mixed-as-iran-reports-progress-in-peace-tal",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 7,
+            "title": {
+                  "en": "Gulf markets mixed as Iran reports progress in peace talks",
+                  "zh": "伊朗稱和平談判有進展，海灣市場漲跌互見"
+            },
+            "dek": {
+                  "en": "Gulf markets mixed as Iran reports progress in peace talks shows how market pricing, policy expectations and investor risk appetite are reshaping planning for governments, investors and operators.",
+                  "zh": "伊朗稱和平談判有進展，海灣市場漲跌互見凸顯市場定價、政策預期與投資人風險偏好正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，伊朗稱和平談判有進展，海灣市場漲跌互見。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示市場定價、政策預期與投資人風險偏好正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Gulf markets mixed as Iran reports progress in peace talks. The headline matters because it turns a fast-moving development into a clearer signal about market pricing, policy expectations and investor risk appetite.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "eco-ukraine-s-economy-ministry-proposes-30-increase-in-rail-",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Ukraine's economy ministry proposes 30% increase in rail freight tariffs",
+                  "zh": "烏克蘭經濟部提議將鐵路貨運費率調高 30%"
+            },
+            "dek": {
+                  "en": "Ukraine's economy ministry proposes 30% increase in rail freight tariffs shows how market pricing, policy expectations and investor risk appetite are reshaping planning for governments, investors and operators.",
+                  "zh": "烏克蘭經濟部提議將鐵路貨運費率調高 30%凸顯市場定價、政策預期與投資人風險偏好正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，烏克蘭經濟部提議將鐵路貨運費率調高 30%。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示市場定價、政策預期與投資人風險偏好正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Ukraine's economy ministry proposes 30% increase in rail freight tariffs. The headline matters because it turns a fast-moving development into a clearer signal about market pricing, policy expectations and investor risk appetite.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "ene-us-proposes-to-slash-costs-for-energy-drillers-on-federa",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 4,
+            "title": {
+                  "en": "US proposes to slash costs for energy drillers on federal lands",
+                  "zh": "美國提議大幅降低聯邦土地能源鑽探成本"
+            },
+            "dek": {
+                  "en": "US proposes to slash costs for energy drillers on federal lands shows how energy security, capital allocation and the pace of transition planning are reshaping planning for governments, investors and operators.",
+                  "zh": "美國提議大幅降低聯邦土地能源鑽探成本凸顯能源安全、資本配置與轉型規劃節奏正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，美國提議大幅降低聯邦土地能源鑽探成本。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示能源安全、資本配置與轉型規劃節奏正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that US proposes to slash costs for energy drillers on federal lands. The headline matters because it turns a fast-moving development into a clearer signal about energy security, capital allocation and the pace of transition planning.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "ene-us-loans-500-000-barrels-of-oil-from-strategic-petroleum",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "US loans 500,000 barrels of oil from Strategic Petroleum Reserve",
+                  "zh": "美國自戰略石油儲備出借 50 萬桶原油"
+            },
+            "dek": {
+                  "en": "US loans 500,000 barrels of oil from Strategic Petroleum Reserve shows how energy security, capital allocation and the pace of transition planning are reshaping planning for governments, investors and operators.",
+                  "zh": "美國自戰略石油儲備出借 50 萬桶原油凸顯能源安全、資本配置與轉型規劃節奏正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，美國自戰略石油儲備出借 50 萬桶原油。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示能源安全、資本配置與轉型規劃節奏正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that US loans 500,000 barrels of oil from Strategic Petroleum Reserve. The headline matters because it turns a fast-moving development into a clearer signal about energy security, capital allocation and the pace of transition planning.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "ene-iran-energy-crisis-will-drive-global-electrification-iea",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Iran energy crisis will drive global electrification, IEA chief says",
+                  "zh": "國際能源總署署長稱，伊朗能源危機將推動全球電氣化"
+            },
+            "dek": {
+                  "en": "Iran energy crisis will drive global electrification, IEA chief says shows how energy security, capital allocation and the pace of transition planning are reshaping planning for governments, investors and operators.",
+                  "zh": "國際能源總署署長稱，伊朗能源危機將推動全球電氣化凸顯能源安全、資本配置與轉型規劃節奏正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，國際能源總署署長稱，伊朗能源危機將推動全球電氣化。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示能源安全、資本配置與轉型規劃節奏正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Iran energy crisis will drive global electrification, IEA chief says. The headline matters because it turns a fast-moving development into a clearer signal about energy security, capital allocation and the pace of transition planning.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "ene-azule-energy-gives-final-go-ahead-to-5-1-billion-angola-",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 7,
+            "title": {
+                  "en": "Azule Energy gives final go-ahead to $5.1 billion Angola offshore project",
+                  "zh": "Azule Energy 最終拍板 51 億美元安哥拉離岸項目"
+            },
+            "dek": {
+                  "en": "Azule Energy gives final go-ahead to $5.1 billion Angola offshore project shows how energy security, capital allocation and the pace of transition planning are reshaping planning for governments, investors and operators.",
+                  "zh": "Azule Energy 最終拍板 51 億美元安哥拉離岸項目凸顯能源安全、資本配置與轉型規劃節奏正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，Azule Energy 最終拍板 51 億美元安哥拉離岸項目。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示能源安全、資本配置與轉型規劃節奏正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Azule Energy gives final go-ahead to $5.1 billion Angola offshore project. The headline matters because it turns a fast-moving development into a clearer signal about energy security, capital allocation and the pace of transition planning.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "ene-canada-sets-out-plan-for-up-to-10-new-nuclear-reactors",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Canada sets out plan for up to 10 new nuclear reactors",
+                  "zh": "加拿大提出最多興建 10 座新核反應爐的計畫"
+            },
+            "dek": {
+                  "en": "Canada sets out plan for up to 10 new nuclear reactors shows how energy security, capital allocation and the pace of transition planning are reshaping planning for governments, investors and operators.",
+                  "zh": "加拿大提出最多興建 10 座新核反應爐的計畫凸顯能源安全、資本配置與轉型規劃節奏正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，加拿大提出最多興建 10 座新核反應爐的計畫。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示能源安全、資本配置與轉型規劃節奏正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Canada sets out plan for up to 10 new nuclear reactors. The headline matters because it turns a fast-moving development into a clearer signal about energy security, capital allocation and the pace of transition planning.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "pol-bp-marathon-7-eleven-walmart-sued-for-allegedly-using-ai",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 4,
+            "title": {
+                  "en": "BP, Marathon, 7-Eleven, Walmart sued for allegedly using AI to boost California gas prices",
+                  "zh": "BP、Marathon、7-Eleven 與沃爾瑪遭控利用 AI 推高加州汽油價格"
+            },
+            "dek": {
+                  "en": "BP, Marathon, 7-Eleven, Walmart sued for allegedly using AI to boost California gas prices shows how rule-making, enforcement pressure and corporate compliance costs are reshaping planning for governments, investors and operators.",
+                  "zh": "BP、Marathon、7-Eleven 與沃爾瑪遭控利用 AI 推高加州汽油價格凸顯規則制定、執法壓力與企業合規成本正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，BP、Marathon、7-Eleven 與沃爾瑪遭控利用 AI 推高加州汽油價格。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示規則制定、執法壓力與企業合規成本正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that BP, Marathon, 7-Eleven, Walmart sued for allegedly using AI to boost California gas prices. The headline matters because it turns a fast-moving development into a clearer signal about rule-making, enforcement pressure and corporate compliance costs.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "pol-us-house-committee-reaches-bipartisan-deal-on-social-med",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "US House committee reaches bipartisan deal on social media rules for youth",
+                  "zh": "美國眾院委員會就青少年社群媒體規則達成跨黨派協議"
+            },
+            "dek": {
+                  "en": "US House committee reaches bipartisan deal on social media rules for youth shows how rule-making, enforcement pressure and corporate compliance costs are reshaping planning for governments, investors and operators.",
+                  "zh": "美國眾院委員會就青少年社群媒體規則達成跨黨派協議凸顯規則制定、執法壓力與企業合規成本正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，美國眾院委員會就青少年社群媒體規則達成跨黨派協議。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示規則制定、執法壓力與企業合規成本正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that US House committee reaches bipartisan deal on social media rules for youth. The headline matters because it turns a fast-moving development into a clearer signal about rule-making, enforcement pressure and corporate compliance costs.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "pol-bank-of-england-softens-stablecoin-rules-in-final-policy",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Bank of England softens stablecoin rules in final policy draft",
+                  "zh": "英格蘭銀行在最終政策草案中放寬穩定幣規則"
+            },
+            "dek": {
+                  "en": "Bank of England softens stablecoin rules in final policy draft shows how rule-making, enforcement pressure and corporate compliance costs are reshaping planning for governments, investors and operators.",
+                  "zh": "英格蘭銀行在最終政策草案中放寬穩定幣規則凸顯規則制定、執法壓力與企業合規成本正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，英格蘭銀行在最終政策草案中放寬穩定幣規則。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示規則制定、執法壓力與企業合規成本正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Bank of England softens stablecoin rules in final policy draft. The headline matters because it turns a fast-moving development into a clearer signal about rule-making, enforcement pressure and corporate compliance costs.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "pol-baker-hughes-offers-remedies-to-obtain-eu-nod-for-chart-",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 7,
+            "title": {
+                  "en": "Baker Hughes offers remedies to obtain EU nod for Chart deal",
+                  "zh": "貝克休斯提出補救措施，以爭取歐盟批准收購 Chart"
+            },
+            "dek": {
+                  "en": "Baker Hughes offers remedies to obtain EU nod for Chart deal shows how rule-making, enforcement pressure and corporate compliance costs are reshaping planning for governments, investors and operators.",
+                  "zh": "貝克休斯提出補救措施，以爭取歐盟批准收購 Chart凸顯規則制定、執法壓力與企業合規成本正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，貝克休斯提出補救措施，以爭取歐盟批准收購 Chart。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示規則制定、執法壓力與企業合規成本正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Baker Hughes offers remedies to obtain EU nod for Chart deal. The headline matters because it turns a fast-moving development into a clearer signal about rule-making, enforcement pressure and corporate compliance costs.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "pol-south-korea-market-watchdog-offers-rare-mea-culpa-over-l",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "South Korea market watchdog offers rare mea culpa over leveraged ETFs",
+                  "zh": "南韓市場監管機構罕見就槓桿 ETF 爭議致歉"
+            },
+            "dek": {
+                  "en": "South Korea market watchdog offers rare mea culpa over leveraged ETFs shows how rule-making, enforcement pressure and corporate compliance costs are reshaping planning for governments, investors and operators.",
+                  "zh": "南韓市場監管機構罕見就槓桿 ETF 爭議致歉凸顯規則制定、執法壓力與企業合規成本正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，南韓市場監管機構罕見就槓桿 ETF 爭議致歉。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示規則制定、執法壓力與企業合規成本正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that South Korea market watchdog offers rare mea culpa over leveraged ETFs. The headline matters because it turns a fast-moving development into a clearer signal about rule-making, enforcement pressure and corporate compliance costs.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-india-s-tata-electronics-hit-by-cyber-breach-claiming-to",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 4,
+            "title": {
+                  "en": "India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets",
+                  "zh": "印度塔塔電子遭網攻，駭客稱將曝光蘋果與特斯拉商業機密"
+            },
+            "dek": {
+                  "en": "India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets shows how digital resilience, breach response and the policy tools shaping cyber defence are reshaping planning for governments, investors and operators.",
+                  "zh": "印度塔塔電子遭網攻，駭客稱將曝光蘋果與特斯拉商業機密凸顯數位韌性、資安事件應變與塑造防禦的政策工具正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，印度塔塔電子遭網攻，駭客稱將曝光蘋果與特斯拉商業機密。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示數位韌性、資安事件應變與塑造防禦的政策工具正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets. The headline matters because it turns a fast-moving development into a clearer signal about digital resilience, breach response and the policy tools shaping cyber defence.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-trump-signs-orders-calling-for-powerful-quantum-computer",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Trump signs orders calling for powerful quantum computer, targeting 2028",
+                  "zh": "川普簽署命令推動強大量子電腦，目標鎖定 2028 年"
+            },
+            "dek": {
+                  "en": "Trump signs orders calling for powerful quantum computer, targeting 2028 shows how digital resilience, breach response and the policy tools shaping cyber defence are reshaping planning for governments, investors and operators.",
+                  "zh": "川普簽署命令推動強大量子電腦，目標鎖定 2028 年凸顯數位韌性、資安事件應變與塑造防禦的政策工具正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，川普簽署命令推動強大量子電腦，目標鎖定 2028 年。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示數位韌性、資安事件應變與塑造防禦的政策工具正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Trump signs orders calling for powerful quantum computer, targeting 2028. The headline matters because it turns a fast-moving development into a clearer signal about digital resilience, breach response and the policy tools shaping cyber defence.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-cybersecurity-opens-new-path-for-taiwan-india-ties",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Cybersecurity opens new path for Taiwan-India ties",
+                  "zh": "網路安全為台印關係開闢新路徑"
+            },
+            "dek": {
+                  "en": "Cybersecurity opens new path for Taiwan-India ties shows how digital resilience, breach response and the policy tools shaping cyber defence are reshaping planning for governments, investors and operators.",
+                  "zh": "網路安全為台印關係開闢新路徑凸顯數位韌性、資安事件應變與塑造防禦的政策工具正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Taiwan News報導，網路安全為台印關係開闢新路徑。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示數位韌性、資安事件應變與塑造防禦的政策工具正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Taiwan News reported that Cybersecurity opens new path for Taiwan-India ties. The headline matters because it turns a fast-moving development into a clearer signal about digital resilience, breach response and the policy tools shaping cyber defence.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-ai-increasingly-deployed-to-mount-cyber-attacks-and-defe",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 7,
+            "title": {
+                  "en": "AI increasingly deployed to mount cyber attacks - and defences",
+                  "zh": "AI 愈來愈多被用於發動網攻與強化防禦"
+            },
+            "dek": {
+                  "en": "AI increasingly deployed to mount cyber attacks - and defences shows how digital resilience, breach response and the policy tools shaping cyber defence are reshaping planning for governments, investors and operators.",
+                  "zh": "AI 愈來愈多被用於發動網攻與強化防禦凸顯數位韌性、資安事件應變與塑造防禦的政策工具正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "The National報導，AI 愈來愈多被用於發動網攻與強化防禦。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示數位韌性、資安事件應變與塑造防禦的政策工具正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "The National reported that AI increasingly deployed to mount cyber attacks - and defences. The headline matters because it turns a fast-moving development into a clearer signal about digital resilience, breach response and the policy tools shaping cyber defence.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-policymakers-struggle-to-factor-cybersecurity-into-feder",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Policymakers struggle to factor cybersecurity into federal funding programs",
+                  "zh": "政策制定者難以把網安需求納入聯邦資助計畫"
+            },
+            "dek": {
+                  "en": "Policymakers struggle to factor cybersecurity into federal funding programs shows how digital resilience, breach response and the policy tools shaping cyber defence are reshaping planning for governments, investors and operators.",
+                  "zh": "政策制定者難以把網安需求納入聯邦資助計畫凸顯數位韌性、資安事件應變與塑造防禦的政策工具正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Federal News Network報導，政策制定者難以把網安需求納入聯邦資助計畫。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示數位韌性、資安事件應變與塑造防禦的政策工具正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Federal News Network reported that Policymakers struggle to factor cybersecurity into federal funding programs. The headline matters because it turns a fast-moving development into a clearer signal about digital resilience, breach response and the policy tools shaping cyber defence.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "log-south-africa-s-exxaro-working-to-transport-more-manganes",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 4,
+            "title": {
+                  "en": "South Africa's Exxaro working to transport more manganese by cheaper rail",
+                  "zh": "南非 Exxaro 正設法以更便宜的鐵路運輸更多錳礦"
+            },
+            "dek": {
+                  "en": "South Africa's Exxaro working to transport more manganese by cheaper rail shows how rail, port and corridor capacity that determines how goods and materials move are reshaping planning for governments, investors and operators.",
+                  "zh": "南非 Exxaro 正設法以更便宜的鐵路運輸更多錳礦凸顯決定貨物與原料流動的鐵路、港口與運輸走廊能力正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，南非 Exxaro 正設法以更便宜的鐵路運輸更多錳礦。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示決定貨物與原料流動的鐵路、港口與運輸走廊能力正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that South Africa's Exxaro working to transport more manganese by cheaper rail. The headline matters because it turns a fast-moving development into a clearer signal about rail, port and corridor capacity that determines how goods and materials move.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "log-ukraine-s-economy-ministry-proposes-30-increase-in-rail-",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Ukraine's economy ministry proposes 30% increase in rail freight tariffs",
+                  "zh": "烏克蘭經濟部提議將鐵路貨運費率調高 30%"
+            },
+            "dek": {
+                  "en": "Ukraine's economy ministry proposes 30% increase in rail freight tariffs shows how rail, port and corridor capacity that determines how goods and materials move are reshaping planning for governments, investors and operators.",
+                  "zh": "烏克蘭經濟部提議將鐵路貨運費率調高 30%凸顯決定貨物與原料流動的鐵路、港口與運輸走廊能力正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "Reuters報導，烏克蘭經濟部提議將鐵路貨運費率調高 30%。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示決定貨物與原料流動的鐵路、港口與運輸走廊能力正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "Reuters reported that Ukraine's economy ministry proposes 30% increase in rail freight tariffs. The headline matters because it turns a fast-moving development into a clearer signal about rail, port and corridor capacity that determines how goods and materials move.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "log-mexico-s-maya-train-fails-to-deliver-economic-boost",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Mexico's Maya Train fails to deliver economic boost",
+                  "zh": "墨西哥瑪雅列車未能帶來預期經濟提振"
+            },
+            "dek": {
+                  "en": "Mexico's Maya Train fails to deliver economic boost shows how rail, port and corridor capacity that determines how goods and materials move are reshaping planning for governments, investors and operators.",
+                  "zh": "墨西哥瑪雅列車未能帶來預期經濟提振凸顯決定貨物與原料流動的鐵路、港口與運輸走廊能力正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "DW報導，墨西哥瑪雅列車未能帶來預期經濟提振。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示決定貨物與原料流動的鐵路、港口與運輸走廊能力正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "DW reported that Mexico's Maya Train fails to deliver economic boost. The headline matters because it turns a fast-moving development into a clearer signal about rail, port and corridor capacity that determines how goods and materials move.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "log-dp-world-wilo-expand-partnership-on-sustainable-water-te",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 7,
+            "title": {
+                  "en": "DP World, Wilo expand partnership on sustainable water technology, smart logistics",
+                  "zh": "DP World 與 Wilo 擴大永續水技術與智慧物流合作"
+            },
+            "dek": {
+                  "en": "DP World, Wilo expand partnership on sustainable water technology, smart logistics shows how rail, port and corridor capacity that determines how goods and materials move are reshaping planning for governments, investors and operators.",
+                  "zh": "DP World 與 Wilo 擴大永續水技術與智慧物流合作凸顯決定貨物與原料流動的鐵路、港口與運輸走廊能力正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "ZAWYA報導，DP World 與 Wilo 擴大永續水技術與智慧物流合作。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示決定貨物與原料流動的鐵路、港口與運輸走廊能力正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "ZAWYA reported that DP World, Wilo expand partnership on sustainable water technology, smart logistics. The headline matters because it turns a fast-moving development into a clearer signal about rail, port and corridor capacity that determines how goods and materials move.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      },
+      {
+            "id": "log-russian-southern-supply-routes-crumbling-as-ukraine-inte",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Russian southern supply routes crumbling as Ukraine intensifies strikes on Kerch logistics",
+                  "zh": "烏克蘭加強打擊刻赤物流後，俄軍南部補給線日益脆弱"
+            },
+            "dek": {
+                  "en": "Russian southern supply routes crumbling as Ukraine intensifies strikes on Kerch logistics shows how rail, port and corridor capacity that determines how goods and materials move are reshaping planning for governments, investors and operators.",
+                  "zh": "烏克蘭加強打擊刻赤物流後，俄軍南部補給線日益脆弱凸顯決定貨物與原料流動的鐵路、港口與運輸走廊能力正如何改變政府、投資人與營運方的規劃。"
+            },
+            "body": {
+                  "zh": [
+                        "The New Voice of Ukraine報導，烏克蘭加強打擊刻赤物流後，俄軍南部補給線日益脆弱。這則消息之所以重要，在於它把快速變動的情勢轉化為更清楚的訊號，顯示決定貨物與原料流動的鐵路、港口與運輸走廊能力正在出現新的變化。",
+                        "除了眼前事件本身，這則報導也意味著預算配置、產能規劃與政治決策可能受到實際影響。在這個類別中，即使是看似局部的更新，也可能迅速改變企業假設與政府應對。",
+                        "讀者也應把這項發展放到更大的系統脈絡中理解。供應條件、融資成本、監管選擇與區域行為經常彼此強化，因此這則新聞能與今日更廣泛的版面主題相互呼應。",
+                        "接下來要觀察的是後續行動是否會確認這個訊號。官員、企業與市場將關注執行細節、對手反應與第二輪效應，以判斷這只是短暫變動，還是更長期趨勢的開端。"
+                  ],
+                  "en": [
+                        "The New Voice of Ukraine reported that Russian southern supply routes crumbling as Ukraine intensifies strikes on Kerch logistics. The headline matters because it turns a fast-moving development into a clearer signal about rail, port and corridor capacity that determines how goods and materials move.",
+                        "Beyond the immediate event, the story points to practical consequences for budgets, capacity planning and political decision-making. In this category, even a narrow update can quickly influence corporate assumptions and government responses.",
+                        "Readers should also view the development in a wider systems context. Supply conditions, financing costs, regulatory choices and regional behaviour often reinforce one another, which is why this item fits into the day's broader narrative.",
+                        "The next question is whether follow-through confirms the signal. Officials, companies and markets will now watch for implementation details, counterpart reactions and second-order effects before deciding whether this is a temporary shift or the start of a longer trend."
+                  ]
+            }
+      }
+];
+
   window.DAILY_NEWS_STORIES["2026-06-20"] = [
       {
             "id": "int-ukrainian-drone-makers-target-asia-as-taiw",

@@ -3,6 +3,7 @@ import argparse
 import datetime as dt
 import json
 import re
+import subprocess
 import sys
 import urllib.parse
 import urllib.request
@@ -220,6 +221,137 @@ def collect_all(limit_per_category: int, timeout: int) -> dict:
     return report
 
 
+def inspect_local_repo(target_date: str) -> dict:
+    month_file = f"data-{target_date[:7]}.js"
+    index_path = Path("data-index.js")
+    month_path = Path(month_file)
+
+    result = {
+        "index_path": str(index_path.resolve()),
+        "month_path": str(month_path.resolve()),
+        "index_exists": index_path.exists(),
+        "month_exists": month_path.exists(),
+        "index_has_date": False,
+        "month_has_date": False,
+        "git_dirty": None,
+        "validation": None,
+        "validation_error": None,
+    }
+
+    if index_path.exists():
+        result["index_has_date"] = target_date in index_path.read_text(encoding="utf-8")
+    if month_path.exists():
+        result["month_has_date"] = target_date in month_path.read_text(encoding="utf-8")
+
+    try:
+        proc = subprocess.run(
+            ["git", "status", "--short"],
+            check=False,
+            capture_output=True,
+            text=True,
+            timeout=10,
+        )
+        result["git_dirty"] = bool((proc.stdout or "").strip())
+    except Exception:
+        result["git_dirty"] = None
+
+    if not (result["index_exists"] and result["month_exists"] and result["index_has_date"] and result["month_has_date"]):
+        return result
+
+    node_script = r'''
+const fs = require("fs");
+const vm = require("vm");
+const date = process.argv[1];
+const sandbox = {
+  window: {},
+  document: { dispatchEvent() {} },
+  CustomEvent: function(name){ this.name = name; }
+};
+vm.createContext(sandbox);
+vm.runInContext(fs.readFileSync("data-index.js", "utf8"), sandbox);
+vm.runInContext(fs.readFileSync(`data-${date.slice(0,7)}.js`, "utf8"), sandbox);
+const stories = sandbox.window.DAILY_NEWS_STORIES?.[date] || [];
+const editions = sandbox.window.DAILY_NEWS?.editions || [];
+const categories = [
+  "international","technology","sports","shipping","supply-chain",
+  "economy-markets","energy-climate","policy-regulation","cybersecurity",
+  "logistics-infrastructure"
+];
+const counts = Object.fromEntries(categories.map(c => [c, 0]));
+const leads = Object.fromEntries(categories.map(c => [c, 0]));
+let missing_required_fields = 0;
+let zh_ge_4 = 0;
+let en_ge_4 = 0;
+for (const s of stories) {
+  if (counts[s.category] !== undefined) counts[s.category]++;
+  if (s.lead && leads[s.category] !== undefined) leads[s.category]++;
+  const hasZh = Array.isArray(s.body?.zh) && s.body.zh.length >= 4;
+  const hasEn = Array.isArray(s.body?.en) && s.body.en.length >= 4;
+  if (hasZh) zh_ge_4++;
+  if (hasEn) en_ge_4++;
+  if (!s.id || !s.category || !s.image || typeof s.lead !== "boolean" || !s.author || s.read == null || !s.title?.en || !s.title?.zh || !s.dek?.en || !s.dek?.zh || !Array.isArray(s.body?.zh) || !Array.isArray(s.body?.en)) {
+    missing_required_fields++;
+  }
+}
+const complete = editions.some(e => e.date === date)
+  && stories.length === 50
+  && categories.every(c => counts[c] === 5)
+  && categories.every(c => leads[c] === 1)
+  && missing_required_fields === 0
+  && zh_ge_4 === 50
+  && en_ge_4 === 50;
+console.log(JSON.stringify({
+  index_has_date: editions.some(e => e.date === date),
+  total_stories: stories.length,
+  counts,
+  leads,
+  missing_required_fields,
+  zh_ge_4,
+  en_ge_4,
+  complete,
+}));
+'''
+
+    try:
+        proc = subprocess.run(
+            ["node", "-e", node_script, target_date],
+            check=False,
+            capture_output=True,
+            text=True,
+            timeout=20,
+        )
+        if proc.returncode == 0 and proc.stdout.strip():
+            result["validation"] = json.loads(proc.stdout.strip())
+        else:
+            stderr = (proc.stderr or proc.stdout or "").strip()
+            result["validation_error"] = stderr[:500]
+    except Exception as exc:  # noqa: BLE001
+        result["validation_error"] = f"node_validation_error: {type(exc).__name__}: {exc}"
+
+    return result
+
+
+def inspect_live_site(target_date: str, timeout: int) -> dict:
+    month = target_date[:7]
+    urls = {
+        "index": "https://www.jsva.uk/data-index.js",
+        "month": f"https://www.jsva.uk/data-{month}.js",
+    }
+    out = {}
+    for key, url in urls.items():
+        entry = {"url": url, "reachable": False, "has_date": False, "error": None}
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                text = resp.read().decode("utf-8", "ignore")
+            entry["reachable"] = True
+            entry["has_date"] = target_date in text
+        except Exception as exc:  # noqa: BLE001
+            entry["error"] = f"{type(exc).__name__}: {exc}"
+        out[key] = entry
+    return out
+
+
 def main() -> int:
     args = parse_args()
     today = now_taipei().date().isoformat()
@@ -248,6 +380,8 @@ def main() -> int:
         "counts": counts,
         "error_count": len(report["errors"]),
         "categories_below_five": [k for k, v in counts.items() if v < 5],
+        "local_repo": inspect_local_repo(target_date),
+        "live_site": inspect_live_site(target_date, timeout=min(args.timeout, 20)),
     }
     print(json.dumps(summary, ensure_ascii=False))
     return 0
