@@ -21,6 +21,9 @@ window.DAILY_NEWS = {
   // Metadata only — no stories array here.
   // Stories are fetched on-demand from data-YYYY-MM.js files.
   editions: [
+    { date: "2026-06-24", color: "navy",
+      theme:   { en: "Chokepoints, Chips and Strategic Repricing", zh: "瓶頸、晶片與策略重估" },
+      summary: { en: "From Hormuz navigation and rail tariffs to AI capital, rare-earth controls and cyber risk, today's edition tracks how governments and markets are repricing resilience across trade, technology and infrastructure.", zh: "從荷莫茲通航、鐵路費率，到 AI 資本、稀土管制與網路風險，今日版面聚焦政府與市場如何在貿易、科技與基礎設施之間重新衡量韌性。" } },
     { date: "2026-06-23", color: "navy",
       theme:   { en: "Risk Corridors and Strategic Resets", zh: "風險通道與策略重整" },
       summary: { en: "From Iran diplomacy and AI capital flows to Hormuz shipping, cyber breaches and rail pricing, today's edition tracks how governments and markets are resetting strategy around fragile global systems.", zh: "從伊朗外交、AI 資本流向到荷莫茲航運、網路攻擊與鐵路定價，今日版面聚焦政府與市場如何圍繞脆弱的全球系統重新調整策略。" } },

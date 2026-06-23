@@ -5,6 +5,1509 @@
 (function () {
   window.DAILY_NEWS_STORIES = window.DAILY_NEWS_STORIES || {};
 
+  window.DAILY_NEWS_STORIES["2026-06-24"] = [
+      {
+            "id": "int-can-pakistan-s-peacekeeping-role-in-iran-war-give-it-an",
+            "category": "international",
+            "image": "meeting",
+            "lead": true,
+            "author": "Maya Chen",
+            "read": 4,
+            "title": {
+                  "en": "Can Pakistan's peacekeeping role in Iran war give it an economic dividend?",
+                  "zh": "巴基斯坦在伊朗戰事中的維和角色，能否帶來經濟紅利？"
+            },
+            "dek": {
+                  "en": "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? highlights how international alignment are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "巴基斯坦在伊朗戰事中的維和角色，能否帶來經濟紅利？凸顯國際局勢正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，巴基斯坦在伊朗戰事中的維和角色，能否帶來經濟紅利？。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷國際局勢的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為國際局勢的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Can Pakistan's peacekeeping role in Iran war give it an economic dividend?. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about international alignment, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in international alignment rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "int-russia-says-us-hasn-t-followed-through-on-trump-putin-un",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Maya Chen",
+            "read": 5,
+            "title": {
+                  "en": "Russia says US hasn't followed through on Trump-Putin 'understandings'",
+                  "zh": "俄羅斯稱美國未落實川普與蒲亭之間的「共識」"
+            },
+            "dek": {
+                  "en": "Russia says US hasn't followed through on Trump-Putin 'understandings' highlights how international alignment are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "俄羅斯稱美國未落實川普與蒲亭之間的「共識」凸顯國際局勢正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，俄羅斯稱美國未落實川普與蒲亭之間的「共識」。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷國際局勢的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為國際局勢的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Russia says US hasn't followed through on Trump-Putin 'understandings'. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about international alignment, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in international alignment rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "int-new-lebanon-israel-talks-begin-in-shadow-of-us-iran-deal",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Maya Chen",
+            "read": 6,
+            "title": {
+                  "en": "New Lebanon-Israel talks begin in shadow of US-Iran deal",
+                  "zh": "在美伊協議陰影下，黎巴嫩與以色列展開新一輪談判"
+            },
+            "dek": {
+                  "en": "New Lebanon-Israel talks begin in shadow of US-Iran deal highlights how international alignment are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "在美伊協議陰影下，黎巴嫩與以色列展開新一輪談判凸顯國際局勢正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，在美伊協議陰影下，黎巴嫩與以色列展開新一輪談判。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷國際局勢的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為國際局勢的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that New Lebanon-Israel talks begin in shadow of US-Iran deal. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about international alignment, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in international alignment rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "int-rubio-heads-to-uae-kuwait-bahrain-to-discuss-iran-deal-w",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Maya Chen",
+            "read": 4,
+            "title": {
+                  "en": "Rubio heads to UAE, Kuwait, Bahrain to discuss Iran deal with Gulf allies",
+                  "zh": "魯比歐前往阿聯、科威特與巴林，與海灣盟友磋商伊朗協議"
+            },
+            "dek": {
+                  "en": "Rubio heads to UAE, Kuwait, Bahrain to discuss Iran deal with Gulf allies highlights how international alignment are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "魯比歐前往阿聯、科威特與巴林，與海灣盟友磋商伊朗協議凸顯國際局勢正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，魯比歐前往阿聯、科威特與巴林，與海灣盟友磋商伊朗協議。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷國際局勢的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為國際局勢的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Rubio heads to UAE, Kuwait, Bahrain to discuss Iran deal with Gulf allies. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about international alignment, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in international alignment rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "int-north-korea-s-kim-says-country-will-exercise-its-positio",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Maya Chen",
+            "read": 5,
+            "title": {
+                  "en": "North Korea's Kim says country will exercise its position as nuclear state, KCNA reports",
+                  "zh": "朝中社稱金正恩表示北韓將行使其核武國家地位"
+            },
+            "dek": {
+                  "en": "North Korea's Kim says country will exercise its position as nuclear state, KCNA reports highlights how international alignment are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "朝中社稱金正恩表示北韓將行使其核武國家地位凸顯國際局勢正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，朝中社稱金正恩表示北韓將行使其核武國家地位。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷國際局勢的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為國際局勢的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that North Korea's Kim says country will exercise its position as nuclear state, KCNA reports. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about international alignment, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in international alignment rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "tec-netherlands-to-join-us-led-pax-silica-ai-initiative-desp",
+            "category": "technology",
+            "image": "technology",
+            "lead": true,
+            "author": "Iris Park",
+            "read": 4,
+            "title": {
+                  "en": "Netherlands to join US-led Pax Silica AI initiative despite ASML dispute",
+                  "zh": "荷蘭將加入美國主導的 Pax Silica AI 倡議，儘管與 ASML 仍有爭議"
+            },
+            "dek": {
+                  "en": "Netherlands to join US-led Pax Silica AI initiative despite ASML dispute highlights how technology competition are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "荷蘭將加入美國主導的 Pax Silica AI 倡議，儘管與 ASML 仍有爭議凸顯科技競爭正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，荷蘭將加入美國主導的 Pax Silica AI 倡議，儘管與 ASML 仍有爭議。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷科技競爭的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為科技競爭的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Netherlands to join US-led Pax Silica AI initiative despite ASML dispute. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about technology competition, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in technology competition rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "tec-standard-chartered-overweights-asia-ex-japan-favours-tai",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Iris Park",
+            "read": 5,
+            "title": {
+                  "en": "Standard Chartered 'overweights' Asia ex-Japan; favours Taiwan, China on AI, earnings",
+                  "zh": "渣打上調除日本外亞洲市場評級，因 AI 與獲利前景偏好台灣與中國"
+            },
+            "dek": {
+                  "en": "Standard Chartered 'overweights' Asia ex-Japan; favours Taiwan, China on AI, earnings highlights how technology competition are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "渣打上調除日本外亞洲市場評級，因 AI 與獲利前景偏好台灣與中國凸顯科技競爭正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，渣打上調除日本外亞洲市場評級，因 AI 與獲利前景偏好台灣與中國。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷科技競爭的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為科技競爭的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Standard Chartered 'overweights' Asia ex-Japan; favours Taiwan, China on AI, earnings. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about technology competition, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in technology competition rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "tec-sk-hynix-overtakes-samsung-to-become-south-korea-s-most",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Iris Park",
+            "read": 6,
+            "title": {
+                  "en": "SK Hynix overtakes Samsung to become South Korea's most valuable company",
+                  "zh": "SK 海力士超越三星，成為南韓市值最高企業"
+            },
+            "dek": {
+                  "en": "SK Hynix overtakes Samsung to become South Korea's most valuable company highlights how technology competition are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "SK 海力士超越三星，成為南韓市值最高企業凸顯科技競爭正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，SK 海力士超越三星，成為南韓市值最高企業。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷科技競爭的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為科技競爭的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that SK Hynix overtakes Samsung to become South Korea's most valuable company. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about technology competition, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in technology competition rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "tec-octopus-inspired-robotic-arm-can-feel-grip-and-work-unde",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Iris Park",
+            "read": 4,
+            "title": {
+                  "en": "Octopus-inspired robotic arm can feel, grip and work underwater",
+                  "zh": "受章魚啟發的機器手臂可在水下感知、抓握並作業"
+            },
+            "dek": {
+                  "en": "Octopus-inspired robotic arm can feel, grip and work underwater highlights how technology competition are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "受章魚啟發的機器手臂可在水下感知、抓握並作業凸顯科技競爭正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，受章魚啟發的機器手臂可在水下感知、抓握並作業。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷科技競爭的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為科技競爭的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Octopus-inspired robotic arm can feel, grip and work underwater. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about technology competition, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in technology competition rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "tec-chipmaking-tool-firm-nearfield-instruments-raises-380-mi",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Iris Park",
+            "read": 5,
+            "title": {
+                  "en": "Chipmaking tool firm Nearfield Instruments raises $380 million at $1.6 billion valuation",
+                  "zh": "晶片設備商 Nearfield Instruments 以 16 億美元估值募得 3.8 億美元"
+            },
+            "dek": {
+                  "en": "Chipmaking tool firm Nearfield Instruments raises $380 million at $1.6 billion valuation highlights how technology competition are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "晶片設備商 Nearfield Instruments 以 16 億美元估值募得 3.8 億美元凸顯科技競爭正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，晶片設備商 Nearfield Instruments 以 16 億美元估值募得 3.8 億美元。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷科技競爭的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為科技競爭的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Chipmaking tool firm Nearfield Instruments raises $380 million at $1.6 billion valuation. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about technology competition, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in technology competition rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "spo-world-cup-turnout-defies-concerns-as-americans-flock-for",
+            "category": "sports",
+            "image": "stadium",
+            "lead": true,
+            "author": "Leo Huang",
+            "read": 4,
+            "title": {
+                  "en": "World Cup turnout defies concerns, as Americans flock for the spectacle",
+                  "zh": "世界盃觀眾人數打破疑慮，美國球迷踴躍入場"
+            },
+            "dek": {
+                  "en": "World Cup turnout defies concerns, as Americans flock for the spectacle highlights how sports business and tournament momentum are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "世界盃觀眾人數打破疑慮，美國球迷踴躍入場凸顯體育商業與賽事正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，世界盃觀眾人數打破疑慮，美國球迷踴躍入場。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷體育商業與賽事的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為體育商業與賽事的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that World Cup turnout defies concerns, as Americans flock for the spectacle. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about sports business and tournament momentum, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in sports business and tournament momentum rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "spo-trump-to-present-trophy-at-world-cup-final-says-infantin",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Leo Huang",
+            "read": 5,
+            "title": {
+                  "en": "Trump to present trophy at World Cup final, says Infantino",
+                  "zh": "因凡提諾稱，川普將在世界盃決賽頒發獎盃"
+            },
+            "dek": {
+                  "en": "Trump to present trophy at World Cup final, says Infantino highlights how sports business and tournament momentum are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "因凡提諾稱，川普將在世界盃決賽頒發獎盃凸顯體育商業與賽事正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，因凡提諾稱，川普將在世界盃決賽頒發獎盃。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷體育商業與賽事的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為體育商業與賽事的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Trump to present trophy at World Cup final, says Infantino. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about sports business and tournament momentum, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in sports business and tournament momentum rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "spo-a-whole-new-ball-game-for-the-marlins-as-scotland-fans-l",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Leo Huang",
+            "read": 6,
+            "title": {
+                  "en": "A whole new ball game for the Marlins as Scotland fans land in Miami for World Cup clash",
+                  "zh": "蘇格蘭球迷湧入邁阿密，馬林魚主場迎來截然不同的比賽氛圍"
+            },
+            "dek": {
+                  "en": "A whole new ball game for the Marlins as Scotland fans land in Miami for World Cup clash highlights how sports business and tournament momentum are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "蘇格蘭球迷湧入邁阿密，馬林魚主場迎來截然不同的比賽氛圍凸顯體育商業與賽事正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，蘇格蘭球迷湧入邁阿密，馬林魚主場迎來截然不同的比賽氛圍。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷體育商業與賽事的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為體育商業與賽事的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that A whole new ball game for the Marlins as Scotland fans land in Miami for World Cup clash. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about sports business and tournament momentum, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in sports business and tournament momentum rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "spo-milestone-messi-sends-argentina-to-world-cup-knockout-st",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Leo Huang",
+            "read": 4,
+            "title": {
+                  "en": "Milestone Messi sends Argentina to World Cup knockout stage",
+                  "zh": "里程碑之戰的梅西帶領阿根廷晉級世界盃淘汰賽"
+            },
+            "dek": {
+                  "en": "Milestone Messi sends Argentina to World Cup knockout stage highlights how sports business and tournament momentum are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "里程碑之戰的梅西帶領阿根廷晉級世界盃淘汰賽凸顯體育商業與賽事正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，里程碑之戰的梅西帶領阿根廷晉級世界盃淘汰賽。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷體育商業與賽事的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為體育商業與賽事的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Milestone Messi sends Argentina to World Cup knockout stage. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about sports business and tournament momentum, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in sports business and tournament momentum rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "spo-christian-pulisic-practices-on-track-for-usmnt-group-sta",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Leo Huang",
+            "read": 5,
+            "title": {
+                  "en": "Christian Pulisic practices, on track for USMNT group stage finale",
+                  "zh": "普利西奇恢復訓練，有望出戰美國隊小組賽最終戰"
+            },
+            "dek": {
+                  "en": "Christian Pulisic practices, on track for USMNT group stage finale highlights how sports business and tournament momentum are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "普利西奇恢復訓練，有望出戰美國隊小組賽最終戰凸顯體育商業與賽事正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，普利西奇恢復訓練，有望出戰美國隊小組賽最終戰。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷體育商業與賽事的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為體育商業與賽事的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Christian Pulisic practices, on track for USMNT group stage finale. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about sports business and tournament momentum, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in sports business and tournament momentum rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "shi-evacuation-plan-through-hormuz-for-stranded-ships-in-gul",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 4,
+            "title": {
+                  "en": "Evacuation plan through Hormuz for stranded ships in Gulf underway, UN agency says",
+                  "zh": "聯合國機構稱，協助波灣受困船舶經荷莫茲撤離的計畫正在進行"
+            },
+            "dek": {
+                  "en": "Evacuation plan through Hormuz for stranded ships in Gulf underway, UN agency says highlights how shipping risk management are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "聯合國機構稱，協助波灣受困船舶經荷莫茲撤離的計畫正在進行凸顯航運風險正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，聯合國機構稱，協助波灣受困船舶經荷莫茲撤離的計畫正在進行。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷航運風險的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為航運風險的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Evacuation plan through Hormuz for stranded ships in Gulf underway, UN agency says. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about shipping risk management, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in shipping risk management rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "shi-more-vessels-transit-hormuz-qatar-linked-lng-tankers-ret",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "More vessels transit Hormuz, Qatar-linked LNG tankers return, data show",
+                  "zh": "數據顯示更多船隻恢復通過荷莫茲，與卡達相關的 LNG 油輪也重返航線"
+            },
+            "dek": {
+                  "en": "More vessels transit Hormuz, Qatar-linked LNG tankers return, data show highlights how shipping risk management are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "數據顯示更多船隻恢復通過荷莫茲，與卡達相關的 LNG 油輪也重返航線凸顯航運風險正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，數據顯示更多船隻恢復通過荷莫茲，與卡達相關的 LNG 油輪也重返航線。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷航運風險的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為航運風險的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that More vessels transit Hormuz, Qatar-linked LNG tankers return, data show. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about shipping risk management, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in shipping risk management rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "shi-phillips-66-ceo-says-hormuz-supply-disruptions-may-linge",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 6,
+            "title": {
+                  "en": "Phillips 66 CEO says Hormuz supply disruptions may linger amid shipping uncertainty",
+                  "zh": "Phillips 66 執行長稱，在航運不確定性下荷莫茲供應中斷恐持續"
+            },
+            "dek": {
+                  "en": "Phillips 66 CEO says Hormuz supply disruptions may linger amid shipping uncertainty highlights how shipping risk management are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "Phillips 66 執行長稱，在航運不確定性下荷莫茲供應中斷恐持續凸顯航運風險正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，Phillips 66 執行長稱，在航運不確定性下荷莫茲供應中斷恐持續。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷航運風險的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為航運風險的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Phillips 66 CEO says Hormuz supply disruptions may linger amid shipping uncertainty. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about shipping risk management, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in shipping risk management rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "shi-oman-and-iran-to-pursue-talks-on-managing-navigation-in",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 4,
+            "title": {
+                  "en": "Oman and Iran to pursue talks on managing navigation in Strait of Hormuz",
+                  "zh": "阿曼與伊朗將推進談判，以管理荷莫茲海峽通航"
+            },
+            "dek": {
+                  "en": "Oman and Iran to pursue talks on managing navigation in Strait of Hormuz highlights how shipping risk management are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "阿曼與伊朗將推進談判，以管理荷莫茲海峽通航凸顯航運風險正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，阿曼與伊朗將推進談判，以管理荷莫茲海峽通航。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷航運風險的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為航運風險的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Oman and Iran to pursue talks on managing navigation in Strait of Hormuz. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about shipping risk management, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in shipping risk management rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "shi-tanker-traffic-through-hormuz-picks-up-after-slower-flow",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 5,
+            "title": {
+                  "en": "Tanker traffic through Hormuz picks up after slower flows due to crossing concerns",
+                  "zh": "在過境疑慮導致流量放緩後，荷莫茲油輪通行量回升"
+            },
+            "dek": {
+                  "en": "Tanker traffic through Hormuz picks up after slower flows due to crossing concerns highlights how shipping risk management are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "在過境疑慮導致流量放緩後，荷莫茲油輪通行量回升凸顯航運風險正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，在過境疑慮導致流量放緩後，荷莫茲油輪通行量回升。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷航運風險的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為航運風險的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Tanker traffic through Hormuz picks up after slower flows due to crossing concerns. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about shipping risk management, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in shipping risk management rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "sup-us-announces-17-5-billion-in-loans-for-nuclear-power-sup",
+            "category": "supply-chain",
+            "image": "warehouse",
+            "lead": true,
+            "author": "Nina Shah",
+            "read": 4,
+            "title": {
+                  "en": "US announces $17.5 billion in loans for nuclear power supply chain",
+                  "zh": "美國宣布向核能供應鏈提供 175 億美元貸款"
+            },
+            "dek": {
+                  "en": "US announces $17.5 billion in loans for nuclear power supply chain highlights how supply-chain reordering are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "美國宣布向核能供應鏈提供 175 億美元貸款凸顯供應鏈重組正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，美國宣布向核能供應鏈提供 175 億美元貸款。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷供應鏈重組的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為供應鏈重組的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that US announces $17.5 billion in loans for nuclear power supply chain. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about supply-chain reordering, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in supply-chain reordering rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "sup-china-s-supply-chain-expo-kicks-off-in-beijing-with-debu",
+            "category": "supply-chain",
+            "image": "warehouse",
+            "lead": false,
+            "author": "Nina Shah",
+            "read": 5,
+            "title": {
+                  "en": "China's supply chain expo kicks off in Beijing with debut AI zone",
+                  "zh": "中國供應鏈博覽會在北京開幕，首設 AI 專區"
+            },
+            "dek": {
+                  "en": "China's supply chain expo kicks off in Beijing with debut AI zone highlights how supply-chain reordering are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "中國供應鏈博覽會在北京開幕，首設 AI 專區凸顯供應鏈重組正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，中國供應鏈博覽會在北京開幕，首設 AI 專區。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷供應鏈重組的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為供應鏈重組的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that China's supply chain expo kicks off in Beijing with debut AI zone. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about supply-chain reordering, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in supply-chain reordering rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "sup-us-cost-sharing-thrusts-next-gen-nuclear-into-constructi",
+            "category": "supply-chain",
+            "image": "warehouse",
+            "lead": false,
+            "author": "Nina Shah",
+            "read": 6,
+            "title": {
+                  "en": "US cost-sharing thrusts next-gen nuclear into construction phase",
+                  "zh": "美國分擔成本機制推動次世代核能進入建設階段"
+            },
+            "dek": {
+                  "en": "US cost-sharing thrusts next-gen nuclear into construction phase highlights how supply-chain reordering are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "美國分擔成本機制推動次世代核能進入建設階段凸顯供應鏈重組正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，美國分擔成本機制推動次世代核能進入建設階段。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷供應鏈重組的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為供應鏈重組的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that US cost-sharing thrusts next-gen nuclear into construction phase. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about supply-chain reordering, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in supply-chain reordering rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "sup-china-closing-in-but-us-leads-in-biotech-quality-commerc",
+            "category": "supply-chain",
+            "image": "warehouse",
+            "lead": false,
+            "author": "Nina Shah",
+            "read": 4,
+            "title": {
+                  "en": "China closing in but US leads in biotech quality, commercial reach, survey finds",
+                  "zh": "調查顯示，中國正快速追趕，但美國仍在生技品質與商業化能力上領先"
+            },
+            "dek": {
+                  "en": "China closing in but US leads in biotech quality, commercial reach, survey finds highlights how supply-chain reordering are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "調查顯示，中國正快速追趕，但美國仍在生技品質與商業化能力上領先凸顯供應鏈重組正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，調查顯示，中國正快速追趕，但美國仍在生技品質與商業化能力上領先。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷供應鏈重組的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為供應鏈重組的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that China closing in but US leads in biotech quality, commercial reach, survey finds. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about supply-chain reordering, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in supply-chain reordering rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "sup-canada-s-unifor-union-begins-detroit-three-negotiations",
+            "category": "supply-chain",
+            "image": "warehouse",
+            "lead": false,
+            "author": "Nina Shah",
+            "read": 5,
+            "title": {
+                  "en": "Canada's Unifor union begins Detroit Three negotiations with Ford",
+                  "zh": "加拿大 Unifor 工會啟動與福特的三大車廠談判"
+            },
+            "dek": {
+                  "en": "Canada's Unifor union begins Detroit Three negotiations with Ford highlights how supply-chain reordering are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "加拿大 Unifor 工會啟動與福特的三大車廠談判凸顯供應鏈重組正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，加拿大 Unifor 工會啟動與福特的三大車廠談判。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷供應鏈重組的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為供應鏈重組的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Canada's Unifor union begins Detroit Three negotiations with Ford. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about supply-chain reordering, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in supply-chain reordering rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "eco-china-s-rare-earths-curbs-extend-pressure-on-supply-to-j",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": true,
+            "author": "Priya Raman",
+            "read": 4,
+            "title": {
+                  "en": "China's rare earths curbs extend pressure on supply to Japan",
+                  "zh": "中國稀土管制持續加大對日本供應壓力"
+            },
+            "dek": {
+                  "en": "China's rare earths curbs extend pressure on supply to Japan highlights how market pricing and macro signals are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "中國稀土管制持續加大對日本供應壓力凸顯經濟與市場正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，中國稀土管制持續加大對日本供應壓力。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷經濟與市場的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為經濟與市場的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that China's rare earths curbs extend pressure on supply to Japan. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about market pricing and macro signals, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in market pricing and macro signals rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "eco-can-pakistan-s-peacekeeping-role-in-iran-war-give-it-an",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Priya Raman",
+            "read": 5,
+            "title": {
+                  "en": "Can Pakistan's peacekeeping role in Iran war give it an economic dividend?",
+                  "zh": "巴基斯坦在伊朗戰事中的維和角色，能否帶來經濟紅利？"
+            },
+            "dek": {
+                  "en": "Can Pakistan's peacekeeping role in Iran war give it an economic dividend? highlights how market pricing and macro signals are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "巴基斯坦在伊朗戰事中的維和角色，能否帶來經濟紅利？凸顯經濟與市場正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，巴基斯坦在伊朗戰事中的維和角色，能否帶來經濟紅利？。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷經濟與市場的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為經濟與市場的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Can Pakistan's peacekeeping role in Iran war give it an economic dividend?. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about market pricing and macro signals, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in market pricing and macro signals rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "eco-mark-zuckerberg-directed-meta-to-create-a-prediction-mar",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Priya Raman",
+            "read": 6,
+            "title": {
+                  "en": "Mark Zuckerberg directed Meta to create a prediction markets app, NYT reports",
+                  "zh": "紐時稱祖克柏要求 Meta 開發預測市場應用程式"
+            },
+            "dek": {
+                  "en": "Mark Zuckerberg directed Meta to create a prediction markets app, NYT reports highlights how market pricing and macro signals are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "紐時稱祖克柏要求 Meta 開發預測市場應用程式凸顯經濟與市場正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，紐時稱祖克柏要求 Meta 開發預測市場應用程式。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷經濟與市場的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為經濟與市場的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Mark Zuckerberg directed Meta to create a prediction markets app, NYT reports. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about market pricing and macro signals, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in market pricing and macro signals rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "eco-wall-street-ends-lower-on-semiconductor-selloff-as-ai-sp",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Priya Raman",
+            "read": 4,
+            "title": {
+                  "en": "Wall Street ends lower on semiconductor selloff as AI spending concerns mount",
+                  "zh": "AI 支出疑慮升高、半導體遭拋售，華爾街收低"
+            },
+            "dek": {
+                  "en": "Wall Street ends lower on semiconductor selloff as AI spending concerns mount highlights how market pricing and macro signals are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "AI 支出疑慮升高、半導體遭拋售，華爾街收低凸顯經濟與市場正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，AI 支出疑慮升高、半導體遭拋售，華爾街收低。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷經濟與市場的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為經濟與市場的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Wall Street ends lower on semiconductor selloff as AI spending concerns mount. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about market pricing and macro signals, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in market pricing and macro signals rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "eco-south-korea-s-kospi-plunges-nearly-10-after-regulator-ca",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Priya Raman",
+            "read": 5,
+            "title": {
+                  "en": "South Korea's KOSPI plunges nearly 10% after regulator cautions on leveraged ETFs",
+                  "zh": "監管機關警示槓桿 ETF 後，南韓 KOSPI 暴跌近一成"
+            },
+            "dek": {
+                  "en": "South Korea's KOSPI plunges nearly 10% after regulator cautions on leveraged ETFs highlights how market pricing and macro signals are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "監管機關警示槓桿 ETF 後，南韓 KOSPI 暴跌近一成凸顯經濟與市場正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，監管機關警示槓桿 ETF 後，南韓 KOSPI 暴跌近一成。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷經濟與市場的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為經濟與市場的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that South Korea's KOSPI plunges nearly 10% after regulator cautions on leveraged ETFs. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about market pricing and macro signals, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in market pricing and macro signals rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "ene-bangladesh-says-300-billion-climate-finance-goal-falls-s",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": true,
+            "author": "Amara Okafor",
+            "read": 4,
+            "title": {
+                  "en": "Bangladesh says $300 billion climate finance goal falls short, calls for more support",
+                  "zh": "孟加拉表示 3,000 億美元氣候融資目標仍不足，呼籲更多支持"
+            },
+            "dek": {
+                  "en": "Bangladesh says $300 billion climate finance goal falls short, calls for more support highlights how energy security and climate transition are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "孟加拉表示 3,000 億美元氣候融資目標仍不足，呼籲更多支持凸顯能源與氣候正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，孟加拉表示 3,000 億美元氣候融資目標仍不足，呼籲更多支持。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷能源與氣候的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為能源與氣候的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Bangladesh says $300 billion climate finance goal falls short, calls for more support. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about energy security and climate transition, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in energy security and climate transition rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "ene-energy-fuels-to-buy-germany-s-vac-as-rare-earths-magnet",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Amara Okafor",
+            "read": 5,
+            "title": {
+                  "en": "Energy Fuels to buy Germany's VAC as rare earths magnet race heats up",
+                  "zh": "稀土磁材競賽升溫，Energy Fuels 將收購德國 VAC"
+            },
+            "dek": {
+                  "en": "Energy Fuels to buy Germany's VAC as rare earths magnet race heats up highlights how energy security and climate transition are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "稀土磁材競賽升溫，Energy Fuels 將收購德國 VAC凸顯能源與氣候正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，稀土磁材競賽升溫，Energy Fuels 將收購德國 VAC。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷能源與氣候的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為能源與氣候的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Energy Fuels to buy Germany's VAC as rare earths magnet race heats up. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about energy security and climate transition, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in energy security and climate transition rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "ene-more-vessels-transit-hormuz-qatar-linked-lng-tankers-ret",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Amara Okafor",
+            "read": 6,
+            "title": {
+                  "en": "More vessels transit Hormuz, Qatar-linked LNG tankers return, data show",
+                  "zh": "數據顯示更多船隻恢復通過荷莫茲，與卡達相關的 LNG 油輪也重返航線"
+            },
+            "dek": {
+                  "en": "More vessels transit Hormuz, Qatar-linked LNG tankers return, data show highlights how energy security and climate transition are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "數據顯示更多船隻恢復通過荷莫茲，與卡達相關的 LNG 油輪也重返航線凸顯能源與氣候正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，數據顯示更多船隻恢復通過荷莫茲，與卡達相關的 LNG 油輪也重返航線。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷能源與氣候的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為能源與氣候的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that More vessels transit Hormuz, Qatar-linked LNG tankers return, data show. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about energy security and climate transition, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in energy security and climate transition rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "ene-un-chief-calls-on-ai-firms-to-come-clean-on-environmenta",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Amara Okafor",
+            "read": 4,
+            "title": {
+                  "en": "UN chief calls on AI firms to come clean on environmental costs",
+                  "zh": "聯合國秘書長呼籲 AI 企業如實揭露環境成本"
+            },
+            "dek": {
+                  "en": "UN chief calls on AI firms to come clean on environmental costs highlights how energy security and climate transition are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "聯合國秘書長呼籲 AI 企業如實揭露環境成本凸顯能源與氣候正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，聯合國秘書長呼籲 AI 企業如實揭露環境成本。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷能源與氣候的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為能源與氣候的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that UN chief calls on AI firms to come clean on environmental costs. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about energy security and climate transition, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in energy security and climate transition rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "ene-constellation-energy-to-supply-nuclear-power-to-walmart",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Amara Okafor",
+            "read": 5,
+            "title": {
+                  "en": "Constellation Energy to supply nuclear power to Walmart facility under 15-year deal",
+                  "zh": "Constellation Energy 與沃爾瑪簽 15 年協議，供應核能電力"
+            },
+            "dek": {
+                  "en": "Constellation Energy to supply nuclear power to Walmart facility under 15-year deal highlights how energy security and climate transition are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "Constellation Energy 與沃爾瑪簽 15 年協議，供應核能電力凸顯能源與氣候正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，Constellation Energy 與沃爾瑪簽 15 年協議，供應核能電力。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷能源與氣候的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為能源與氣候的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Constellation Energy to supply nuclear power to Walmart facility under 15-year deal. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about energy security and climate transition, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in energy security and climate transition rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "pol-brazil-antitrust-agency-approves-subsea7-saipem-merger-w",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": true,
+            "author": "Leila Haddad",
+            "read": 4,
+            "title": {
+                  "en": "Brazil antitrust agency approves Subsea7-Saipem merger without restrictions",
+                  "zh": "巴西反壟斷機關無條件批准 Subsea7 與 Saipem 合併"
+            },
+            "dek": {
+                  "en": "Brazil antitrust agency approves Subsea7-Saipem merger without restrictions highlights how policy enforcement and rule-setting are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "巴西反壟斷機關無條件批准 Subsea7 與 Saipem 合併凸顯政策與法規正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，巴西反壟斷機關無條件批准 Subsea7 與 Saipem 合併。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷政策與法規的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為政策與法規的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Brazil antitrust agency approves Subsea7-Saipem merger without restrictions. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about policy enforcement and rule-setting, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in policy enforcement and rule-setting rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "pol-deutsche-boerse-seeks-approval-under-eu-subsidies-rules",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Leila Haddad",
+            "read": 5,
+            "title": {
+                  "en": "Deutsche Boerse seeks approval under EU subsidies rules for Allfunds deal",
+                  "zh": "德意志交易所就 Allfunds 交易尋求歐盟補貼規則批准"
+            },
+            "dek": {
+                  "en": "Deutsche Boerse seeks approval under EU subsidies rules for Allfunds deal highlights how policy enforcement and rule-setting are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "德意志交易所就 Allfunds 交易尋求歐盟補貼規則批准凸顯政策與法規正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，德意志交易所就 Allfunds 交易尋求歐盟補貼規則批准。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷政策與法規的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為政策與法規的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Deutsche Boerse seeks approval under EU subsidies rules for Allfunds deal. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about policy enforcement and rule-setting, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in policy enforcement and rule-setting rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "pol-government-contractors-beware-doj-antitrust-division-dou",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Leila Haddad",
+            "read": 6,
+            "title": {
+                  "en": "Government contractors beware — DOJ Antitrust Division doubles down on procurement bid rigging",
+                  "zh": "政府承包商須留意：美國司法部反壟斷部門加強打擊採購圍標"
+            },
+            "dek": {
+                  "en": "Government contractors beware — DOJ Antitrust Division doubles down on procurement bid rigging highlights how policy enforcement and rule-setting are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "政府承包商須留意：美國司法部反壟斷部門加強打擊採購圍標凸顯政策與法規正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，政府承包商須留意：美國司法部反壟斷部門加強打擊採購圍標。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷政策與法規的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為政策與法規的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Government contractors beware — DOJ Antitrust Division doubles down on procurement bid rigging. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about policy enforcement and rule-setting, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in policy enforcement and rule-setting rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "pol-uk-government-plans-new-rules-to-tackle-illegal-deforest",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Leila Haddad",
+            "read": 4,
+            "title": {
+                  "en": "UK government plans new rules to tackle illegal deforestation",
+                  "zh": "英國政府擬訂新規打擊非法毀林"
+            },
+            "dek": {
+                  "en": "UK government plans new rules to tackle illegal deforestation highlights how policy enforcement and rule-setting are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "英國政府擬訂新規打擊非法毀林凸顯政策與法規正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，英國政府擬訂新規打擊非法毀林。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷政策與法規的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為政策與法規的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that UK government plans new rules to tackle illegal deforestation. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about policy enforcement and rule-setting, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in policy enforcement and rule-setting rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "pol-swiss-finance-minister-underlines-need-for-strong-ubs-ca",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Leila Haddad",
+            "read": 5,
+            "title": {
+                  "en": "Swiss finance minister underlines need for strong UBS capital rules",
+                  "zh": "瑞士財長強調，UBS 必須適用更強健的資本規則"
+            },
+            "dek": {
+                  "en": "Swiss finance minister underlines need for strong UBS capital rules highlights how policy enforcement and rule-setting are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "瑞士財長強調，UBS 必須適用更強健的資本規則凸顯政策與法規正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，瑞士財長強調，UBS 必須適用更強健的資本規則。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷政策與法規的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為政策與法規的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Swiss finance minister underlines need for strong UBS capital rules. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about policy enforcement and rule-setting, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in policy enforcement and rule-setting rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-india-s-tata-electronics-hit-by-cyber-breach-claiming-to",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": true,
+            "author": "Ethan Lin",
+            "read": 4,
+            "title": {
+                  "en": "India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets",
+                  "zh": "印度塔塔電子遭遇資安外洩，聲稱揭露蘋果與特斯拉商業機密"
+            },
+            "dek": {
+                  "en": "India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets highlights how digital security and state response are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "印度塔塔電子遭遇資安外洩，聲稱揭露蘋果與特斯拉商業機密凸顯網路安全正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，印度塔塔電子遭遇資安外洩，聲稱揭露蘋果與特斯拉商業機密。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷網路安全的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為網路安全的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that India's Tata Electronics hit by cyber breach claiming to expose Apple, Tesla trade secrets. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about digital security and state response, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in digital security and state response rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-five-eyes-intelligence-alliance-warns-that-new-ai-models",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Ethan Lin",
+            "read": 5,
+            "title": {
+                  "en": "'Five Eyes' intelligence alliance warns that new AI models pose urgent cyber risk",
+                  "zh": "「五眼聯盟」警告，新一代 AI 模型帶來迫切網路安全風險"
+            },
+            "dek": {
+                  "en": "'Five Eyes' intelligence alliance warns that new AI models pose urgent cyber risk highlights how digital security and state response are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "「五眼聯盟」警告，新一代 AI 模型帶來迫切網路安全風險凸顯網路安全正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，「五眼聯盟」警告，新一代 AI 模型帶來迫切網路安全風險。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷網路安全的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為網路安全的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that 'Five Eyes' intelligence alliance warns that new AI models pose urgent cyber risk. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about digital security and state response, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in digital security and state response rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-ibm-partners-with-openai-on-enterprise-security-ai",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Ethan Lin",
+            "read": 6,
+            "title": {
+                  "en": "IBM partners with OpenAI on enterprise security AI",
+                  "zh": "IBM 與 OpenAI 合作發展企業資安 AI"
+            },
+            "dek": {
+                  "en": "IBM partners with OpenAI on enterprise security AI highlights how digital security and state response are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "IBM 與 OpenAI 合作發展企業資安 AI凸顯網路安全正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，IBM 與 OpenAI 合作發展企業資安 AI。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷網路安全的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為網路安全的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that IBM partners with OpenAI on enterprise security AI. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about digital security and state response, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in digital security and state response rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-iran-says-card-based-banking-hit-by-cyberattack-on-three",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Ethan Lin",
+            "read": 4,
+            "title": {
+                  "en": "Iran says card-based banking hit by cyberattack on three lenders",
+                  "zh": "伊朗稱三家放款機構遭網攻，刷卡銀行系統受影響"
+            },
+            "dek": {
+                  "en": "Iran says card-based banking hit by cyberattack on three lenders highlights how digital security and state response are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "伊朗稱三家放款機構遭網攻，刷卡銀行系統受影響凸顯網路安全正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，伊朗稱三家放款機構遭網攻，刷卡銀行系統受影響。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷網路安全的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為網路安全的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Iran says card-based banking hit by cyberattack on three lenders. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about digital security and state response, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in digital security and state response rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "cyb-trump-signs-orders-calling-for-powerful-quantum-computer",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Ethan Lin",
+            "read": 5,
+            "title": {
+                  "en": "Trump signs orders calling for powerful quantum computer, targeting 2028",
+                  "zh": "川普簽署命令推動高效量子電腦，目標 2028 年完成"
+            },
+            "dek": {
+                  "en": "Trump signs orders calling for powerful quantum computer, targeting 2028 highlights how digital security and state response are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "川普簽署命令推動高效量子電腦，目標 2028 年完成凸顯網路安全正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，川普簽署命令推動高效量子電腦，目標 2028 年完成。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷網路安全的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為網路安全的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Trump signs orders calling for powerful quantum computer, targeting 2028. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about digital security and state response, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in digital security and state response rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "log-ukraine-rail-tariff-rise-may-lift-farm-costs-and-shift-c",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": true,
+            "author": "Sofia Reyes",
+            "read": 4,
+            "title": {
+                  "en": "Ukraine rail tariff rise may lift farm costs and shift cargo to road, lobby says",
+                  "zh": "遊說團體稱，烏克蘭調升鐵路費率恐推高農業成本並使貨運轉向公路"
+            },
+            "dek": {
+                  "en": "Ukraine rail tariff rise may lift farm costs and shift cargo to road, lobby says highlights how transport infrastructure and cargo corridors are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "遊說團體稱，烏克蘭調升鐵路費率恐推高農業成本並使貨運轉向公路凸顯物流與基礎建設正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，遊說團體稱，烏克蘭調升鐵路費率恐推高農業成本並使貨運轉向公路。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷物流與基礎建設的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為物流與基礎建設的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Ukraine rail tariff rise may lift farm costs and shift cargo to road, lobby says. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about transport infrastructure and cargo corridors, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in transport infrastructure and cargo corridors rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "log-ukraine-s-economy-ministry-proposes-30-increase-in-rail",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Sofia Reyes",
+            "read": 5,
+            "title": {
+                  "en": "Ukraine's economy ministry proposes 30% increase in rail freight tariffs",
+                  "zh": "烏克蘭經濟部提議將鐵路貨運費率提高 30%"
+            },
+            "dek": {
+                  "en": "Ukraine's economy ministry proposes 30% increase in rail freight tariffs highlights how transport infrastructure and cargo corridors are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "烏克蘭經濟部提議將鐵路貨運費率提高 30%凸顯物流與基礎建設正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，烏克蘭經濟部提議將鐵路貨運費率提高 30%。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷物流與基礎建設的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為物流與基礎建設的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Ukraine's economy ministry proposes 30% increase in rail freight tariffs. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about transport infrastructure and cargo corridors, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in transport infrastructure and cargo corridors rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "log-south-africa-s-exxaro-working-to-transport-more-manganes",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Sofia Reyes",
+            "read": 6,
+            "title": {
+                  "en": "South Africa's Exxaro working to transport more manganese by cheaper rail",
+                  "zh": "南非 Exxaro 正推動以更低成本的鐵路運輸更多錳礦"
+            },
+            "dek": {
+                  "en": "South Africa's Exxaro working to transport more manganese by cheaper rail highlights how transport infrastructure and cargo corridors are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "南非 Exxaro 正推動以更低成本的鐵路運輸更多錳礦凸顯物流與基礎建設正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，南非 Exxaro 正推動以更低成本的鐵路運輸更多錳礦。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷物流與基礎建設的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為物流與基礎建設的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that South Africa's Exxaro working to transport more manganese by cheaper rail. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about transport infrastructure and cargo corridors, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in transport infrastructure and cargo corridors rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "log-russian-strikes-injure-six-in-ukraine-as-fuel-crisis-dee",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Sofia Reyes",
+            "read": 4,
+            "title": {
+                  "en": "Russian strikes injure six in Ukraine as fuel crisis deepens into Siberia",
+                  "zh": "俄軍攻擊造成烏克蘭六人受傷，燃料危機進一步蔓延至西伯利亞"
+            },
+            "dek": {
+                  "en": "Russian strikes injure six in Ukraine as fuel crisis deepens into Siberia highlights how transport infrastructure and cargo corridors are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "俄軍攻擊造成烏克蘭六人受傷，燃料危機進一步蔓延至西伯利亞凸顯物流與基礎建設正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，俄軍攻擊造成烏克蘭六人受傷，燃料危機進一步蔓延至西伯利亞。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷物流與基礎建設的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為物流與基礎建設的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Russian strikes injure six in Ukraine as fuel crisis deepens into Siberia. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about transport infrastructure and cargo corridors, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in transport infrastructure and cargo corridors rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      },
+      {
+            "id": "log-thailand-revives-30-billion-coast-to-coast-corridor-to-r",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Sofia Reyes",
+            "read": 5,
+            "title": {
+                  "en": "Thailand revives $30 billion coast-to-coast corridor to rival Malacca Strait",
+                  "zh": "泰國重啟 300 億美元兩洋走廊計畫，挑戰麻六甲海峽地位"
+            },
+            "dek": {
+                  "en": "Thailand revives $30 billion coast-to-coast corridor to rival Malacca Strait highlights how transport infrastructure and cargo corridors are influencing decisions by governments, companies and investors as they reassess risk, capacity and cross-border coordination.",
+                  "zh": "泰國重啟 300 億美元兩洋走廊計畫，挑戰麻六甲海峽地位凸顯物流與基礎建設正在如何影響政府、企業與投資人對風險、產能與跨境協調的判斷。"
+            },
+            "body": {
+                  "zh": [
+                        "路透報導，泰國重啟 300 億美元兩洋走廊計畫，挑戰麻六甲海峽地位。對編輯而言，這則標題的重要性在於，它把快速變動的事件轉化為更清楚的訊號，讓人更容易判斷物流與基礎建設的壓力正在哪些環節升高。",
+                        "這則消息也值得關注，因為物流與基礎建設的變化通常不會只停留在單一機構或單一邊境內。官方立場、企業策略或運輸條件只要出現變動，就可能迅速影響系統其他部分的定價、投資時點與備援規劃。",
+                        "對企業與公共部門而言，真正的問題是要多快做出回應。有些讀者會先觀察合約、貨物流向或資本配置等直接效果，另一些人則會留意法規、融資條件與競爭位置等間接後果。",
+                        "下一步要看的，是後續行動是否會確認這個最初訊號。若之後的政策、交易或營運安排與標題方向一致，這則新聞可能代表更大轉變的開端；即使沒有完全延續，它仍能幫助讀者理解決策者、市場與營運者如何界定當前局勢。"
+                  ],
+                  "en": [
+                        "Reuters reported that Thailand revives $30 billion coast-to-coast corridor to rival Malacca Strait. For editors, the value of the headline is that it converts a fast-moving update into a clearer signal about transport infrastructure and cargo corridors, making it easier to judge where operational or political pressure is building.",
+                        "The story also matters because developments in transport infrastructure and cargo corridors rarely stay confined to one institution or one border. A change in official posture, corporate strategy or transport conditions can quickly influence pricing, investment timing and contingency planning elsewhere in the system.",
+                        "For companies and public agencies, the practical question is how quickly to respond. Some readers will focus on direct effects such as contracts, cargo flows or capital allocation, while others will watch for indirect consequences in regulation, financing conditions and competitive positioning.",
+                        "The next test is whether follow-through confirms the initial signal. If subsequent actions align with the headline, the item may mark the start of a broader shift; if not, it still offers a useful read on how policymakers, markets and operators are framing the current moment."
+                  ]
+            }
+      }
+];
+
   window.DAILY_NEWS_STORIES["2026-06-23"] = [
       {
             "id": "int-rubio-heads-to-uae-kuwait-bahrain-to-discuss-iran-deal-w",
