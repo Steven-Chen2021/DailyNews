@@ -21,6 +21,9 @@ window.DAILY_NEWS = {
   // Metadata only — no stories array here.
   // Stories are fetched on-demand from data-YYYY-MM.js files.
   editions: [
+    { date: "2026-06-25", color: "navy",
+      theme:   { en: "Reopened Straits, Racing Chips, Harder Rules", zh: "海峽重開、晶片競速與更嚴的規則" },
+      summary: { en: "From Hormuz shipping and rail outages to AI capacity, climate stress, cyber warnings and tighter rules, today's edition follows how markets and governments are rebuilding confidence while repricing risk across global systems.", zh: "從荷莫茲航運與鐵路停擺，到 AI 產能、氣候壓力、資安警訊與更嚴監管，今日版面聚焦政府與市場如何在全球系統中一邊重建信心、一邊重新定價風險。" } },
     { date: "2026-06-24", color: "navy",
       theme:   { en: "Chokepoints, Chips and Strategic Repricing", zh: "瓶頸、晶片與策略重估" },
       summary: { en: "From Hormuz navigation and rail tariffs to AI capital, rare-earth controls and cyber risk, today's edition tracks how governments and markets are repricing resilience across trade, technology and infrastructure.", zh: "從荷莫茲通航、鐵路費率，到 AI 資本、稀土管制與網路風險，今日版面聚焦政府與市場如何在貿易、科技與基礎設施之間重新衡量韌性。" } },
