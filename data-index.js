@@ -21,6 +21,9 @@ window.DAILY_NEWS = {
   // Metadata only — no stories array here.
   // Stories are fetched on-demand from data-YYYY-MM.js files.
   editions: [
+    { date: "2026-06-26", color: "navy",
+      theme:   { en: "Ports, Technology and the New Geography of Global Commerce", zh: "港口、科技與全球商業版圖的重新配置" },
+      summary: { en: "From reopened shipping corridors and AI expansion to market risk, climate pressure and infrastructure strain, today's edition follows how governments and companies are redrawing the operating map of global commerce.", zh: "從重新開放的航運通道、AI 擴張，到市場風險、氣候壓力與基礎設施承壓，今日版面聚焦政府與企業如何重新劃定全球商業運作的版圖。" } },
     { date: "2026-06-25", color: "navy",
       theme:   { en: "Reopened Straits, Racing Chips, Harder Rules", zh: "海峽重開、晶片競速與更嚴的規則" },
       summary: { en: "From Hormuz shipping and rail outages to AI capacity, climate stress, cyber warnings and tighter rules, today's edition follows how markets and governments are rebuilding confidence while repricing risk across global systems.", zh: "從荷莫茲航運與鐵路停擺，到 AI 產能、氣候壓力、資安警訊與更嚴監管，今日版面聚焦政府與市場如何在全球系統中一邊重建信心、一邊重新定價風險。" } },

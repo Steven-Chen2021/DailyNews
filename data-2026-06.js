@@ -5,6 +5,1509 @@
 (function () {
   window.DAILY_NEWS_STORIES = window.DAILY_NEWS_STORIES || {};
 
+  window.DAILY_NEWS_STORIES["2026-06-26"] = [
+      {
+            "id": "int-apple-raises-prices-of-macbooks-ipads-as-memory-costs-skyrocket",
+            "category": "international",
+            "image": "meeting",
+            "lead": true,
+            "author": "Maya Chen",
+            "read": 4,
+            "title": {
+                  "en": "Apple raises prices of MacBooks, iPads as memory costs skyrocket",
+                  "zh": "由於記憶體成本飆升，蘋果提高了 MacBook 和 iPad 的價格"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about diplomatic alignment, security coordination and the credibility of cross-border commitments, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關外交對齊、安全協調與跨境承諾的可信度的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈由於記憶體成本飆升，蘋果提高了 MacBook 和 iPad 的價格〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見外交對齊、安全協調與跨境承諾的可信度如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就國際新聞而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，這些政治表述能否轉化為具體任務、時程或法律步驟。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Apple raises prices of MacBooks, iPads as memory costs skyrocket', and the value of the item is bigger than the immediate update itself. It offers a timely read on diplomatic alignment, security coordination and the credibility of cross-border commitments, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In International, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether the political language becomes a concrete mission, timetable or legal step."
+                  ]
+            }
+      },
+      {
+            "id": "int-malaysias-foreign-minister-says-new-myanmar-leadership-more-open-to-suggestions",
+            "category": "international",
+            "image": "policy",
+            "lead": false,
+            "author": "Maya Chen",
+            "read": 4,
+            "title": {
+                  "en": "Malaysia's foreign minister says new Myanmar leadership 'more open' to suggestions",
+                  "zh": "馬來西亞外交部長表示緬甸新領導層對建議“更加開放”"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about diplomatic alignment, security coordination and the credibility of cross-border commitments, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關外交對齊、安全協調與跨境承諾的可信度的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈馬來西亞外交部長表示緬甸新領導層對建議“更加開放”〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見外交對齊、安全協調與跨境承諾的可信度如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就國際新聞而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，這些政治表述能否轉化為具體任務、時程或法律步驟。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Malaysia's foreign minister says new Myanmar leadership 'more open' to suggestions', and the value of the item is bigger than the immediate update itself. It offers a timely read on diplomatic alignment, security coordination and the credibility of cross-border commitments, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In International, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether the political language becomes a concrete mission, timetable or legal step."
+                  ]
+            }
+      },
+      {
+            "id": "int-us-iran-at-odds-on-nuclear-inspections-frozen-assets-in-deal-to-end-war",
+            "category": "international",
+            "image": "city",
+            "lead": false,
+            "author": "Maya Chen",
+            "read": 5,
+            "title": {
+                  "en": "US, Iran at odds on nuclear inspections, frozen assets in deal to end war",
+                  "zh": "美國和伊朗在核檢查和結束戰爭協議中凍結資產方面存在分歧"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about diplomatic alignment, security coordination and the credibility of cross-border commitments, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關外交對齊、安全協調與跨境承諾的可信度的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈美國和伊朗在核檢查和結束戰爭協議中凍結資產方面存在分歧〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見外交對齊、安全協調與跨境承諾的可信度如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就國際新聞而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，這些政治表述能否轉化為具體任務、時程或法律步驟。"
+                  ],
+                  "en": [
+                        "Reuters reported 'US, Iran at odds on nuclear inspections, frozen assets in deal to end war', and the value of the item is bigger than the immediate update itself. It offers a timely read on diplomatic alignment, security coordination and the credibility of cross-border commitments, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In International, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether the political language becomes a concrete mission, timetable or legal step."
+                  ]
+            }
+      },
+      {
+            "id": "int-erdogan-says-bilateral-talks-with-trump-likely-at-nato-summit-in-turkey",
+            "category": "international",
+            "image": "meeting",
+            "lead": false,
+            "author": "Maya Chen",
+            "read": 4,
+            "title": {
+                  "en": "Erdogan says bilateral talks with Trump likely at NATO summit in Turkey",
+                  "zh": "艾爾段稱，與川普的雙邊會談可望在土耳其北約峰會登場"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about diplomatic alignment, security coordination and the credibility of cross-border commitments, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關外交對齊、安全協調與跨境承諾的可信度的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈艾爾段稱，與川普的雙邊會談可望在土耳其北約峰會登場〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見外交對齊、安全協調與跨境承諾的可信度如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就國際新聞而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，這些政治表述能否轉化為具體任務、時程或法律步驟。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Erdogan says bilateral talks with Trump likely at NATO summit in Turkey', and the value of the item is bigger than the immediate update itself. It offers a timely read on diplomatic alignment, security coordination and the credibility of cross-border commitments, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In International, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether the political language becomes a concrete mission, timetable or legal step."
+                  ]
+            }
+      },
+      {
+            "id": "int-global-chip-stocks-jump-as-blowout-micron-results-reignite-ai-rally",
+            "category": "international",
+            "image": "policy",
+            "lead": false,
+            "author": "Maya Chen",
+            "read": 4,
+            "title": {
+                  "en": "Global chip stocks jump as blowout Micron results reignite AI rally",
+                  "zh": "隨著美光績效的井噴重燃AI漲勢，全球晶片股上漲"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about diplomatic alignment, security coordination and the credibility of cross-border commitments, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關外交對齊、安全協調與跨境承諾的可信度的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈隨著美光績效的井噴重燃AI漲勢，全球晶片股上漲〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見外交對齊、安全協調與跨境承諾的可信度如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就國際新聞而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，這些政治表述能否轉化為具體任務、時程或法律步驟。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Global chip stocks jump as blowout Micron results reignite AI rally', and the value of the item is bigger than the immediate update itself. It offers a timely read on diplomatic alignment, security coordination and the credibility of cross-border commitments, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In International, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether the political language becomes a concrete mission, timetable or legal step."
+                  ]
+            }
+      },
+      {
+            "id": "tech-taiwans-ase-says-it-is-expanding-capacity-to-support-ai-demand",
+            "category": "technology",
+            "image": "technology",
+            "lead": true,
+            "author": "Iris Park",
+            "read": 4,
+            "title": {
+                  "en": "Taiwan's ASE says it is expanding capacity to support AI demand",
+                  "zh": "日月光表示正擴充產能，以支援 AI 需求"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about AI capacity, semiconductor positioning and the race to secure the next hardware advantage, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關 AI 產能、半導體佈局與下一波硬體優勢競逐的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈日月光表示正擴充產能，以支援 AI 需求〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見AI 產能、半導體佈局與下一波硬體優勢競逐如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就科技而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，這些宣布是否會變成已下單的需求、產能利用率提升或新的投資計畫。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Taiwan's ASE says it is expanding capacity to support AI demand', and the value of the item is bigger than the immediate update itself. It offers a timely read on AI capacity, semiconductor positioning and the race to secure the next hardware advantage, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Technology, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether announcements turn into booked orders, utilization gains or new investment plans."
+                  ]
+            }
+      },
+      {
+            "id": "tech-heavy-rains-from-nearby-typhoon-flood-southern-taiwan",
+            "category": "technology",
+            "image": "market",
+            "lead": false,
+            "author": "Iris Park",
+            "read": 4,
+            "title": {
+                  "en": "Heavy rains from nearby typhoon flood southern Taiwan",
+                  "zh": "鄰近颱風帶來暴雨淹沒臺灣南部"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about AI capacity, semiconductor positioning and the race to secure the next hardware advantage, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關 AI 產能、半導體佈局與下一波硬體優勢競逐的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈鄰近颱風帶來暴雨淹沒臺灣南部〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見AI 產能、半導體佈局與下一波硬體優勢競逐如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就科技而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，這些宣布是否會變成已下單的需求、產能利用率提升或新的投資計畫。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Heavy rains from nearby typhoon flood southern Taiwan', and the value of the item is bigger than the immediate update itself. It offers a timely read on AI capacity, semiconductor positioning and the race to secure the next hardware advantage, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Technology, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether announcements turn into booked orders, utilization gains or new investment plans."
+                  ]
+            }
+      },
+      {
+            "id": "tech-how-sk-hynixs-bet-on-a-niche-memory-chip-made-it-more-valuable-than-samsung",
+            "category": "technology",
+            "image": "technology",
+            "lead": false,
+            "author": "Iris Park",
+            "read": 5,
+            "title": {
+                  "en": "How SK Hynix's bet on a niche memory chip made it more valuable than Samsung",
+                  "zh": "SK 海力士押注利基記憶體晶片，如何讓市值超越三星"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about AI capacity, semiconductor positioning and the race to secure the next hardware advantage, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關 AI 產能、半導體佈局與下一波硬體優勢競逐的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈SK 海力士押注利基記憶體晶片，如何讓市值超越三星〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見AI 產能、半導體佈局與下一波硬體優勢競逐如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就科技而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，這些宣布是否會變成已下單的需求、產能利用率提升或新的投資計畫。"
+                  ],
+                  "en": [
+                        "Reuters reported 'How SK Hynix's bet on a niche memory chip made it more valuable than Samsung', and the value of the item is bigger than the immediate update itself. It offers a timely read on AI capacity, semiconductor positioning and the race to secure the next hardware advantage, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Technology, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether announcements turn into booked orders, utilization gains or new investment plans."
+                  ]
+            }
+      },
+      {
+            "id": "tech-nvidias-banned-ai-chips-double-in-price-on-chinas-black-market-ft-reports",
+            "category": "technology",
+            "image": "data",
+            "lead": false,
+            "author": "Iris Park",
+            "read": 5,
+            "title": {
+                  "en": "Nvidia's banned AI chips double in price on China's black market, FT reports",
+                  "zh": "根據英國《金融時報》報道，英偉達被禁的AI晶片在中國黑市的價格翻了一番"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about AI capacity, semiconductor positioning and the race to secure the next hardware advantage, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關 AI 產能、半導體佈局與下一波硬體優勢競逐的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈根據英國《金融時報》報道，英偉達被禁的AI晶片在中國黑市的價格翻了一番〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見AI 產能、半導體佈局與下一波硬體優勢競逐如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就科技而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，這些宣布是否會變成已下單的需求、產能利用率提升或新的投資計畫。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Nvidia's banned AI chips double in price on China's black market, FT reports', and the value of the item is bigger than the immediate update itself. It offers a timely read on AI capacity, semiconductor positioning and the race to secure the next hardware advantage, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Technology, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether announcements turn into booked orders, utilization gains or new investment plans."
+                  ]
+            }
+      },
+      {
+            "id": "tech-sk-hynix-targets-29-billion-us-listing-as-ai-demand-surges",
+            "category": "technology",
+            "image": "data",
+            "lead": false,
+            "author": "Iris Park",
+            "read": 4,
+            "title": {
+                  "en": "SK Hynix targets $29 billion US listing as AI demand surges",
+                  "zh": "隨 AI 需求飆升，SK 海力士瞄準 290 億美元美國上市案"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about AI capacity, semiconductor positioning and the race to secure the next hardware advantage, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關 AI 產能、半導體佈局與下一波硬體優勢競逐的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈隨 AI 需求飆升，SK 海力士瞄準 290 億美元美國上市案〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見AI 產能、半導體佈局與下一波硬體優勢競逐如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就科技而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，這些宣布是否會變成已下單的需求、產能利用率提升或新的投資計畫。"
+                  ],
+                  "en": [
+                        "Reuters reported 'SK Hynix targets $29 billion US listing as AI demand surges', and the value of the item is bigger than the immediate update itself. It offers a timely read on AI capacity, semiconductor positioning and the race to secure the next hardware advantage, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Technology, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether announcements turn into booked orders, utilization gains or new investment plans."
+                  ]
+            }
+      },
+      {
+            "id": "sports-bumper-world-cup-tipped-to-smash-betting-records",
+            "category": "sports",
+            "image": "stadium",
+            "lead": true,
+            "author": "Leo Huang",
+            "read": 4,
+            "title": {
+                  "en": "Bumper World Cup tipped to smash betting records",
+                  "zh": "豐收世界盃預計將打破投注記錄"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about performance, tournament presentation and the way major events shape public attention, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關競技表現、賽事呈現與大型活動如何塑造公眾關注的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈豐收世界盃預計將打破投注記錄〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見競技表現、賽事呈現與大型活動如何塑造公眾關注如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就體育而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，這股動能是否會延伸到實際成績、觀眾成長，或圍繞賽事出現新的商業承諾。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Bumper World Cup tipped to smash betting records', and the value of the item is bigger than the immediate update itself. It offers a timely read on performance, tournament presentation and the way major events shape public attention, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Sports, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether the momentum carries into results, audience growth or new commercial commitments around the event."
+                  ]
+            }
+      },
+      {
+            "id": "sports-norway-steer-steady-grassroots-course-to-world-cup-success",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Leo Huang",
+            "read": 4,
+            "title": {
+                  "en": "Norway steer steady grassroots course to World Cup success",
+                  "zh": "挪威穩步推動草根路線走向世界盃成功"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about performance, tournament presentation and the way major events shape public attention, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關競技表現、賽事呈現與大型活動如何塑造公眾關注的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈挪威穩步推動草根路線走向世界盃成功〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見競技表現、賽事呈現與大型活動如何塑造公眾關注如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就體育而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，這股動能是否會延伸到實際成績、觀眾成長，或圍繞賽事出現新的商業承諾。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Norway steer steady grassroots course to World Cup success', and the value of the item is bigger than the immediate update itself. It offers a timely read on performance, tournament presentation and the way major events shape public attention, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Sports, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether the momentum carries into results, audience growth or new commercial commitments around the event."
+                  ]
+            }
+      },
+      {
+            "id": "sports-fifa-gives-green-light-for-rainbow-flags-at-egypt-v-iran-world-cup-clash",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Leo Huang",
+            "read": 5,
+            "title": {
+                  "en": "FIFA gives green light for rainbow flags at Egypt v Iran World Cup clash",
+                  "zh": "國際足總為埃及對伊朗世界盃比賽彩虹旗開綠燈"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about performance, tournament presentation and the way major events shape public attention, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關競技表現、賽事呈現與大型活動如何塑造公眾關注的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈國際足總為埃及對伊朗世界盃比賽彩虹旗開綠燈〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見競技表現、賽事呈現與大型活動如何塑造公眾關注如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就體育而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，這股動能是否會延伸到實際成績、觀眾成長，或圍繞賽事出現新的商業承諾。"
+                  ],
+                  "en": [
+                        "Reuters reported 'FIFA gives green light for rainbow flags at Egypt v Iran World Cup clash', and the value of the item is bigger than the immediate update itself. It offers a timely read on performance, tournament presentation and the way major events shape public attention, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Sports, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether the momentum carries into results, audience growth or new commercial commitments around the event."
+                  ]
+            }
+      },
+      {
+            "id": "sports-ivory-coast-make-changes-curacao-keep-same-lineup",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Leo Huang",
+            "read": 4,
+            "title": {
+                  "en": "Ivory Coast make changes, Curacao keep same lineup",
+                  "zh": "科特迪瓦做出調整，庫拉索保持陣容不變"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about performance, tournament presentation and the way major events shape public attention, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關競技表現、賽事呈現與大型活動如何塑造公眾關注的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈科特迪瓦做出調整，庫拉索保持陣容不變〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見競技表現、賽事呈現與大型活動如何塑造公眾關注如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就體育而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，這股動能是否會延伸到實際成績、觀眾成長，或圍繞賽事出現新的商業承諾。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Ivory Coast make changes, Curacao keep same lineup', and the value of the item is bigger than the immediate update itself. It offers a timely read on performance, tournament presentation and the way major events shape public attention, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Sports, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether the momentum carries into results, audience growth or new commercial commitments around the event."
+                  ]
+            }
+      },
+      {
+            "id": "sports-itf-becomes-world-tennis-outlines-vision-to-grow-participation",
+            "category": "sports",
+            "image": "stadium",
+            "lead": false,
+            "author": "Leo Huang",
+            "read": 4,
+            "title": {
+                  "en": "ITF becomes World Tennis, outlines vision to grow participation",
+                  "zh": "ITF 更名為世界網球協會，概述了提高參與度的願景"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about performance, tournament presentation and the way major events shape public attention, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關競技表現、賽事呈現與大型活動如何塑造公眾關注的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈ITF 更名為世界網球協會，概述了提高參與度的願景〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見競技表現、賽事呈現與大型活動如何塑造公眾關注如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就體育而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，這股動能是否會延伸到實際成績、觀眾成長，或圍繞賽事出現新的商業承諾。"
+                  ],
+                  "en": [
+                        "Reuters reported 'ITF becomes World Tennis, outlines vision to grow participation', and the value of the item is bigger than the immediate update itself. It offers a timely read on performance, tournament presentation and the way major events shape public attention, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Sports, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether the momentum carries into results, audience growth or new commercial commitments around the event."
+                  ]
+            }
+      },
+      {
+            "id": "ship-crude-shipments-through-hormuz-at-highest-since-iran-war-began",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": true,
+            "author": "Daniel Ko",
+            "read": 4,
+            "title": {
+                  "en": "Crude shipments through Hormuz at highest since Iran war began",
+                  "zh": "霍爾木茲原油運輸量創伊朗戰爭爆發以來最高"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about route security, insurance confidence and the cost of keeping goods moving through chokepoints, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關航線安全、保險信心與維持貨物流經瓶頸通道的成本的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈霍爾木茲原油運輸量創伊朗戰爭爆發以來最高〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見航線安全、保險信心與維持貨物流經瓶頸通道的成本如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就航運而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，保險商、航商與港口營運方是否會因此調整班表、費率或航線假設。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Crude shipments through Hormuz at highest since Iran war began', and the value of the item is bigger than the immediate update itself. It offers a timely read on route security, insurance confidence and the cost of keeping goods moving through chokepoints, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Shipping, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether insurers, carriers and port operators adjust schedules, rates or routing assumptions in response."
+                  ]
+            }
+      },
+      {
+            "id": "ship-un-agency-says-it-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked",
+            "category": "shipping",
+            "image": "containers",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 4,
+            "title": {
+                  "en": "UN agency says it pauses Hormuz ship evacuation initiative after vessel attacked",
+                  "zh": "聯合國機構表示，在船隻遭到襲擊後，暫停了霍爾木茲船隻疏散計劃"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about route security, insurance confidence and the cost of keeping goods moving through chokepoints, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關航線安全、保險信心與維持貨物流經瓶頸通道的成本的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈聯合國機構表示，在船隻遭到襲擊後，暫停了霍爾木茲船隻疏散計劃〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見航線安全、保險信心與維持貨物流經瓶頸通道的成本如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就航運而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，保險商、航商與港口營運方是否會因此調整班表、費率或航線假設。"
+                  ],
+                  "en": [
+                        "Reuters reported 'UN agency says it pauses Hormuz ship evacuation initiative after vessel attacked', and the value of the item is bigger than the immediate update itself. It offers a timely read on route security, insurance confidence and the cost of keeping goods moving through chokepoints, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Shipping, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether insurers, carriers and port operators adjust schedules, rates or routing assumptions in response."
+                  ]
+            }
+      },
+      {
+            "id": "ship-un-pauses-hormuz-evacuation-plan-after-ship-reports-attack",
+            "category": "shipping",
+            "image": "meeting",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 4,
+            "title": {
+                  "en": "UN pauses Hormuz evacuation plan after ship reports attack",
+                  "zh": "船舶報告遭到襲擊後聯合國暫停霍爾木茲撤離計劃"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about route security, insurance confidence and the cost of keeping goods moving through chokepoints, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關航線安全、保險信心與維持貨物流經瓶頸通道的成本的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈船舶報告遭到襲擊後聯合國暫停霍爾木茲撤離計劃〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見航線安全、保險信心與維持貨物流經瓶頸通道的成本如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就航運而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，保險商、航商與港口營運方是否會因此調整班表、費率或航線假設。"
+                  ],
+                  "en": [
+                        "Reuters reported 'UN pauses Hormuz evacuation plan after ship reports attack', and the value of the item is bigger than the immediate update itself. It offers a timely read on route security, insurance confidence and the cost of keeping goods moving through chokepoints, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Shipping, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether insurers, carriers and port operators adjust schedules, rates or routing assumptions in response."
+                  ]
+            }
+      },
+      {
+            "id": "ship-iran-fired-on-cargo-ship-us-officials-tell-reuters",
+            "category": "shipping",
+            "image": "shipping",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 4,
+            "title": {
+                  "en": "Iran fired on cargo ship, US officials tell Reuters",
+                  "zh": "美國官員告訴路透社，伊朗向貨船開火"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about route security, insurance confidence and the cost of keeping goods moving through chokepoints, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關航線安全、保險信心與維持貨物流經瓶頸通道的成本的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈美國官員告訴路透社，伊朗向貨船開火〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見航線安全、保險信心與維持貨物流經瓶頸通道的成本如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就航運而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，保險商、航商與港口營運方是否會因此調整班表、費率或航線假設。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Iran fired on cargo ship, US officials tell Reuters', and the value of the item is bigger than the immediate update itself. It offers a timely read on route security, insurance confidence and the cost of keeping goods moving through chokepoints, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Shipping, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether insurers, carriers and port operators adjust schedules, rates or routing assumptions in response."
+                  ]
+            }
+      },
+      {
+            "id": "ship-france-seizes-shadow-fleet-tanker-stepping-up-pressure-on-russia",
+            "category": "shipping",
+            "image": "containers",
+            "lead": false,
+            "author": "Daniel Ko",
+            "read": 4,
+            "title": {
+                  "en": "France seizes 'shadow fleet' tanker, stepping up pressure on Russia",
+                  "zh": "法國扣押「影子艦隊」油輪，加大對俄羅斯施壓"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about route security, insurance confidence and the cost of keeping goods moving through chokepoints, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關航線安全、保險信心與維持貨物流經瓶頸通道的成本的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈法國扣押「影子艦隊」油輪，加大對俄羅斯施壓〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見航線安全、保險信心與維持貨物流經瓶頸通道的成本如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就航運而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，保險商、航商與港口營運方是否會因此調整班表、費率或航線假設。"
+                  ],
+                  "en": [
+                        "Reuters reported 'France seizes 'shadow fleet' tanker, stepping up pressure on Russia', and the value of the item is bigger than the immediate update itself. It offers a timely read on route security, insurance confidence and the cost of keeping goods moving through chokepoints, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Shipping, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether insurers, carriers and port operators adjust schedules, rates or routing assumptions in response."
+                  ]
+            }
+      },
+      {
+            "id": "supply-eu-joins-u-s-led-pax-silica-on-securing-ai-chip-supply-chains",
+            "category": "supply-chain",
+            "image": "warehouse",
+            "lead": true,
+            "author": "Nina Shah",
+            "read": 4,
+            "title": {
+                  "en": "EU joins U.S.-led 'Pax Silica' on securing AI, chip supply chains",
+                  "zh": "歐盟加入美國主導的「Pax Silica」以確保AI、晶片供應鏈安全"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about resilience planning, localization choices and the pressure to redesign sourcing networks, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關韌性規劃、在地化選擇與重設採購網路的壓力的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈歐盟加入美國主導的「Pax Silica」以確保AI、晶片供應鏈安全〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見韌性規劃、在地化選擇與重設採購網路的壓力如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就供應鏈而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，採購團隊、製造商與運輸商是否會開始調整供應來源版圖或緩衝策略。"
+                  ],
+                  "en": [
+                        "Reuters reported 'EU joins U.S.-led 'Pax Silica' on securing AI, chip supply chains', and the value of the item is bigger than the immediate update itself. It offers a timely read on resilience planning, localization choices and the pressure to redesign sourcing networks, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Supply Chain, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether procurement teams, manufacturers and shippers start changing sourcing maps or buffer strategies."
+                  ]
+            }
+      },
+      {
+            "id": "supply-us-core-capital-goods-orders-rebound-sharply-in-may",
+            "category": "supply-chain",
+            "image": "factory",
+            "lead": false,
+            "author": "Nina Shah",
+            "read": 4,
+            "title": {
+                  "en": "US core capital goods orders rebound sharply in May",
+                  "zh": "5月美國核心資本貨單大幅反彈"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about resilience planning, localization choices and the pressure to redesign sourcing networks, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關韌性規劃、在地化選擇與重設採購網路的壓力的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈5月美國核心資本貨單大幅反彈〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見韌性規劃、在地化選擇與重設採購網路的壓力如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就供應鏈而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，採購團隊、製造商與運輸商是否會開始調整供應來源版圖或緩衝策略。"
+                  ],
+                  "en": [
+                        "Reuters reported 'US core capital goods orders rebound sharply in May', and the value of the item is bigger than the immediate update itself. It offers a timely read on resilience planning, localization choices and the pressure to redesign sourcing networks, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Supply Chain, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether procurement teams, manufacturers and shippers start changing sourcing maps or buffer strategies."
+                  ]
+            }
+      },
+      {
+            "id": "supply-us-cranks-up-pressure-on-china-evs-with-polestar-ban",
+            "category": "supply-chain",
+            "image": "energy",
+            "lead": false,
+            "author": "Nina Shah",
+            "read": 4,
+            "title": {
+                  "en": "US cranks up pressure on China EVs with Polestar ban",
+                  "zh": "美國透過 Polestar 禁令加大對中國電動車的壓力"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about resilience planning, localization choices and the pressure to redesign sourcing networks, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關韌性規劃、在地化選擇與重設採購網路的壓力的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈美國透過 Polestar 禁令加大對中國電動車的壓力〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見韌性規劃、在地化選擇與重設採購網路的壓力如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就供應鏈而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，採購團隊、製造商與運輸商是否會開始調整供應來源版圖或緩衝策略。"
+                  ],
+                  "en": [
+                        "Reuters reported 'US cranks up pressure on China EVs with Polestar ban', and the value of the item is bigger than the immediate update itself. It offers a timely read on resilience planning, localization choices and the pressure to redesign sourcing networks, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Supply Chain, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether procurement teams, manufacturers and shippers start changing sourcing maps or buffer strategies."
+                  ]
+            }
+      },
+      {
+            "id": "supply-the-week-in-unusual-pictures",
+            "category": "supply-chain",
+            "image": "warehouse",
+            "lead": false,
+            "author": "Nina Shah",
+            "read": 4,
+            "title": {
+                  "en": "The week in unusual pictures",
+                  "zh": "不尋常圖片中的一週"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about resilience planning, localization choices and the pressure to redesign sourcing networks, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關韌性規劃、在地化選擇與重設採購網路的壓力的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈不尋常圖片中的一週〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見韌性規劃、在地化選擇與重設採購網路的壓力如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就供應鏈而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，採購團隊、製造商與運輸商是否會開始調整供應來源版圖或緩衝策略。"
+                  ],
+                  "en": [
+                        "Reuters reported 'The week in unusual pictures', and the value of the item is bigger than the immediate update itself. It offers a timely read on resilience planning, localization choices and the pressure to redesign sourcing networks, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Supply Chain, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether procurement teams, manufacturers and shippers start changing sourcing maps or buffer strategies."
+                  ]
+            }
+      },
+      {
+            "id": "supply-maersk-says-two-of-its-vessels-exited-gulf-safely",
+            "category": "supply-chain",
+            "image": "factory",
+            "lead": false,
+            "author": "Nina Shah",
+            "read": 4,
+            "title": {
+                  "en": "Maersk says two of its vessels exited Gulf safely",
+                  "zh": "馬士基稱其兩艘船已安全離開海灣"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about resilience planning, localization choices and the pressure to redesign sourcing networks, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關韌性規劃、在地化選擇與重設採購網路的壓力的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈馬士基稱其兩艘船已安全離開海灣〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見韌性規劃、在地化選擇與重設採購網路的壓力如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就供應鏈而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，採購團隊、製造商與運輸商是否會開始調整供應來源版圖或緩衝策略。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Maersk says two of its vessels exited Gulf safely', and the value of the item is bigger than the immediate update itself. It offers a timely read on resilience planning, localization choices and the pressure to redesign sourcing networks, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Supply Chain, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether procurement teams, manufacturers and shippers start changing sourcing maps or buffer strategies."
+                  ]
+            }
+      },
+      {
+            "id": "econ-us-uk-france-germany-raise-alarm-about-chinese-patrols-off-eastern-taiwan",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": true,
+            "author": "Priya Raman",
+            "read": 4,
+            "title": {
+                  "en": "US, UK, France, Germany raise alarm about Chinese patrols off eastern Taiwan",
+                  "zh": "美國、英國、法國、德國對中國在臺灣東部海域巡邏發出警告"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about risk pricing, capital allocation and the signals policymakers send to investors, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關風險定價、資本配置與政策制定者向投資人釋出的訊號的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈美國、英國、法國、德國對中國在臺灣東部海域巡邏發出警告〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見風險定價、資本配置與政策制定者向投資人釋出的訊號如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就經濟與市場而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，交易員與企業主管是否會因此修正財測、融資假設或產業風險溢價。"
+                  ],
+                  "en": [
+                        "Reuters reported 'US, UK, France, Germany raise alarm about Chinese patrols off eastern Taiwan', and the value of the item is bigger than the immediate update itself. It offers a timely read on risk pricing, capital allocation and the signals policymakers send to investors, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Economy & Markets, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether traders and executives revise guidance, financing assumptions or risk premiums around the sector."
+                  ]
+            }
+      },
+      {
+            "id": "econ-how-schools-in-europe-are-beating-the-heat-amidst-record-temperatures",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Priya Raman",
+            "read": 4,
+            "title": {
+                  "en": "How schools in Europe are beating the heat amidst record temperatures",
+                  "zh": "歐洲學校如何在創紀錄的高溫下避暑"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about risk pricing, capital allocation and the signals policymakers send to investors, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關風險定價、資本配置與政策制定者向投資人釋出的訊號的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈歐洲學校如何在創紀錄的高溫下避暑〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見風險定價、資本配置與政策制定者向投資人釋出的訊號如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就經濟與市場而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，交易員與企業主管是否會因此修正財測、融資假設或產業風險溢價。"
+                  ],
+                  "en": [
+                        "Reuters reported 'How schools in Europe are beating the heat amidst record temperatures', and the value of the item is bigger than the immediate update itself. It offers a timely read on risk pricing, capital allocation and the signals policymakers send to investors, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Economy & Markets, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether traders and executives revise guidance, financing assumptions or risk premiums around the sector."
+                  ]
+            }
+      },
+      {
+            "id": "econ-bessent-says-us-supply-chains-must-be-able-to-withstand-shocks-coercion",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Priya Raman",
+            "read": 4,
+            "title": {
+                  "en": "Bessent says US supply chains must be able to withstand shocks, coercion",
+                  "zh": "貝森特表示，美國供應鏈必須能承受衝擊與脅迫"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about risk pricing, capital allocation and the signals policymakers send to investors, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關風險定價、資本配置與政策制定者向投資人釋出的訊號的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈貝森特表示，美國供應鏈必須能承受衝擊與脅迫〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見風險定價、資本配置與政策制定者向投資人釋出的訊號如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就經濟與市場而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，交易員與企業主管是否會因此修正財測、融資假設或產業風險溢價。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Bessent says US supply chains must be able to withstand shocks, coercion', and the value of the item is bigger than the immediate update itself. It offers a timely read on risk pricing, capital allocation and the signals policymakers send to investors, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Economy & Markets, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether traders and executives revise guidance, financing assumptions or risk premiums around the sector."
+                  ]
+            }
+      },
+      {
+            "id": "econ-imf-sees-solid-momentum-in-us-economy-says-fed-right-to-hold-interest-rate-stead",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Priya Raman",
+            "read": 5,
+            "title": {
+                  "en": "IMF sees solid momentum in US economy; says Fed right to hold interest rate steady",
+                  "zh": "國際貨幣基金組織認為美國經濟動能強勁；表示聯準會有權維持利率穩定"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about risk pricing, capital allocation and the signals policymakers send to investors, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關風險定價、資本配置與政策制定者向投資人釋出的訊號的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈國際貨幣基金組織認為美國經濟動能強勁；表示聯準會有權維持利率穩定〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見風險定價、資本配置與政策制定者向投資人釋出的訊號如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就經濟與市場而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，交易員與企業主管是否會因此修正財測、融資假設或產業風險溢價。"
+                  ],
+                  "en": [
+                        "Reuters reported 'IMF sees solid momentum in US economy; says Fed right to hold interest rate steady', and the value of the item is bigger than the immediate update itself. It offers a timely read on risk pricing, capital allocation and the signals policymakers send to investors, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Economy & Markets, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether traders and executives revise guidance, financing assumptions or risk premiums around the sector."
+                  ]
+            }
+      },
+      {
+            "id": "econ-micron-overtakes-meta-tesla-in-market-value-amid-relentless-ai-infrastructure-de",
+            "category": "economy-markets",
+            "image": "market",
+            "lead": false,
+            "author": "Priya Raman",
+            "read": 4,
+            "title": {
+                  "en": "Micron overtakes Meta, Tesla in market value amid relentless AI infrastructure demand",
+                  "zh": "在AI基礎設施需求不斷增長的背景下，美光科技市值超越 Meta 和特斯拉"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about risk pricing, capital allocation and the signals policymakers send to investors, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關風險定價、資本配置與政策制定者向投資人釋出的訊號的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈在AI基礎設施需求不斷增長的背景下，美光科技市值超越 Meta 和特斯拉〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見風險定價、資本配置與政策制定者向投資人釋出的訊號如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就經濟與市場而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，交易員與企業主管是否會因此修正財測、融資假設或產業風險溢價。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Micron overtakes Meta, Tesla in market value amid relentless AI infrastructure demand', and the value of the item is bigger than the immediate update itself. It offers a timely read on risk pricing, capital allocation and the signals policymakers send to investors, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Economy & Markets, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether traders and executives revise guidance, financing assumptions or risk premiums around the sector."
+                  ]
+            }
+      },
+      {
+            "id": "energy-totalenergies-must-address-climate-risks-linked-to-its-products-french-court-rul",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": true,
+            "author": "Amara Okafor",
+            "read": 4,
+            "title": {
+                  "en": "TotalEnergies must address climate risks linked to its products, French court rules",
+                  "zh": "法國法院規定 TotalEnergies 必須解決與其產品相關的氣候風險"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about energy security, climate stress and the economics of physical systems under strain, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關能源安全、氣候壓力與承壓中的實體系統經濟學的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈法國法院規定 TotalEnergies 必須解決與其產品相關的氣候風險〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見能源安全、氣候壓力與承壓中的實體系統經濟學如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就能源與氣候而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，公用事業、能源生產商與監管機構是否會推出新的避險、擴產或緊急措施。"
+                  ],
+                  "en": [
+                        "Reuters reported 'TotalEnergies must address climate risks linked to its products, French court rules', and the value of the item is bigger than the immediate update itself. It offers a timely read on energy security, climate stress and the economics of physical systems under strain, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Energy & Climate, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether utilities, producers and regulators respond with new hedges, capacity plans or emergency measures."
+                  ]
+            }
+      },
+      {
+            "id": "energy-fire-extinguished-at-monroe-energys-trainer-refinery-in-pennsylvania",
+            "category": "energy-climate",
+            "image": "city",
+            "lead": false,
+            "author": "Amara Okafor",
+            "read": 4,
+            "title": {
+                  "en": "Fire extinguished at Monroe Energy's Trainer refinery in Pennsylvania",
+                  "zh": "賓州 Monroe Energy 的 Trainer 煉油廠火災被撲滅"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about energy security, climate stress and the economics of physical systems under strain, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關能源安全、氣候壓力與承壓中的實體系統經濟學的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈賓州 Monroe Energy 的 Trainer 煉油廠火災被撲滅〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見能源安全、氣候壓力與承壓中的實體系統經濟學如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就能源與氣候而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，公用事業、能源生產商與監管機構是否會推出新的避險、擴產或緊急措施。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Fire extinguished at Monroe Energy's Trainer refinery in Pennsylvania', and the value of the item is bigger than the immediate update itself. It offers a timely read on energy security, climate stress and the economics of physical systems under strain, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Energy & Climate, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether utilities, producers and regulators respond with new hedges, capacity plans or emergency measures."
+                  ]
+            }
+      },
+      {
+            "id": "energy-swedish-minister-brings-baby-to-eu-meeting-a-first-for-the-bloc",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Amara Okafor",
+            "read": 4,
+            "title": {
+                  "en": "Swedish minister brings baby to EU meeting, a first for the bloc",
+                  "zh": "瑞典部長帶著孩子參加歐盟會議，這是歐盟首次"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about energy security, climate stress and the economics of physical systems under strain, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關能源安全、氣候壓力與承壓中的實體系統經濟學的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈瑞典部長帶著孩子參加歐盟會議，這是歐盟首次〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見能源安全、氣候壓力與承壓中的實體系統經濟學如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就能源與氣候而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，公用事業、能源生產商與監管機構是否會推出新的避險、擴產或緊急措施。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Swedish minister brings baby to EU meeting, a first for the bloc', and the value of the item is bigger than the immediate update itself. It offers a timely read on energy security, climate stress and the economics of physical systems under strain, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Energy & Climate, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether utilities, producers and regulators respond with new hedges, capacity plans or emergency measures."
+                  ]
+            }
+      },
+      {
+            "id": "energy-india-iran-explore-opportunities-to-cooperate-in-energy-sector-minister-puri-say",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Amara Okafor",
+            "read": 4,
+            "title": {
+                  "en": "India, Iran explore opportunities to cooperate in energy sector, minister Puri says",
+                  "zh": "普里部長表示，印度和伊朗探索能源領域合作的機會"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about energy security, climate stress and the economics of physical systems under strain, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關能源安全、氣候壓力與承壓中的實體系統經濟學的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈普里部長表示，印度和伊朗探索能源領域合作的機會〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見能源安全、氣候壓力與承壓中的實體系統經濟學如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就能源與氣候而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，公用事業、能源生產商與監管機構是否會推出新的避險、擴產或緊急措施。"
+                  ],
+                  "en": [
+                        "Reuters reported 'India, Iran explore opportunities to cooperate in energy sector, minister Puri says', and the value of the item is bigger than the immediate update itself. It offers a timely read on energy security, climate stress and the economics of physical systems under strain, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Energy & Climate, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether utilities, producers and regulators respond with new hedges, capacity plans or emergency measures."
+                  ]
+            }
+      },
+      {
+            "id": "energy-newsletter-extreme-heat-panel-cancelled-due-to-extreme-heat",
+            "category": "energy-climate",
+            "image": "energy",
+            "lead": false,
+            "author": "Amara Okafor",
+            "read": 4,
+            "title": {
+                  "en": "NEWSLETTER: Extreme heat panel cancelled due to extreme heat",
+                  "zh": "時事通訊：由於極熱，極熱小組被取消"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about energy security, climate stress and the economics of physical systems under strain, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關能源安全、氣候壓力與承壓中的實體系統經濟學的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈時事通訊：由於極熱，極熱小組被取消〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見能源安全、氣候壓力與承壓中的實體系統經濟學如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就能源與氣候而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，公用事業、能源生產商與監管機構是否會推出新的避險、擴產或緊急措施。"
+                  ],
+                  "en": [
+                        "Reuters reported 'NEWSLETTER: Extreme heat panel cancelled due to extreme heat', and the value of the item is bigger than the immediate update itself. It offers a timely read on energy security, climate stress and the economics of physical systems under strain, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Energy & Climate, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether utilities, producers and regulators respond with new hedges, capacity plans or emergency measures."
+                  ]
+            }
+      },
+      {
+            "id": "policy-simpler-bank-rules-risk-creating-loopholes-study-says",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": true,
+            "author": "Leila Haddad",
+            "read": 4,
+            "title": {
+                  "en": "Simpler bank rules risk creating loopholes, study says",
+                  "zh": "研究稱，更簡單的銀行規則可能造成漏洞"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about compliance costs, institutional design and the legal tools governments use to steer markets, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關合規成本、制度設計與政府用以引導市場的法律工具的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈研究稱，更簡單的銀行規則可能造成漏洞〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見合規成本、制度設計與政府用以引導市場的法律工具如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就政策與法規而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，諮詢草案、合規指引或執法時程是否會把這些原則轉成真正義務。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Simpler bank rules risk creating loopholes, study says', and the value of the item is bigger than the immediate update itself. It offers a timely read on compliance costs, institutional design and the legal tools governments use to steer markets, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Policy & Regulation, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether consultation drafts, compliance guidance or enforcement timelines turn broad language into real obligations."
+                  ]
+            }
+      },
+      {
+            "id": "policy-trump-to-pick-telecom-lawyer-candeub-to-lead-dojs-antitrust-division-bloomberg-n",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Leila Haddad",
+            "read": 5,
+            "title": {
+                  "en": "Trump to pick telecom lawyer Candeub to lead DOJ's antitrust division, Bloomberg News reports",
+                  "zh": "根據彭博社報道，川普將任命電信律師坎杜布領導司法部反壟斷部門"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about compliance costs, institutional design and the legal tools governments use to steer markets, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關合規成本、制度設計與政府用以引導市場的法律工具的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈根據彭博社報道，川普將任命電信律師坎杜布領導司法部反壟斷部門〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見合規成本、制度設計與政府用以引導市場的法律工具如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就政策與法規而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，諮詢草案、合規指引或執法時程是否會把這些原則轉成真正義務。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Trump to pick telecom lawyer Candeub to lead DOJ's antitrust division, Bloomberg News reports', and the value of the item is bigger than the immediate update itself. It offers a timely read on compliance costs, institutional design and the legal tools governments use to steer markets, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Policy & Regulation, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether consultation drafts, compliance guidance or enforcement timelines turn broad language into real obligations."
+                  ]
+            }
+      },
+      {
+            "id": "policy-eu-targets-amazon-microsoft-cloud-units-for-big-tech-gatekeeper-rules",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Leila Haddad",
+            "read": 4,
+            "title": {
+                  "en": "EU targets Amazon, Microsoft cloud units for Big Tech “gatekeeper” rules",
+                  "zh": "歐盟針對亞馬遜、微軟雲端部門實施大型科技「看門人」規則"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about compliance costs, institutional design and the legal tools governments use to steer markets, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關合規成本、制度設計與政府用以引導市場的法律工具的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈歐盟針對亞馬遜、微軟雲端部門實施大型科技「看門人」規則〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見合規成本、制度設計與政府用以引導市場的法律工具如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就政策與法規而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，諮詢草案、合規指引或執法時程是否會把這些原則轉成真正義務。"
+                  ],
+                  "en": [
+                        "Reuters reported 'EU targets Amazon, Microsoft cloud units for Big Tech “gatekeeper” rules', and the value of the item is bigger than the immediate update itself. It offers a timely read on compliance costs, institutional design and the legal tools governments use to steer markets, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Policy & Regulation, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether consultation drafts, compliance guidance or enforcement timelines turn broad language into real obligations."
+                  ]
+            }
+      },
+      {
+            "id": "policy-us-judge-orders-unsealing-of-settlement-related-records-in-real-estate-class-act",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Leila Haddad",
+            "read": 4,
+            "title": {
+                  "en": "US judge orders unsealing of settlement-related records in real estate class action",
+                  "zh": "美國法官下令啟封房地產集體訴訟中與和解相關的記錄"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about compliance costs, institutional design and the legal tools governments use to steer markets, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關合規成本、制度設計與政府用以引導市場的法律工具的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈美國法官下令啟封房地產集體訴訟中與和解相關的記錄〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見合規成本、制度設計與政府用以引導市場的法律工具如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就政策與法規而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，諮詢草案、合規指引或執法時程是否會把這些原則轉成真正義務。"
+                  ],
+                  "en": [
+                        "Reuters reported 'US judge orders unsealing of settlement-related records in real estate class action', and the value of the item is bigger than the immediate update itself. It offers a timely read on compliance costs, institutional design and the legal tools governments use to steer markets, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Policy & Regulation, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether consultation drafts, compliance guidance or enforcement timelines turn broad language into real obligations."
+                  ]
+            }
+      },
+      {
+            "id": "policy-california-seeks-court-order-to-block-congress-from-reversing-state-emission-rul",
+            "category": "policy-regulation",
+            "image": "policy",
+            "lead": false,
+            "author": "Leila Haddad",
+            "read": 4,
+            "title": {
+                  "en": "California seeks court order to block Congress from reversing state emission rules",
+                  "zh": "加州尋求法院命令阻止國會推翻州排放規則"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about compliance costs, institutional design and the legal tools governments use to steer markets, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關合規成本、制度設計與政府用以引導市場的法律工具的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈加州尋求法院命令阻止國會推翻州排放規則〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見合規成本、制度設計與政府用以引導市場的法律工具如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就政策與法規而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，諮詢草案、合規指引或執法時程是否會把這些原則轉成真正義務。"
+                  ],
+                  "en": [
+                        "Reuters reported 'California seeks court order to block Congress from reversing state emission rules', and the value of the item is bigger than the immediate update itself. It offers a timely read on compliance costs, institutional design and the legal tools governments use to steer markets, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Policy & Regulation, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether consultation drafts, compliance guidance or enforcement timelines turn broad language into real obligations."
+                  ]
+            }
+      },
+      {
+            "id": "cyber-chinas-360-says-it-has-developed-tools-to-match-anthropics-mythos",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": true,
+            "author": "Ethan Lin",
+            "read": 4,
+            "title": {
+                  "en": "China’s 360 says it has developed tools to match Anthropic’s Mythos",
+                  "zh": "中國 360 表示已開發可對標 Anthropic Mythos 的工具"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about defensive posture, emerging attack surfaces and the contest over digital resilience, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關防禦姿態、新興攻擊面與數位韌性競逐的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈中國 360 表示已開發可對標 Anthropic Mythos 的工具〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見防禦姿態、新興攻擊面與數位韌性競逐如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就網路安全而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，營運方是否會因此調整控管措施、事件應變手冊或揭露做法。"
+                  ],
+                  "en": [
+                        "Reuters reported 'China’s 360 says it has developed tools to match Anthropic’s Mythos', and the value of the item is bigger than the immediate update itself. It offers a timely read on defensive posture, emerging attack surfaces and the contest over digital resilience, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Cybersecurity, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether operators change controls, incident playbooks or disclosure practices in response."
+                  ]
+            }
+      },
+      {
+            "id": "cyber-microsofts-quantum-computing-technology-called-into-question-again",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Ethan Lin",
+            "read": 4,
+            "title": {
+                  "en": "Microsoft's quantum computing technology called into question, again",
+                  "zh": "微軟量子運算技術再次受到質疑"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about defensive posture, emerging attack surfaces and the contest over digital resilience, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關防禦姿態、新興攻擊面與數位韌性競逐的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈微軟量子運算技術再次受到質疑〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見防禦姿態、新興攻擊面與數位韌性競逐如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就網路安全而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，營運方是否會因此調整控管措施、事件應變手冊或揭露做法。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Microsoft's quantum computing technology called into question, again', and the value of the item is bigger than the immediate update itself. It offers a timely read on defensive posture, emerging attack surfaces and the contest over digital resilience, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Cybersecurity, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether operators change controls, incident playbooks or disclosure practices in response."
+                  ]
+            }
+      },
+      {
+            "id": "cyber-rbi-proposes-guidelines-for-banks-to-manage-ai-risks",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Ethan Lin",
+            "read": 4,
+            "title": {
+                  "en": "RBI proposes guidelines for banks to manage AI risks",
+                  "zh": "印度央行提議銀行管理 AI 風險的指引"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about defensive posture, emerging attack surfaces and the contest over digital resilience, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關防禦姿態、新興攻擊面與數位韌性競逐的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈印度央行提議銀行管理 AI 風險的指引〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見防禦姿態、新興攻擊面與數位韌性競逐如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就網路安全而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，營運方是否會因此調整控管措施、事件應變手冊或揭露做法。"
+                  ],
+                  "en": [
+                        "Reuters reported 'RBI proposes guidelines for banks to manage AI risks', and the value of the item is bigger than the immediate update itself. It offers a timely read on defensive posture, emerging attack surfaces and the contest over digital resilience, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Cybersecurity, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether operators change controls, incident playbooks or disclosure practices in response."
+                  ]
+            }
+      },
+      {
+            "id": "cyber-hsiao-says-taiwan-must-build-strength-to-protect-peace",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Ethan Lin",
+            "read": 4,
+            "title": {
+                  "en": "Hsiao says Taiwan must build strength to protect peace",
+                  "zh": "蕭表示臺灣必須積蓄力量維護和平"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about defensive posture, emerging attack surfaces and the contest over digital resilience, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關防禦姿態、新興攻擊面與數位韌性競逐的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈蕭表示臺灣必須積蓄力量維護和平〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見防禦姿態、新興攻擊面與數位韌性競逐如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就網路安全而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，營運方是否會因此調整控管措施、事件應變手冊或揭露做法。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Hsiao says Taiwan must build strength to protect peace', and the value of the item is bigger than the immediate update itself. It offers a timely read on defensive posture, emerging attack surfaces and the contest over digital resilience, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Cybersecurity, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether operators change controls, incident playbooks or disclosure practices in response."
+                  ]
+            }
+      },
+      {
+            "id": "cyber-premier-sets-taiwans-sovereign-ai-strategy",
+            "category": "cybersecurity",
+            "image": "cyber",
+            "lead": false,
+            "author": "Ethan Lin",
+            "read": 4,
+            "title": {
+                  "en": "Premier sets Taiwan’s sovereign AI strategy",
+                  "zh": "總理制定臺灣主權AI戰略"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about defensive posture, emerging attack surfaces and the contest over digital resilience, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關防禦姿態、新興攻擊面與數位韌性競逐的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈總理制定臺灣主權AI戰略〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見防禦姿態、新興攻擊面與數位韌性競逐如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就網路安全而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "下一個觀察點是，營運方是否會因此調整控管措施、事件應變手冊或揭露做法。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Premier sets Taiwan’s sovereign AI strategy', and the value of the item is bigger than the immediate update itself. It offers a timely read on defensive posture, emerging attack surfaces and the contest over digital resilience, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Cybersecurity, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "The next marker will be whether operators change controls, incident playbooks or disclosure practices in response."
+                  ]
+            }
+      },
+      {
+            "id": "infra-deutsche-bahn-blames-technical-issue-for-nationwide-rail-standstill",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": true,
+            "author": "Sofia Reyes",
+            "read": 4,
+            "title": {
+                  "en": "Deutsche Bahn blames technical issue for nationwide rail standstill",
+                  "zh": "德國鐵路將全國停擺歸咎於技術問題"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about system reliability, project execution and the physical assets that keep commerce functioning, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關系統可靠性、專案執行與維持商業運作的實體資產的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈德國鐵路將全國停擺歸咎於技術問題〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見系統可靠性、專案執行與維持商業運作的實體資產如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就物流與基礎建設而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，營運方與政府是否會把這個訊號轉成維修優先序、投資排序或備援規劃。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Deutsche Bahn blames technical issue for nationwide rail standstill', and the value of the item is bigger than the immediate update itself. It offers a timely read on system reliability, project execution and the physical assets that keep commerce functioning, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Logistics & Infrastructure, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether operators and governments translate the signal into maintenance priorities, investment sequencing or contingency plans."
+                  ]
+            }
+      },
+      {
+            "id": "infra-crimeas-sevastopol-imposes-temporary-power-curbs-to-households",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Sofia Reyes",
+            "read": 4,
+            "title": {
+                  "en": "Crimea's Sevastopol imposes temporary power curbs to households",
+                  "zh": "克里米亞塞瓦斯托波爾對家庭實施臨時限電"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about system reliability, project execution and the physical assets that keep commerce functioning, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關系統可靠性、專案執行與維持商業運作的實體資產的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈克里米亞塞瓦斯托波爾對家庭實施臨時限電〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見系統可靠性、專案執行與維持商業運作的實體資產如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就物流與基礎建設而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，營運方與政府是否會把這個訊號轉成維修優先序、投資排序或備援規劃。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Crimea's Sevastopol imposes temporary power curbs to households', and the value of the item is bigger than the immediate update itself. It offers a timely read on system reliability, project execution and the physical assets that keep commerce functioning, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Logistics & Infrastructure, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether operators and governments translate the signal into maintenance priorities, investment sequencing or contingency plans."
+                  ]
+            }
+      },
+      {
+            "id": "infra-zimbabwe-exploring-minerals-backed-deals-with-china-to-fund-infrastructure-minis",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Sofia Reyes",
+            "read": 4,
+            "title": {
+                  "en": "Zimbabwe exploring minerals-backed deals with China to fund infrastructure, minister says",
+                  "zh": "部長表示，辛巴威正探索以礦產擔保、與中國合作融資基建"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about system reliability, project execution and the physical assets that keep commerce functioning, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關系統可靠性、專案執行與維持商業運作的實體資產的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈部長表示，辛巴威正探索以礦產擔保、與中國合作融資基建〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見系統可靠性、專案執行與維持商業運作的實體資產如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就物流與基礎建設而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，營運方與政府是否會把這個訊號轉成維修優先序、投資排序或備援規劃。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Zimbabwe exploring minerals-backed deals with China to fund infrastructure, minister says', and the value of the item is bigger than the immediate update itself. It offers a timely read on system reliability, project execution and the physical assets that keep commerce functioning, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Logistics & Infrastructure, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether operators and governments translate the signal into maintenance priorities, investment sequencing or contingency plans."
+                  ]
+            }
+      },
+      {
+            "id": "infra-fedex-falls-on-lower-margins-concerns-over-freight-spinoff",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Sofia Reyes",
+            "read": 4,
+            "title": {
+                  "en": "FedEx falls on lower margins, concerns over Freight spinoff",
+                  "zh": "聯邦快遞利潤率下降，擔心貨運分拆"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about system reliability, project execution and the physical assets that keep commerce functioning, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關系統可靠性、專案執行與維持商業運作的實體資產的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈聯邦快遞利潤率下降，擔心貨運分拆〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見系統可靠性、專案執行與維持商業運作的實體資產如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就物流與基礎建設而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，營運方與政府是否會把這個訊號轉成維修優先序、投資排序或備援規劃。"
+                  ],
+                  "en": [
+                        "Reuters reported 'FedEx falls on lower margins, concerns over Freight spinoff', and the value of the item is bigger than the immediate update itself. It offers a timely read on system reliability, project execution and the physical assets that keep commerce functioning, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Logistics & Infrastructure, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether operators and governments translate the signal into maintenance priorities, investment sequencing or contingency plans."
+                  ]
+            }
+      },
+      {
+            "id": "infra-cummins-india-bets-on-local-demand-as-middle-east-conflict-clouds-exports",
+            "category": "logistics-infrastructure",
+            "image": "infrastructure",
+            "lead": false,
+            "author": "Sofia Reyes",
+            "read": 4,
+            "title": {
+                  "en": "Cummins India bets on local demand as Middle East conflict clouds exports",
+                  "zh": "中東衝突籠罩出口前景，康明斯印度轉押本地需求"
+            },
+            "dek": {
+                  "en": "Reuters framed the development as a fresh signal about system reliability, project execution and the physical assets that keep commerce functioning, showing how this issue is moving from headline risk into operational and policy decisions.",
+                  "zh": "路透將這項發展描繪為有關系統可靠性、專案執行與維持商業運作的實體資產的新訊號，顯示這個議題正從頭條風險轉向更具體的營運與政策決策。"
+            },
+            "body": {
+                  "zh": [
+                        "路透這則〈中東衝突籠罩出口前景，康明斯印度轉押本地需求〉之所以值得放進今天的版面，不只是因為它提供了單一事件更新，更因為它讓讀者看見系統可靠性、專案執行與維持商業運作的實體資產如何進一步滲入實際決策。當市場、政府與企業都在尋找下一個可行訊號時，這類消息往往會比表面標題更早改變預期。",
+                        "就物流與基礎建設而言，真正的重點通常不是單一機構或單一數字，而是後面牽動的連鎖反應。人員、資金、法規、設備與跨境協調只要其中一環變動，就可能同步影響成本、時程與談判空間，讓原本看似局部的發展變成更廣泛的系統訊號。",
+                        "因此，這則新聞對企業與公共部門的價值，在於它幫助外界重新排序風險與資源。管理者會據此評估哪些投資應該加快、哪些備援需要補強，以及哪些假設可能已不再成立；而投資人與政策制定者則會用它來測試更大趨勢是否正在成形。",
+                        "接下來要看的是，營運方與政府是否會把這個訊號轉成維修優先序、投資排序或備援規劃。"
+                  ],
+                  "en": [
+                        "Reuters reported 'Cummins India bets on local demand as Middle East conflict clouds exports', and the value of the item is bigger than the immediate update itself. It offers a timely read on system reliability, project execution and the physical assets that keep commerce functioning, showing how a headline is starting to influence real operating choices rather than remaining a distant background risk.",
+                        "In Logistics & Infrastructure, the key issue is rarely one institution or one statistic on its own. The larger significance comes from the chain reaction behind it: shifts in staffing, finance, regulation, equipment or cross-border coordination can quickly alter costs, timing and bargaining power across the system.",
+                        "That is why the story matters for both companies and public agencies. It helps decision-makers re-rank risk, decide where contingency planning should deepen and test whether assumptions that looked stable a week ago still deserve confidence today.",
+                        "Watch next for whether operators and governments translate the signal into maintenance priorities, investment sequencing or contingency plans."
+                  ]
+            }
+      }
+];
+
   window.DAILY_NEWS_STORIES["2026-06-25"] = [
       {
             "id": "int-eu-lebanese-forces-mission",
