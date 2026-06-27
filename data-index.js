@@ -21,6 +21,9 @@ window.DAILY_NEWS = {
   // Metadata only — no stories array here.
   // Stories are fetched on-demand from data-YYYY-MM.js files.
   editions: [
+    { date: "2026-06-27", color: "navy",
+      theme:   { en: "Heat, Chips, Shipping Lanes and Harder Rules", zh: "熱浪、晶片、航道與更嚴規則" },
+      summary: { en: "Using Reuters-led candidate coverage across diplomacy, semiconductors, World Cup momentum, Hormuz shipping risk, climate stress and tougher regulation, today's edition follows how governments, markets and operators are repricing resilience across connected systems.", zh: "以路透主導的候選新聞為基礎，從外交、半導體、世界盃動能、荷莫茲航運風險、氣候壓力到更嚴監管，今日版面聚焦政府、市場與營運者如何在彼此連動的系統中重新衡量韌性。" } },
     { date: "2026-06-26", color: "navy",
       theme:   { en: "Ports, Technology and the New Geography of Global Commerce", zh: "港口、科技與全球商業版圖的重新配置" },
       summary: { en: "From reopened shipping corridors and AI expansion to market risk, climate pressure and infrastructure strain, today's edition follows how governments and companies are redrawing the operating map of global commerce.", zh: "從重新開放的航運通道、AI 擴張，到市場風險、氣候壓力與基礎設施承壓，今日版面聚焦政府與企業如何重新劃定全球商業運作的版圖。" } },
