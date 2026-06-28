@@ -21,6 +21,9 @@ window.DAILY_NEWS = {
   // Metadata only — no stories array here.
   // Stories are fetched on-demand from data-YYYY-MM.js files.
   editions: [
+    { date: "2026-06-28", color: "navy",
+      theme:   { en: "Heat, Risk, Routes and New Points of Pressure", zh: "熱浪、風險、航路與新的壓力點" },
+      summary: { en: "From diplomatic strain and chip uncertainty to World Cup momentum, Hormuz shipping danger, compliance pressure and heat-stressed infrastructure, today's edition tracks how connected systems are being tested from several directions at once.", zh: "從外交緊張與晶片不確定性，到世界盃動能、荷莫茲航運風險、法遵壓力與高溫下的基礎設施，今日版面聚焦彼此連動的系統如何同時承受多重壓力。" } },
     { date: "2026-06-27", color: "navy",
       theme:   { en: "Heat, Chips, Shipping Lanes and Harder Rules", zh: "熱浪、晶片、航道與更嚴規則" },
       summary: { en: "Using Reuters-led candidate coverage across diplomacy, semiconductors, World Cup momentum, Hormuz shipping risk, climate stress and tougher regulation, today's edition follows how governments, markets and operators are repricing resilience across connected systems.", zh: "以路透主導的候選新聞為基礎，從外交、半導體、世界盃動能、荷莫茲航運風險、氣候壓力到更嚴監管，今日版面聚焦政府、市場與營運者如何在彼此連動的系統中重新衡量韌性。" } },
