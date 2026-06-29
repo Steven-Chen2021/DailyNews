@@ -21,6 +21,9 @@ window.DAILY_NEWS = {
   // Metadata only — no stories array here.
   // Stories are fetched on-demand from data-YYYY-MM.js files.
   editions: [
+    { date: "2026-06-29", color: "navy",
+      theme:   { en: "Fragile Routes, Harder Rules and the Systems Behind Confidence", zh: "脆弱航路、更嚴規則與信心背後的系統" },
+      summary: { en: "From diplomacy and AI capacity to World Cup pressure, shipping risk, market repricing and infrastructure bottlenecks, today's edition tracks how institutions are rebuilding confidence across tightly connected global systems.", zh: "從外交與 AI 產能，到世界盃壓力、航運風險、市場重定價與基礎設施瓶頸，今日版面聚焦各方如何在緊密連動的全球系統中重建信心。" } },
     { date: "2026-06-28", color: "navy",
       theme:   { en: "Heat, Risk, Routes and New Points of Pressure", zh: "熱浪、風險、航路與新的壓力點" },
       summary: { en: "From diplomatic strain and chip uncertainty to World Cup momentum, Hormuz shipping danger, compliance pressure and heat-stressed infrastructure, today's edition tracks how connected systems are being tested from several directions at once.", zh: "從外交緊張與晶片不確定性，到世界盃動能、荷莫茲航運風險、法遵壓力與高溫下的基礎設施，今日版面聚焦彼此連動的系統如何同時承受多重壓力。" } },
