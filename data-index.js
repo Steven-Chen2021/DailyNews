@@ -21,6 +21,7 @@ window.DAILY_NEWS = {
   // Metadata only — no stories array here.
   // Stories are fetched on-demand from data-YYYY-MM.js files.
   editions: [
+    {"date": "2026-07-01", "color": "navy", "theme": {"en": "Heat, Friction and the Cost of Moving First", "zh": "熱浪、摩擦與率先行動的代價"}, "summary": {"en": "From Doha diplomacy and Korean chip plans to World Cup momentum, Hormuz disruption, inflation repricing and airport expansion, today's edition tracks how governments and companies are paying more to secure resilience across connected global systems.", "zh": "從杜哈外交與南韓晶片計畫，到世界盃動能、荷莫茲干擾、通膨重估與機場擴建，今日版面聚焦政府與企業如何付出更高成本，在彼此連動的全球系統中爭取韌性。"}},
     {"date": "2026-06-30", "color": "navy", "theme": {"en": "Conflict Signals, AI Capacity and the Price of Resilience", "zh": "衝突訊號、AI 產能與韌性的代價"}, "summary": {"en": "From diplomatic friction and AI hardware moves to World Cup pressure, maritime risk, climate policy and corridor investment, today's edition tracks how institutions are paying more to preserve resilience across connected global systems.", "zh": "從外交摩擦與 AI 硬體動向，到世界盃壓力、海運風險、氣候政策與走廊投資，今日版面聚焦各方如何付出更高成本，在彼此連動的全球系統中維持韌性。"}},
     { date: "2026-06-29", color: "navy",
       theme:   { en: "Fragile Routes, Harder Rules and the Systems Behind Confidence", zh: "脆弱航路、更嚴規則與信心背後的系統" },
