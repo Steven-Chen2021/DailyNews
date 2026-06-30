@@ -5,6 +5,1509 @@
 (function () {
   window.DAILY_NEWS_STORIES = window.DAILY_NEWS_STORIES || {};
 
+  window.DAILY_NEWS_STORIES["2026-06-30"] = [
+        {
+              "id": "int-north-koreas-sanctioned-coal-trade-rebounds-as-un-monitoring-lapses-rights-group",
+              "category": "international",
+              "image": "meeting",
+              "lead": true,
+              "author": "Maya Chen",
+              "read": 6,
+              "title": {
+                    "en": "North Korea's sanctioned coal trade rebounds as UN monitoring lapses, rights group says",
+                    "zh": "North Korea's sanctioned coal trade rebounds as UN monitoring lapses, rights group says"
+              },
+              "dek": {
+                    "en": "The headline highlights how diplomatic signaling, government choices and cross-border expectations can quickly alter strategic assumptions for states, companies and investors.",
+                    "zh": "這則消息凸顯外交訊號、政府決策與跨境預期如何迅速改變國家、企業與投資人的策略假設。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「North Korea's sanctioned coal trade rebounds as UN monitoring lapses, rights group says」的消息，之所以值得放進今日國際新聞版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在國際新聞脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是International新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'North Korea's sanctioned coal trade rebounds as UN monitoring lapses, rights group says' belongs in today's International file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the International lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "int-turkeys-erdogan-says-nato-summit-must-emphasise-unity-and-resilience",
+              "category": "international",
+              "image": "meeting",
+              "lead": false,
+              "author": "Maya Chen",
+              "read": 5,
+              "title": {
+                    "en": "Turkey's Erdogan says NATO summit must emphasise unity and resilience",
+                    "zh": "Turkey's Erdogan says NATO summit must emphasise unity and resilience"
+              },
+              "dek": {
+                    "en": "The headline highlights how diplomatic signaling, government choices and cross-border expectations can quickly alter strategic assumptions for states, companies and investors.",
+                    "zh": "這則消息凸顯外交訊號、政府決策與跨境預期如何迅速改變國家、企業與投資人的策略假設。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Turkey's Erdogan says NATO summit must emphasise unity and resilience」的消息，之所以值得放進今日國際新聞版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在國際新聞脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是International新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Turkey's Erdogan says NATO summit must emphasise unity and resilience' belongs in today's International file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the International lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "int-ex-prisoner-questions-easing-belarus-sanctions-as-repression-persists",
+              "category": "international",
+              "image": "meeting",
+              "lead": false,
+              "author": "Maya Chen",
+              "read": 5,
+              "title": {
+                    "en": "Ex-prisoner questions easing Belarus sanctions as repression persists",
+                    "zh": "Ex-prisoner questions easing Belarus sanctions as repression persists"
+              },
+              "dek": {
+                    "en": "The headline highlights how diplomatic signaling, government choices and cross-border expectations can quickly alter strategic assumptions for states, companies and investors.",
+                    "zh": "這則消息凸顯外交訊號、政府決策與跨境預期如何迅速改變國家、企業與投資人的策略假設。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Ex-prisoner questions easing Belarus sanctions as repression persists」的消息，之所以值得放進今日國際新聞版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在國際新聞脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是International新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Ex-prisoner questions easing Belarus sanctions as repression persists' belongs in today's International file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the International lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "int-thai-lawmakers-begin-debate-on-115-billion-budget-for-2027",
+              "category": "international",
+              "image": "meeting",
+              "lead": false,
+              "author": "Maya Chen",
+              "read": 5,
+              "title": {
+                    "en": "Thai lawmakers begin debate on $115 billion budget for 2027",
+                    "zh": "Thai lawmakers begin debate on $115 billion budget for 2027"
+              },
+              "dek": {
+                    "en": "The headline highlights how diplomatic signaling, government choices and cross-border expectations can quickly alter strategic assumptions for states, companies and investors.",
+                    "zh": "這則消息凸顯外交訊號、政府決策與跨境預期如何迅速改變國家、企業與投資人的策略假設。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Thai lawmakers begin debate on $115 billion budget for 2027」的消息，之所以值得放進今日國際新聞版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在國際新聞脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是International新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Thai lawmakers begin debate on $115 billion budget for 2027' belongs in today's International file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the International lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "int-south-korea-japan-reaffirm-denuclearisation-goal-closer-defence-ties",
+              "category": "international",
+              "image": "meeting",
+              "lead": false,
+              "author": "Maya Chen",
+              "read": 5,
+              "title": {
+                    "en": "South Korea, Japan reaffirm denuclearisation goal, closer defence ties",
+                    "zh": "South Korea, Japan reaffirm denuclearisation goal, closer defence ties"
+              },
+              "dek": {
+                    "en": "The headline highlights how diplomatic signaling, government choices and cross-border expectations can quickly alter strategic assumptions for states, companies and investors.",
+                    "zh": "這則消息凸顯外交訊號、政府決策與跨境預期如何迅速改變國家、企業與投資人的策略假設。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「South Korea, Japan reaffirm denuclearisation goal, closer defence ties」的消息，之所以值得放進今日國際新聞版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在國際新聞脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是International新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'South Korea, Japan reaffirm denuclearisation goal, closer defence ties' belongs in today's International file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the International lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "tech-ai-energy-race-accelerates-sodium-battery-production",
+              "category": "technology",
+              "image": "technology",
+              "lead": true,
+              "author": "Iris Park",
+              "read": 6,
+              "title": {
+                    "en": "AI energy race accelerates sodium battery production",
+                    "zh": "AI energy race accelerates sodium battery production"
+              },
+              "dek": {
+                    "en": "The development points to another shift in the AI and semiconductor race, where hardware access, capital discipline and platform strategy are moving together.",
+                    "zh": "這項發展顯示 AI 與半導體競賽又出現新變化，硬體取得、資本紀律與平台策略正同步重組。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「AI energy race accelerates sodium battery production」的消息，之所以值得放進今日科技版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在科技脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Technology新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'AI energy race accelerates sodium battery production' belongs in today's Technology file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Technology lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "tech-apple-iphone-18-pro-supplier-list-parts-and-photos-exposed-in-tata-data-leak",
+              "category": "technology",
+              "image": "technology",
+              "lead": false,
+              "author": "Iris Park",
+              "read": 5,
+              "title": {
+                    "en": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak",
+                    "zh": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak"
+              },
+              "dek": {
+                    "en": "The development points to another shift in the AI and semiconductor race, where hardware access, capital discipline and platform strategy are moving together.",
+                    "zh": "這項發展顯示 AI 與半導體競賽又出現新變化，硬體取得、資本紀律與平台策略正同步重組。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak」的消息，之所以值得放進今日科技版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在科技脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Technology新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak' belongs in today's Technology file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Technology lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "tech-asia-shares-choppy-as-south-korea-chip-push-steadies-sentiment-iran-truce-in-foc",
+              "category": "technology",
+              "image": "technology",
+              "lead": false,
+              "author": "Iris Park",
+              "read": 5,
+              "title": {
+                    "en": "Asia shares choppy as South Korea chip push steadies sentiment; Iran truce in focus",
+                    "zh": "Asia shares choppy as South Korea chip push steadies sentiment; Iran truce in focus"
+              },
+              "dek": {
+                    "en": "The development points to another shift in the AI and semiconductor race, where hardware access, capital discipline and platform strategy are moving together.",
+                    "zh": "這項發展顯示 AI 與半導體競賽又出現新變化，硬體取得、資本紀律與平台策略正同步重組。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Asia shares choppy as South Korea chip push steadies sentiment; Iran truce in focus」的消息，之所以值得放進今日科技版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在科技脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Technology新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Asia shares choppy as South Korea chip push steadies sentiment; Iran truce in focus' belongs in today's Technology file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Technology lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "tech-baidus-ai-chip-unit-kunlunxin-targets-50-billion-hong-kong-ipo-the-information-r",
+              "category": "technology",
+              "image": "technology",
+              "lead": false,
+              "author": "Iris Park",
+              "read": 5,
+              "title": {
+                    "en": "Baidu's AI chip unit Kunlunxin targets $50 billion Hong Kong IPO, The Information reports",
+                    "zh": "Baidu's AI chip unit Kunlunxin targets $50 billion Hong Kong IPO, The Information reports"
+              },
+              "dek": {
+                    "en": "The development points to another shift in the AI and semiconductor race, where hardware access, capital discipline and platform strategy are moving together.",
+                    "zh": "這項發展顯示 AI 與半導體競賽又出現新變化，硬體取得、資本紀律與平台策略正同步重組。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Baidu's AI chip unit Kunlunxin targets $50 billion Hong Kong IPO, The Information reports」的消息，之所以值得放進今日科技版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在科技脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Technology新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Baidu's AI chip unit Kunlunxin targets $50 billion Hong Kong IPO, The Information reports' belongs in today's Technology file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Technology lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "tech-australian-charged-with-murdering-thai-girl-found-in-suitcase",
+              "category": "technology",
+              "image": "technology",
+              "lead": false,
+              "author": "Iris Park",
+              "read": 5,
+              "title": {
+                    "en": "Australian charged with murdering Thai girl found in suitcase",
+                    "zh": "Australian charged with murdering Thai girl found in suitcase"
+              },
+              "dek": {
+                    "en": "The development points to another shift in the AI and semiconductor race, where hardware access, capital discipline and platform strategy are moving together.",
+                    "zh": "這項發展顯示 AI 與半導體競賽又出現新變化，硬體取得、資本紀律與平台策略正同步重組。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Australian charged with murdering Thai girl found in suitcase」的消息，之所以值得放進今日科技版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在科技脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Technology新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Australian charged with murdering Thai girl found in suitcase' belongs in today's Technology file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Technology lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "sport-us-face-bosnia-test-in-world-cup-round-of-32",
+              "category": "sports",
+              "image": "stadium",
+              "lead": true,
+              "author": "Leo Huang",
+              "read": 5,
+              "title": {
+                    "en": "US face Bosnia test in World Cup Round of 32",
+                    "zh": "US face Bosnia test in World Cup Round of 32"
+              },
+              "dek": {
+                    "en": "The result matters beyond the scoreboard because tournament pressure, coaching decisions and national expectations are converging in a compressed global stage.",
+                    "zh": "這場消息的重要性不只在比分，更在於賽事壓力、教練決策與國家期待正在高度壓縮的全球舞台上交會。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「US face Bosnia test in World Cup Round of 32」的消息，之所以值得放進今日體育版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在體育脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Sports新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'US face Bosnia test in World Cup Round of 32' belongs in today's Sports file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Sports lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "sport-substitutes-shine-as-world-cup-group-stage-delivers-goal-feast",
+              "category": "sports",
+              "image": "stadium",
+              "lead": false,
+              "author": "Leo Huang",
+              "read": 4,
+              "title": {
+                    "en": "Substitutes shine as World Cup group stage delivers goal feast",
+                    "zh": "Substitutes shine as World Cup group stage delivers goal feast"
+              },
+              "dek": {
+                    "en": "The result matters beyond the scoreboard because tournament pressure, coaching decisions and national expectations are converging in a compressed global stage.",
+                    "zh": "這場消息的重要性不只在比分，更在於賽事壓力、教練決策與國家期待正在高度壓縮的全球舞台上交會。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Substitutes shine as World Cup group stage delivers goal feast」的消息，之所以值得放進今日體育版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在體育脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Sports新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Substitutes shine as World Cup group stage delivers goal feast' belongs in today's Sports file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Sports lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "sport-soccer-brazil-match-shows-japan-closing-gap-on-top-teams-coach-moriyasu-says",
+              "category": "sports",
+              "image": "stadium",
+              "lead": false,
+              "author": "Leo Huang",
+              "read": 4,
+              "title": {
+                    "en": "Soccer - Brazil match shows Japan closing gap on top teams, coach Moriyasu says",
+                    "zh": "Soccer - Brazil match shows Japan closing gap on top teams, coach Moriyasu says"
+              },
+              "dek": {
+                    "en": "The result matters beyond the scoreboard because tournament pressure, coaching decisions and national expectations are converging in a compressed global stage.",
+                    "zh": "這場消息的重要性不只在比分，更在於賽事壓力、教練決策與國家期待正在高度壓縮的全球舞台上交會。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Soccer - Brazil match shows Japan closing gap on top teams, coach Moriyasu says」的消息，之所以值得放進今日體育版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在體育脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Sports新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Soccer - Brazil match shows Japan closing gap on top teams, coach Moriyasu says' belongs in today's Sports file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Sports lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "sport-canada-gets-a-new-kind-of-sporting-hero-and-they-dont-wear-ice-skates",
+              "category": "sports",
+              "image": "stadium",
+              "lead": false,
+              "author": "Leo Huang",
+              "read": 4,
+              "title": {
+                    "en": "Canada gets a new kind of sporting hero, and they don't wear ice skates",
+                    "zh": "Canada gets a new kind of sporting hero, and they don't wear ice skates"
+              },
+              "dek": {
+                    "en": "The result matters beyond the scoreboard because tournament pressure, coaching decisions and national expectations are converging in a compressed global stage.",
+                    "zh": "這場消息的重要性不只在比分，更在於賽事壓力、教練決策與國家期待正在高度壓縮的全球舞台上交會。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Canada gets a new kind of sporting hero, and they don't wear ice skates」的消息，之所以值得放進今日體育版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在體育脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Sports新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Canada gets a new kind of sporting hero, and they don't wear ice skates' belongs in today's Sports file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Sports lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "sport-belgiums-golden-generation-face-senegal-in-last-chance-saloon",
+              "category": "sports",
+              "image": "stadium",
+              "lead": false,
+              "author": "Leo Huang",
+              "read": 4,
+              "title": {
+                    "en": "Belgium's golden generation face Senegal in last-chance saloon",
+                    "zh": "Belgium's golden generation face Senegal in last-chance saloon"
+              },
+              "dek": {
+                    "en": "The result matters beyond the scoreboard because tournament pressure, coaching decisions and national expectations are converging in a compressed global stage.",
+                    "zh": "這場消息的重要性不只在比分，更在於賽事壓力、教練決策與國家期待正在高度壓縮的全球舞台上交會。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Belgium's golden generation face Senegal in last-chance saloon」的消息，之所以值得放進今日體育版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在體育脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Sports新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Belgium's golden generation face Senegal in last-chance saloon' belongs in today's Sports file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Sports lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "ship-middle-east-producers-push-on-with-oil-and-lng-loadings-despite-ship-attacks",
+              "category": "shipping",
+              "image": "shipping",
+              "lead": true,
+              "author": "Daniel Ko",
+              "read": 6,
+              "title": {
+                    "en": "Middle East producers push on with oil and LNG loadings despite ship attacks",
+                    "zh": "Middle East producers push on with oil and LNG loadings despite ship attacks"
+              },
+              "dek": {
+                    "en": "The story captures how freight risk, energy flows and maritime operating decisions are being repriced as carriers manage conflict, insurance and route volatility.",
+                    "zh": "這則新聞呈現航商如何在衝突、保險與航線波動中，重新評估貨運風險、能源流向與海運營運決策。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Middle East producers push on with oil and LNG loadings despite ship attacks」的消息，之所以值得放進今日航運版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在航運脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Shipping新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Middle East producers push on with oil and LNG loadings despite ship attacks' belongs in today's Shipping file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Shipping lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "ship-oil-settles-up-on-us-iran-strikes-cautious-hopes-for-shipping-cap-gains",
+              "category": "shipping",
+              "image": "shipping",
+              "lead": false,
+              "author": "Daniel Ko",
+              "read": 5,
+              "title": {
+                    "en": "Oil settles up on US-Iran strikes; cautious hopes for shipping cap gains",
+                    "zh": "Oil settles up on US-Iran strikes; cautious hopes for shipping cap gains"
+              },
+              "dek": {
+                    "en": "The story captures how freight risk, energy flows and maritime operating decisions are being repriced as carriers manage conflict, insurance and route volatility.",
+                    "zh": "這則新聞呈現航商如何在衝突、保險與航線波動中，重新評估貨運風險、能源流向與海運營運決策。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Oil settles up on US-Iran strikes; cautious hopes for shipping cap gains」的消息，之所以值得放進今日航運版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在航運脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Shipping新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Oil settles up on US-Iran strikes; cautious hopes for shipping cap gains' belongs in today's Shipping file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Shipping lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "ship-morning-bid-weekend-wars",
+              "category": "shipping",
+              "image": "shipping",
+              "lead": false,
+              "author": "Daniel Ko",
+              "read": 5,
+              "title": {
+                    "en": "Morning Bid: Weekend wars",
+                    "zh": "Morning Bid: Weekend wars"
+              },
+              "dek": {
+                    "en": "The story captures how freight risk, energy flows and maritime operating decisions are being repriced as carriers manage conflict, insurance and route volatility.",
+                    "zh": "這則新聞呈現航商如何在衝突、保險與航線波動中，重新評估貨運風險、能源流向與海運營運決策。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Morning Bid: Weekend wars」的消息，之所以值得放進今日航運版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在航運脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Shipping新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Morning Bid: Weekend wars' belongs in today's Shipping file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Shipping lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "ship-japan-targets-more-than-doubling-real-growth-to-over-1-in-economic-blueprint",
+              "category": "shipping",
+              "image": "shipping",
+              "lead": false,
+              "author": "Daniel Ko",
+              "read": 5,
+              "title": {
+                    "en": "Japan targets more than doubling real growth to over 1% in economic blueprint",
+                    "zh": "Japan targets more than doubling real growth to over 1% in economic blueprint"
+              },
+              "dek": {
+                    "en": "The story captures how freight risk, energy flows and maritime operating decisions are being repriced as carriers manage conflict, insurance and route volatility.",
+                    "zh": "這則新聞呈現航商如何在衝突、保險與航線波動中，重新評估貨運風險、能源流向與海運營運決策。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Japan targets more than doubling real growth to over 1% in economic blueprint」的消息，之所以值得放進今日航運版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在航運脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Shipping新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Japan targets more than doubling real growth to over 1% in economic blueprint' belongs in today's Shipping file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Shipping lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "ship-facing-china-one-taiwan-coast-guard-officer-draws-strength-from-the-gods",
+              "category": "shipping",
+              "image": "shipping",
+              "lead": false,
+              "author": "Daniel Ko",
+              "read": 5,
+              "title": {
+                    "en": "Facing China, one Taiwan Coast Guard officer draws strength from the gods",
+                    "zh": "Facing China, one Taiwan Coast Guard officer draws strength from the gods"
+              },
+              "dek": {
+                    "en": "The story captures how freight risk, energy flows and maritime operating decisions are being repriced as carriers manage conflict, insurance and route volatility.",
+                    "zh": "這則新聞呈現航商如何在衝突、保險與航線波動中，重新評估貨運風險、能源流向與海運營運決策。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Facing China, one Taiwan Coast Guard officer draws strength from the gods」的消息，之所以值得放進今日航運版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在航運脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Shipping新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Facing China, one Taiwan Coast Guard officer draws strength from the gods' belongs in today's Shipping file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Shipping lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "sc-trumps-tariffs-arent-saving-jobs-at-whirlpools-iowa-refrigerator-plant",
+              "category": "supply-chain",
+              "image": "warehouse",
+              "lead": true,
+              "author": "Nina Shah",
+              "read": 6,
+              "title": {
+                    "en": "Trump’s tariffs aren’t saving jobs at Whirlpool’s Iowa refrigerator plant",
+                    "zh": "Trump’s tariffs aren’t saving jobs at Whirlpool’s Iowa refrigerator plant"
+              },
+              "dek": {
+                    "en": "The development shows how cost pressure, sourcing choices and operational resilience continue to reshape supply-chain planning across industries.",
+                    "zh": "這項發展顯示成本壓力、採購選擇與營運韌性，仍持續重塑各行業的供應鏈規劃。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Trump’s tariffs aren’t saving jobs at Whirlpool’s Iowa refrigerator plant」的消息，之所以值得放進今日供應鏈版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在供應鏈脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Supply Chain新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Trump’s tariffs aren’t saving jobs at Whirlpool’s Iowa refrigerator plant' belongs in today's Supply Chain file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Supply Chain lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "sc-uk-business-morale-falls-as-concerns-about-cost-pressures-and-economy-persist-ll",
+              "category": "supply-chain",
+              "image": "warehouse",
+              "lead": false,
+              "author": "Nina Shah",
+              "read": 5,
+              "title": {
+                    "en": "UK business morale falls as concerns about cost pressures and economy persist, Lloyds says",
+                    "zh": "UK business morale falls as concerns about cost pressures and economy persist, Lloyds says"
+              },
+              "dek": {
+                    "en": "The development shows how cost pressure, sourcing choices and operational resilience continue to reshape supply-chain planning across industries.",
+                    "zh": "這項發展顯示成本壓力、採購選擇與營運韌性，仍持續重塑各行業的供應鏈規劃。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「UK business morale falls as concerns about cost pressures and economy persist, Lloyds says」的消息，之所以值得放進今日供應鏈版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在供應鏈脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Supply Chain新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'UK business morale falls as concerns about cost pressures and economy persist, Lloyds says' belongs in today's Supply Chain file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Supply Chain lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "sc-ai-energy-race-accelerates-sodium-battery-production",
+              "category": "supply-chain",
+              "image": "warehouse",
+              "lead": false,
+              "author": "Nina Shah",
+              "read": 5,
+              "title": {
+                    "en": "AI energy race accelerates sodium battery production",
+                    "zh": "AI energy race accelerates sodium battery production"
+              },
+              "dek": {
+                    "en": "The development shows how cost pressure, sourcing choices and operational resilience continue to reshape supply-chain planning across industries.",
+                    "zh": "這項發展顯示成本壓力、採購選擇與營運韌性，仍持續重塑各行業的供應鏈規劃。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「AI energy race accelerates sodium battery production」的消息，之所以值得放進今日供應鏈版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在供應鏈脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Supply Chain新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'AI energy race accelerates sodium battery production' belongs in today's Supply Chain file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Supply Chain lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "sc-data-centers-arent-the-real-us-power-problem-outdated-policy-is",
+              "category": "supply-chain",
+              "image": "warehouse",
+              "lead": false,
+              "author": "Nina Shah",
+              "read": 5,
+              "title": {
+                    "en": "Data centers aren't the real US power problem. Outdated policy is",
+                    "zh": "Data centers aren't the real US power problem. Outdated policy is"
+              },
+              "dek": {
+                    "en": "The development shows how cost pressure, sourcing choices and operational resilience continue to reshape supply-chain planning across industries.",
+                    "zh": "這項發展顯示成本壓力、採購選擇與營運韌性，仍持續重塑各行業的供應鏈規劃。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Data centers aren't the real US power problem. Outdated policy is」的消息，之所以值得放進今日供應鏈版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在供應鏈脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Supply Chain新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Data centers aren't the real US power problem. Outdated policy is' belongs in today's Supply Chain file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Supply Chain lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "sc-honeywell-aerospace-shares-slip-in-nasdaq-debut",
+              "category": "supply-chain",
+              "image": "warehouse",
+              "lead": false,
+              "author": "Nina Shah",
+              "read": 5,
+              "title": {
+                    "en": "Honeywell Aerospace shares slip in Nasdaq debut",
+                    "zh": "Honeywell Aerospace shares slip in Nasdaq debut"
+              },
+              "dek": {
+                    "en": "The development shows how cost pressure, sourcing choices and operational resilience continue to reshape supply-chain planning across industries.",
+                    "zh": "這項發展顯示成本壓力、採購選擇與營運韌性，仍持續重塑各行業的供應鏈規劃。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Honeywell Aerospace shares slip in Nasdaq debut」的消息，之所以值得放進今日供應鏈版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在供應鏈脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Supply Chain新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Honeywell Aerospace shares slip in Nasdaq debut' belongs in today's Supply Chain file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Supply Chain lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "mkt-facing-china-one-taiwan-coast-guard-officer-draws-strength-from-the-gods",
+              "category": "economy-markets",
+              "image": "market",
+              "lead": true,
+              "author": "Priya Raman",
+              "read": 6,
+              "title": {
+                    "en": "Facing China, one Taiwan Coast Guard officer draws strength from the gods",
+                    "zh": "Facing China, one Taiwan Coast Guard officer draws strength from the gods"
+              },
+              "dek": {
+                    "en": "Markets are reading the headline as another signal about growth, rates, risk appetite and the pricing power of major sectors.",
+                    "zh": "市場把這則消息視為另一個關於成長、利率、風險偏好與主要產業定價能力的重要訊號。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Facing China, one Taiwan Coast Guard officer draws strength from the gods」的消息，之所以值得放進今日經濟與市場版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在經濟與市場脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Economy & Markets新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Facing China, one Taiwan Coast Guard officer draws strength from the gods' belongs in today's Economy & Markets file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Economy & Markets lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "mkt-australian-charged-with-murdering-thai-girl-found-in-suitcase",
+              "category": "economy-markets",
+              "image": "market",
+              "lead": false,
+              "author": "Priya Raman",
+              "read": 5,
+              "title": {
+                    "en": "Australian charged with murdering Thai girl found in suitcase",
+                    "zh": "Australian charged with murdering Thai girl found in suitcase"
+              },
+              "dek": {
+                    "en": "Markets are reading the headline as another signal about growth, rates, risk appetite and the pricing power of major sectors.",
+                    "zh": "市場把這則消息視為另一個關於成長、利率、風險偏好與主要產業定價能力的重要訊號。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Australian charged with murdering Thai girl found in suitcase」的消息，之所以值得放進今日經濟與市場版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在經濟與市場脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Economy & Markets新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Australian charged with murdering Thai girl found in suitcase' belongs in today's Economy & Markets file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Economy & Markets lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "mkt-several-european-countries-record-their-hottest-day-ever",
+              "category": "economy-markets",
+              "image": "market",
+              "lead": false,
+              "author": "Priya Raman",
+              "read": 5,
+              "title": {
+                    "en": "Several European countries record their hottest day ever",
+                    "zh": "Several European countries record their hottest day ever"
+              },
+              "dek": {
+                    "en": "Markets are reading the headline as another signal about growth, rates, risk appetite and the pricing power of major sectors.",
+                    "zh": "市場把這則消息視為另一個關於成長、利率、風險偏好與主要產業定價能力的重要訊號。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Several European countries record their hottest day ever」的消息，之所以值得放進今日經濟與市場版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在經濟與市場脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Economy & Markets新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Several European countries record their hottest day ever' belongs in today's Economy & Markets file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Economy & Markets lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "mkt-wall-street-ends-higher-as-us-iran-attacks-ease-major-tech-related-shares-jump",
+              "category": "economy-markets",
+              "image": "market",
+              "lead": false,
+              "author": "Priya Raman",
+              "read": 5,
+              "title": {
+                    "en": "Wall Street ends higher as US, Iran attacks ease; major tech-related shares jump",
+                    "zh": "Wall Street ends higher as US, Iran attacks ease; major tech-related shares jump"
+              },
+              "dek": {
+                    "en": "Markets are reading the headline as another signal about growth, rates, risk appetite and the pricing power of major sectors.",
+                    "zh": "市場把這則消息視為另一個關於成長、利率、風險偏好與主要產業定價能力的重要訊號。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Wall Street ends higher as US, Iran attacks ease; major tech-related shares jump」的消息，之所以值得放進今日經濟與市場版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在經濟與市場脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Economy & Markets新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Wall Street ends higher as US, Iran attacks ease; major tech-related shares jump' belongs in today's Economy & Markets file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Economy & Markets lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "mkt-borrowed-money-fueling-us-stock-rally-is-getting-more-expensive",
+              "category": "economy-markets",
+              "image": "market",
+              "lead": false,
+              "author": "Priya Raman",
+              "read": 5,
+              "title": {
+                    "en": "Borrowed money fueling US stock rally is getting more expensive",
+                    "zh": "Borrowed money fueling US stock rally is getting more expensive"
+              },
+              "dek": {
+                    "en": "Markets are reading the headline as another signal about growth, rates, risk appetite and the pricing power of major sectors.",
+                    "zh": "市場把這則消息視為另一個關於成長、利率、風險偏好與主要產業定價能力的重要訊號。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Borrowed money fueling US stock rally is getting more expensive」的消息，之所以值得放進今日經濟與市場版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在經濟與市場脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Economy & Markets新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Borrowed money fueling US stock rally is getting more expensive' belongs in today's Economy & Markets file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Economy & Markets lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "energy-china-will-lead-both-renewable-energy-and-coal-consumption",
+              "category": "energy-climate",
+              "image": "energy",
+              "lead": true,
+              "author": "Amara Okafor",
+              "read": 6,
+              "title": {
+                    "en": "China will lead both renewable energy and coal consumption",
+                    "zh": "China will lead both renewable energy and coal consumption"
+              },
+              "dek": {
+                    "en": "The development links the energy transition to physical supply, climate exposure and the affordability challenges facing households, industry and governments.",
+                    "zh": "這項發展把能源轉型與實體供應、氣候暴露，以及家庭、產業與政府面臨的可負擔性挑戰連在一起。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「China will lead both renewable energy and coal consumption」的消息，之所以值得放進今日能源與氣候版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在能源與氣候脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Energy & Climate新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'China will lead both renewable energy and coal consumption' belongs in today's Energy & Climate file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Energy & Climate lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "energy-world-bank-to-abandon-goal-to-devote-45-of-lending-resources-to-climate-change-p",
+              "category": "energy-climate",
+              "image": "energy",
+              "lead": false,
+              "author": "Amara Okafor",
+              "read": 5,
+              "title": {
+                    "en": "World Bank to abandon goal to devote 45% of lending resources to climate change projects",
+                    "zh": "World Bank to abandon goal to devote 45% of lending resources to climate change projects"
+              },
+              "dek": {
+                    "en": "The development links the energy transition to physical supply, climate exposure and the affordability challenges facing households, industry and governments.",
+                    "zh": "這項發展把能源轉型與實體供應、氣候暴露，以及家庭、產業與政府面臨的可負擔性挑戰連在一起。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「World Bank to abandon goal to devote 45% of lending resources to climate change projects」的消息，之所以值得放進今日能源與氣候版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在能源與氣候脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Energy & Climate新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'World Bank to abandon goal to devote 45% of lending resources to climate change projects' belongs in today's Energy & Climate file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Energy & Climate lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "energy-new-zealand-activist-mounts-legal-challenge-to-plan-to-change-climate-law",
+              "category": "energy-climate",
+              "image": "energy",
+              "lead": false,
+              "author": "Amara Okafor",
+              "read": 5,
+              "title": {
+                    "en": "New Zealand activist mounts legal challenge to plan to change climate law",
+                    "zh": "New Zealand activist mounts legal challenge to plan to change climate law"
+              },
+              "dek": {
+                    "en": "The development links the energy transition to physical supply, climate exposure and the affordability challenges facing households, industry and governments.",
+                    "zh": "這項發展把能源轉型與實體供應、氣候暴露，以及家庭、產業與政府面臨的可負擔性挑戰連在一起。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「New Zealand activist mounts legal challenge to plan to change climate law」的消息，之所以值得放進今日能源與氣候版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在能源與氣候脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Energy & Climate新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'New Zealand activist mounts legal challenge to plan to change climate law' belongs in today's Energy & Climate file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Energy & Climate lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "energy-duke-energy-to-terminate-north-carolina-offshore-wind-lease",
+              "category": "energy-climate",
+              "image": "energy",
+              "lead": false,
+              "author": "Amara Okafor",
+              "read": 5,
+              "title": {
+                    "en": "Duke Energy to terminate North Carolina offshore wind lease",
+                    "zh": "Duke Energy to terminate North Carolina offshore wind lease"
+              },
+              "dek": {
+                    "en": "The development links the energy transition to physical supply, climate exposure and the affordability challenges facing households, industry and governments.",
+                    "zh": "這項發展把能源轉型與實體供應、氣候暴露，以及家庭、產業與政府面臨的可負擔性挑戰連在一起。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Duke Energy to terminate North Carolina offshore wind lease」的消息，之所以值得放進今日能源與氣候版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在能源與氣候脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Energy & Climate新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Duke Energy to terminate North Carolina offshore wind lease' belongs in today's Energy & Climate file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Energy & Climate lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "energy-stalled-us-permits-threaten-121-billion-in-wind-and-solar-investment-report-show",
+              "category": "energy-climate",
+              "image": "energy",
+              "lead": false,
+              "author": "Amara Okafor",
+              "read": 5,
+              "title": {
+                    "en": "Stalled US permits threaten $121 billion in wind and solar investment, report shows",
+                    "zh": "Stalled US permits threaten $121 billion in wind and solar investment, report shows"
+              },
+              "dek": {
+                    "en": "The development links the energy transition to physical supply, climate exposure and the affordability challenges facing households, industry and governments.",
+                    "zh": "這項發展把能源轉型與實體供應、氣候暴露，以及家庭、產業與政府面臨的可負擔性挑戰連在一起。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Stalled US permits threaten $121 billion in wind and solar investment, report shows」的消息，之所以值得放進今日能源與氣候版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在能源與氣候脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Energy & Climate新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Stalled US permits threaten $121 billion in wind and solar investment, report shows' belongs in today's Energy & Climate file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Energy & Climate lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "policy-proxy-advisers-notch-third-legal-win-staving-off-republican-anti-esg-rules",
+              "category": "policy-regulation",
+              "image": "policy",
+              "lead": true,
+              "author": "Leila Haddad",
+              "read": 5,
+              "title": {
+                    "en": "Proxy advisers notch third legal win staving off Republican 'anti-ESG' rules",
+                    "zh": "Proxy advisers notch third legal win staving off Republican 'anti-ESG' rules"
+              },
+              "dek": {
+                    "en": "The case shows regulators still have the power to redraw incentives, compliance burdens and competitive boundaries across major markets.",
+                    "zh": "這起事件顯示監管機關仍有能力重新劃定主要市場中的誘因、合規負擔與競爭邊界。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Proxy advisers notch third legal win staving off Republican 'anti-ESG' rules」的消息，之所以值得放進今日政策與法規版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在政策與法規脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Policy & Regulation新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Proxy advisers notch third legal win staving off Republican 'anti-ESG' rules' belongs in today's Policy & Regulation file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Policy & Regulation lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "policy-european-banks-urge-regulators-not-to-intervene-in-equity-markets",
+              "category": "policy-regulation",
+              "image": "policy",
+              "lead": false,
+              "author": "Leila Haddad",
+              "read": 4,
+              "title": {
+                    "en": "European banks urge regulators not to intervene in equity markets",
+                    "zh": "European banks urge regulators not to intervene in equity markets"
+              },
+              "dek": {
+                    "en": "The case shows regulators still have the power to redraw incentives, compliance burdens and competitive boundaries across major markets.",
+                    "zh": "這起事件顯示監管機關仍有能力重新劃定主要市場中的誘因、合規負擔與競爭邊界。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「European banks urge regulators not to intervene in equity markets」的消息，之所以值得放進今日政策與法規版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在政策與法規脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Policy & Regulation新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'European banks urge regulators not to intervene in equity markets' belongs in today's Policy & Regulation file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Policy & Regulation lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "policy-global-financial-firms-pivot-to-south-korea-cautious-on-china-and-india-survey-s",
+              "category": "policy-regulation",
+              "image": "policy",
+              "lead": false,
+              "author": "Leila Haddad",
+              "read": 4,
+              "title": {
+                    "en": "Global financial firms pivot to South Korea, cautious on China and India, survey shows",
+                    "zh": "Global financial firms pivot to South Korea, cautious on China and India, survey shows"
+              },
+              "dek": {
+                    "en": "The case shows regulators still have the power to redraw incentives, compliance burdens and competitive boundaries across major markets.",
+                    "zh": "這起事件顯示監管機關仍有能力重新劃定主要市場中的誘因、合規負擔與競爭邊界。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Global financial firms pivot to South Korea, cautious on China and India, survey shows」的消息，之所以值得放進今日政策與法規版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在政策與法規脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Policy & Regulation新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Global financial firms pivot to South Korea, cautious on China and India, survey shows' belongs in today's Policy & Regulation file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Policy & Regulation lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "policy-apple-says-india-copy-pasted-rivals-claims-in-antitrust-probe",
+              "category": "policy-regulation",
+              "image": "policy",
+              "lead": false,
+              "author": "Leila Haddad",
+              "read": 4,
+              "title": {
+                    "en": "Apple says India 'copy-pasted' rivals' claims in antitrust probe",
+                    "zh": "Apple says India 'copy-pasted' rivals' claims in antitrust probe"
+              },
+              "dek": {
+                    "en": "The case shows regulators still have the power to redraw incentives, compliance burdens and competitive boundaries across major markets.",
+                    "zh": "這起事件顯示監管機關仍有能力重新劃定主要市場中的誘因、合規負擔與競爭邊界。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Apple says India 'copy-pasted' rivals' claims in antitrust probe」的消息，之所以值得放進今日政策與法規版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在政策與法規脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Policy & Regulation新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Apple says India 'copy-pasted' rivals' claims in antitrust probe' belongs in today's Policy & Regulation file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Policy & Regulation lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "policy-eu-warns-netherlands-over-rail-rules-flags-competition-concerns",
+              "category": "policy-regulation",
+              "image": "policy",
+              "lead": false,
+              "author": "Leila Haddad",
+              "read": 4,
+              "title": {
+                    "en": "EU warns Netherlands over rail rules, flags competition concerns",
+                    "zh": "EU warns Netherlands over rail rules, flags competition concerns"
+              },
+              "dek": {
+                    "en": "The case shows regulators still have the power to redraw incentives, compliance burdens and competitive boundaries across major markets.",
+                    "zh": "這起事件顯示監管機關仍有能力重新劃定主要市場中的誘因、合規負擔與競爭邊界。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「EU warns Netherlands over rail rules, flags competition concerns」的消息，之所以值得放進今日政策與法規版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在政策與法規脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Policy & Regulation新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'EU warns Netherlands over rail rules, flags competition concerns' belongs in today's Policy & Regulation file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Policy & Regulation lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "cyber-apple-says-it-is-releasing-updates-early-in-response-to-ai-cybersecurity-concern",
+              "category": "cybersecurity",
+              "image": "cyber",
+              "lead": true,
+              "author": "Ethan Lin",
+              "read": 6,
+              "title": {
+                    "en": "Apple says it is releasing updates early in response to AI cybersecurity concerns",
+                    "zh": "Apple says it is releasing updates early in response to AI cybersecurity concerns"
+              },
+              "dek": {
+                    "en": "The incident underscores how quickly digital risk can move from technical detail to operational, legal and national-security consequence.",
+                    "zh": "這起事件凸顯數位風險如何迅速從技術細節擴大為營運、法律與國安層面的後果。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Apple says it is releasing updates early in response to AI cybersecurity concerns」的消息，之所以值得放進今日網路安全版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在網路安全脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Cybersecurity新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Apple says it is releasing updates early in response to AI cybersecurity concerns' belongs in today's Cybersecurity file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Cybersecurity lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "cyber-apple-iphone-18-pro-supplier-list-parts-and-photos-exposed-in-tata-data-leak",
+              "category": "cybersecurity",
+              "image": "cyber",
+              "lead": false,
+              "author": "Ethan Lin",
+              "read": 5,
+              "title": {
+                    "en": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak",
+                    "zh": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak"
+              },
+              "dek": {
+                    "en": "The incident underscores how quickly digital risk can move from technical detail to operational, legal and national-security consequence.",
+                    "zh": "這起事件凸顯數位風險如何迅速從技術細節擴大為營運、法律與國安層面的後果。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak」的消息，之所以值得放進今日網路安全版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在網路安全脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Cybersecurity新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak' belongs in today's Cybersecurity file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Cybersecurity lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "cyber-iran-cyberattacks-on-israel-surged-in-2026-israeli-cyber-chief-says",
+              "category": "cybersecurity",
+              "image": "cyber",
+              "lead": false,
+              "author": "Ethan Lin",
+              "read": 5,
+              "title": {
+                    "en": "Iran cyberattacks on Israel surged in 2026, Israeli cyber chief says",
+                    "zh": "Iran cyberattacks on Israel surged in 2026, Israeli cyber chief says"
+              },
+              "dek": {
+                    "en": "The incident underscores how quickly digital risk can move from technical detail to operational, legal and national-security consequence.",
+                    "zh": "這起事件凸顯數位風險如何迅速從技術細節擴大為營運、法律與國安層面的後果。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Iran cyberattacks on Israel surged in 2026, Israeli cyber chief says」的消息，之所以值得放進今日網路安全版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在網路安全脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Cybersecurity新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Iran cyberattacks on Israel surged in 2026, Israeli cyber chief says' belongs in today's Cybersecurity file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Cybersecurity lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "cyber-trump-signs-memo-making-it-easier-for-americans-to-fix-own-vehicles",
+              "category": "cybersecurity",
+              "image": "cyber",
+              "lead": false,
+              "author": "Ethan Lin",
+              "read": 5,
+              "title": {
+                    "en": "Trump signs memo making it easier for Americans to fix own vehicles",
+                    "zh": "Trump signs memo making it easier for Americans to fix own vehicles"
+              },
+              "dek": {
+                    "en": "The incident underscores how quickly digital risk can move from technical detail to operational, legal and national-security consequence.",
+                    "zh": "這起事件凸顯數位風險如何迅速從技術細節擴大為營運、法律與國安層面的後果。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Trump signs memo making it easier for Americans to fix own vehicles」的消息，之所以值得放進今日網路安全版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在網路安全脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Cybersecurity新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Trump signs memo making it easier for Americans to fix own vehicles' belongs in today's Cybersecurity file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Cybersecurity lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "cyber-iran-canceled-participation-in-technical-talks-over-recent-attacks-official-tell",
+              "category": "cybersecurity",
+              "image": "cyber",
+              "lead": false,
+              "author": "Ethan Lin",
+              "read": 5,
+              "title": {
+                    "en": "Iran canceled participation in technical talks over recent attacks, official tells state TV",
+                    "zh": "Iran canceled participation in technical talks over recent attacks, official tells state TV"
+              },
+              "dek": {
+                    "en": "The incident underscores how quickly digital risk can move from technical detail to operational, legal and national-security consequence.",
+                    "zh": "這起事件凸顯數位風險如何迅速從技術細節擴大為營運、法律與國安層面的後果。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Iran canceled participation in technical talks over recent attacks, official tells state TV」的消息，之所以值得放進今日網路安全版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在網路安全脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Cybersecurity新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Iran canceled participation in technical talks over recent attacks, official tells state TV' belongs in today's Cybersecurity file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Cybersecurity lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "infra-south-africas-takealot-swings-to-first-full-year-profit-as-revenue-tops-1-billio",
+              "category": "logistics-infrastructure",
+              "image": "infrastructure",
+              "lead": true,
+              "author": "Sofia Reyes",
+              "read": 6,
+              "title": {
+                    "en": "South Africa's Takealot swings to first full-year profit as revenue tops $1 billion",
+                    "zh": "South Africa's Takealot swings to first full-year profit as revenue tops $1 billion"
+              },
+              "dek": {
+                    "en": "The project highlights how transport capacity, industrial geography and public investment continue to shape the reliability of trade corridors.",
+                    "zh": "這項計畫凸顯運輸能力、產業地理與公共投資如何持續形塑貿易走廊的可靠性。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「South Africa's Takealot swings to first full-year profit as revenue tops $1 billion」的消息，之所以值得放進今日物流與基礎建設版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在物流與基礎建設脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Logistics & Infrastructure新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'South Africa's Takealot swings to first full-year profit as revenue tops $1 billion' belongs in today's Logistics & Infrastructure file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Logistics & Infrastructure lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "infra-cma-cgm-and-asyad-plan-400-million-terminal-at-omans-sohar-port",
+              "category": "logistics-infrastructure",
+              "image": "infrastructure",
+              "lead": false,
+              "author": "Sofia Reyes",
+              "read": 5,
+              "title": {
+                    "en": "CMA CGM and Asyad plan $400 million terminal at Oman's Sohar port",
+                    "zh": "CMA CGM and Asyad plan $400 million terminal at Oman's Sohar port"
+              },
+              "dek": {
+                    "en": "The project highlights how transport capacity, industrial geography and public investment continue to shape the reliability of trade corridors.",
+                    "zh": "這項計畫凸顯運輸能力、產業地理與公共投資如何持續形塑貿易走廊的可靠性。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「CMA CGM and Asyad plan $400 million terminal at Oman's Sohar port」的消息，之所以值得放進今日物流與基礎建設版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在物流與基礎建設脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Logistics & Infrastructure新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'CMA CGM and Asyad plan $400 million terminal at Oman's Sohar port' belongs in today's Logistics & Infrastructure file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Logistics & Infrastructure lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "infra-russia-pounds-on-the-gates-of-ukraines-fortress-belt",
+              "category": "logistics-infrastructure",
+              "image": "infrastructure",
+              "lead": false,
+              "author": "Sofia Reyes",
+              "read": 5,
+              "title": {
+                    "en": "Russia pounds on the gates of Ukraine's 'fortress belt'",
+                    "zh": "Russia pounds on the gates of Ukraine's 'fortress belt'"
+              },
+              "dek": {
+                    "en": "The project highlights how transport capacity, industrial geography and public investment continue to shape the reliability of trade corridors.",
+                    "zh": "這項計畫凸顯運輸能力、產業地理與公共投資如何持續形塑貿易走廊的可靠性。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Russia pounds on the gates of Ukraine's 'fortress belt'」的消息，之所以值得放進今日物流與基礎建設版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在物流與基礎建設脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Logistics & Infrastructure新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Russia pounds on the gates of Ukraine's 'fortress belt'' belongs in today's Logistics & Infrastructure file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Logistics & Infrastructure lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "infra-korea-taps-samsung-sk-hynix-in-576-billion-ai-chip-drive-to-cement-global-leader",
+              "category": "logistics-infrastructure",
+              "image": "infrastructure",
+              "lead": false,
+              "author": "Sofia Reyes",
+              "read": 5,
+              "title": {
+                    "en": "Korea taps Samsung, SK Hynix in $576 billion AI-chip drive to cement global leadership",
+                    "zh": "Korea taps Samsung, SK Hynix in $576 billion AI-chip drive to cement global leadership"
+              },
+              "dek": {
+                    "en": "The project highlights how transport capacity, industrial geography and public investment continue to shape the reliability of trade corridors.",
+                    "zh": "這項計畫凸顯運輸能力、產業地理與公共投資如何持續形塑貿易走廊的可靠性。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「Korea taps Samsung, SK Hynix in $576 billion AI-chip drive to cement global leadership」的消息，之所以值得放進今日物流與基礎建設版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在物流與基礎建設脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Logistics & Infrastructure新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'Korea taps Samsung, SK Hynix in $576 billion AI-chip drive to cement global leadership' belongs in today's Logistics & Infrastructure file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Logistics & Infrastructure lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        },
+        {
+              "id": "infra-how-the-china-iran-railway-outflanks-american-sea-power-gulf-times",
+              "category": "logistics-infrastructure",
+              "image": "infrastructure",
+              "lead": false,
+              "author": "Sofia Reyes",
+              "read": 5,
+              "title": {
+                    "en": "How the China-Iran railway outflanks American sea power | Gulf Times",
+                    "zh": "How the China-Iran railway outflanks American sea power | Gulf Times"
+              },
+              "dek": {
+                    "en": "The project highlights how transport capacity, industrial geography and public investment continue to shape the reliability of trade corridors.",
+                    "zh": "這項計畫凸顯運輸能力、產業地理與公共投資如何持續形塑貿易走廊的可靠性。"
+              },
+              "body": {
+                    "zh": [
+                          "這則關於「How the China-Iran railway outflanks American sea power | Gulf Times」的消息，之所以值得放進今日物流與基礎建設版面，不只是因為它提供最新進展，更因為它顯示相關系統正在如何重新分配風險、資源與決策優先順序。當外界只看 headline 時，真正重要的往往是背後被迫調整的運作邏輯。",
+                          "放在物流與基礎建設脈絡下觀察，這個發展提醒讀者：單一事件很少只是局部現象。它往往會一路傳導到政策討論、企業判斷、資本配置或供應安排，並改變參與者對下一步的預期。",
+                          "因此，對政府、企業與投資人而言，新聞的價值不只是知道發生了什麼，而是判斷哪些原本看似穩定的假設正在鬆動，哪些備援方案、時間表或溝通策略需要提前校準。這也是Logistics & Infrastructure新聞最具操作意義的地方。",
+                          "接下來更值得追蹤的是，這個訊號是否會轉化為更明確的行動，例如新的政策措施、資金決策、商業安排或執行時程。若後續落地，今天看似單點的變化，很可能會成為更廣泛調整的前奏。"
+                    ],
+                    "en": [
+                          "The development around 'How the China-Iran railway outflanks American sea power | Gulf Times' belongs in today's Logistics & Infrastructure file for more than the immediate update. It offers a useful signal about how institutions are reallocating risk, resources and decision priority underneath the headline.",
+                          "Viewed through the Logistics & Infrastructure lens, the story is unlikely to stay isolated. Events like this often flow outward into policy debate, corporate judgment, capital allocation or operating plans, changing what key actors expect next.",
+                          "That is why the item matters for governments, companies and investors alike. The practical value lies in identifying which assumptions are starting to weaken and which contingency plans, timelines or communication strategies need to be recalibrated early.",
+                          "The next thing to watch is whether the signal turns into a clearer action: a formal policy move, financing choice, commercial arrangement or implementation timetable. If that happens, today's headline may become the opening step in a broader adjustment cycle."
+                    ]
+              }
+        }
+  ];
+
   window.DAILY_NEWS_STORIES["2026-06-29"] = [
       {
             "id": "int-iran-and-us-agree-to-halt-attacks-and-renew-talks-axios-reports",

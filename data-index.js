@@ -21,6 +21,7 @@ window.DAILY_NEWS = {
   // Metadata only — no stories array here.
   // Stories are fetched on-demand from data-YYYY-MM.js files.
   editions: [
+    {"date": "2026-06-30", "color": "navy", "theme": {"en": "Conflict Signals, AI Capacity and the Price of Resilience", "zh": "衝突訊號、AI 產能與韌性的代價"}, "summary": {"en": "From diplomatic friction and AI hardware moves to World Cup pressure, maritime risk, climate policy and corridor investment, today's edition tracks how institutions are paying more to preserve resilience across connected global systems.", "zh": "從外交摩擦與 AI 硬體動向，到世界盃壓力、海運風險、氣候政策與走廊投資，今日版面聚焦各方如何付出更高成本，在彼此連動的全球系統中維持韌性。"}},
     { date: "2026-06-29", color: "navy",
       theme:   { en: "Fragile Routes, Harder Rules and the Systems Behind Confidence", zh: "脆弱航路、更嚴規則與信心背後的系統" },
       summary: { en: "From diplomacy and AI capacity to World Cup pressure, shipping risk, market repricing and infrastructure bottlenecks, today's edition tracks how institutions are rebuilding confidence across tightly connected global systems.", zh: "從外交與 AI 產能，到世界盃壓力、航運風險、市場重定價與基礎設施瓶頸，今日版面聚焦各方如何在緊密連動的全球系統中重建信心。" } },
