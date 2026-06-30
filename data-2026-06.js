@@ -15,7 +15,7 @@
               "read": 6,
               "title": {
                     "en": "North Korea's sanctioned coal trade rebounds as UN monitoring lapses, rights group says",
-                    "zh": "North Korea's sanctioned coal trade rebounds as UN monitoring lapses, rights group says"
+                    "zh": "人權團體稱，聯合國監督鬆動後，北韓受制裁煤炭貿易再度回升"
               },
               "dek": {
                     "en": "The headline highlights how diplomatic signaling, government choices and cross-border expectations can quickly alter strategic assumptions for states, companies and investors.",
@@ -45,7 +45,7 @@
               "read": 5,
               "title": {
                     "en": "Turkey's Erdogan says NATO summit must emphasise unity and resilience",
-                    "zh": "Turkey's Erdogan says NATO summit must emphasise unity and resilience"
+                    "zh": "土耳其總統艾爾段稱，北約峰會必須強調團結與韌性"
               },
               "dek": {
                     "en": "The headline highlights how diplomatic signaling, government choices and cross-border expectations can quickly alter strategic assumptions for states, companies and investors.",
@@ -75,7 +75,7 @@
               "read": 5,
               "title": {
                     "en": "Ex-prisoner questions easing Belarus sanctions as repression persists",
-                    "zh": "Ex-prisoner questions easing Belarus sanctions as repression persists"
+                    "zh": "前囚犯質疑放寬白俄羅斯制裁，稱鎮壓依舊持續"
               },
               "dek": {
                     "en": "The headline highlights how diplomatic signaling, government choices and cross-border expectations can quickly alter strategic assumptions for states, companies and investors.",
@@ -105,7 +105,7 @@
               "read": 5,
               "title": {
                     "en": "Thai lawmakers begin debate on $115 billion budget for 2027",
-                    "zh": "Thai lawmakers begin debate on $115 billion budget for 2027"
+                    "zh": "泰國國會展開對 2027 年 1150 億美元預算案的辯論"
               },
               "dek": {
                     "en": "The headline highlights how diplomatic signaling, government choices and cross-border expectations can quickly alter strategic assumptions for states, companies and investors.",
@@ -135,7 +135,7 @@
               "read": 5,
               "title": {
                     "en": "South Korea, Japan reaffirm denuclearisation goal, closer defence ties",
-                    "zh": "South Korea, Japan reaffirm denuclearisation goal, closer defence ties"
+                    "zh": "南韓與日本重申無核化目標，並加強防務合作"
               },
               "dek": {
                     "en": "The headline highlights how diplomatic signaling, government choices and cross-border expectations can quickly alter strategic assumptions for states, companies and investors.",
@@ -165,7 +165,7 @@
               "read": 6,
               "title": {
                     "en": "AI energy race accelerates sodium battery production",
-                    "zh": "AI energy race accelerates sodium battery production"
+                    "zh": "AI 能源競賽加速鈉電池量產"
               },
               "dek": {
                     "en": "The development points to another shift in the AI and semiconductor race, where hardware access, capital discipline and platform strategy are moving together.",
@@ -195,7 +195,7 @@
               "read": 5,
               "title": {
                     "en": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak",
-                    "zh": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak"
+                    "zh": "塔塔資料外洩，曝光 Apple iPhone 18 Pro 供應商名單、零件與照片"
               },
               "dek": {
                     "en": "The development points to another shift in the AI and semiconductor race, where hardware access, capital discipline and platform strategy are moving together.",
@@ -225,7 +225,7 @@
               "read": 5,
               "title": {
                     "en": "Asia shares choppy as South Korea chip push steadies sentiment; Iran truce in focus",
-                    "zh": "Asia shares choppy as South Korea chip push steadies sentiment; Iran truce in focus"
+                    "zh": "南韓晶片布局穩定市場情緒、伊朗停火受關注，亞洲股市震盪"
               },
               "dek": {
                     "en": "The development points to another shift in the AI and semiconductor race, where hardware access, capital discipline and platform strategy are moving together.",
@@ -255,7 +255,7 @@
               "read": 5,
               "title": {
                     "en": "Baidu's AI chip unit Kunlunxin targets $50 billion Hong Kong IPO, The Information reports",
-                    "zh": "Baidu's AI chip unit Kunlunxin targets $50 billion Hong Kong IPO, The Information reports"
+                    "zh": "《The Information》報導，百度 AI 晶片子公司崑崙芯瞄準 500 億美元香港 IPO"
               },
               "dek": {
                     "en": "The development points to another shift in the AI and semiconductor race, where hardware access, capital discipline and platform strategy are moving together.",
@@ -285,7 +285,7 @@
               "read": 5,
               "title": {
                     "en": "Australian charged with murdering Thai girl found in suitcase",
-                    "zh": "Australian charged with murdering Thai girl found in suitcase"
+                    "zh": "澳洲男子被控殺害陳屍行李箱的泰國女童"
               },
               "dek": {
                     "en": "The development points to another shift in the AI and semiconductor race, where hardware access, capital discipline and platform strategy are moving together.",
@@ -315,7 +315,7 @@
               "read": 5,
               "title": {
                     "en": "US face Bosnia test in World Cup Round of 32",
-                    "zh": "US face Bosnia test in World Cup Round of 32"
+                    "zh": "美國將在世界盃 32 強賽迎戰波士尼亞"
               },
               "dek": {
                     "en": "The result matters beyond the scoreboard because tournament pressure, coaching decisions and national expectations are converging in a compressed global stage.",
@@ -345,7 +345,7 @@
               "read": 4,
               "title": {
                     "en": "Substitutes shine as World Cup group stage delivers goal feast",
-                    "zh": "Substitutes shine as World Cup group stage delivers goal feast"
+                    "zh": "替補球員大放異彩，世界盃小組賽上演進球盛宴"
               },
               "dek": {
                     "en": "The result matters beyond the scoreboard because tournament pressure, coaching decisions and national expectations are converging in a compressed global stage.",
@@ -375,7 +375,7 @@
               "read": 4,
               "title": {
                     "en": "Soccer - Brazil match shows Japan closing gap on top teams, coach Moriyasu says",
-                    "zh": "Soccer - Brazil match shows Japan closing gap on top teams, coach Moriyasu says"
+                    "zh": "足球／森保一表示，對巴西一役顯示日本正縮小與頂尖強隊的差距"
               },
               "dek": {
                     "en": "The result matters beyond the scoreboard because tournament pressure, coaching decisions and national expectations are converging in a compressed global stage.",
@@ -405,7 +405,7 @@
               "read": 4,
               "title": {
                     "en": "Canada gets a new kind of sporting hero, and they don't wear ice skates",
-                    "zh": "Canada gets a new kind of sporting hero, and they don't wear ice skates"
+                    "zh": "加拿大迎來一種新的體壇英雄，而且他們不穿冰刀"
               },
               "dek": {
                     "en": "The result matters beyond the scoreboard because tournament pressure, coaching decisions and national expectations are converging in a compressed global stage.",
@@ -435,7 +435,7 @@
               "read": 4,
               "title": {
                     "en": "Belgium's golden generation face Senegal in last-chance saloon",
-                    "zh": "Belgium's golden generation face Senegal in last-chance saloon"
+                    "zh": "比利時黃金世代在最後機會之戰中迎戰塞內加爾"
               },
               "dek": {
                     "en": "The result matters beyond the scoreboard because tournament pressure, coaching decisions and national expectations are converging in a compressed global stage.",
@@ -465,7 +465,7 @@
               "read": 6,
               "title": {
                     "en": "Middle East producers push on with oil and LNG loadings despite ship attacks",
-                    "zh": "Middle East producers push on with oil and LNG loadings despite ship attacks"
+                    "zh": "儘管船隻遇襲，中東產油國仍持續裝載石油與液化天然氣"
               },
               "dek": {
                     "en": "The story captures how freight risk, energy flows and maritime operating decisions are being repriced as carriers manage conflict, insurance and route volatility.",
@@ -495,7 +495,7 @@
               "read": 5,
               "title": {
                     "en": "Oil settles up on US-Iran strikes; cautious hopes for shipping cap gains",
-                    "zh": "Oil settles up on US-Iran strikes; cautious hopes for shipping cap gains"
+                    "zh": "美伊交火後油價收高；市場對航運運能增長抱持審慎希望"
               },
               "dek": {
                     "en": "The story captures how freight risk, energy flows and maritime operating decisions are being repriced as carriers manage conflict, insurance and route volatility.",
@@ -525,7 +525,7 @@
               "read": 5,
               "title": {
                     "en": "Morning Bid: Weekend wars",
-                    "zh": "Morning Bid: Weekend wars"
+                    "zh": "晨間市場速遞：週末戰事"
               },
               "dek": {
                     "en": "The story captures how freight risk, energy flows and maritime operating decisions are being repriced as carriers manage conflict, insurance and route volatility.",
@@ -555,7 +555,7 @@
               "read": 5,
               "title": {
                     "en": "Japan targets more than doubling real growth to over 1% in economic blueprint",
-                    "zh": "Japan targets more than doubling real growth to over 1% in economic blueprint"
+                    "zh": "日本在經濟藍圖中設定實質成長率倍增至逾 1% 的目標"
               },
               "dek": {
                     "en": "The story captures how freight risk, energy flows and maritime operating decisions are being repriced as carriers manage conflict, insurance and route volatility.",
@@ -585,7 +585,7 @@
               "read": 5,
               "title": {
                     "en": "Facing China, one Taiwan Coast Guard officer draws strength from the gods",
-                    "zh": "Facing China, one Taiwan Coast Guard officer draws strength from the gods"
+                    "zh": "面對中國，一名台灣海巡軍官從眾神信仰中汲取力量"
               },
               "dek": {
                     "en": "The story captures how freight risk, energy flows and maritime operating decisions are being repriced as carriers manage conflict, insurance and route volatility.",
@@ -615,7 +615,7 @@
               "read": 6,
               "title": {
                     "en": "Trump’s tariffs aren’t saving jobs at Whirlpool’s Iowa refrigerator plant",
-                    "zh": "Trump’s tariffs aren’t saving jobs at Whirlpool’s Iowa refrigerator plant"
+                    "zh": "川普關稅未能挽救惠而浦愛荷華州冰箱工廠的就業"
               },
               "dek": {
                     "en": "The development shows how cost pressure, sourcing choices and operational resilience continue to reshape supply-chain planning across industries.",
@@ -645,7 +645,7 @@
               "read": 5,
               "title": {
                     "en": "UK business morale falls as concerns about cost pressures and economy persist, Lloyds says",
-                    "zh": "UK business morale falls as concerns about cost pressures and economy persist, Lloyds says"
+                    "zh": "勞埃德銀行稱，隨著成本壓力與經濟疑慮持續，英國企業信心下滑"
               },
               "dek": {
                     "en": "The development shows how cost pressure, sourcing choices and operational resilience continue to reshape supply-chain planning across industries.",
@@ -675,7 +675,7 @@
               "read": 5,
               "title": {
                     "en": "AI energy race accelerates sodium battery production",
-                    "zh": "AI energy race accelerates sodium battery production"
+                    "zh": "AI 能源競賽加速鈉電池量產"
               },
               "dek": {
                     "en": "The development shows how cost pressure, sourcing choices and operational resilience continue to reshape supply-chain planning across industries.",
@@ -705,7 +705,7 @@
               "read": 5,
               "title": {
                     "en": "Data centers aren't the real US power problem. Outdated policy is",
-                    "zh": "Data centers aren't the real US power problem. Outdated policy is"
+                    "zh": "資料中心並非美國電力問題的真正根源，過時政策才是"
               },
               "dek": {
                     "en": "The development shows how cost pressure, sourcing choices and operational resilience continue to reshape supply-chain planning across industries.",
@@ -735,7 +735,7 @@
               "read": 5,
               "title": {
                     "en": "Honeywell Aerospace shares slip in Nasdaq debut",
-                    "zh": "Honeywell Aerospace shares slip in Nasdaq debut"
+                    "zh": "Honeywell Aerospace 股份在那斯達克掛牌首日下跌"
               },
               "dek": {
                     "en": "The development shows how cost pressure, sourcing choices and operational resilience continue to reshape supply-chain planning across industries.",
@@ -765,7 +765,7 @@
               "read": 6,
               "title": {
                     "en": "Facing China, one Taiwan Coast Guard officer draws strength from the gods",
-                    "zh": "Facing China, one Taiwan Coast Guard officer draws strength from the gods"
+                    "zh": "面對中國，一名台灣海巡軍官從眾神信仰中汲取力量"
               },
               "dek": {
                     "en": "Markets are reading the headline as another signal about growth, rates, risk appetite and the pricing power of major sectors.",
@@ -795,7 +795,7 @@
               "read": 5,
               "title": {
                     "en": "Australian charged with murdering Thai girl found in suitcase",
-                    "zh": "Australian charged with murdering Thai girl found in suitcase"
+                    "zh": "澳洲男子被控殺害陳屍行李箱的泰國女童"
               },
               "dek": {
                     "en": "Markets are reading the headline as another signal about growth, rates, risk appetite and the pricing power of major sectors.",
@@ -825,7 +825,7 @@
               "read": 5,
               "title": {
                     "en": "Several European countries record their hottest day ever",
-                    "zh": "Several European countries record their hottest day ever"
+                    "zh": "多個歐洲國家錄得史上最熱的一天"
               },
               "dek": {
                     "en": "Markets are reading the headline as another signal about growth, rates, risk appetite and the pricing power of major sectors.",
@@ -855,7 +855,7 @@
               "read": 5,
               "title": {
                     "en": "Wall Street ends higher as US, Iran attacks ease; major tech-related shares jump",
-                    "zh": "Wall Street ends higher as US, Iran attacks ease; major tech-related shares jump"
+                    "zh": "隨著美伊衝突緩和、科技類股勁揚，華爾街收高"
               },
               "dek": {
                     "en": "Markets are reading the headline as another signal about growth, rates, risk appetite and the pricing power of major sectors.",
@@ -885,7 +885,7 @@
               "read": 5,
               "title": {
                     "en": "Borrowed money fueling US stock rally is getting more expensive",
-                    "zh": "Borrowed money fueling US stock rally is getting more expensive"
+                    "zh": "推動美股漲勢的槓桿資金正變得越來越昂貴"
               },
               "dek": {
                     "en": "Markets are reading the headline as another signal about growth, rates, risk appetite and the pricing power of major sectors.",
@@ -915,7 +915,7 @@
               "read": 6,
               "title": {
                     "en": "China will lead both renewable energy and coal consumption",
-                    "zh": "China will lead both renewable energy and coal consumption"
+                    "zh": "中國將同時領先再生能源與煤炭消費"
               },
               "dek": {
                     "en": "The development links the energy transition to physical supply, climate exposure and the affordability challenges facing households, industry and governments.",
@@ -945,7 +945,7 @@
               "read": 5,
               "title": {
                     "en": "World Bank to abandon goal to devote 45% of lending resources to climate change projects",
-                    "zh": "World Bank to abandon goal to devote 45% of lending resources to climate change projects"
+                    "zh": "世界銀行將放棄把 45% 放款資源投入氣候變遷項目的目標"
               },
               "dek": {
                     "en": "The development links the energy transition to physical supply, climate exposure and the affordability challenges facing households, industry and governments.",
@@ -975,7 +975,7 @@
               "read": 5,
               "title": {
                     "en": "New Zealand activist mounts legal challenge to plan to change climate law",
-                    "zh": "New Zealand activist mounts legal challenge to plan to change climate law"
+                    "zh": "紐西蘭倡議人士就修改氣候法的計畫提起法律挑戰"
               },
               "dek": {
                     "en": "The development links the energy transition to physical supply, climate exposure and the affordability challenges facing households, industry and governments.",
@@ -1005,7 +1005,7 @@
               "read": 5,
               "title": {
                     "en": "Duke Energy to terminate North Carolina offshore wind lease",
-                    "zh": "Duke Energy to terminate North Carolina offshore wind lease"
+                    "zh": "Duke Energy 將終止北卡羅來納州離岸風電租約"
               },
               "dek": {
                     "en": "The development links the energy transition to physical supply, climate exposure and the affordability challenges facing households, industry and governments.",
@@ -1035,7 +1035,7 @@
               "read": 5,
               "title": {
                     "en": "Stalled US permits threaten $121 billion in wind and solar investment, report shows",
-                    "zh": "Stalled US permits threaten $121 billion in wind and solar investment, report shows"
+                    "zh": "報告指出，美國許可程序停滯威脅 1210 億美元風電與太陽能投資"
               },
               "dek": {
                     "en": "The development links the energy transition to physical supply, climate exposure and the affordability challenges facing households, industry and governments.",
@@ -1065,7 +1065,7 @@
               "read": 5,
               "title": {
                     "en": "Proxy advisers notch third legal win staving off Republican 'anti-ESG' rules",
-                    "zh": "Proxy advisers notch third legal win staving off Republican 'anti-ESG' rules"
+                    "zh": "代理投票顧問贏得第三場法律勝利，暫時擋下共和黨的「反 ESG」規則"
               },
               "dek": {
                     "en": "The case shows regulators still have the power to redraw incentives, compliance burdens and competitive boundaries across major markets.",
@@ -1095,7 +1095,7 @@
               "read": 4,
               "title": {
                     "en": "European banks urge regulators not to intervene in equity markets",
-                    "zh": "European banks urge regulators not to intervene in equity markets"
+                    "zh": "歐洲銀行呼籲監管機關不要干預股票市場"
               },
               "dek": {
                     "en": "The case shows regulators still have the power to redraw incentives, compliance burdens and competitive boundaries across major markets.",
@@ -1125,7 +1125,7 @@
               "read": 4,
               "title": {
                     "en": "Global financial firms pivot to South Korea, cautious on China and India, survey shows",
-                    "zh": "Global financial firms pivot to South Korea, cautious on China and India, survey shows"
+                    "zh": "調查顯示，全球金融機構轉向南韓，對中國與印度保持審慎"
               },
               "dek": {
                     "en": "The case shows regulators still have the power to redraw incentives, compliance burdens and competitive boundaries across major markets.",
@@ -1155,7 +1155,7 @@
               "read": 4,
               "title": {
                     "en": "Apple says India 'copy-pasted' rivals' claims in antitrust probe",
-                    "zh": "Apple says India 'copy-pasted' rivals' claims in antitrust probe"
+                    "zh": "Apple 稱，印度在反壟斷調查中「照抄」競爭對手的指控"
               },
               "dek": {
                     "en": "The case shows regulators still have the power to redraw incentives, compliance burdens and competitive boundaries across major markets.",
@@ -1185,7 +1185,7 @@
               "read": 4,
               "title": {
                     "en": "EU warns Netherlands over rail rules, flags competition concerns",
-                    "zh": "EU warns Netherlands over rail rules, flags competition concerns"
+                    "zh": "歐盟就鐵路規則警告荷蘭，並指出競爭疑慮"
               },
               "dek": {
                     "en": "The case shows regulators still have the power to redraw incentives, compliance burdens and competitive boundaries across major markets.",
@@ -1215,7 +1215,7 @@
               "read": 6,
               "title": {
                     "en": "Apple says it is releasing updates early in response to AI cybersecurity concerns",
-                    "zh": "Apple says it is releasing updates early in response to AI cybersecurity concerns"
+                    "zh": "Apple 表示，因應 AI 資安疑慮而提前釋出更新"
               },
               "dek": {
                     "en": "The incident underscores how quickly digital risk can move from technical detail to operational, legal and national-security consequence.",
@@ -1245,7 +1245,7 @@
               "read": 5,
               "title": {
                     "en": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak",
-                    "zh": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak"
+                    "zh": "塔塔資料外洩，曝光 Apple iPhone 18 Pro 供應商名單、零件與照片"
               },
               "dek": {
                     "en": "The incident underscores how quickly digital risk can move from technical detail to operational, legal and national-security consequence.",
@@ -1275,7 +1275,7 @@
               "read": 5,
               "title": {
                     "en": "Iran cyberattacks on Israel surged in 2026, Israeli cyber chief says",
-                    "zh": "Iran cyberattacks on Israel surged in 2026, Israeli cyber chief says"
+                    "zh": "以色列資安首長稱，伊朗對以色列的網路攻擊在 2026 年激增"
               },
               "dek": {
                     "en": "The incident underscores how quickly digital risk can move from technical detail to operational, legal and national-security consequence.",
@@ -1305,7 +1305,7 @@
               "read": 5,
               "title": {
                     "en": "Trump signs memo making it easier for Americans to fix own vehicles",
-                    "zh": "Trump signs memo making it easier for Americans to fix own vehicles"
+                    "zh": "川普簽署備忘錄，讓美國人更容易自行維修車輛"
               },
               "dek": {
                     "en": "The incident underscores how quickly digital risk can move from technical detail to operational, legal and national-security consequence.",
@@ -1335,7 +1335,7 @@
               "read": 5,
               "title": {
                     "en": "Iran canceled participation in technical talks over recent attacks, official tells state TV",
-                    "zh": "Iran canceled participation in technical talks over recent attacks, official tells state TV"
+                    "zh": "官員告訴國營電視台，伊朗因近期攻擊取消參與技術會談"
               },
               "dek": {
                     "en": "The incident underscores how quickly digital risk can move from technical detail to operational, legal and national-security consequence.",
@@ -1365,7 +1365,7 @@
               "read": 6,
               "title": {
                     "en": "South Africa's Takealot swings to first full-year profit as revenue tops $1 billion",
-                    "zh": "South Africa's Takealot swings to first full-year profit as revenue tops $1 billion"
+                    "zh": "南非 Takealot 全年營收突破 10 億美元，首度轉為全年獲利"
               },
               "dek": {
                     "en": "The project highlights how transport capacity, industrial geography and public investment continue to shape the reliability of trade corridors.",
@@ -1395,7 +1395,7 @@
               "read": 5,
               "title": {
                     "en": "CMA CGM and Asyad plan $400 million terminal at Oman's Sohar port",
-                    "zh": "CMA CGM and Asyad plan $400 million terminal at Oman's Sohar port"
+                    "zh": "CMA CGM 與 Asyad 計畫在阿曼蘇哈爾港投資 4 億美元興建碼頭"
               },
               "dek": {
                     "en": "The project highlights how transport capacity, industrial geography and public investment continue to shape the reliability of trade corridors.",
@@ -1425,7 +1425,7 @@
               "read": 5,
               "title": {
                     "en": "Russia pounds on the gates of Ukraine's 'fortress belt'",
-                    "zh": "Russia pounds on the gates of Ukraine's 'fortress belt'"
+                    "zh": "俄羅斯猛攻烏克蘭「堡壘防線」門戶"
               },
               "dek": {
                     "en": "The project highlights how transport capacity, industrial geography and public investment continue to shape the reliability of trade corridors.",
@@ -1455,7 +1455,7 @@
               "read": 5,
               "title": {
                     "en": "Korea taps Samsung, SK Hynix in $576 billion AI-chip drive to cement global leadership",
-                    "zh": "Korea taps Samsung, SK Hynix in $576 billion AI-chip drive to cement global leadership"
+                    "zh": "南韓啟動 5760 億美元 AI 晶片計畫，攜手三星與 SK 海力士鞏固全球領導地位"
               },
               "dek": {
                     "en": "The project highlights how transport capacity, industrial geography and public investment continue to shape the reliability of trade corridors.",
@@ -1485,7 +1485,7 @@
               "read": 5,
               "title": {
                     "en": "How the China-Iran railway outflanks American sea power | Gulf Times",
-                    "zh": "How the China-Iran railway outflanks American sea power | Gulf Times"
+                    "zh": "中伊鐵路如何繞過美國海權｜Gulf Times"
               },
               "dek": {
                     "en": "The project highlights how transport capacity, industrial geography and public investment continue to shape the reliability of trade corridors.",
