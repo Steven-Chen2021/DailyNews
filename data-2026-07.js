@@ -5,6 +5,1509 @@
 (function () {
   window.DAILY_NEWS_STORIES = window.DAILY_NEWS_STORIES || {};
 
+  window.DAILY_NEWS_STORIES["2026-07-02"] = [
+        {
+                "id": "inter-u-s-iran-talks-conclude-in-doha-focused-on-strait",
+                "category": "international",
+                "image": "meeting",
+                "lead": true,
+                "author": "Maya Chen",
+                "read": 7,
+                "title": {
+                        "en": "U.S., Iran talks conclude in Doha, focused on Strait",
+                        "zh": "美伊杜哈會談結束，焦點轉向海峽局勢"
+                },
+                "dek": {
+                        "en": "The story highlights how diplomatic signalling and statecraft are reshaping cross-border expectations for governments, companies and investors.",
+                        "zh": "這則消息凸顯外交訊號與國家戰略，正如何重塑政府、企業與投資人的跨境預期。"
+                },
+                "body": {
+                        "zh": [
+                                "「美伊杜哈會談結束，焦點轉向海峽局勢」值得收入今日國際新聞版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「美伊杜哈會談結束，焦點轉向海峽局勢」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從國際新聞的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'U.S., Iran talks conclude in Doha, focused on Strait' belongs in today's International file for more than the immediate update. Reuters framed the immediate development around u.s., iran talks conclude in doha, focused on strait. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the International lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "inter-japan-fx-diplomat-says-intervention-effective-us-supportive-bloomberg-news-repor",
+                "category": "international",
+                "image": "meeting",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 7,
+                "title": {
+                        "en": "Japan FX diplomat says intervention effective, US 'supportive', Bloomberg News reports",
+                        "zh": "日本匯率官員稱干預奏效，美方態度「支持」"
+                },
+                "dek": {
+                        "en": "The story highlights how diplomatic signalling and statecraft are reshaping cross-border expectations for governments, companies and investors.",
+                        "zh": "這則消息凸顯外交訊號與國家戰略，正如何重塑政府、企業與投資人的跨境預期。"
+                },
+                "body": {
+                        "zh": [
+                                "「日本匯率官員稱干預奏效，美方態度「支持」」值得收入今日國際新聞版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「日本匯率官員稱干預奏效，美方態度「支持」」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從國際新聞的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Japan FX diplomat says intervention effective, US 'supportive', Bloomberg News reports' belongs in today's International file for more than the immediate update. Reuters framed the immediate development around japan fx diplomat says intervention effective, us 'supportive', bloomberg news reports. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the International lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "inter-iran-says-it-won-t-meet-with-u-s-envoys-clouding-prospects-for-peace-deal",
+                "category": "international",
+                "image": "meeting",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 7,
+                "title": {
+                        "en": "Iran says it won't meet with U.S. envoys, clouding prospects for peace deal",
+                        "zh": "伊朗稱不會會見美國特使，和平協議前景轉黯"
+                },
+                "dek": {
+                        "en": "The story highlights how diplomatic signalling and statecraft are reshaping cross-border expectations for governments, companies and investors.",
+                        "zh": "這則消息凸顯外交訊號與國家戰略，正如何重塑政府、企業與投資人的跨境預期。"
+                },
+                "body": {
+                        "zh": [
+                                "「伊朗稱不會會見美國特使，和平協議前景轉黯」值得收入今日國際新聞版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「伊朗稱不會會見美國特使，和平協議前景轉黯」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從國際新聞的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Iran says it won't meet with U.S. envoys, clouding prospects for peace deal' belongs in today's International file for more than the immediate update. Reuters framed the immediate development around iran says it won't meet with u.s. envoys, clouding prospects for peace deal. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the International lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "inter-germany-s-top-diplomat-says-eu-mercosur-deal-still-has-issues-to-resolve",
+                "category": "international",
+                "image": "meeting",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 7,
+                "title": {
+                        "en": "Germany's top diplomat says EU-Mercosur deal still has issues to resolve",
+                        "zh": "德國外長稱歐盟與南方共同市場協議仍有難題待解"
+                },
+                "dek": {
+                        "en": "The story highlights how diplomatic signalling and statecraft are reshaping cross-border expectations for governments, companies and investors.",
+                        "zh": "這則消息凸顯外交訊號與國家戰略，正如何重塑政府、企業與投資人的跨境預期。"
+                },
+                "body": {
+                        "zh": [
+                                "「德國外長稱歐盟與南方共同市場協議仍有難題待解」值得收入今日國際新聞版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「德國外長稱歐盟與南方共同市場協議仍有難題待解」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從國際新聞的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Germany's top diplomat says EU-Mercosur deal still has issues to resolve' belongs in today's International file for more than the immediate update. Reuters framed the immediate development around germany's top diplomat says eu-mercosur deal still has issues to resolve. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the International lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "inter-syria-s-sharaa-appoints-lawmakers-paving-way-for-new-parliament-to-convene",
+                "category": "international",
+                "image": "meeting",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 7,
+                "title": {
+                        "en": "Syria's Sharaa appoints lawmakers, paving way for new parliament to convene",
+                        "zh": "敘利亞夏拉任命議員，為新國會召開鋪路"
+                },
+                "dek": {
+                        "en": "The story highlights how diplomatic signalling and statecraft are reshaping cross-border expectations for governments, companies and investors.",
+                        "zh": "這則消息凸顯外交訊號與國家戰略，正如何重塑政府、企業與投資人的跨境預期。"
+                },
+                "body": {
+                        "zh": [
+                                "「敘利亞夏拉任命議員，為新國會召開鋪路」值得收入今日國際新聞版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「敘利亞夏拉任命議員，為新國會召開鋪路」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從國際新聞的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Syria's Sharaa appoints lawmakers, paving way for new parliament to convene' belongs in today's International file for more than the immediate update. Reuters framed the immediate development around syria's sharaa appoints lawmakers, paving way for new parliament to convene. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the International lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "techn-foreigners-dump-asia-stocks-at-record-pace-as-ai-winners-get-crowded",
+                "category": "technology",
+                "image": "technology",
+                "lead": true,
+                "author": "Maya Chen",
+                "read": 6,
+                "title": {
+                        "en": "Foreigners dump Asia stocks at record pace as AI winners get crowded",
+                        "zh": "外資以破紀錄速度拋售亞洲股票，AI 贏家交易過度擁擠"
+                },
+                "dek": {
+                        "en": "The development shows how AI capacity, chips and digital infrastructure are being repriced across industry, finance and policy.",
+                        "zh": "這項發展顯示 AI 產能、晶片與數位基礎設施，正如何在產業、金融與政策之間被重新定價。"
+                },
+                "body": {
+                        "zh": [
+                                "「外資以破紀錄速度拋售亞洲股票，AI 贏家交易過度擁擠」值得收入今日科技版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「外資以破紀錄速度拋售亞洲股票，AI 贏家交易過度擁擠」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從科技的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Foreigners dump Asia stocks at record pace as AI winners get crowded' belongs in today's Technology file for more than the immediate update. Reuters framed the immediate development around foreigners dump asia stocks at record pace as ai winners get crowded. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Technology lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "techn-how-a-uk-based-company-is-using-ai-to-help-decode-team-dynamics",
+                "category": "technology",
+                "image": "technology",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 6,
+                "title": {
+                        "en": "How a UK-based company is using AI to help decode team dynamics",
+                        "zh": "英國公司如何利用 AI 解讀團隊互動"
+                },
+                "dek": {
+                        "en": "The development shows how AI capacity, chips and digital infrastructure are being repriced across industry, finance and policy.",
+                        "zh": "這項發展顯示 AI 產能、晶片與數位基礎設施，正如何在產業、金融與政策之間被重新定價。"
+                },
+                "body": {
+                        "zh": [
+                                "「英國公司如何利用 AI 解讀團隊互動」值得收入今日科技版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「英國公司如何利用 AI 解讀團隊互動」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從科技的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'How a UK-based company is using AI to help decode team dynamics' belongs in today's Technology file for more than the immediate update. Reuters framed the immediate development around how a uk-based company is using ai to help decode team dynamics. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Technology lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "techn-china-factory-activity-returns-to-expansion-riding-ai-global-boom",
+                "category": "technology",
+                "image": "technology",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 6,
+                "title": {
+                        "en": "China factory activity returns to expansion riding AI global boom",
+                        "zh": "受全球 AI 熱潮帶動，中國製造業活動重回擴張"
+                },
+                "dek": {
+                        "en": "The development shows how AI capacity, chips and digital infrastructure are being repriced across industry, finance and policy.",
+                        "zh": "這項發展顯示 AI 產能、晶片與數位基礎設施，正如何在產業、金融與政策之間被重新定價。"
+                },
+                "body": {
+                        "zh": [
+                                "「受全球 AI 熱潮帶動，中國製造業活動重回擴張」值得收入今日科技版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「受全球 AI 熱潮帶動，中國製造業活動重回擴張」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從科技的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'China factory activity returns to expansion riding AI global boom' belongs in today's Technology file for more than the immediate update. Reuters framed the immediate development around china factory activity returns to expansion riding ai global boom. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Technology lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "techn-china-s-nexchip-semiconductor-seeks-up-to-890-3-million-in-hong-kong-share-sale",
+                "category": "technology",
+                "image": "technology",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 6,
+                "title": {
+                        "en": "China's Nexchip Semiconductor seeks up to $890.3 million in Hong Kong share sale",
+                        "zh": "中國晶合集成擬於香港售股籌資最高 8.903 億美元"
+                },
+                "dek": {
+                        "en": "The development shows how AI capacity, chips and digital infrastructure are being repriced across industry, finance and policy.",
+                        "zh": "這項發展顯示 AI 產能、晶片與數位基礎設施，正如何在產業、金融與政策之間被重新定價。"
+                },
+                "body": {
+                        "zh": [
+                                "「中國晶合集成擬於香港售股籌資最高 8.903 億美元」值得收入今日科技版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「中國晶合集成擬於香港售股籌資最高 8.903 億美元」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從科技的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'China's Nexchip Semiconductor seeks up to $890.3 million in Hong Kong share sale' belongs in today's Technology file for more than the immediate update. Reuters framed the immediate development around china's nexchip semiconductor seeks up to $890.3 million in hong kong share sale. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Technology lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "techn-factory-activity-was-strong-in-june-despite-war-driven-cost-pressures-pmis-show",
+                "category": "technology",
+                "image": "technology",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 6,
+                "title": {
+                        "en": "Factory activity was strong in June despite war-driven cost pressures, PMIs show",
+                        "zh": "PMI 顯示 6 月工廠活動穩健，戰事推升成本壓力"
+                },
+                "dek": {
+                        "en": "The development shows how AI capacity, chips and digital infrastructure are being repriced across industry, finance and policy.",
+                        "zh": "這項發展顯示 AI 產能、晶片與數位基礎設施，正如何在產業、金融與政策之間被重新定價。"
+                },
+                "body": {
+                        "zh": [
+                                "「PMI 顯示 6 月工廠活動穩健，戰事推升成本壓力」值得收入今日科技版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「PMI 顯示 6 月工廠活動穩健，戰事推升成本壓力」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從科技的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Factory activity was strong in June despite war-driven cost pressures, PMIs show' belongs in today's Technology file for more than the immediate update. Reuters framed the immediate development around factory activity was strong in june despite war-driven cost pressures, pmis show. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Technology lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "sport-it-s-crazy-broadcasters-toil-and-revel-in-supersized-world-cup",
+                "category": "sports",
+                "image": "stadium",
+                "lead": true,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "'It's crazy': Broadcasters toil, and revel, in supersized World Cup",
+                        "zh": "「太瘋狂了」：轉播商在擴編世界盃中苦並樂著"
+                },
+                "dek": {
+                        "en": "The story matters because global sport now also moves capital, urban branding, media attention and political symbolism.",
+                        "zh": "這則消息之所以重要，在於全球體育賽事如今同時牽動資本流向、城市形象、媒體焦點與政治象徵。"
+                },
+                "body": {
+                        "zh": [
+                                "「「太瘋狂了」：轉播商在擴編世界盃中苦並樂著」值得收入今日體育版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「「太瘋狂了」：轉播商在擴編世界盃中苦並樂著」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從體育的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "''It's crazy': Broadcasters toil, and revel, in supersized World Cup' belongs in today's Sports file for more than the immediate update. Reuters framed the immediate development around 'it's crazy': broadcasters toil, and revel, in supersized world cup. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Sports lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "sport-inglewood-once-known-for-danger-uses-world-cup-to-rebrand-as-a-fun-place",
+                "category": "sports",
+                "image": "stadium",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "Inglewood, once known for danger, uses World Cup to rebrand as a fun place",
+                        "zh": "曾以治安不佳聞名的英格伍德，藉世界盃重塑城市形象"
+                },
+                "dek": {
+                        "en": "The story matters because global sport now also moves capital, urban branding, media attention and political symbolism.",
+                        "zh": "這則消息之所以重要，在於全球體育賽事如今同時牽動資本流向、城市形象、媒體焦點與政治象徵。"
+                },
+                "body": {
+                        "zh": [
+                                "「曾以治安不佳聞名的英格伍德，藉世界盃重塑城市形象」值得收入今日體育版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「曾以治安不佳聞名的英格伍德，藉世界盃重塑城市形象」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從體育的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Inglewood, once known for danger, uses World Cup to rebrand as a fun place' belongs in today's Sports file for more than the immediate update. Reuters framed the immediate development around inglewood, once known for danger, uses world cup to rebrand as a fun place. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Sports lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "sport-former-football-behemoths-tumble-in-new-world-cup-order",
+                "category": "sports",
+                "image": "stadium",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "Former football behemoths tumble in new World Cup order",
+                        "zh": "舊日足球強權在新版世界盃秩序中接連滑落"
+                },
+                "dek": {
+                        "en": "The story matters because global sport now also moves capital, urban branding, media attention and political symbolism.",
+                        "zh": "這則消息之所以重要，在於全球體育賽事如今同時牽動資本流向、城市形象、媒體焦點與政治象徵。"
+                },
+                "body": {
+                        "zh": [
+                                "「舊日足球強權在新版世界盃秩序中接連滑落」值得收入今日體育版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「舊日足球強權在新版世界盃秩序中接連滑落」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從體育的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Former football behemoths tumble in new World Cup order' belongs in today's Sports file for more than the immediate update. Reuters framed the immediate development around former football behemoths tumble in new world cup order. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Sports lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "sport-france-s-fearsome-attack-enters-debate-over-world-cup-s-greatest-forward-line",
+                "category": "sports",
+                "image": "stadium",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "France's fearsome attack enters debate over World Cup's greatest forward line",
+                        "zh": "法國強大鋒線加入世界盃史上最佳進攻組合之爭"
+                },
+                "dek": {
+                        "en": "The story matters because global sport now also moves capital, urban branding, media attention and political symbolism.",
+                        "zh": "這則消息之所以重要，在於全球體育賽事如今同時牽動資本流向、城市形象、媒體焦點與政治象徵。"
+                },
+                "body": {
+                        "zh": [
+                                "「法國強大鋒線加入世界盃史上最佳進攻組合之爭」值得收入今日體育版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「法國強大鋒線加入世界盃史上最佳進攻組合之爭」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從體育的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'France's fearsome attack enters debate over World Cup's greatest forward line' belongs in today's Sports file for more than the immediate update. Reuters framed the immediate development around france's fearsome attack enters debate over world cup's greatest forward line. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Sports lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "sport-four-dead-as-huge-crowds-celebrate-mexico-s-world-cup-win",
+                "category": "sports",
+                "image": "stadium",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "Four dead as huge crowds celebrate Mexico's World Cup win",
+                        "zh": "墨西哥世界盃奪冠慶典爆發踩踏，4 人喪生"
+                },
+                "dek": {
+                        "en": "The story matters because global sport now also moves capital, urban branding, media attention and political symbolism.",
+                        "zh": "這則消息之所以重要，在於全球體育賽事如今同時牽動資本流向、城市形象、媒體焦點與政治象徵。"
+                },
+                "body": {
+                        "zh": [
+                                "「墨西哥世界盃奪冠慶典爆發踩踏，4 人喪生」值得收入今日體育版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「墨西哥世界盃奪冠慶典爆發踩踏，4 人喪生」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從體育的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Four dead as huge crowds celebrate Mexico's World Cup win' belongs in today's Sports file for more than the immediate update. Reuters framed the immediate development around four dead as huge crowds celebrate mexico's world cup win. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Sports lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "shipp-u-s-iran-talks-conclude-in-doha-focused-on-strait",
+                "category": "shipping",
+                "image": "shipping",
+                "lead": true,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "U.S., Iran talks conclude in Doha, focused on Strait",
+                        "zh": "美伊杜哈會談落幕，海峽航運安全成焦點"
+                },
+                "dek": {
+                        "en": "The item shows how sea lanes, maritime rules and vessel security are influencing trade flows and operating costs.",
+                        "zh": "這則消息顯示海上航道、航運規則與船舶安全，正如何影響貿易流向與營運成本。"
+                },
+                "body": {
+                        "zh": [
+                                "「美伊杜哈會談落幕，海峽航運安全成焦點」值得收入今日航運版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「美伊杜哈會談落幕，海峽航運安全成焦點」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從航運的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'U.S., Iran talks conclude in Doha, focused on Strait' belongs in today's Shipping file for more than the immediate update. Reuters framed the immediate development around u.s., iran talks conclude in doha, focused on strait. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Shipping lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "shipp-house-republican-leaders-urge-trump-to-let-jones-act-waivers-expire-as-scheduled",
+                "category": "shipping",
+                "image": "shipping",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "House Republican leaders urge Trump to let Jones Act waivers expire as scheduled in August",
+                        "zh": "美國眾院共和黨領袖促川普如期讓《瓊斯法》豁免於 8 月失效"
+                },
+                "dek": {
+                        "en": "The item shows how sea lanes, maritime rules and vessel security are influencing trade flows and operating costs.",
+                        "zh": "這則消息顯示海上航道、航運規則與船舶安全，正如何影響貿易流向與營運成本。"
+                },
+                "body": {
+                        "zh": [
+                                "「美國眾院共和黨領袖促川普如期讓《瓊斯法》豁免於 8 月失效」值得收入今日航運版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「美國眾院共和黨領袖促川普如期讓《瓊斯法》豁免於 8 月失效」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從航運的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'House Republican leaders urge Trump to let Jones Act waivers expire as scheduled in August' belongs in today's Shipping file for more than the immediate update. Reuters framed the immediate development around house republican leaders urge trump to let jones act waivers expire as scheduled in august. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Shipping lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "shipp-iran-insists-on-keeping-control-over-hormuz-senior-iranian-sources-say",
+                "category": "shipping",
+                "image": "shipping",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "Iran insists on keeping control over Hormuz, senior Iranian sources say",
+                        "zh": "伊朗高層稱將堅持維持對荷莫茲海峽的控制"
+                },
+                "dek": {
+                        "en": "The item shows how sea lanes, maritime rules and vessel security are influencing trade flows and operating costs.",
+                        "zh": "這則消息顯示海上航道、航運規則與船舶安全，正如何影響貿易流向與營運成本。"
+                },
+                "body": {
+                        "zh": [
+                                "「伊朗高層稱將堅持維持對荷莫茲海峽的控制」值得收入今日航運版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「伊朗高層稱將堅持維持對荷莫茲海峽的控制」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從航運的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Iran insists on keeping control over Hormuz, senior Iranian sources say' belongs in today's Shipping file for more than the immediate update. Reuters framed the immediate development around iran insists on keeping control over hormuz, senior iranian sources say. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Shipping lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "shipp-south-korea-cargo-ship-namu-to-exit-strait-of-hormuz-after-attack-in-gulf",
+                "category": "shipping",
+                "image": "shipping",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "South Korea cargo ship Namu to exit Strait of Hormuz after attack in Gulf",
+                        "zh": "南韓貨輪 Namu 在海灣遇襲後準備駛離荷莫茲海峽"
+                },
+                "dek": {
+                        "en": "The item shows how sea lanes, maritime rules and vessel security are influencing trade flows and operating costs.",
+                        "zh": "這則消息顯示海上航道、航運規則與船舶安全，正如何影響貿易流向與營運成本。"
+                },
+                "body": {
+                        "zh": [
+                                "「南韓貨輪 Namu 在海灣遇襲後準備駛離荷莫茲海峽」值得收入今日航運版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「南韓貨輪 Namu 在海灣遇襲後準備駛離荷莫茲海峽」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從航運的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'South Korea cargo ship Namu to exit Strait of Hormuz after attack in Gulf' belongs in today's Shipping file for more than the immediate update. Reuters framed the immediate development around south korea cargo ship namu to exit strait of hormuz after attack in gulf. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Shipping lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "shipp-taiwan-ships-should-ignore-boarding-requests-by-china-coast-guard-taipei-says",
+                "category": "shipping",
+                "image": "shipping",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "Taiwan ships should ignore boarding requests by China coast guard, Taipei says",
+                        "zh": "台北稱台灣船舶應忽略中國海警登船要求"
+                },
+                "dek": {
+                        "en": "The item shows how sea lanes, maritime rules and vessel security are influencing trade flows and operating costs.",
+                        "zh": "這則消息顯示海上航道、航運規則與船舶安全，正如何影響貿易流向與營運成本。"
+                },
+                "body": {
+                        "zh": [
+                                "「台北稱台灣船舶應忽略中國海警登船要求」值得收入今日航運版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「台北稱台灣船舶應忽略中國海警登船要求」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從航運的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Taiwan ships should ignore boarding requests by China coast guard, Taipei says' belongs in today's Shipping file for more than the immediate update. Reuters framed the immediate development around taiwan ships should ignore boarding requests by china coast guard, taipei says. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Shipping lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "suppl-cma-cgm-to-buy-fedex-third-party-logistics-arm-for-1-4-billion",
+                "category": "supply-chain",
+                "image": "warehouse",
+                "lead": true,
+                "author": "Maya Chen",
+                "read": 6,
+                "title": {
+                        "en": "CMA CGM to buy FedEx third-party logistics arm for $1.4 billion",
+                        "zh": "達飛海運將以 14 億美元收購 FedEx 第三方物流業務"
+                },
+                "dek": {
+                        "en": "The development matters because sourcing, freight, inventories and industrial planning now have to absorb more geopolitical and cost pressure.",
+                        "zh": "這項發展之所以重要，在於採購、運輸、庫存與產業規劃如今都必須承受更大的地緣政治與成本壓力。"
+                },
+                "body": {
+                        "zh": [
+                                "「達飛海運將以 14 億美元收購 FedEx 第三方物流業務」值得收入今日供應鏈版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「達飛海運將以 14 億美元收購 FedEx 第三方物流業務」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從供應鏈的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'CMA CGM to buy FedEx third-party logistics arm for $1.4 billion' belongs in today's Supply Chain file for more than the immediate update. Reuters framed the immediate development around cma cgm to buy fedex third-party logistics arm for $1.4 billion. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Supply Chain lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "suppl-us-declines-to-extend-north-american-trade-deal-starting-clock-to-end-it-while-s",
+                "category": "supply-chain",
+                "image": "warehouse",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 6,
+                "title": {
+                        "en": "US declines to extend North American trade deal, starting clock to end it while seeking changes",
+                        "zh": "美國拒絕延長北美貿易協議，並在尋求修改之際啟動終止倒數"
+                },
+                "dek": {
+                        "en": "The development matters because sourcing, freight, inventories and industrial planning now have to absorb more geopolitical and cost pressure.",
+                        "zh": "這項發展之所以重要，在於採購、運輸、庫存與產業規劃如今都必須承受更大的地緣政治與成本壓力。"
+                },
+                "body": {
+                        "zh": [
+                                "「美國拒絕延長北美貿易協議，並在尋求修改之際啟動終止倒數」值得收入今日供應鏈版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「美國拒絕延長北美貿易協議，並在尋求修改之際啟動終止倒數」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從供應鏈的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'US declines to extend North American trade deal, starting clock to end it while seeking changes' belongs in today's Supply Chain file for more than the immediate update. Reuters framed the immediate development around us declines to extend north american trade deal, starting clock to end it while seeking changes. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Supply Chain lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "suppl-us-factory-activity-eases-off-four-year-high-input-prices-remain-elevated",
+                "category": "supply-chain",
+                "image": "warehouse",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 6,
+                "title": {
+                        "en": "US factory activity eases off four-year high; input prices remain elevated",
+                        "zh": "美國工廠活動自四年高點回落，投入成本仍高"
+                },
+                "dek": {
+                        "en": "The development matters because sourcing, freight, inventories and industrial planning now have to absorb more geopolitical and cost pressure.",
+                        "zh": "這項發展之所以重要，在於採購、運輸、庫存與產業規劃如今都必須承受更大的地緣政治與成本壓力。"
+                },
+                "body": {
+                        "zh": [
+                                "「美國工廠活動自四年高點回落，投入成本仍高」值得收入今日供應鏈版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「美國工廠活動自四年高點回落，投入成本仍高」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從供應鏈的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'US factory activity eases off four-year high; input prices remain elevated' belongs in today's Supply Chain file for more than the immediate update. Reuters framed the immediate development around us factory activity eases off four-year high; input prices remain elevated. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Supply Chain lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "suppl-micron-gm-sign-semiconductor-supply-agreement-for-vehicles",
+                "category": "supply-chain",
+                "image": "warehouse",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 6,
+                "title": {
+                        "en": "Micron, GM sign semiconductor supply agreement for vehicles",
+                        "zh": "美光與通用汽車簽署車用半導體供應協議"
+                },
+                "dek": {
+                        "en": "The development matters because sourcing, freight, inventories and industrial planning now have to absorb more geopolitical and cost pressure.",
+                        "zh": "這項發展之所以重要，在於採購、運輸、庫存與產業規劃如今都必須承受更大的地緣政治與成本壓力。"
+                },
+                "body": {
+                        "zh": [
+                                "「美光與通用汽車簽署車用半導體供應協議」值得收入今日供應鏈版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「美光與通用汽車簽署車用半導體供應協議」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從供應鏈的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Micron, GM sign semiconductor supply agreement for vehicles' belongs in today's Supply Chain file for more than the immediate update. Reuters framed the immediate development around micron, gm sign semiconductor supply agreement for vehicles. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Supply Chain lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "suppl-defense-startups-raid-auto-and-fracking-sectors-for-parts-to-speed-weapons-outpu",
+                "category": "supply-chain",
+                "image": "warehouse",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 6,
+                "title": {
+                        "en": "Defense startups raid auto and fracking sectors for parts to speed weapons output",
+                        "zh": "國防新創向汽車與頁岩產業搶零件，以加快武器產能"
+                },
+                "dek": {
+                        "en": "The development matters because sourcing, freight, inventories and industrial planning now have to absorb more geopolitical and cost pressure.",
+                        "zh": "這項發展之所以重要，在於採購、運輸、庫存與產業規劃如今都必須承受更大的地緣政治與成本壓力。"
+                },
+                "body": {
+                        "zh": [
+                                "「國防新創向汽車與頁岩產業搶零件，以加快武器產能」值得收入今日供應鏈版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「國防新創向汽車與頁岩產業搶零件，以加快武器產能」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從供應鏈的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Defense startups raid auto and fracking sectors for parts to speed weapons output' belongs in today's Supply Chain file for more than the immediate update. Reuters framed the immediate development around defense startups raid auto and fracking sectors for parts to speed weapons output. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Supply Chain lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "econo-us-canada-mexico-review-trade-pact-likely-putting-it-into-limbo-as-trump-demands",
+                "category": "economy-markets",
+                "image": "market",
+                "lead": true,
+                "author": "Maya Chen",
+                "read": 6,
+                "title": {
+                        "en": "US, Canada, Mexico review trade pact, likely putting it into limbo as Trump demands changes",
+                        "zh": "美國、加拿大與墨西哥檢討貿易協定，川普要求修改使協議前景未明"
+                },
+                "dek": {
+                        "en": "The story shows how policy signals and capital flows are changing the pricing of currencies, credit, trade and risk.",
+                        "zh": "這則消息顯示政策訊號與資本流向，正如何改變貨幣、信用、貿易與風險的定價。"
+                },
+                "body": {
+                        "zh": [
+                                "「美國、加拿大與墨西哥檢討貿易協定，川普要求修改使協議前景未明」值得收入今日經濟與市場版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「美國、加拿大與墨西哥檢討貿易協定，川普要求修改使協議前景未明」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從經濟與市場的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'US, Canada, Mexico review trade pact, likely putting it into limbo as Trump demands changes' belongs in today's Economy & Markets file for more than the immediate update. Reuters framed the immediate development around us, canada, mexico review trade pact, likely putting it into limbo as trump demands changes. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Economy & Markets lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "econo-taiwan-regulator-launches-inspection-of-cathay-financial-s-fund-arm",
+                "category": "economy-markets",
+                "image": "market",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 6,
+                "title": {
+                        "en": "Taiwan regulator launches inspection of Cathay Financial's fund arm",
+                        "zh": "台灣監管機關啟動對國泰金控基金事業的檢查"
+                },
+                "dek": {
+                        "en": "The story shows how policy signals and capital flows are changing the pricing of currencies, credit, trade and risk.",
+                        "zh": "這則消息顯示政策訊號與資本流向，正如何改變貨幣、信用、貿易與風險的定價。"
+                },
+                "body": {
+                        "zh": [
+                                "「台灣監管機關啟動對國泰金控基金事業的檢查」值得收入今日經濟與市場版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「台灣監管機關啟動對國泰金控基金事業的檢查」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從經濟與市場的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Taiwan regulator launches inspection of Cathay Financial's fund arm' belongs in today's Economy & Markets file for more than the immediate update. Reuters framed the immediate development around taiwan regulator launches inspection of cathay financial's fund arm. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Economy & Markets lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "econo-mercosur-launches-economic-partnership-talks-with-japan-eyes-china",
+                "category": "economy-markets",
+                "image": "market",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 6,
+                "title": {
+                        "en": "Mercosur launches economic partnership talks with Japan, eyes China",
+                        "zh": "南方共同市場啟動與日本經濟夥伴談判，並放眼中國"
+                },
+                "dek": {
+                        "en": "The story shows how policy signals and capital flows are changing the pricing of currencies, credit, trade and risk.",
+                        "zh": "這則消息顯示政策訊號與資本流向，正如何改變貨幣、信用、貿易與風險的定價。"
+                },
+                "body": {
+                        "zh": [
+                                "「南方共同市場啟動與日本經濟夥伴談判，並放眼中國」值得收入今日經濟與市場版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「南方共同市場啟動與日本經濟夥伴談判，並放眼中國」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從經濟與市場的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Mercosur launches economic partnership talks with Japan, eyes China' belongs in today's Economy & Markets file for more than the immediate update. Reuters framed the immediate development around mercosur launches economic partnership talks with japan, eyes china. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Economy & Markets lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "econo-world-bank-to-phase-out-china-lending-by-2031-source-says",
+                "category": "economy-markets",
+                "image": "market",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 6,
+                "title": {
+                        "en": "World Bank to phase out China lending by 2031, source says",
+                        "zh": "消息人士稱世界銀行將於 2031 年前逐步停止對中國放款"
+                },
+                "dek": {
+                        "en": "The story shows how policy signals and capital flows are changing the pricing of currencies, credit, trade and risk.",
+                        "zh": "這則消息顯示政策訊號與資本流向，正如何改變貨幣、信用、貿易與風險的定價。"
+                },
+                "body": {
+                        "zh": [
+                                "「消息人士稱世界銀行將於 2031 年前逐步停止對中國放款」值得收入今日經濟與市場版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「消息人士稱世界銀行將於 2031 年前逐步停止對中國放款」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從經濟與市場的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'World Bank to phase out China lending by 2031, source says' belongs in today's Economy & Markets file for more than the immediate update. Reuters framed the immediate development around world bank to phase out china lending by 2031, source says. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Economy & Markets lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "econo-strong-dollar-pushes-yen-to-40-year-low-as-clock-ticks-on-intervention",
+                "category": "economy-markets",
+                "image": "market",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 6,
+                "title": {
+                        "en": "Strong dollar pushes yen to 40-year low as clock ticks on intervention",
+                        "zh": "強勢美元將日圓推至 40 年低點，市場靜待干預"
+                },
+                "dek": {
+                        "en": "The story shows how policy signals and capital flows are changing the pricing of currencies, credit, trade and risk.",
+                        "zh": "這則消息顯示政策訊號與資本流向，正如何改變貨幣、信用、貿易與風險的定價。"
+                },
+                "body": {
+                        "zh": [
+                                "「強勢美元將日圓推至 40 年低點，市場靜待干預」值得收入今日經濟與市場版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「強勢美元將日圓推至 40 年低點，市場靜待干預」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從經濟與市場的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Strong dollar pushes yen to 40-year low as clock ticks on intervention' belongs in today's Economy & Markets file for more than the immediate update. Reuters framed the immediate development around strong dollar pushes yen to 40-year low as clock ticks on intervention. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Economy & Markets lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "energ-gas-plants-for-us-data-centers-to-be-major-source-of-climate-change-linked-emiss",
+                "category": "energy-climate",
+                "image": "energy",
+                "lead": true,
+                "author": "Maya Chen",
+                "read": 6,
+                "title": {
+                        "en": "Gas plants for US data centers to be major source of climate change-linked emissions, report says",
+                        "zh": "報告稱美國資料中心燃氣電廠將成氣候相關排放主要來源"
+                },
+                "dek": {
+                        "en": "The item links fuel supply, emissions, heat stress and infrastructure choices inside the same global operating system.",
+                        "zh": "這則消息把燃料供應、排放、高溫壓力與基礎設施選擇，放進同一個全球運作系統來理解。"
+                },
+                "body": {
+                        "zh": [
+                                "「報告稱美國資料中心燃氣電廠將成氣候相關排放主要來源」值得收入今日能源與氣候版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「報告稱美國資料中心燃氣電廠將成氣候相關排放主要來源」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從能源與氣候的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Gas plants for US data centers to be major source of climate change-linked emissions, report says' belongs in today's Energy & Climate file for more than the immediate update. Reuters framed the immediate development around gas plants for us data centers to be major source of climate change-linked emissions, report says. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Energy & Climate lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "energ-commodities-trader-mercuria-to-form-joint-venture-with-italian-major-eni",
+                "category": "energy-climate",
+                "image": "energy",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 6,
+                "title": {
+                        "en": "Commodities trader Mercuria to form joint venture with Italian major Eni",
+                        "zh": "商品交易商 Mercuria 將與義大利能源巨頭 Eni 成立合資公司"
+                },
+                "dek": {
+                        "en": "The item links fuel supply, emissions, heat stress and infrastructure choices inside the same global operating system.",
+                        "zh": "這則消息把燃料供應、排放、高溫壓力與基礎設施選擇，放進同一個全球運作系統來理解。"
+                },
+                "body": {
+                        "zh": [
+                                "「商品交易商 Mercuria 將與義大利能源巨頭 Eni 成立合資公司」值得收入今日能源與氣候版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「商品交易商 Mercuria 將與義大利能源巨頭 Eni 成立合資公司」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從能源與氣候的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Commodities trader Mercuria to form joint venture with Italian major Eni' belongs in today's Energy & Climate file for more than the immediate update. Reuters framed the immediate development around commodities trader mercuria to form joint venture with italian major eni. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Energy & Climate lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "energ-us-lng-exports-to-europe-decline-as-asia-prices-surge",
+                "category": "energy-climate",
+                "image": "energy",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 6,
+                "title": {
+                        "en": "US LNG exports to Europe decline as Asia prices surge",
+                        "zh": "亞洲價格飆升之際，美國對歐 LNG 出口下滑"
+                },
+                "dek": {
+                        "en": "The item links fuel supply, emissions, heat stress and infrastructure choices inside the same global operating system.",
+                        "zh": "這則消息把燃料供應、排放、高溫壓力與基礎設施選擇，放進同一個全球運作系統來理解。"
+                },
+                "body": {
+                        "zh": [
+                                "「亞洲價格飆升之際，美國對歐 LNG 出口下滑」值得收入今日能源與氣候版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「亞洲價格飆升之際，美國對歐 LNG 出口下滑」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從能源與氣候的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'US LNG exports to Europe decline as Asia prices surge' belongs in today's Energy & Climate file for more than the immediate update. Reuters framed the immediate development around us lng exports to europe decline as asia prices surge. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Energy & Climate lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "energ-opec-likely-to-raise-oil-output-targets-from-august-again-sources-say",
+                "category": "energy-climate",
+                "image": "energy",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 6,
+                "title": {
+                        "en": "OPEC+ likely to raise oil output targets from August again, sources say",
+                        "zh": "消息人士稱 OPEC+ 可能自 8 月起再度上調產量目標"
+                },
+                "dek": {
+                        "en": "The item links fuel supply, emissions, heat stress and infrastructure choices inside the same global operating system.",
+                        "zh": "這則消息把燃料供應、排放、高溫壓力與基礎設施選擇，放進同一個全球運作系統來理解。"
+                },
+                "body": {
+                        "zh": [
+                                "「消息人士稱 OPEC+ 可能自 8 月起再度上調產量目標」值得收入今日能源與氣候版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「消息人士稱 OPEC+ 可能自 8 月起再度上調產量目標」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從能源與氣候的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'OPEC+ likely to raise oil output targets from August again, sources say' belongs in today's Energy & Climate file for more than the immediate update. Reuters framed the immediate development around opec+ likely to raise oil output targets from august again, sources say. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Energy & Climate lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "energ-spain-attributes-over-1-000-excess-deaths-to-heat-in-second-hottest-june-ever",
+                "category": "energy-climate",
+                "image": "energy",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 6,
+                "title": {
+                        "en": "Spain attributes over 1,000 excess deaths to heat in second-hottest June ever",
+                        "zh": "西班牙將逾千起超額死亡歸因於高溫，6 月創次高紀錄"
+                },
+                "dek": {
+                        "en": "The item links fuel supply, emissions, heat stress and infrastructure choices inside the same global operating system.",
+                        "zh": "這則消息把燃料供應、排放、高溫壓力與基礎設施選擇，放進同一個全球運作系統來理解。"
+                },
+                "body": {
+                        "zh": [
+                                "「西班牙將逾千起超額死亡歸因於高溫，6 月創次高紀錄」值得收入今日能源與氣候版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「西班牙將逾千起超額死亡歸因於高溫，6 月創次高紀錄」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從能源與氣候的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Spain attributes over 1,000 excess deaths to heat in second-hottest June ever' belongs in today's Energy & Climate file for more than the immediate update. Reuters framed the immediate development around spain attributes over 1,000 excess deaths to heat in second-hottest june ever. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Energy & Climate lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "polic-swedish-court-orders-google-to-pay-1-5-billion-to-klarna-in-antitrust-damages",
+                "category": "policy-regulation",
+                "image": "policy",
+                "lead": true,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "Swedish court orders Google to pay $1.5 billion to Klarna in antitrust damages",
+                        "zh": "瑞典法院裁定 Google 向 Klarna 支付 15 億美元反壟斷賠償"
+                },
+                "dek": {
+                        "en": "The development highlights how courts, watchdogs and rule-makers are redrawing the boundary between scale, competition and accountability.",
+                        "zh": "這項發展凸顯法院、監管機關與規則制定者，正如何重新劃定規模、競爭與責任的邊界。"
+                },
+                "body": {
+                        "zh": [
+                                "「瑞典法院裁定 Google 向 Klarna 支付 15 億美元反壟斷賠償」值得收入今日政策與法規版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「瑞典法院裁定 Google 向 Klarna 支付 15 億美元反壟斷賠償」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從政策與法規的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Swedish court orders Google to pay $1.5 billion to Klarna in antitrust damages' belongs in today's Policy & Regulation file for more than the immediate update. Reuters framed the immediate development around swedish court orders google to pay $1.5 billion to klarna in antitrust damages. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Policy & Regulation lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "polic-paramount-offers-remedies-for-warner-deal-making-eu-approval-likely",
+                "category": "policy-regulation",
+                "image": "policy",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "Paramount offers remedies for Warner deal, making EU approval likely",
+                        "zh": "Paramount 就 Warner 交易提出補救方案，歐盟批准機率升高"
+                },
+                "dek": {
+                        "en": "The development highlights how courts, watchdogs and rule-makers are redrawing the boundary between scale, competition and accountability.",
+                        "zh": "這項發展凸顯法院、監管機關與規則制定者，正如何重新劃定規模、競爭與責任的邊界。"
+                },
+                "body": {
+                        "zh": [
+                                "「Paramount 就 Warner 交易提出補救方案，歐盟批准機率升高」值得收入今日政策與法規版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「Paramount 就 Warner 交易提出補救方案，歐盟批准機率升高」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從政策與法規的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Paramount offers remedies for Warner deal, making EU approval likely' belongs in today's Policy & Regulation file for more than the immediate update. Reuters framed the immediate development around paramount offers remedies for warner deal, making eu approval likely. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Policy & Regulation lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "polic-bank-of-england-s-breeden-signals-new-rules-to-govern-agentic-ai",
+                "category": "policy-regulation",
+                "image": "policy",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "Bank of England's Breeden signals new rules to govern agentic AI",
+                        "zh": "英國央行 Breeden 釋出訊號，將制定代理式 AI 新規"
+                },
+                "dek": {
+                        "en": "The development highlights how courts, watchdogs and rule-makers are redrawing the boundary between scale, competition and accountability.",
+                        "zh": "這項發展凸顯法院、監管機關與規則制定者，正如何重新劃定規模、競爭與責任的邊界。"
+                },
+                "body": {
+                        "zh": [
+                                "「英國央行 Breeden 釋出訊號，將制定代理式 AI 新規」值得收入今日政策與法規版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「英國央行 Breeden 釋出訊號，將制定代理式 AI 新規」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從政策與法規的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Bank of England's Breeden signals new rules to govern agentic AI' belongs in today's Policy & Regulation file for more than the immediate update. Reuters framed the immediate development around bank of england's breeden signals new rules to govern agentic ai. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Policy & Regulation lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "polic-australia-weighs-break-up-of-big-four-accounting-firms-after-scandals",
+                "category": "policy-regulation",
+                "image": "policy",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "Australia weighs break-up of Big Four accounting firms after scandals",
+                        "zh": "澳洲在醜聞後考慮拆分四大會計師事務所"
+                },
+                "dek": {
+                        "en": "The development highlights how courts, watchdogs and rule-makers are redrawing the boundary between scale, competition and accountability.",
+                        "zh": "這項發展凸顯法院、監管機關與規則制定者，正如何重新劃定規模、競爭與責任的邊界。"
+                },
+                "body": {
+                        "zh": [
+                                "「澳洲在醜聞後考慮拆分四大會計師事務所」值得收入今日政策與法規版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「澳洲在醜聞後考慮拆分四大會計師事務所」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從政策與法規的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Australia weighs break-up of Big Four accounting firms after scandals' belongs in today's Policy & Regulation file for more than the immediate update. Reuters framed the immediate development around australia weighs break-up of big four accounting firms after scandals. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Policy & Regulation lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "polic-uk-regulator-considers-opening-apple-google-app-stores-to-rival-payments",
+                "category": "policy-regulation",
+                "image": "policy",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "UK regulator considers opening Apple, Google app stores to rival payments",
+                        "zh": "英國監管機關考慮開放 Apple 與 Google 應用商店接受競爭支付"
+                },
+                "dek": {
+                        "en": "The development highlights how courts, watchdogs and rule-makers are redrawing the boundary between scale, competition and accountability.",
+                        "zh": "這項發展凸顯法院、監管機關與規則制定者，正如何重新劃定規模、競爭與責任的邊界。"
+                },
+                "body": {
+                        "zh": [
+                                "「英國監管機關考慮開放 Apple 與 Google 應用商店接受競爭支付」值得收入今日政策與法規版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「英國監管機關考慮開放 Apple 與 Google 應用商店接受競爭支付」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從政策與法規的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'UK regulator considers opening Apple, Google app stores to rival payments' belongs in today's Policy & Regulation file for more than the immediate update. Reuters framed the immediate development around uk regulator considers opening apple, google app stores to rival payments. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Policy & Regulation lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "cyber-india-s-tata-electronics-hit-by-cyber-breach-claiming-to-expose-apple-and-tesla-",
+                "category": "cybersecurity",
+                "image": "cyber",
+                "lead": true,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "India's Tata Electronics hit by cyber breach claiming to expose Apple and Tesla trade secrets",
+                        "zh": "印度 Tata Electronics 遭網攻，外洩資料聲稱涉及 Apple 與 Tesla 商業機密"
+                },
+                "dek": {
+                        "en": "The story matters because data security, software exposure and operational resilience now shape trust across every connected sector.",
+                        "zh": "這則消息的重要性在於，資料安全、軟體曝險與營運韌性，如今已左右所有連網產業的信任基礎。"
+                },
+                "body": {
+                        "zh": [
+                                "「印度 Tata Electronics 遭網攻，外洩資料聲稱涉及 Apple 與 Tesla 商業機密」值得收入今日網路安全版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「印度 Tata Electronics 遭網攻，外洩資料聲稱涉及 Apple 與 Tesla 商業機密」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從網路安全的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'India's Tata Electronics hit by cyber breach claiming to expose Apple and Tesla trade secrets' belongs in today's Cybersecurity file for more than the immediate update. Reuters framed the immediate development around india's tata electronics hit by cyber breach claiming to expose apple and tesla trade secrets. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Cybersecurity lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "cyber-novo-nordisk-flags-patient-data-breach-from-some-clinical-trials-in-cyberattack",
+                "category": "cybersecurity",
+                "image": "cyber",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "Novo Nordisk flags patient data breach from some clinical trials in cyberattack",
+                        "zh": "諾和諾德通報網攻導致部分臨床試驗病患資料外洩"
+                },
+                "dek": {
+                        "en": "The story matters because data security, software exposure and operational resilience now shape trust across every connected sector.",
+                        "zh": "這則消息的重要性在於，資料安全、軟體曝險與營運韌性，如今已左右所有連網產業的信任基礎。"
+                },
+                "body": {
+                        "zh": [
+                                "「諾和諾德通報網攻導致部分臨床試驗病患資料外洩」值得收入今日網路安全版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「諾和諾德通報網攻導致部分臨床試驗病患資料外洩」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從網路安全的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Novo Nordisk flags patient data breach from some clinical trials in cyberattack' belongs in today's Cybersecurity file for more than the immediate update. Reuters framed the immediate development around novo nordisk flags patient data breach from some clinical trials in cyberattack. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Cybersecurity lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "cyber-major-hack-campaign-against-fortinet-devices-compromised-prominent-organisations",
+                "category": "cybersecurity",
+                "image": "cyber",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "Major hack campaign against Fortinet devices compromised prominent organisations, researchers say",
+                        "zh": "研究人員稱大規模 Fortinet 裝置入侵已波及多家重要機構"
+                },
+                "dek": {
+                        "en": "The story matters because data security, software exposure and operational resilience now shape trust across every connected sector.",
+                        "zh": "這則消息的重要性在於，資料安全、軟體曝險與營運韌性，如今已左右所有連網產業的信任基礎。"
+                },
+                "body": {
+                        "zh": [
+                                "「研究人員稱大規模 Fortinet 裝置入侵已波及多家重要機構」值得收入今日網路安全版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「研究人員稱大規模 Fortinet 裝置入侵已波及多家重要機構」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從網路安全的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Major hack campaign against Fortinet devices compromised prominent organisations, researchers say' belongs in today's Cybersecurity file for more than the immediate update. Reuters framed the immediate development around major hack campaign against fortinet devices compromised prominent organisations, researchers say. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Cybersecurity lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "cyber-ai-related-data-breaches-surging-verizon-report-says",
+                "category": "cybersecurity",
+                "image": "cyber",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "AI-related data breaches surging, Verizon report says",
+                        "zh": "Verizon 報告：與 AI 相關的資料外洩事件正在激增"
+                },
+                "dek": {
+                        "en": "The story matters because data security, software exposure and operational resilience now shape trust across every connected sector.",
+                        "zh": "這則消息的重要性在於，資料安全、軟體曝險與營運韌性，如今已左右所有連網產業的信任基礎。"
+                },
+                "body": {
+                        "zh": [
+                                "「Verizon 報告：與 AI 相關的資料外洩事件正在激增」值得收入今日網路安全版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「Verizon 報告：與 AI 相關的資料外洩事件正在激增」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從網路安全的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'AI-related data breaches surging, Verizon report says' belongs in today's Cybersecurity file for more than the immediate update. Reuters framed the immediate development around ai-related data breaches surging, verizon report says. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Cybersecurity lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "cyber-apple-iphone-18-pro-supplier-list-parts-and-photos-exposed-in-tata-data-leak",
+                "category": "cybersecurity",
+                "image": "cyber",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak",
+                        "zh": "Tata 外洩事件曝光 Apple iPhone 18 Pro 供應鏈名單、零件與照片"
+                },
+                "dek": {
+                        "en": "The story matters because data security, software exposure and operational resilience now shape trust across every connected sector.",
+                        "zh": "這則消息的重要性在於，資料安全、軟體曝險與營運韌性，如今已左右所有連網產業的信任基礎。"
+                },
+                "body": {
+                        "zh": [
+                                "「Tata 外洩事件曝光 Apple iPhone 18 Pro 供應鏈名單、零件與照片」值得收入今日網路安全版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「Tata 外洩事件曝光 Apple iPhone 18 Pro 供應鏈名單、零件與照片」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從網路安全的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Apple iPhone 18 Pro supplier list, parts and photos exposed in Tata data leak' belongs in today's Cybersecurity file for more than the immediate update. Reuters framed the immediate development around apple iphone 18 pro supplier list, parts and photos exposed in tata data leak. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Cybersecurity lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "logis-cma-cgm-nears-1-4-billion-deal-for-fedex-logistics-unit-ft-reports",
+                "category": "logistics-infrastructure",
+                "image": "infrastructure",
+                "lead": true,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "CMA CGM nears $1.4 billion deal for FedEx logistics unit, FT reports",
+                        "zh": "報導稱達飛海運接近以 14 億美元收購 FedEx 物流部門"
+                },
+                "dek": {
+                        "en": "The item shows how transport links, data centres and public works determine the speed and reliability of modern commerce.",
+                        "zh": "這則消息顯示運輸連結、資料中心與公共工程，如何決定現代商業的速度與可靠度。"
+                },
+                "body": {
+                        "zh": [
+                                "「報導稱達飛海運接近以 14 億美元收購 FedEx 物流部門」值得收入今日物流與基礎建設版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「報導稱達飛海運接近以 14 億美元收購 FedEx 物流部門」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從物流與基礎建設的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'CMA CGM nears $1.4 billion deal for FedEx logistics unit, FT reports' belongs in today's Logistics & Infrastructure file for more than the immediate update. Reuters framed the immediate development around cma cgm nears $1.4 billion deal for fedex logistics unit, ft reports. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Logistics & Infrastructure lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "logis-german-regulator-moves-to-curb-deutsche-bahn-dominance-on-key-rail-routes",
+                "category": "logistics-infrastructure",
+                "image": "infrastructure",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "German regulator moves to curb Deutsche Bahn dominance on key rail routes",
+                        "zh": "德國監管機關出手限制德鐵在關鍵鐵路路線的主導地位"
+                },
+                "dek": {
+                        "en": "The item shows how transport links, data centres and public works determine the speed and reliability of modern commerce.",
+                        "zh": "這則消息顯示運輸連結、資料中心與公共工程，如何決定現代商業的速度與可靠度。"
+                },
+                "body": {
+                        "zh": [
+                                "「德國監管機關出手限制德鐵在關鍵鐵路路線的主導地位」值得收入今日物流與基礎建設版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「德國監管機關出手限制德鐵在關鍵鐵路路線的主導地位」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從物流與基礎建設的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'German regulator moves to curb Deutsche Bahn dominance on key rail routes' belongs in today's Logistics & Infrastructure file for more than the immediate update. Reuters framed the immediate development around german regulator moves to curb deutsche bahn dominance on key rail routes. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Logistics & Infrastructure lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "logis-kongsberg-gruppen-signs-400-million-order-from-kuwait-through-raytheon-us-fms",
+                "category": "logistics-infrastructure",
+                "image": "infrastructure",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "Kongsberg Gruppen signs $400 million order from Kuwait through Raytheon, US FMS",
+                        "zh": "康斯堡集團透過 Raytheon 與美國對外軍售取得科威特 4 億美元訂單"
+                },
+                "dek": {
+                        "en": "The item shows how transport links, data centres and public works determine the speed and reliability of modern commerce.",
+                        "zh": "這則消息顯示運輸連結、資料中心與公共工程，如何決定現代商業的速度與可靠度。"
+                },
+                "body": {
+                        "zh": [
+                                "「康斯堡集團透過 Raytheon 與美國對外軍售取得科威特 4 億美元訂單」值得收入今日物流與基礎建設版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「康斯堡集團透過 Raytheon 與美國對外軍售取得科威特 4 億美元訂單」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從物流與基礎建設的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Kongsberg Gruppen signs $400 million order from Kuwait through Raytheon, US FMS' belongs in today's Logistics & Infrastructure file for more than the immediate update. Reuters framed the immediate development around kongsberg gruppen signs $400 million order from kuwait through raytheon, us fms. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Logistics & Infrastructure lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "logis-digital-realty-to-pay-blackstone-3-5-billion-for-stake-in-virginia-data-centers",
+                "category": "logistics-infrastructure",
+                "image": "infrastructure",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "Digital Realty to pay Blackstone $3.5 billion for stake in Virginia data centers",
+                        "zh": "Digital Realty 將向 Blackstone 支付 35 億美元收購維吉尼亞資料中心股權"
+                },
+                "dek": {
+                        "en": "The item shows how transport links, data centres and public works determine the speed and reliability of modern commerce.",
+                        "zh": "這則消息顯示運輸連結、資料中心與公共工程，如何決定現代商業的速度與可靠度。"
+                },
+                "body": {
+                        "zh": [
+                                "「Digital Realty 將向 Blackstone 支付 35 億美元收購維吉尼亞資料中心股權」值得收入今日物流與基礎建設版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「Digital Realty 將向 Blackstone 支付 35 億美元收購維吉尼亞資料中心股權」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從物流與基礎建設的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'Digital Realty to pay Blackstone $3.5 billion for stake in Virginia data centers' belongs in today's Logistics & Infrastructure file for more than the immediate update. Reuters framed the immediate development around digital realty to pay blackstone $3.5 billion for stake in virginia data centers. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Logistics & Infrastructure lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        },
+        {
+                "id": "logis-exclusive-us-military-deploys-over-900-personnel-to-venezuela-for-earthquake-res",
+                "category": "logistics-infrastructure",
+                "image": "infrastructure",
+                "lead": false,
+                "author": "Maya Chen",
+                "read": 5,
+                "title": {
+                        "en": "EXCLUSIVE: US military deploys over 900 personnel to Venezuela for earthquake response",
+                        "zh": "獨家：美軍向委內瑞拉派遣逾 900 人協助地震應變"
+                },
+                "dek": {
+                        "en": "The item shows how transport links, data centres and public works determine the speed and reliability of modern commerce.",
+                        "zh": "這則消息顯示運輸連結、資料中心與公共工程，如何決定現代商業的速度與可靠度。"
+                },
+                "body": {
+                        "zh": [
+                                "「獨家：美軍向委內瑞拉派遣逾 900 人協助地震應變」值得收入今日物流與基礎建設版面，不只是因為它提供即時變化，也因為它反映相關系統正在承受新的壓力。根據路透這則報導的焦點，事件核心在於「獨家：美軍向委內瑞拉派遣逾 900 人協助地震應變」，並讓跨境決策者重新評估風險、成本與時間表。",
+                                "從物流與基礎建設的角度來看，這類發展很少只停留在單一事件。它往往會一路傳導到政策協調、企業規劃、資金配置、供應安排與市場預期，並改變參與者對下一步的想像。",
+                                "因此，真正需要被追蹤的，不只是頭條本身，而是哪些原本被視為穩定的假設正在鬆動，哪些時間表、備援方案、溝通策略或投資承諾需要提早調整。這也是今日版面最具操作意義的地方。",
+                                "接下來更值得觀察的是，這個訊號是否會轉化為更具體的決策或執行動作，例如新的規則、融資安排、商業合作、產能調度或跨境協調。一旦後續落地，今天看似單點的變化，很可能就會成為更廣泛調整週期的起點。"
+                        ],
+                        "en": [
+                                "'EXCLUSIVE: US military deploys over 900 personnel to Venezuela for earthquake response' belongs in today's Logistics & Infrastructure file for more than the immediate update. Reuters framed the immediate development around exclusive: us military deploys over 900 personnel to venezuela for earthquake response. The headline points to a broader reset in how institutions are weighing risk, cost and timing.",
+                                "Viewed through the Logistics & Infrastructure lens, this kind of development rarely stays isolated. It can spill into policy coordination, corporate planning, capital allocation, supply arrangements and market expectations, changing what decision-makers think comes next.",
+                                "That is why the story matters in operational terms. The key question is not only what happened today, but which once-stable assumptions are weakening and which timelines, contingency plans, communication strategies or investment commitments may need early revision.",
+                                "The next thing to watch is whether the signal becomes a concrete action, such as a new rule, financing move, commercial agreement, capacity shift or cross-border coordination step. If it does, today's headline may prove to be the opening move in a much broader adjustment cycle."
+                        ]
+                }
+        }
+];
+
   window.DAILY_NEWS_STORIES["2026-07-01"] = [
         {
                 "id": "int-uncertainty-over-qatar-diplomacy-clouds-prospects-for-us-iran-deal",
