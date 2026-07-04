@@ -80,3 +80,4 @@ window.DAILY_NEWS = {
       summary: { en: "People, infrastructure and the systems connecting world trade.", zh: "連結全球貿易的人才、基礎建設與系統。" } }
   ]
 };
+
