@@ -6015,4 +6015,1506 @@
                   }
           }
   ];
+  window.DAILY_NEWS_STORIES["2026-07-05"] = [
+          {
+                    "id": "inter-us-iran-talks-conclude-in-doha-focused-on-strait-of-hormuz",
+                    "category": "international",
+                    "image": "meeting",
+                    "lead": true,
+                    "author": "Maya Chen",
+                    "read": 7,
+                    "title": {
+                              "en": "US, Iran talks conclude in Doha, focused on Strait of Hormuz",
+                              "zh": "美伊杜哈會談告一段落，焦點轉向荷莫茲海峽"
+                    },
+                    "dek": {
+                              "en": "Diplomatic messaging and cross-border bargaining are reshaping how governments, firms and investors read strategic risk.",
+                              "zh": "外交訊號與跨境談判正重新塑造政府、企業與投資人判讀戰略風險的方式。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「美伊杜哈會談告一段落，焦點轉向荷莫茲海峽」成為今天國際新聞版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在國際新聞脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'US, Iran talks conclude in Doha, focused on Strait of Hormuz' leads today's International file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the International lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "inter-s-korea-presidential-office-rejects-coupang-us-claims-of-discriminatory",
+                    "category": "international",
+                    "image": "meeting",
+                    "lead": false,
+                    "author": "Maya Chen",
+                    "read": 7,
+                    "title": {
+                              "en": "S.Korea presidential office rejects Coupang, US claims of discriminatory treatment",
+                              "zh": "南韓總統府駁斥 Coupang 遭美方指差別待遇的說法"
+                    },
+                    "dek": {
+                              "en": "Diplomatic messaging and cross-border bargaining are reshaping how governments, firms and investors read strategic risk.",
+                              "zh": "外交訊號與跨境談判正重新塑造政府、企業與投資人判讀戰略風險的方式。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「南韓總統府駁斥 Coupang 遭美方指差別待遇的說法」成為今天國際新聞版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在國際新聞脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'S.Korea presidential office rejects Coupang, US claims of discriminatory treatment' leads today's International file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the International lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "inter-outgoing-uk-pm-starmer-says-successor-cannot-spend-less-time-on-foreign",
+                    "category": "international",
+                    "image": "meeting",
+                    "lead": false,
+                    "author": "Maya Chen",
+                    "read": 7,
+                    "title": {
+                              "en": "Outgoing UK PM Starmer says successor cannot spend less time on foreign affairs",
+                              "zh": "英國將卸任首相施凱爾稱，繼任者不能縮減外交投入"
+                    },
+                    "dek": {
+                              "en": "Diplomatic messaging and cross-border bargaining are reshaping how governments, firms and investors read strategic risk.",
+                              "zh": "外交訊號與跨境談判正重新塑造政府、企業與投資人判讀戰略風險的方式。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「英國將卸任首相施凱爾稱，繼任者不能縮減外交投入」成為今天國際新聞版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在國際新聞脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Outgoing UK PM Starmer says successor cannot spend less time on foreign affairs' leads today's International file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the International lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "inter-poland-s-tusk-says-ukraine-wants-to-lower-tension-should-confront-histor",
+                    "category": "international",
+                    "image": "meeting",
+                    "lead": false,
+                    "author": "Maya Chen",
+                    "read": 7,
+                    "title": {
+                              "en": "Poland's Tusk says Ukraine wants to lower tension, should confront history",
+                              "zh": "波蘭總理圖斯克稱，烏克蘭有意降溫局勢但須正視歷史問題"
+                    },
+                    "dek": {
+                              "en": "Diplomatic messaging and cross-border bargaining are reshaping how governments, firms and investors read strategic risk.",
+                              "zh": "外交訊號與跨境談判正重新塑造政府、企業與投資人判讀戰略風險的方式。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「波蘭總理圖斯克稱，烏克蘭有意降溫局勢但須正視歷史問題」成為今天國際新聞版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在國際新聞脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Poland's Tusk says Ukraine wants to lower tension, should confront history' leads today's International file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the International lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "inter-taiwan-to-open-representative-office-in-phoenix-mofa",
+                    "category": "international",
+                    "image": "meeting",
+                    "lead": false,
+                    "author": "Maya Chen",
+                    "read": 7,
+                    "title": {
+                              "en": "Taiwan to open representative office in Phoenix: MOFA",
+                              "zh": "外交部：台灣將在鳳凰城設立代表處"
+                    },
+                    "dek": {
+                              "en": "Diplomatic messaging and cross-border bargaining are reshaping how governments, firms and investors read strategic risk.",
+                              "zh": "外交訊號與跨境談判正重新塑造政府、企業與投資人判讀戰略風險的方式。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「外交部：台灣將在鳳凰城設立代表處」成為今天國際新聞版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在國際新聞脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Taiwan to open representative office in Phoenix: MOFA' leads today's International file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the International lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "tech-dollar-slides-after-jobs-data-chipmakers-weigh-on-stocks",
+                    "category": "technology",
+                    "image": "technology",
+                    "lead": true,
+                    "author": "Leo Huang",
+                    "read": 6,
+                    "title": {
+                              "en": "Dollar slides after jobs data, chipmakers weigh on stocks",
+                              "zh": "就業數據出爐後美元走弱，晶片股拖累股市表現"
+                    },
+                    "dek": {
+                              "en": "The development shows how chips, digital infrastructure and AI-linked capital are being repriced across markets and policy.",
+                              "zh": "這項發展顯示晶片、數位基礎設施與 AI 相關資本正如何在市場與政策之間被重新定價。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「就業數據出爐後美元走弱，晶片股拖累股市表現」成為今天科技版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在科技脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Dollar slides after jobs data, chipmakers weigh on stocks' leads today's Technology file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Technology lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "tech-exclusive-inside-taiwan-s-nightmare-scenario-chinese-blockade-earthquake",
+                    "category": "technology",
+                    "image": "technology",
+                    "lead": false,
+                    "author": "Leo Huang",
+                    "read": 6,
+                    "title": {
+                              "en": "EXCLUSIVE: Inside Taiwan's nightmare scenario: Chinese blockade, earthquake, sabotage and invasion",
+                              "zh": "獨家：台灣最壞情境浮現，中國封鎖、地震、破壞與入侵交錯"
+                    },
+                    "dek": {
+                              "en": "The development shows how chips, digital infrastructure and AI-linked capital are being repriced across markets and policy.",
+                              "zh": "這項發展顯示晶片、數位基礎設施與 AI 相關資本正如何在市場與政策之間被重新定價。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「獨家：台灣最壞情境浮現，中國封鎖、地震、破壞與入侵交錯」成為今天科技版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在科技脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'EXCLUSIVE: Inside Taiwan's nightmare scenario: Chinese blockade, earthquake, sabotage and invasion' leads today's Technology file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Technology lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "tech-dow-jumps-to-record-closing-high-after-soft-us-jobs-data-nasdaq-down-wit",
+                    "category": "technology",
+                    "image": "technology",
+                    "lead": false,
+                    "author": "Leo Huang",
+                    "read": 6,
+                    "title": {
+                              "en": "Dow jumps to record closing high after soft US jobs data, Nasdaq down with chip shares",
+                              "zh": "美國就業數據偏軟後，道瓊創收盤新高、那指受晶片股拖累走低"
+                    },
+                    "dek": {
+                              "en": "The development shows how chips, digital infrastructure and AI-linked capital are being repriced across markets and policy.",
+                              "zh": "這項發展顯示晶片、數位基礎設施與 AI 相關資本正如何在市場與政策之間被重新定價。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「美國就業數據偏軟後，道瓊創收盤新高、那指受晶片股拖累走低」成為今天科技版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在科技脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Dow jumps to record closing high after soft US jobs data, Nasdaq down with chip shares' leads today's Technology file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Technology lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "tech-blackstone-s-qts-terminates-digital-gateway-data-center-project-in-virgi",
+                    "category": "technology",
+                    "image": "technology",
+                    "lead": false,
+                    "author": "Leo Huang",
+                    "read": 6,
+                    "title": {
+                              "en": "Blackstone's QTS terminates Digital Gateway data center project in Virginia",
+                              "zh": "黑石旗下 QTS 終止維吉尼亞 Digital Gateway 資料中心計畫"
+                    },
+                    "dek": {
+                              "en": "The development shows how chips, digital infrastructure and AI-linked capital are being repriced across markets and policy.",
+                              "zh": "這項發展顯示晶片、數位基礎設施與 AI 相關資本正如何在市場與政策之間被重新定價。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「黑石旗下 QTS 終止維吉尼亞 Digital Gateway 資料中心計畫」成為今天科技版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在科技脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Blackstone's QTS terminates Digital Gateway data center project in Virginia' leads today's Technology file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Technology lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "tech-global-stocks-head-for-best-week-since-may-us-jobs-data-shifts-rate-outl",
+                    "category": "technology",
+                    "image": "technology",
+                    "lead": false,
+                    "author": "Leo Huang",
+                    "read": 6,
+                    "title": {
+                              "en": "Global stocks head for best week since May; US jobs data shifts rate outlook",
+                              "zh": "全球股市可望創五月來最佳單週表現，就業數據改寫利率預期"
+                    },
+                    "dek": {
+                              "en": "The development shows how chips, digital infrastructure and AI-linked capital are being repriced across markets and policy.",
+                              "zh": "這項發展顯示晶片、數位基礎設施與 AI 相關資本正如何在市場與政策之間被重新定價。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「全球股市可望創五月來最佳單週表現，就業數據改寫利率預期」成為今天科技版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在科技脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Global stocks head for best week since May; US jobs data shifts rate outlook' leads today's Technology file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Technology lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "sport-france-s-kone-in-for-injured-tchouameni-for-paraguay-world-cup-clash",
+                    "category": "sports",
+                    "image": "stadium",
+                    "lead": true,
+                    "author": "Sofia Reyes",
+                    "read": 5,
+                    "title": {
+                              "en": "France's Kone in for injured Tchouameni for Paraguay World Cup clash",
+                              "zh": "法國由科內頂替受傷的楚阿梅尼出戰巴拉圭"
+                    },
+                    "dek": {
+                              "en": "The World Cup is becoming a clearer gauge of roster depth, tactical flexibility and the commercial pressure surrounding elite competition.",
+                              "zh": "世界盃正更清楚地成為檢驗陣容深度、戰術彈性與頂級賽事商業壓力的指標。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「法國由科內頂替受傷的楚阿梅尼出戰巴拉圭」成為今天體育版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在體育脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'France's Kone in for injured Tchouameni for Paraguay World Cup clash' leads today's Sports file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Sports lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "sport-it-s-all-in-the-numbers-expanded-world-cup-brings-more-shocks-but-heavyw",
+                    "category": "sports",
+                    "image": "stadium",
+                    "lead": false,
+                    "author": "Sofia Reyes",
+                    "read": 5,
+                    "title": {
+                              "en": "It’s all in the numbers: Expanded World Cup brings more shocks, but heavyweights still rule",
+                              "zh": "數據揭示：擴編世界盃爆冷更多，但強權仍主導戰局"
+                    },
+                    "dek": {
+                              "en": "The World Cup is becoming a clearer gauge of roster depth, tactical flexibility and the commercial pressure surrounding elite competition.",
+                              "zh": "世界盃正更清楚地成為檢驗陣容深度、戰術彈性與頂級賽事商業壓力的指標。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「數據揭示：擴編世界盃爆冷更多，但強權仍主導戰局」成為今天體育版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在體育脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'It’s all in the numbers: Expanded World Cup brings more shocks, but heavyweights still rule' leads today's Sports file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Sports lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "sport-egypt-sink-australia-on-penalties-to-secure-first-world-cup-knockout-win",
+                    "category": "sports",
+                    "image": "stadium",
+                    "lead": false,
+                    "author": "Sofia Reyes",
+                    "read": 5,
+                    "title": {
+                              "en": "Egypt sink Australia on penalties to secure first World Cup knockout win",
+                              "zh": "埃及在點球大戰淘汰澳洲，拿下隊史世界盃淘汰賽首勝"
+                    },
+                    "dek": {
+                              "en": "The World Cup is becoming a clearer gauge of roster depth, tactical flexibility and the commercial pressure surrounding elite competition.",
+                              "zh": "世界盃正更清楚地成為檢驗陣容深度、戰術彈性與頂級賽事商業壓力的指標。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「埃及在點球大戰淘汰澳洲，拿下隊史世界盃淘汰賽首勝」成為今天體育版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在體育脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Egypt sink Australia on penalties to secure first World Cup knockout win' leads today's Sports file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Sports lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "sport-proud-cape-verde-coach-bubista-bids-bittersweet-farewell-to-world-cup",
+                    "category": "sports",
+                    "image": "stadium",
+                    "lead": false,
+                    "author": "Sofia Reyes",
+                    "read": 5,
+                    "title": {
+                              "en": "Proud Cape Verde coach Bubista bids bittersweet farewell to World Cup",
+                              "zh": "維德角主帥布比斯塔帶著驕傲與不捨告別世界盃"
+                    },
+                    "dek": {
+                              "en": "The World Cup is becoming a clearer gauge of roster depth, tactical flexibility and the commercial pressure surrounding elite competition.",
+                              "zh": "世界盃正更清楚地成為檢驗陣容深度、戰術彈性與頂級賽事商業壓力的指標。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「維德角主帥布比斯塔帶著驕傲與不捨告別世界盃」成為今天體育版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在體育脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Proud Cape Verde coach Bubista bids bittersweet farewell to World Cup' leads today's Sports file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Sports lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "sport-champions-argentina-need-extra-time-own-goal-to-get-past-cape-verde-into",
+                    "category": "sports",
+                    "image": "stadium",
+                    "lead": false,
+                    "author": "Sofia Reyes",
+                    "read": 5,
+                    "title": {
+                              "en": "Champions Argentina need extra-time own goal to get past Cape Verde into last 16",
+                              "zh": "衛冕軍阿根廷靠延長賽烏龍球驚險淘汰維德角晉級16強"
+                    },
+                    "dek": {
+                              "en": "The World Cup is becoming a clearer gauge of roster depth, tactical flexibility and the commercial pressure surrounding elite competition.",
+                              "zh": "世界盃正更清楚地成為檢驗陣容深度、戰術彈性與頂級賽事商業壓力的指標。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「衛冕軍阿根廷靠延長賽烏龍球驚險淘汰維德角晉級16強」成為今天體育版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在體育脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Champions Argentina need extra-time own goal to get past Cape Verde into last 16' leads today's Sports file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Sports lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "ship-us-iran-talks-conclude-in-doha-focused-on-strait-of-hormuz",
+                    "category": "shipping",
+                    "image": "containers",
+                    "lead": true,
+                    "author": "Daniel Ko",
+                    "read": 5,
+                    "title": {
+                              "en": "US, Iran talks conclude in Doha, focused on Strait of Hormuz",
+                              "zh": "美伊杜哈會談告一段落，焦點轉向荷莫茲海峽"
+                    },
+                    "dek": {
+                              "en": "Shipping headlines now sit closer to energy risk, port politics and security calculations that directly affect freight planning.",
+                              "zh": "航運新聞如今更緊密連結能源風險、港口政治與安全算計，直接影響貨運規劃。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「美伊杜哈會談告一段落，焦點轉向荷莫茲海峽」成為今天航運版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在航運脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'US, Iran talks conclude in Doha, focused on Strait of Hormuz' leads today's Shipping file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Shipping lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "ship-china-launches-coast-guard-patrol-east-of-taiwan-despite-international-p",
+                    "category": "shipping",
+                    "image": "containers",
+                    "lead": false,
+                    "author": "Daniel Ko",
+                    "read": 5,
+                    "title": {
+                              "en": "China launches coast guard patrol east of Taiwan despite international pushback",
+                              "zh": "中國不顧國際反彈，啟動台灣以東海警巡邏"
+                    },
+                    "dek": {
+                              "en": "Shipping headlines now sit closer to energy risk, port politics and security calculations that directly affect freight planning.",
+                              "zh": "航運新聞如今更緊密連結能源風險、港口政治與安全算計，直接影響貨運規劃。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「中國不顧國際反彈，啟動台灣以東海警巡邏」成為今天航運版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在航運脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'China launches coast guard patrol east of Taiwan despite international pushback' leads today's Shipping file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Shipping lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "ship-brent-oil-curve-weakens-further-as-prompt-supply-glut-swamps-market",
+                    "category": "shipping",
+                    "image": "containers",
+                    "lead": false,
+                    "author": "Daniel Ko",
+                    "read": 5,
+                    "title": {
+                              "en": "Brent oil curve weakens further as prompt supply glut swamps market",
+                              "zh": "即期供應過剩壓頂，布蘭特原油期貨曲線進一步走弱"
+                    },
+                    "dek": {
+                              "en": "Shipping headlines now sit closer to energy risk, port politics and security calculations that directly affect freight planning.",
+                              "zh": "航運新聞如今更緊密連結能源風險、港口政治與安全算計，直接影響貨運規劃。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「即期供應過剩壓頂，布蘭特原油期貨曲線進一步走弱」成為今天航運版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在航運脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Brent oil curve weakens further as prompt supply glut swamps market' leads today's Shipping file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Shipping lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "ship-india-s-kerala-state-not-consulted-on-msc-s-1-4-bln-port-investment-chie",
+                    "category": "shipping",
+                    "image": "containers",
+                    "lead": false,
+                    "author": "Daniel Ko",
+                    "read": 5,
+                    "title": {
+                              "en": "India's Kerala state not consulted on MSC's $1.4 bln port investment, chief minister says",
+                              "zh": "印度喀拉拉邦稱，MSC 14 億美元港口投資案未先徵詢地方意見"
+                    },
+                    "dek": {
+                              "en": "Shipping headlines now sit closer to energy risk, port politics and security calculations that directly affect freight planning.",
+                              "zh": "航運新聞如今更緊密連結能源風險、港口政治與安全算計，直接影響貨運規劃。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「印度喀拉拉邦稱，MSC 14 億美元港口投資案未先徵詢地方意見」成為今天航運版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在航運脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'India's Kerala state not consulted on MSC's $1.4 bln port investment, chief minister says' leads today's Shipping file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Shipping lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "ship-iran-s-president-fm-bid-farewell-to-slain-supreme-leader-khamenei",
+                    "category": "shipping",
+                    "image": "containers",
+                    "lead": false,
+                    "author": "Daniel Ko",
+                    "read": 5,
+                    "title": {
+                              "en": "Iran's president, FM bid farewell to slain Supreme Leader Khamenei",
+                              "zh": "伊朗總統與外長向遇刺身亡的最高領袖哈米尼告別"
+                    },
+                    "dek": {
+                              "en": "Shipping headlines now sit closer to energy risk, port politics and security calculations that directly affect freight planning.",
+                              "zh": "航運新聞如今更緊密連結能源風險、港口政治與安全算計，直接影響貨運規劃。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「伊朗總統與外長向遇刺身亡的最高領袖哈米尼告別」成為今天航運版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在航運脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Iran's president, FM bid farewell to slain Supreme Leader Khamenei' leads today's Shipping file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Shipping lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "supply-us-envoy-says-cook-islands-minerals-are-a-top-priority",
+                    "category": "supply-chain",
+                    "image": "factory",
+                    "lead": true,
+                    "author": "Avery Lin",
+                    "read": 5,
+                    "title": {
+                              "en": "US envoy says Cook Islands minerals are a top priority",
+                              "zh": "美國特使稱，庫克群島礦產是優先要務"
+                    },
+                    "dek": {
+                              "en": "Supply-chain decisions are being driven by minerals, manufacturing shifts, labour costs and the search for resilient industrial capacity.",
+                              "zh": "供應鏈決策正受到礦產、製造轉移、勞動成本與韌性產能布局的共同推動。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「美國特使稱，庫克群島礦產是優先要務」成為今天供應鏈版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在供應鏈脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'US envoy says Cook Islands minerals are a top priority' leads today's Supply Chain file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Supply Chain lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "supply-china-s-chery-takes-over-former-nissan-car-factory-in-south-africa",
+                    "category": "supply-chain",
+                    "image": "factory",
+                    "lead": false,
+                    "author": "Avery Lin",
+                    "read": 5,
+                    "title": {
+                              "en": "China's Chery takes over former Nissan car factory in South Africa",
+                              "zh": "中國奇瑞接手南非前日產汽車工廠"
+                    },
+                    "dek": {
+                              "en": "Supply-chain decisions are being driven by minerals, manufacturing shifts, labour costs and the search for resilient industrial capacity.",
+                              "zh": "供應鏈決策正受到礦產、製造轉移、勞動成本與韌性產能布局的共同推動。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「中國奇瑞接手南非前日產汽車工廠」成為今天供應鏈版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在供應鏈脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'China's Chery takes over former Nissan car factory in South Africa' leads today's Supply Chain file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Supply Chain lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "supply-japan-wage-hikes-top-5-for-third-year-backing-boj-rate-hike-path",
+                    "category": "supply-chain",
+                    "image": "factory",
+                    "lead": false,
+                    "author": "Avery Lin",
+                    "read": 5,
+                    "title": {
+                              "en": "Japan wage hikes top 5% for third year, backing BOJ rate-hike path",
+                              "zh": "日本加薪幅度連三年超過5%，支撐日銀升息路徑"
+                    },
+                    "dek": {
+                              "en": "Supply-chain decisions are being driven by minerals, manufacturing shifts, labour costs and the search for resilient industrial capacity.",
+                              "zh": "供應鏈決策正受到礦產、製造轉移、勞動成本與韌性產能布局的共同推動。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「日本加薪幅度連三年超過5%，支撐日銀升息路徑」成為今天供應鏈版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在供應鏈脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Japan wage hikes top 5% for third year, backing BOJ rate-hike path' leads today's Supply Chain file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Supply Chain lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "supply-tesla-rolls-out-robotaxi-service-in-miami",
+                    "category": "supply-chain",
+                    "image": "factory",
+                    "lead": false,
+                    "author": "Avery Lin",
+                    "read": 5,
+                    "title": {
+                              "en": "Tesla rolls out robotaxi service in Miami",
+                              "zh": "特斯拉在邁阿密推出自動駕駛計程車服務"
+                    },
+                    "dek": {
+                              "en": "Supply-chain decisions are being driven by minerals, manufacturing shifts, labour costs and the search for resilient industrial capacity.",
+                              "zh": "供應鏈決策正受到礦產、製造轉移、勞動成本與韌性產能布局的共同推動。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「特斯拉在邁阿密推出自動駕駛計程車服務」成為今天供應鏈版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在供應鏈脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Tesla rolls out robotaxi service in Miami' leads today's Supply Chain file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Supply Chain lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "supply-chinese-copper-foil-maker-londian-wason-new-energy-tech-files-for-us-ipo",
+                    "category": "supply-chain",
+                    "image": "factory",
+                    "lead": false,
+                    "author": "Avery Lin",
+                    "read": 5,
+                    "title": {
+                              "en": "Chinese copper foil maker Londian Wason New Energy Tech files for US IPO",
+                              "zh": "中國銅箔廠隆電華森新能源申請赴美上市"
+                    },
+                    "dek": {
+                              "en": "Supply-chain decisions are being driven by minerals, manufacturing shifts, labour costs and the search for resilient industrial capacity.",
+                              "zh": "供應鏈決策正受到礦產、製造轉移、勞動成本與韌性產能布局的共同推動。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「中國銅箔廠隆電華森新能源申請赴美上市」成為今天供應鏈版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在供應鏈脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Chinese copper foil maker Londian Wason New Energy Tech files for US IPO' leads today's Supply Chain file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Supply Chain lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "econ-global-stocks-head-for-best-week-since-may-us-jobs-data-shifts-rate-outl",
+                    "category": "economy-markets",
+                    "image": "markets",
+                    "lead": true,
+                    "author": "Noah Wu",
+                    "read": 6,
+                    "title": {
+                              "en": "Global stocks head for best week since May; US jobs data shifts rate outlook",
+                              "zh": "全球股市可望創五月來最佳單週表現，就業數據改寫利率預期"
+                    },
+                    "dek": {
+                              "en": "Market pricing is shifting with every new signal on rates, growth and the crowded trades built around technology leadership.",
+                              "zh": "利率、成長與科技領軍交易的每個新訊號，都在推動市場重新定價。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「全球股市可望創五月來最佳單週表現，就業數據改寫利率預期」成為今天經濟與市場版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在經濟與市場脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Global stocks head for best week since May; US jobs data shifts rate outlook' leads today's Economy & Markets file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Economy & Markets lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "econ-dollar-slides-after-jobs-data-chipmakers-weigh-on-stocks",
+                    "category": "economy-markets",
+                    "image": "markets",
+                    "lead": false,
+                    "author": "Noah Wu",
+                    "read": 6,
+                    "title": {
+                              "en": "Dollar slides after jobs data, chipmakers weigh on stocks",
+                              "zh": "就業數據出爐後美元走弱，晶片股拖累股市表現"
+                    },
+                    "dek": {
+                              "en": "Market pricing is shifting with every new signal on rates, growth and the crowded trades built around technology leadership.",
+                              "zh": "利率、成長與科技領軍交易的每個新訊號，都在推動市場重新定價。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「就業數據出爐後美元走弱，晶片股拖累股市表現」成為今天經濟與市場版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在經濟與市場脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Dollar slides after jobs data, chipmakers weigh on stocks' leads today's Economy & Markets file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Economy & Markets lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "econ-live-markets-better-growth-won-t-help-european-stocks-bofa-says",
+                    "category": "economy-markets",
+                    "image": "markets",
+                    "lead": false,
+                    "author": "Noah Wu",
+                    "read": 6,
+                    "title": {
+                              "en": "LIVE MARKETS Better growth won't help European stocks, BofA says",
+                              "zh": "即時市場：美銀稱成長改善未必能提振歐洲股市"
+                    },
+                    "dek": {
+                              "en": "Market pricing is shifting with every new signal on rates, growth and the crowded trades built around technology leadership.",
+                              "zh": "利率、成長與科技領軍交易的每個新訊號，都在推動市場重新定價。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「即時市場：美銀稱成長改善未必能提振歐洲股市」成為今天經濟與市場版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在經濟與市場脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'LIVE MARKETS Better growth won't help European stocks, BofA says' leads today's Economy & Markets file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Economy & Markets lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "econ-global-equity-fund-inflows-rise-as-investors-add-tech-stocks-after-marke",
+                    "category": "economy-markets",
+                    "image": "markets",
+                    "lead": false,
+                    "author": "Noah Wu",
+                    "read": 6,
+                    "title": {
+                              "en": "Global equity fund inflows rise as investors add tech stocks after market dip",
+                              "zh": "市場回檔後投資人加碼科技股，全球股票基金流入增加"
+                    },
+                    "dek": {
+                              "en": "Market pricing is shifting with every new signal on rates, growth and the crowded trades built around technology leadership.",
+                              "zh": "利率、成長與科技領軍交易的每個新訊號，都在推動市場重新定價。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「市場回檔後投資人加碼科技股，全球股票基金流入增加」成為今天經濟與市場版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在經濟與市場脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Global equity fund inflows rise as investors add tech stocks after market dip' leads today's Economy & Markets file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Economy & Markets lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "econ-dow-jumps-to-record-closing-high-after-soft-us-jobs-data-nasdaq-down-wit",
+                    "category": "economy-markets",
+                    "image": "markets",
+                    "lead": false,
+                    "author": "Noah Wu",
+                    "read": 6,
+                    "title": {
+                              "en": "Dow jumps to record closing high after soft US jobs data, Nasdaq down with chip shares",
+                              "zh": "美國就業數據偏軟後，道瓊創收盤新高、那指受晶片股拖累走低"
+                    },
+                    "dek": {
+                              "en": "Market pricing is shifting with every new signal on rates, growth and the crowded trades built around technology leadership.",
+                              "zh": "利率、成長與科技領軍交易的每個新訊號，都在推動市場重新定價。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「美國就業數據偏軟後，道瓊創收盤新高、那指受晶片股拖累走低」成為今天經濟與市場版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在經濟與市場脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Dow jumps to record closing high after soft US jobs data, Nasdaq down with chip shares' leads today's Economy & Markets file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Economy & Markets lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "energy-climate-change-behind-sweltering-world-cup-scientists-say",
+                    "category": "energy-climate",
+                    "image": "energy",
+                    "lead": true,
+                    "author": "Iris Chang",
+                    "read": 6,
+                    "title": {
+                              "en": "Climate change behind sweltering World Cup, scientists say",
+                              "zh": "科學家稱，氣候變遷是世界盃酷熱天氣背後主因"
+                    },
+                    "dek": {
+                              "en": "Energy systems and climate stress are colliding in ways that immediately affect fuel flows, electricity use and political response.",
+                              "zh": "能源系統與氣候壓力正彼此碰撞，並立即影響燃料流動、用電需求與政治回應。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「科學家稱，氣候變遷是世界盃酷熱天氣背後主因」成為今天能源與氣候版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在能源與氣候脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Climate change behind sweltering World Cup, scientists say' leads today's Energy & Climate file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Energy & Climate lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "energy-india-withdraws-gas-curbs-as-middle-east-lng-supply-resumes",
+                    "category": "energy-climate",
+                    "image": "energy",
+                    "lead": false,
+                    "author": "Iris Chang",
+                    "read": 6,
+                    "title": {
+                              "en": "India withdraws gas curbs as Middle East LNG supply resumes",
+                              "zh": "中東液化天然氣供應恢復後，印度撤回天然氣限制措施"
+                    },
+                    "dek": {
+                              "en": "Energy systems and climate stress are colliding in ways that immediately affect fuel flows, electricity use and political response.",
+                              "zh": "能源系統與氣候壓力正彼此碰撞，並立即影響燃料流動、用電需求與政治回應。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「中東液化天然氣供應恢復後，印度撤回天然氣限制措施」成為今天能源與氣候版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在能源與氣候脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'India withdraws gas curbs as Middle East LNG supply resumes' leads today's Energy & Climate file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Energy & Climate lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "energy-cossacks-guard-petrol-stations-in-russian-resort-as-anger-grows-over-fue",
+                    "category": "energy-climate",
+                    "image": "energy",
+                    "lead": false,
+                    "author": "Iris Chang",
+                    "read": 6,
+                    "title": {
+                              "en": "Cossacks guard petrol stations in Russian resort as anger grows over fuel shortages",
+                              "zh": "俄羅斯度假區燃料短缺惹怒民眾，哥薩克進駐加油站戒備"
+                    },
+                    "dek": {
+                              "en": "Energy systems and climate stress are colliding in ways that immediately affect fuel flows, electricity use and political response.",
+                              "zh": "能源系統與氣候壓力正彼此碰撞，並立即影響燃料流動、用電需求與政治回應。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「俄羅斯度假區燃料短缺惹怒民眾，哥薩克進駐加油站戒備」成為今天能源與氣候版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在能源與氣候脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Cossacks guard petrol stations in Russian resort as anger grows over fuel shortages' leads today's Energy & Climate file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Energy & Climate lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "energy-eastern-us-power-grid-operator-orders-emergency-curbs-as-electricity-use",
+                    "category": "energy-climate",
+                    "image": "energy",
+                    "lead": false,
+                    "author": "Iris Chang",
+                    "read": 6,
+                    "title": {
+                              "en": "Eastern US power grid operator orders emergency curbs as electricity use nears record",
+                              "zh": "美國東部電網用電逼近新高，營運商下令緊急限載"
+                    },
+                    "dek": {
+                              "en": "Energy systems and climate stress are colliding in ways that immediately affect fuel flows, electricity use and political response.",
+                              "zh": "能源系統與氣候壓力正彼此碰撞，並立即影響燃料流動、用電需求與政治回應。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「美國東部電網用電逼近新高，營運商下令緊急限載」成為今天能源與氣候版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在能源與氣候脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Eastern US power grid operator orders emergency curbs as electricity use nears record' leads today's Energy & Climate file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Energy & Climate lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "energy-chinese-independent-refiners-snap-up-discounted-mideast-oil-as-supplies",
+                    "category": "energy-climate",
+                    "image": "energy",
+                    "lead": false,
+                    "author": "Iris Chang",
+                    "read": 6,
+                    "title": {
+                              "en": "Chinese independent refiners snap up discounted Mideast oil as supplies rise",
+                              "zh": "供應增加之際，中國獨立煉廠搶購折價中東原油"
+                    },
+                    "dek": {
+                              "en": "Energy systems and climate stress are colliding in ways that immediately affect fuel flows, electricity use and political response.",
+                              "zh": "能源系統與氣候壓力正彼此碰撞，並立即影響燃料流動、用電需求與政治回應。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「供應增加之際，中國獨立煉廠搶購折價中東原油」成為今天能源與氣候版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在能源與氣候脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Chinese independent refiners snap up discounted Mideast oil as supplies rise' leads today's Energy & Climate file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Energy & Climate lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "policy-chinese-regulator-proposes-changes-to-refinancing-rules-for-listed-compa",
+                    "category": "policy-regulation",
+                    "image": "documents",
+                    "lead": true,
+                    "author": "Maya Chen",
+                    "read": 5,
+                    "title": {
+                              "en": "Chinese regulator proposes changes to refinancing rules for listed companies",
+                              "zh": "中國監管機關提議修改上市公司再融資規則"
+                    },
+                    "dek": {
+                              "en": "New rules and court decisions are redefining how capital, trade and compliance obligations move across borders.",
+                              "zh": "新規則與法院裁決正重新界定資本、貿易與法遵義務的跨境流動方式。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「中國監管機關提議修改上市公司再融資規則」成為今天政策與法規版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在政策與法規脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Chinese regulator proposes changes to refinancing rules for listed companies' leads today's Policy & Regulation file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Policy & Regulation lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "policy-vivendi-hit-with-additional-eu-antitrust-charges-over-lagardere-deal",
+                    "category": "policy-regulation",
+                    "image": "documents",
+                    "lead": false,
+                    "author": "Maya Chen",
+                    "read": 5,
+                    "title": {
+                              "en": "Vivendi hit with additional EU antitrust charges over Lagardere deal",
+                              "zh": "Vivendi 因 Lagardere 交易再遭歐盟加碼反壟斷指控"
+                    },
+                    "dek": {
+                              "en": "New rules and court decisions are redefining how capital, trade and compliance obligations move across borders.",
+                              "zh": "新規則與法院裁決正重新界定資本、貿易與法遵義務的跨境流動方式。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「Vivendi 因 Lagardere 交易再遭歐盟加碼反壟斷指控」成為今天政策與法規版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在政策與法規脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Vivendi hit with additional EU antitrust charges over Lagardere deal' leads today's Policy & Regulation file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Policy & Regulation lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "policy-brazil-implements-new-regulations-for-meat-exports-to-eu-globo-rural-rep",
+                    "category": "policy-regulation",
+                    "image": "documents",
+                    "lead": false,
+                    "author": "Maya Chen",
+                    "read": 5,
+                    "title": {
+                              "en": "Brazil implements new regulations for meat exports to EU, Globo Rural reports",
+                              "zh": "巴西對出口歐盟肉品實施新規範"
+                    },
+                    "dek": {
+                              "en": "New rules and court decisions are redefining how capital, trade and compliance obligations move across borders.",
+                              "zh": "新規則與法院裁決正重新界定資本、貿易與法遵義務的跨境流動方式。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「巴西對出口歐盟肉品實施新規範」成為今天政策與法規版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在政策與法規脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Brazil implements new regulations for meat exports to EU, Globo Rural reports' leads today's Policy & Regulation file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Policy & Regulation lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "policy-jpmorgan-cannot-stop-paying-charlie-javice-s-legal-bills-delaware-judge",
+                    "category": "policy-regulation",
+                    "image": "documents",
+                    "lead": false,
+                    "author": "Maya Chen",
+                    "read": 5,
+                    "title": {
+                              "en": "JPMorgan cannot stop paying Charlie Javice's legal bills, Delaware judge rules",
+                              "zh": "德拉瓦法官裁定，摩根大通不得停止支付查理・賈維斯訴訟費用"
+                    },
+                    "dek": {
+                              "en": "New rules and court decisions are redefining how capital, trade and compliance obligations move across borders.",
+                              "zh": "新規則與法院裁決正重新界定資本、貿易與法遵義務的跨境流動方式。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「德拉瓦法官裁定，摩根大通不得停止支付查理・賈維斯訴訟費用」成為今天政策與法規版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在政策與法規脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'JPMorgan cannot stop paying Charlie Javice's legal bills, Delaware judge rules' leads today's Policy & Regulation file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Policy & Regulation lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "policy-trump-administration-cannot-hold-migrants-without-bond-hearings-past-90",
+                    "category": "policy-regulation",
+                    "image": "documents",
+                    "lead": false,
+                    "author": "Maya Chen",
+                    "read": 5,
+                    "title": {
+                              "en": "Trump administration cannot hold migrants without bond hearings past 90 days, court rules",
+                              "zh": "法院裁定，川普政府不得在未舉行保釋聽證下羈押移民超過90天"
+                    },
+                    "dek": {
+                              "en": "New rules and court decisions are redefining how capital, trade and compliance obligations move across borders.",
+                              "zh": "新規則與法院裁決正重新界定資本、貿易與法遵義務的跨境流動方式。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「法院裁定，川普政府不得在未舉行保釋聽證下羈押移民超過90天」成為今天政策與法規版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在政策與法規脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Trump administration cannot hold migrants without bond hearings past 90 days, court rules' leads today's Policy & Regulation file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Policy & Regulation lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "cyber-researchers-say-eu-lawmaker-who-investigated-surveillance-was-hacked-by",
+                    "category": "cybersecurity",
+                    "image": "cybersecurity",
+                    "lead": true,
+                    "author": "Leo Huang",
+                    "read": 5,
+                    "title": {
+                              "en": "Researchers say EU lawmaker who investigated surveillance was hacked by Israeli spyware",
+                              "zh": "研究人員稱，調查監控案的歐盟議員遭以色列間諜軟體入侵"
+                    },
+                    "dek": {
+                              "en": "Cyber risk is widening from spyware and data leaks to AI-enabled attack paths and formal certification demands.",
+                              "zh": "從間諜軟體與資料外洩，到 AI 驅動的攻擊路徑與正式認證要求，資安風險正持續擴大。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「研究人員稱，調查監控案的歐盟議員遭以色列間諜軟體入侵」成為今天網路安全版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在網路安全脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Researchers say EU lawmaker who investigated surveillance was hacked by Israeli spyware' leads today's Cybersecurity file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Cybersecurity lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "cyber-an-ai-just-carried-out-a-cyber-attack-without-any-human-oversight-for-th",
+                    "category": "cybersecurity",
+                    "image": "cybersecurity",
+                    "lead": false,
+                    "author": "Leo Huang",
+                    "read": 5,
+                    "title": {
+                              "en": "An AI just carried out a cyber attack without any human oversight for the first time",
+                              "zh": "AI 首度在無人監督下自行發動網路攻擊"
+                    },
+                    "dek": {
+                              "en": "Cyber risk is widening from spyware and data leaks to AI-enabled attack paths and formal certification demands.",
+                              "zh": "從間諜軟體與資料外洩，到 AI 驅動的攻擊路徑與正式認證要求，資安風險正持續擴大。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「AI 首度在無人監督下自行發動網路攻擊」成為今天網路安全版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在網路安全脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'An AI just carried out a cyber attack without any human oversight for the first time' leads today's Cybersecurity file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Cybersecurity lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "cyber-apple-iphone-18-pro-supplier-list-leaked-in-tata-data-breach",
+                    "category": "cybersecurity",
+                    "image": "cybersecurity",
+                    "lead": false,
+                    "author": "Leo Huang",
+                    "read": 5,
+                    "title": {
+                              "en": "Apple iPhone 18 Pro supplier list leaked in Tata data breach",
+                              "zh": "塔塔資料外洩事件曝光 iPhone 18 Pro 供應商名單"
+                    },
+                    "dek": {
+                              "en": "Cyber risk is widening from spyware and data leaks to AI-enabled attack paths and formal certification demands.",
+                              "zh": "從間諜軟體與資料外洩，到 AI 驅動的攻擊路徑與正式認證要求，資安風險正持續擴大。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「塔塔資料外洩事件曝光 iPhone 18 Pro 供應商名單」成為今天網路安全版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在網路安全脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Apple iPhone 18 Pro supplier list leaked in Tata data breach' leads today's Cybersecurity file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Cybersecurity lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "cyber-how-apple-bets-on-early-updates-to-ease-ai-cyber-concerns",
+                    "category": "cybersecurity",
+                    "image": "cybersecurity",
+                    "lead": false,
+                    "author": "Leo Huang",
+                    "read": 5,
+                    "title": {
+                              "en": "How Apple Bets on Early Updates To Ease AI Cyber Concerns",
+                              "zh": "蘋果押注提早更新，以緩解 AI 資安疑慮"
+                    },
+                    "dek": {
+                              "en": "Cyber risk is widening from spyware and data leaks to AI-enabled attack paths and formal certification demands.",
+                              "zh": "從間諜軟體與資料外洩，到 AI 驅動的攻擊路徑與正式認證要求，資安風險正持續擴大。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「蘋果押注提早更新，以緩解 AI 資安疑慮」成為今天網路安全版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在網路安全脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'How Apple Bets on Early Updates To Ease AI Cyber Concerns' leads today's Cybersecurity file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Cybersecurity lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "cyber-uwm-advances-toward-key-federal-cybersecurity-certification-expanding-re",
+                    "category": "cybersecurity",
+                    "image": "cybersecurity",
+                    "lead": false,
+                    "author": "Leo Huang",
+                    "read": 5,
+                    "title": {
+                              "en": "UWM Advances Toward Key Federal Cybersecurity Certification, Expanding Research and Industry Opportunities | Newswise",
+                              "zh": "UWM 推進關鍵聯邦資安認證，擴大研究與產業合作機會"
+                    },
+                    "dek": {
+                              "en": "Cyber risk is widening from spyware and data leaks to AI-enabled attack paths and formal certification demands.",
+                              "zh": "從間諜軟體與資料外洩，到 AI 驅動的攻擊路徑與正式認證要求，資安風險正持續擴大。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「UWM 推進關鍵聯邦資安認證，擴大研究與產業合作機會」成為今天網路安全版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在網路安全脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'UWM Advances Toward Key Federal Cybersecurity Certification, Expanding Research and Industry Opportunities | Newswise' leads today's Cybersecurity file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Cybersecurity lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "infra-india-s-kerala-state-not-consulted-on-msc-s-1-4-bln-port-investment-chie",
+                    "category": "logistics-infrastructure",
+                    "image": "infrastructure",
+                    "lead": true,
+                    "author": "Sofia Reyes",
+                    "read": 5,
+                    "title": {
+                              "en": "India's Kerala state not consulted on MSC's $1.4 bln port investment, chief minister says",
+                              "zh": "印度喀拉拉邦稱，MSC 14 億美元港口投資案未先徵詢地方意見"
+                    },
+                    "dek": {
+                              "en": "Infrastructure stress now runs through ports, railways, refineries and power systems that support wider economic continuity.",
+                              "zh": "基礎設施壓力正蔓延至港口、鐵路、煉油廠與電力系統，牽動更廣泛的經濟運作延續。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「印度喀拉拉邦稱，MSC 14 億美元港口投資案未先徵詢地方意見」成為今天物流與基礎建設版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在物流與基礎建設脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'India's Kerala state not consulted on MSC's $1.4 bln port investment, chief minister says' leads today's Logistics & Infrastructure file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Logistics & Infrastructure lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "infra-ukraine-says-over-200-locomotives-damaged-in-russian-attacks-this-year",
+                    "category": "logistics-infrastructure",
+                    "image": "infrastructure",
+                    "lead": false,
+                    "author": "Sofia Reyes",
+                    "read": 5,
+                    "title": {
+                              "en": "Ukraine says over 200 locomotives damaged in Russian attacks this year",
+                              "zh": "烏克蘭稱，今年已有逾200輛機車頭在俄軍攻擊中受損"
+                    },
+                    "dek": {
+                              "en": "Infrastructure stress now runs through ports, railways, refineries and power systems that support wider economic continuity.",
+                              "zh": "基礎設施壓力正蔓延至港口、鐵路、煉油廠與電力系統，牽動更廣泛的經濟運作延續。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「烏克蘭稱，今年已有逾200輛機車頭在俄軍攻擊中受損」成為今天物流與基礎建設版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在物流與基礎建設脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Ukraine says over 200 locomotives damaged in Russian attacks this year' leads today's Logistics & Infrastructure file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Logistics & Infrastructure lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "infra-human-shields-at-iran-power-sites-as-tehran-warns-of-a-regional-blackout",
+                    "category": "logistics-infrastructure",
+                    "image": "infrastructure",
+                    "lead": false,
+                    "author": "Sofia Reyes",
+                    "read": 5,
+                    "title": {
+                              "en": "'Human shields' at Iran power sites as Tehran warns of a regional blackout if US strikes",
+                              "zh": "德黑蘭警告若美國動武恐引發區域停電，伊朗電力設施出現「人肉盾牌」"
+                    },
+                    "dek": {
+                              "en": "Infrastructure stress now runs through ports, railways, refineries and power systems that support wider economic continuity.",
+                              "zh": "基礎設施壓力正蔓延至港口、鐵路、煉油廠與電力系統，牽動更廣泛的經濟運作延續。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「德黑蘭警告若美國動武恐引發區域停電，伊朗電力設施出現「人肉盾牌」」成為今天物流與基礎建設版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在物流與基礎建設脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "''Human shields' at Iran power sites as Tehran warns of a regional blackout if US strikes' leads today's Logistics & Infrastructure file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Logistics & Infrastructure lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "infra-ukraine-says-russia-damaged-more-than-200-railway-locomotives-in-2026",
+                    "category": "logistics-infrastructure",
+                    "image": "infrastructure",
+                    "lead": false,
+                    "author": "Sofia Reyes",
+                    "read": 5,
+                    "title": {
+                              "en": "Ukraine says Russia damaged more than 200 railway locomotives in 2026",
+                              "zh": "烏克蘭稱，俄羅斯2026年已破壞超過200輛鐵路機車頭"
+                    },
+                    "dek": {
+                              "en": "Infrastructure stress now runs through ports, railways, refineries and power systems that support wider economic continuity.",
+                              "zh": "基礎設施壓力正蔓延至港口、鐵路、煉油廠與電力系統，牽動更廣泛的經濟運作延續。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「烏克蘭稱，俄羅斯2026年已破壞超過200輛鐵路機車頭」成為今天物流與基礎建設版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在物流與基礎建設脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Ukraine says Russia damaged more than 200 railway locomotives in 2026' leads today's Logistics & Infrastructure file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Logistics & Infrastructure lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          },
+          {
+                    "id": "infra-lukoil-nizhegorodnefteorgsintez-oil-refinery-suspends-operations-followi",
+                    "category": "logistics-infrastructure",
+                    "image": "infrastructure",
+                    "lead": false,
+                    "author": "Sofia Reyes",
+                    "read": 5,
+                    "title": {
+                              "en": "Lukoil-Nizhegorodnefteorgsintez oil refinery suspends operations following drone attack on July 2 - Reuters",
+                              "zh": "路透：Lukoil 下屬煉油廠遭無人機攻擊後停運"
+                    },
+                    "dek": {
+                              "en": "Infrastructure stress now runs through ports, railways, refineries and power systems that support wider economic continuity.",
+                              "zh": "基礎設施壓力正蔓延至港口、鐵路、煉油廠與電力系統，牽動更廣泛的經濟運作延續。"
+                    },
+                    "body": {
+                              "zh": [
+                                        "「路透：Lukoil 下屬煉油廠遭無人機攻擊後停運」成為今天物流與基礎建設版的領稿之一，因為它不只是單一事件更新，更反映出相關系統正在承受新的壓力。從這則候選新聞來看，決策者已經必須重新評估風險、成本、時程與彼此協調的方式。",
+                                        "放在物流與基礎建設脈絡中觀察，這類發展通常不會停留在標題層次。它往往會往政策安排、企業規劃、資本流向、營運配置與市場預期持續傳導，進而改變各方對下一步行動的判斷。",
+                                        "因此，更值得追蹤的不是今天是否出現新訊號，而是哪一些原本被視為穩定的假設開始鬆動。當參與者調整備援方案、投資排序、溝通節奏或執行優先序時，後續影響通常會比表面標題更深。",
+                                        "接下來要看的，是這個訊號會不會轉化成更具體的執行動作，例如新的規則、合作安排、產能調度、資金配置或安全應對。一旦落地，今天的變化就可能成為下一輪更廣泛重整的起點。"
+                              ],
+                              "en": [
+                                        "'Lukoil-Nizhegorodnefteorgsintez oil refinery suspends operations following drone attack on July 2 - Reuters' leads today's Logistics & Infrastructure file because it is more than a passing update. Within the bounded candidate pool, the story signals that institutions are again reassessing risk, cost, timing and coordination across the system around it.",
+                                        "Viewed through the Logistics & Infrastructure lens, developments like this rarely remain isolated. They often flow into policy choices, corporate planning, capital allocation, operating assumptions and market expectations, changing what decision-makers think has to happen next.",
+                                        "The practical question is which once-stable assumption is now weakening. When governments, companies or investors start revising contingency plans, investment priorities, communication strategy or execution timelines, the second-order effects usually matter as much as the headline itself.",
+                                        "The next step to watch is whether the signal becomes a concrete action such as a rule change, financing move, partnership, capacity shift or security response. If it does, this headline may mark the start of a broader adjustment cycle rather than an isolated event."
+                              ]
+                    }
+          }
+];
 })();
