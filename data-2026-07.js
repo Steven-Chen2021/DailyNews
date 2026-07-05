@@ -5,6 +5,1509 @@
 (function () {
   window.DAILY_NEWS_STORIES = window.DAILY_NEWS_STORIES || {};
 
+  window.DAILY_NEWS_STORIES["2026-07-06"] = [
+    {
+      "id": "inter-outgoing-uk-pm-starmer-says-successor-cannot-spend-less-time-on-foreign-affairs",
+      "category": "international",
+      "image": "meeting",
+      "lead": true,
+      "author": "Maya Chen",
+      "read": 7,
+      "title": {
+        "en": "Outgoing UK PM Starmer says successor cannot spend less time on foreign affairs",
+        "zh": "英國即將卸任首相施凱爾：繼任者不能減少外交投入"
+      },
+      "dek": {
+        "en": "Diplomatic signaling and cross-border messaging are reshaping how governments and investors read strategic risk.",
+        "zh": "外交訊號與跨境訊息正重新塑造政府與投資人判讀戰略風險的方式。"
+      },
+      "body": {
+        "zh": [
+          "「英國即將卸任首相施凱爾：繼任者不能減少外交投入」是今天國際新聞版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在國際新聞脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Outgoing UK PM Starmer says successor cannot spend less time on foreign affairs' is a key story in today's International file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the International lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "inter-taiwan-says-china-has-no-right-to-comment-on-reported-perth-office",
+      "category": "international",
+      "image": "meeting",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 7,
+      "title": {
+        "en": "Taiwan says China has 'no right to comment' on reported Perth office",
+        "zh": "台灣表示，中國無權評論傳出的伯斯辦事處規劃"
+      },
+      "dek": {
+        "en": "Diplomatic signaling and cross-border messaging are reshaping how governments and investors read strategic risk.",
+        "zh": "外交訊號與跨境訊息正重新塑造政府與投資人判讀戰略風險的方式。"
+      },
+      "body": {
+        "zh": [
+          "「台灣表示，中國無權評論傳出的伯斯辦事處規劃」是今天國際新聞版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在國際新聞脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Taiwan says China has 'no right to comment' on reported Perth office' is a key story in today's International file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the International lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "inter-taiwan-appoints-new-envoys-to-fiji-peru-first-representative-to-phoenix",
+      "category": "international",
+      "image": "meeting",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 7,
+      "title": {
+        "en": "Taiwan appoints new envoys to Fiji, Peru, first representative to Phoenix",
+        "zh": "台灣任命駐斐濟、秘魯新使節，並首度派駐鳳凰城代表"
+      },
+      "dek": {
+        "en": "Diplomatic signaling and cross-border messaging are reshaping how governments and investors read strategic risk.",
+        "zh": "外交訊號與跨境訊息正重新塑造政府與投資人判讀戰略風險的方式。"
+      },
+      "body": {
+        "zh": [
+          "「台灣任命駐斐濟、秘魯新使節，並首度派駐鳳凰城代表」是今天國際新聞版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在國際新聞脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Taiwan appoints new envoys to Fiji, Peru, first representative to Phoenix' is a key story in today's International file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the International lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "inter-mac-condemns-china-s-sea-patrols",
+      "category": "international",
+      "image": "meeting",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 7,
+      "title": {
+        "en": "MAC condemns China’s sea patrols",
+        "zh": "陸委會譴責中國海上巡查行動"
+      },
+      "dek": {
+        "en": "Diplomatic signaling and cross-border messaging are reshaping how governments and investors read strategic risk.",
+        "zh": "外交訊號與跨境訊息正重新塑造政府與投資人判讀戰略風險的方式。"
+      },
+      "body": {
+        "zh": [
+          "「陸委會譴責中國海上巡查行動」是今天國際新聞版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在國際新聞脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'MAC condemns China’s sea patrols' is a key story in today's International file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the International lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "inter-president-lai-congratulates-us-on-250th-anniversary",
+      "category": "international",
+      "image": "meeting",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 7,
+      "title": {
+        "en": "President Lai congratulates US on 250th anniversary",
+        "zh": "賴總統祝賀美國建國 250 週年"
+      },
+      "dek": {
+        "en": "Diplomatic signaling and cross-border messaging are reshaping how governments and investors read strategic risk.",
+        "zh": "外交訊號與跨境訊息正重新塑造政府與投資人判讀戰略風險的方式。"
+      },
+      "body": {
+        "zh": [
+          "「賴總統祝賀美國建國 250 週年」是今天國際新聞版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在國際新聞脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'President Lai congratulates US on 250th anniversary' is a key story in today's International file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the International lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "tech-foxconn-second-quarter-revenue-jumps-company-cautions-on-geopolitics",
+      "category": "technology",
+      "image": "technology",
+      "lead": true,
+      "author": "Leo Huang",
+      "read": 6,
+      "title": {
+        "en": "Foxconn second-quarter revenue jumps, company cautions on geopolitics",
+        "zh": "鴻海第二季營收躍升，公司示警地緣政治風險"
+      },
+      "dek": {
+        "en": "Chips, AI systems and digital infrastructure are being repriced as strategy, capital spending and security assumptions shift.",
+        "zh": "隨著策略、資本支出與安全假設改變，晶片、AI 系統與數位基礎設施正被重新定價。"
+      },
+      "body": {
+        "zh": [
+          "「鴻海第二季營收躍升，公司示警地緣政治風險」是今天科技版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在科技脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Foxconn second-quarter revenue jumps, company cautions on geopolitics' is a key story in today's Technology file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Technology lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "tech-taiwan-military-resumes-anti-communist-classes-for-graduates-citing-chinese-threat",
+      "category": "technology",
+      "image": "technology",
+      "lead": false,
+      "author": "Leo Huang",
+      "read": 6,
+      "title": {
+        "en": "Taiwan military resumes 'anti-communist' classes for graduates, citing Chinese threat",
+        "zh": "台灣軍方恢復畢業生反共課程，稱因應中國威脅"
+      },
+      "dek": {
+        "en": "Chips, AI systems and digital infrastructure are being repriced as strategy, capital spending and security assumptions shift.",
+        "zh": "隨著策略、資本支出與安全假設改變，晶片、AI 系統與數位基礎設施正被重新定價。"
+      },
+      "body": {
+        "zh": [
+          "「台灣軍方恢復畢業生反共課程，稱因應中國威脅」是今天科技版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在科技脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Taiwan military resumes 'anti-communist' classes for graduates, citing Chinese threat' is a key story in today's Technology file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Technology lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "tech-eastern-us-power-grid-operator-orders-emergency-curbs-as-electricity-use-nears-record",
+      "category": "technology",
+      "image": "technology",
+      "lead": false,
+      "author": "Leo Huang",
+      "read": 6,
+      "title": {
+        "en": "Eastern US power grid operator orders emergency curbs as electricity use nears record",
+        "zh": "美東電網營運商下令緊急限電，因用電逼近紀錄"
+      },
+      "dek": {
+        "en": "Chips, AI systems and digital infrastructure are being repriced as strategy, capital spending and security assumptions shift.",
+        "zh": "隨著策略、資本支出與安全假設改變，晶片、AI 系統與數位基礎設施正被重新定價。"
+      },
+      "body": {
+        "zh": [
+          "「美東電網營運商下令緊急限電，因用電逼近紀錄」是今天科技版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在科技脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Eastern US power grid operator orders emergency curbs as electricity use nears record' is a key story in today's Technology file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Technology lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "tech-ai-surge-powers-asian-stocks-to-records-despite-ongoing-iran-war-and-oil-shock",
+      "category": "technology",
+      "image": "technology",
+      "lead": false,
+      "author": "Leo Huang",
+      "read": 6,
+      "title": {
+        "en": "AI Surge Powers Asian Stocks To Records Despite Ongoing Iran War And Oil Shock",
+        "zh": "儘管伊朗戰事與油價衝擊延續，AI 熱潮仍推升亞洲股市創高"
+      },
+      "dek": {
+        "en": "Chips, AI systems and digital infrastructure are being repriced as strategy, capital spending and security assumptions shift.",
+        "zh": "隨著策略、資本支出與安全假設改變，晶片、AI 系統與數位基礎設施正被重新定價。"
+      },
+      "body": {
+        "zh": [
+          "「儘管伊朗戰事與油價衝擊延續，AI 熱潮仍推升亞洲股市創高」是今天科技版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在科技脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'AI Surge Powers Asian Stocks To Records Despite Ongoing Iran War And Oil Shock' is a key story in today's Technology file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Technology lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "tech-eu-says-it-held-constructive-talks-with-apple-ceo-cook-after-siri-ai-clash",
+      "category": "technology",
+      "image": "technology",
+      "lead": false,
+      "author": "Leo Huang",
+      "read": 6,
+      "title": {
+        "en": "EU says it held 'constructive' talks with Apple CEO Cook after Siri AI clash",
+        "zh": "歐盟稱在 Siri AI 爭議後，已與蘋果執行長庫克進行建設性會談"
+      },
+      "dek": {
+        "en": "Chips, AI systems and digital infrastructure are being repriced as strategy, capital spending and security assumptions shift.",
+        "zh": "隨著策略、資本支出與安全假設改變，晶片、AI 系統與數位基礎設施正被重新定價。"
+      },
+      "body": {
+        "zh": [
+          "「歐盟稱在 Siri AI 爭議後，已與蘋果執行長庫克進行建設性會談」是今天科技版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在科技脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'EU says it held 'constructive' talks with Apple CEO Cook after Siri AI clash' is a key story in today's Technology file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Technology lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "sports-what-s-in-a-song-the-story-behind-the-music-playing-at-world-cup-stadiums",
+      "category": "sports",
+      "image": "sports",
+      "lead": true,
+      "author": "Jordan Wu",
+      "read": 5,
+      "title": {
+        "en": "What's in a song? The story behind the music playing at World Cup stadiums",
+        "zh": "一首歌能帶來什麼？世界盃球場所播音樂背後的故事"
+      },
+      "dek": {
+        "en": "The World Cup is driving decisions in media, officiating, politics and national branding far beyond the pitch.",
+        "zh": "世界盃正把媒體、判決、政治與國家形象的決策影響，擴大到球場之外。"
+      },
+      "body": {
+        "zh": [
+          "「一首歌能帶來什麼？世界盃球場所播音樂背後的故事」是今天體育版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在體育脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'What's in a song? The story behind the music playing at World Cup stadiums' is a key story in today's Sports file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Sports lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "sports-fifa-makes-unprecedented-u-turn-to-clear-balogun-for-us-v-belgium-world-cup-clash",
+      "category": "sports",
+      "image": "sports",
+      "lead": false,
+      "author": "Jordan Wu",
+      "read": 5,
+      "title": {
+        "en": "FIFA makes unprecedented U-turn to clear Balogun for US v Belgium World Cup clash",
+        "zh": "FIFA 罕見大轉彎，准許巴洛貢出戰美國對比利時世界盃一役"
+      },
+      "dek": {
+        "en": "The World Cup is driving decisions in media, officiating, politics and national branding far beyond the pitch.",
+        "zh": "世界盃正把媒體、判決、政治與國家形象的決策影響，擴大到球場之外。"
+      },
+      "body": {
+        "zh": [
+          "「FIFA 罕見大轉彎，准許巴洛貢出戰美國對比利時世界盃一役」是今天體育版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在體育脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'FIFA makes unprecedented U-turn to clear Balogun for US v Belgium World Cup clash' is a key story in today's Sports file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Sports lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "sports-trump-called-fifa-head-to-seek-review-of-us-player-red-card-source",
+      "category": "sports",
+      "image": "sports",
+      "lead": false,
+      "author": "Jordan Wu",
+      "read": 5,
+      "title": {
+        "en": "Trump called FIFA head to seek review of US player red card: source",
+        "zh": "消息人士：川普致電 FIFA 主席，要求重新檢視美國球員紅牌"
+      },
+      "dek": {
+        "en": "The World Cup is driving decisions in media, officiating, politics and national branding far beyond the pitch.",
+        "zh": "世界盃正把媒體、判決、政治與國家形象的決策影響，擴大到球場之外。"
+      },
+      "body": {
+        "zh": [
+          "「消息人士：川普致電 FIFA 主席，要求重新檢視美國球員紅牌」是今天體育版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在體育脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Trump called FIFA head to seek review of US player red card: source' is a key story in today's Sports file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Sports lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "sports-cape-verde-returns-home-to-celebrations-after-historic-world-cup-run",
+      "category": "sports",
+      "image": "sports",
+      "lead": false,
+      "author": "Jordan Wu",
+      "read": 5,
+      "title": {
+        "en": "Cape Verde returns home to celebrations after historic World Cup run",
+        "zh": "維德角歷史性闖進世界盃後返國，受到熱烈歡迎"
+      },
+      "dek": {
+        "en": "The World Cup is driving decisions in media, officiating, politics and national branding far beyond the pitch.",
+        "zh": "世界盃正把媒體、判決、政治與國家形象的決策影響，擴大到球場之外。"
+      },
+      "body": {
+        "zh": [
+          "「維德角歷史性闖進世界盃後返國，受到熱烈歡迎」是今天體育版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在體育脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Cape Verde returns home to celebrations after historic World Cup run' is a key story in today's Sports file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Sports lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "sports-in-soccer-crazy-brazil-streaming-upstart-pulls-world-cup-viewers-from-tv-to-youtube",
+      "category": "sports",
+      "image": "sports",
+      "lead": false,
+      "author": "Jordan Wu",
+      "read": 5,
+      "title": {
+        "en": "In soccer-crazy Brazil, streaming upstart pulls World Cup viewers from TV to YouTube",
+        "zh": "在足球狂熱的巴西，新興串流平台把世界盃觀眾從電視拉向 YouTube"
+      },
+      "dek": {
+        "en": "The World Cup is driving decisions in media, officiating, politics and national branding far beyond the pitch.",
+        "zh": "世界盃正把媒體、判決、政治與國家形象的決策影響，擴大到球場之外。"
+      },
+      "body": {
+        "zh": [
+          "「在足球狂熱的巴西，新興串流平台把世界盃觀眾從電視拉向 YouTube」是今天體育版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在體育脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'In soccer-crazy Brazil, streaming upstart pulls World Cup viewers from TV to YouTube' is a key story in today's Sports file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Sports lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "shipping-iran-and-qatar-resume-maritime-trade-iranian-state-media-reports",
+      "category": "shipping",
+      "image": "shipping",
+      "lead": true,
+      "author": "Maya Chen",
+      "read": 5,
+      "title": {
+        "en": "Iran and Qatar resume maritime trade, Iranian state media reports",
+        "zh": "伊朗官媒稱伊朗與卡達恢復海上貿易"
+      },
+      "dek": {
+        "en": "Ports, sea lanes and naval signaling are again testing how quickly maritime confidence can return after disruption.",
+        "zh": "港口、海上航道與海軍訊號再次考驗，海運信心在中斷之後能多快恢復。"
+      },
+      "body": {
+        "zh": [
+          "「伊朗官媒稱伊朗與卡達恢復海上貿易」是今天航運版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在航運脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Iran and Qatar resume maritime trade, Iranian state media reports' is a key story in today's Shipping file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Shipping lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "shipping-qatar-says-all-maritime-activities-will-resume-immediately",
+      "category": "shipping",
+      "image": "shipping",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 5,
+      "title": {
+        "en": "Qatar says all maritime activities will resume immediately",
+        "zh": "卡達表示所有海上活動將立即恢復"
+      },
+      "dek": {
+        "en": "Ports, sea lanes and naval signaling are again testing how quickly maritime confidence can return after disruption.",
+        "zh": "港口、海上航道與海軍訊號再次考驗，海運信心在中斷之後能多快恢復。"
+      },
+      "body": {
+        "zh": [
+          "「卡達表示所有海上活動將立即恢復」是今天航運版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在航運脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Qatar says all maritime activities will resume immediately' is a key story in today's Shipping file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Shipping lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "shipping-vessel-forced-out-of-new-york-ship-parade-over-politically-charged-banners",
+      "category": "shipping",
+      "image": "shipping",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 5,
+      "title": {
+        "en": "Vessel forced out of New York ship parade over 'politically charged' banners",
+        "zh": "一艘船因懸掛政治意味濃厚的布條，被迫退出紐約船隊遊行"
+      },
+      "dek": {
+        "en": "Ports, sea lanes and naval signaling are again testing how quickly maritime confidence can return after disruption.",
+        "zh": "港口、海上航道與海軍訊號再次考驗，海運信心在中斷之後能多快恢復。"
+      },
+      "body": {
+        "zh": [
+          "「一艘船因懸掛政治意味濃厚的布條，被迫退出紐約船隊遊行」是今天航運版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在航運脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Vessel forced out of New York ship parade over 'politically charged' banners' is a key story in today's Shipping file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Shipping lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "shipping-china-russia-navies-to-hold-drills-off-china-coast",
+      "category": "shipping",
+      "image": "shipping",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 5,
+      "title": {
+        "en": "China, Russia navies to hold drills off China coast",
+        "zh": "中俄海軍將在中國沿海舉行演習"
+      },
+      "dek": {
+        "en": "Ports, sea lanes and naval signaling are again testing how quickly maritime confidence can return after disruption.",
+        "zh": "港口、海上航道與海軍訊號再次考驗，海運信心在中斷之後能多快恢復。"
+      },
+      "body": {
+        "zh": [
+          "「中俄海軍將在中國沿海舉行演習」是今天航運版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在航運脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'China, Russia navies to hold drills off China coast' is a key story in today's Shipping file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Shipping lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "shipping-china-launches-coast-guard-patrol-east-of-taiwan-despite-international-pushback",
+      "category": "shipping",
+      "image": "shipping",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 5,
+      "title": {
+        "en": "China launches coast guard patrol east of Taiwan despite international pushback",
+        "zh": "儘管國際反彈，中國仍在台灣以東展開海警巡航"
+      },
+      "dek": {
+        "en": "Ports, sea lanes and naval signaling are again testing how quickly maritime confidence can return after disruption.",
+        "zh": "港口、海上航道與海軍訊號再次考驗，海運信心在中斷之後能多快恢復。"
+      },
+      "body": {
+        "zh": [
+          "「儘管國際反彈，中國仍在台灣以東展開海警巡航」是今天航運版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在航運脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'China launches coast guard patrol east of Taiwan despite international pushback' is a key story in today's Shipping file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Shipping lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "supply-southern-china-hit-by-high-winds-heavy-rain-as-tropical-storm-passes",
+      "category": "supply-chain",
+      "image": "warehouse",
+      "lead": true,
+      "author": "Maya Chen",
+      "read": 6,
+      "title": {
+        "en": "Southern China hit by high winds, heavy rain as tropical storm passes",
+        "zh": "熱帶風暴過境，華南遭強風豪雨侵襲"
+      },
+      "dek": {
+        "en": "Weather shocks, mergers and industrial retooling are reshaping where supply-chain resilience is built and paid for.",
+        "zh": "天候衝擊、併購與產業改裝正重塑供應鏈韌性建立的位置與成本承擔方式。"
+      },
+      "body": {
+        "zh": [
+          "「熱帶風暴過境，華南遭強風豪雨侵襲」是今天供應鏈版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在供應鏈脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Southern China hit by high winds, heavy rain as tropical storm passes' is a key story in today's Supply Chain file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Supply Chain lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "supply-cma-cgm-acquires-fedex-supply-chain-for-1-4-billion-adding-150-warehouses-across-north-ame",
+      "category": "supply-chain",
+      "image": "warehouse",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 6,
+      "title": {
+        "en": "CMA CGM acquires FedEx Supply Chain for $1.4 billion, adding 150 warehouses across North America",
+        "zh": "達飛海運以 14 億美元收購 FedEx Supply Chain，新增北美 150 座倉庫"
+      },
+      "dek": {
+        "en": "Weather shocks, mergers and industrial retooling are reshaping where supply-chain resilience is built and paid for.",
+        "zh": "天候衝擊、併購與產業改裝正重塑供應鏈韌性建立的位置與成本承擔方式。"
+      },
+      "body": {
+        "zh": [
+          "「達飛海運以 14 億美元收購 FedEx Supply Chain，新增北美 150 座倉庫」是今天供應鏈版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在供應鏈脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'CMA CGM acquires FedEx Supply Chain for $1.4 billion, adding 150 warehouses across North America' is a key story in today's Supply Chain file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Supply Chain lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "supply-us-declines-to-extend-north-american-trade-deal-starting-clock-to-end-it-while-seeking-cha",
+      "category": "supply-chain",
+      "image": "warehouse",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 6,
+      "title": {
+        "en": "US declines to extend North American trade deal, starting clock to end it while seeking changes",
+        "zh": "美國拒絕延長北美貿易協議，在尋求修正之際啟動終止倒數"
+      },
+      "dek": {
+        "en": "Weather shocks, mergers and industrial retooling are reshaping where supply-chain resilience is built and paid for.",
+        "zh": "天候衝擊、併購與產業改裝正重塑供應鏈韌性建立的位置與成本承擔方式。"
+      },
+      "body": {
+        "zh": [
+          "「美國拒絕延長北美貿易協議，在尋求修正之際啟動終止倒數」是今天供應鏈版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在供應鏈脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'US declines to extend North American trade deal, starting clock to end it while seeking changes' is a key story in today's Supply Chain file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Supply Chain lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "supply-defense-startups-raid-auto-and-fracking-sectors-for-parts-to-speed-weapons-output",
+      "category": "supply-chain",
+      "image": "warehouse",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 6,
+      "title": {
+        "en": "Defense startups raid auto and fracking sectors for parts to speed weapons output",
+        "zh": "國防新創向汽車與頁岩產業調料件，以加速武器生產"
+      },
+      "dek": {
+        "en": "Weather shocks, mergers and industrial retooling are reshaping where supply-chain resilience is built and paid for.",
+        "zh": "天候衝擊、併購與產業改裝正重塑供應鏈韌性建立的位置與成本承擔方式。"
+      },
+      "body": {
+        "zh": [
+          "「國防新創向汽車與頁岩產業調料件，以加速武器生產」是今天供應鏈版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在供應鏈脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Defense startups raid auto and fracking sectors for parts to speed weapons output' is a key story in today's Supply Chain file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Supply Chain lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "supply-semiconductor-giants-race-to-expand-ai-memory-production",
+      "category": "supply-chain",
+      "image": "warehouse",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 6,
+      "title": {
+        "en": "Semiconductor Giants Race to Expand AI Memory Production",
+        "zh": "半導體巨頭競相擴大 AI 記憶體產能"
+      },
+      "dek": {
+        "en": "Weather shocks, mergers and industrial retooling are reshaping where supply-chain resilience is built and paid for.",
+        "zh": "天候衝擊、併購與產業改裝正重塑供應鏈韌性建立的位置與成本承擔方式。"
+      },
+      "body": {
+        "zh": [
+          "「半導體巨頭競相擴大 AI 記憶體產能」是今天供應鏈版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在供應鏈脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Semiconductor Giants Race to Expand AI Memory Production' is a key story in today's Supply Chain file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Supply Chain lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "econ-foxconn-second-quarter-revenue-jumps-company-cautions-on-geopolitics",
+      "category": "economy-markets",
+      "image": "markets",
+      "lead": true,
+      "author": "Leo Huang",
+      "read": 6,
+      "title": {
+        "en": "Foxconn second-quarter revenue jumps, company cautions on geopolitics",
+        "zh": "鴻海第二季營收躍升，公司示警地緣政治風險"
+      },
+      "dek": {
+        "en": "Markets are repricing growth, rates and corporate execution as geopolitics and AI keep colliding with macro data.",
+        "zh": "在地緣政治與 AI 持續撞上總體數據之際，市場正重新定價成長、利率與企業執行力。"
+      },
+      "body": {
+        "zh": [
+          "「鴻海第二季營收躍升，公司示警地緣政治風險」是今天經濟與市場版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在經濟與市場脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Foxconn second-quarter revenue jumps, company cautions on geopolitics' is a key story in today's Economy & Markets file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Economy & Markets lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "econ-most-gulf-markets-slip-on-caution-over-us-iran-talks",
+      "category": "economy-markets",
+      "image": "markets",
+      "lead": false,
+      "author": "Leo Huang",
+      "read": 6,
+      "title": {
+        "en": "Most Gulf markets slip on caution over US-Iran talks",
+        "zh": "多數海灣市場因觀望美伊會談而走低"
+      },
+      "dek": {
+        "en": "Markets are repricing growth, rates and corporate execution as geopolitics and AI keep colliding with macro data.",
+        "zh": "在地緣政治與 AI 持續撞上總體數據之際，市場正重新定價成長、利率與企業執行力。"
+      },
+      "body": {
+        "zh": [
+          "「多數海灣市場因觀望美伊會談而走低」是今天經濟與市場版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在經濟與市場脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Most Gulf markets slip on caution over US-Iran talks' is a key story in today's Economy & Markets file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Economy & Markets lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "econ-dollar-set-for-biggest-weekly-drop-since-april-after-jobs-data-lowers-fed-hike-bets",
+      "category": "economy-markets",
+      "image": "markets",
+      "lead": false,
+      "author": "Leo Huang",
+      "read": 6,
+      "title": {
+        "en": "Dollar set for biggest weekly drop since April after jobs data lowers Fed hike bets",
+        "zh": "就業數據削弱升息預期，美元料創 4 月以來最大單週跌幅"
+      },
+      "dek": {
+        "en": "Markets are repricing growth, rates and corporate execution as geopolitics and AI keep colliding with macro data.",
+        "zh": "在地緣政治與 AI 持續撞上總體數據之際，市場正重新定價成長、利率與企業執行力。"
+      },
+      "body": {
+        "zh": [
+          "「就業數據削弱升息預期，美元料創 4 月以來最大單週跌幅」是今天經濟與市場版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在經濟與市場脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Dollar set for biggest weekly drop since April after jobs data lowers Fed hike bets' is a key story in today's Economy & Markets file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Economy & Markets lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "econ-for-one-small-business-ai-was-key-to-a-quick-start-and-expansion",
+      "category": "economy-markets",
+      "image": "markets",
+      "lead": false,
+      "author": "Leo Huang",
+      "read": 6,
+      "title": {
+        "en": "For one small business, AI was key to a quick start and expansion",
+        "zh": "對一家小型企業而言，AI 是快速起步與擴張的關鍵"
+      },
+      "dek": {
+        "en": "Markets are repricing growth, rates and corporate execution as geopolitics and AI keep colliding with macro data.",
+        "zh": "在地緣政治與 AI 持續撞上總體數據之際，市場正重新定價成長、利率與企業執行力。"
+      },
+      "body": {
+        "zh": [
+          "「對一家小型企業而言，AI 是快速起步與擴張的關鍵」是今天經濟與市場版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在經濟與市場脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'For one small business, AI was key to a quick start and expansion' is a key story in today's Economy & Markets file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Economy & Markets lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "econ-uber-pauses-europe-food-delivery-expansion-as-it-pursues-delivery-hero-deal-ft-reports",
+      "category": "economy-markets",
+      "image": "markets",
+      "lead": false,
+      "author": "Leo Huang",
+      "read": 6,
+      "title": {
+        "en": "Uber pauses Europe food delivery expansion as it pursues Delivery Hero deal, FT reports",
+        "zh": "英媒稱 Uber 爭取 Delivery Hero 交易期間，暫停歐洲外送擴張"
+      },
+      "dek": {
+        "en": "Markets are repricing growth, rates and corporate execution as geopolitics and AI keep colliding with macro data.",
+        "zh": "在地緣政治與 AI 持續撞上總體數據之際，市場正重新定價成長、利率與企業執行力。"
+      },
+      "body": {
+        "zh": [
+          "「英媒稱 Uber 爭取 Delivery Hero 交易期間，暫停歐洲外送擴張」是今天經濟與市場版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在經濟與市場脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Uber pauses Europe food delivery expansion as it pursues Delivery Hero deal, FT reports' is a key story in today's Economy & Markets file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Economy & Markets lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "energy-australia-s-battery-subsidies-spark-rooftop-solar-resurgence",
+      "category": "energy-climate",
+      "image": "climate",
+      "lead": true,
+      "author": "Maya Chen",
+      "read": 6,
+      "title": {
+        "en": "Australia's battery subsidies spark rooftop solar resurgence",
+        "zh": "澳洲電池補貼帶動屋頂太陽能再度升溫"
+      },
+      "dek": {
+        "en": "Energy security and climate stress are colliding in decisions about grids, fuel supply, heat and industrial resilience.",
+        "zh": "能源安全與氣候壓力正在電網、燃料供應、高溫與工業韌性的決策中正面碰撞。"
+      },
+      "body": {
+        "zh": [
+          "「澳洲電池補貼帶動屋頂太陽能再度升溫」是今天能源與氣候版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在能源與氣候脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Australia's battery subsidies spark rooftop solar resurgence' is a key story in today's Energy & Climate file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Energy & Climate lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "energy-opec-approves-further-oil-output-increase-as-hormuz-exports-start-to-recover",
+      "category": "energy-climate",
+      "image": "climate",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 6,
+      "title": {
+        "en": "OPEC+ approves further oil output increase as Hormuz exports start to recover",
+        "zh": "在荷莫茲出口開始回穩之際，OPEC+ 同意進一步增產"
+      },
+      "dek": {
+        "en": "Energy security and climate stress are colliding in decisions about grids, fuel supply, heat and industrial resilience.",
+        "zh": "能源安全與氣候壓力正在電網、燃料供應、高溫與工業韌性的決策中正面碰撞。"
+      },
+      "body": {
+        "zh": [
+          "「在荷莫茲出口開始回穩之際，OPEC+ 同意進一步增產」是今天能源與氣候版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在能源與氣候脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'OPEC+ approves further oil output increase as Hormuz exports start to recover' is a key story in today's Energy & Climate file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Energy & Climate lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "energy-overnight-wildfire-engulfs-factories-near-thessaloniki-greece",
+      "category": "energy-climate",
+      "image": "climate",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 6,
+      "title": {
+        "en": "Overnight wildfire engulfs factories near Thessaloniki, Greece",
+        "zh": "夜間野火吞噬希臘塞薩洛尼基附近工廠"
+      },
+      "dek": {
+        "en": "Energy security and climate stress are colliding in decisions about grids, fuel supply, heat and industrial resilience.",
+        "zh": "能源安全與氣候壓力正在電網、燃料供應、高溫與工業韌性的決策中正面碰撞。"
+      },
+      "body": {
+        "zh": [
+          "「夜間野火吞噬希臘塞薩洛尼基附近工廠」是今天能源與氣候版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在能源與氣候脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Overnight wildfire engulfs factories near Thessaloniki, Greece' is a key story in today's Energy & Climate file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Energy & Climate lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "energy-see-how-abnormal-global-temperatures-are-right-now",
+      "category": "energy-climate",
+      "image": "climate",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 6,
+      "title": {
+        "en": "See how abnormal global temperatures are right now",
+        "zh": "全球氣溫目前異常到什麼程度，一圖看懂"
+      },
+      "dek": {
+        "en": "Energy security and climate stress are colliding in decisions about grids, fuel supply, heat and industrial resilience.",
+        "zh": "能源安全與氣候壓力正在電網、燃料供應、高溫與工業韌性的決策中正面碰撞。"
+      },
+      "body": {
+        "zh": [
+          "「全球氣溫目前異常到什麼程度，一圖看懂」是今天能源與氣候版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在能源與氣候脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'See how abnormal global temperatures are right now' is a key story in today's Energy & Climate file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Energy & Climate lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "energy-eastern-us-power-grid-operator-orders-emergency-curbs-as-electricity-use-nears-record",
+      "category": "energy-climate",
+      "image": "climate",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 6,
+      "title": {
+        "en": "Eastern US power grid operator orders emergency curbs as electricity use nears record",
+        "zh": "美東電網營運商下令緊急限電，因用電逼近紀錄"
+      },
+      "dek": {
+        "en": "Energy security and climate stress are colliding in decisions about grids, fuel supply, heat and industrial resilience.",
+        "zh": "能源安全與氣候壓力正在電網、燃料供應、高溫與工業韌性的決策中正面碰撞。"
+      },
+      "body": {
+        "zh": [
+          "「美東電網營運商下令緊急限電，因用電逼近紀錄」是今天能源與氣候版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在能源與氣候脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Eastern US power grid operator orders emergency curbs as electricity use nears record' is a key story in today's Energy & Climate file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Energy & Climate lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "policy-israel-government-says-it-will-defy-supreme-court-ruling-on-media-regulator",
+      "category": "policy-regulation",
+      "image": "policy",
+      "lead": true,
+      "author": "Maya Chen",
+      "read": 5,
+      "title": {
+        "en": "Israel government says it will defy Supreme Court ruling on media regulator",
+        "zh": "以色列政府稱將不遵守最高法院對媒體監管機構的裁決"
+      },
+      "dek": {
+        "en": "Courts, watchdogs and rule-making fights are redrawing the boundaries between political power and market behavior.",
+        "zh": "法院、監督機構與規則制定之爭，正重新劃出政治權力與市場行為的邊界。"
+      },
+      "body": {
+        "zh": [
+          "「以色列政府稱將不遵守最高法院對媒體監管機構的裁決」是今天政策與法規版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在政策與法規脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Israel government says it will defy Supreme Court ruling on media regulator' is a key story in today's Policy & Regulation file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Policy & Regulation lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "policy-uk-s-farage-referred-to-standards-watchdog-after-new-report-of-undeclared-benefits",
+      "category": "policy-regulation",
+      "image": "policy",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 5,
+      "title": {
+        "en": "UK's Farage referred to standards watchdog after new report of undeclared benefits",
+        "zh": "英國法拉吉因未申報利益新報告遭移送標準監督機構"
+      },
+      "dek": {
+        "en": "Courts, watchdogs and rule-making fights are redrawing the boundaries between political power and market behavior.",
+        "zh": "法院、監督機構與規則制定之爭，正重新劃出政治權力與市場行為的邊界。"
+      },
+      "body": {
+        "zh": [
+          "「英國法拉吉因未申報利益新報告遭移送標準監督機構」是今天政策與法規版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在政策與法規脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'UK's Farage referred to standards watchdog after new report of undeclared benefits' is a key story in today's Policy & Regulation file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Policy & Regulation lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "policy-canadian-league-says-17-world-cup-offside-goals-would-have-stood-in-its-daylight-trial",
+      "category": "policy-regulation",
+      "image": "policy",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 5,
+      "title": {
+        "en": "Canadian league says 17 World Cup offside goals would have stood in its 'daylight' trial",
+        "zh": "加拿大聯盟稱，若採「日光規則」試驗，世界盃有 17 球越位進球會成立"
+      },
+      "dek": {
+        "en": "Courts, watchdogs and rule-making fights are redrawing the boundaries between political power and market behavior.",
+        "zh": "法院、監督機構與規則制定之爭，正重新劃出政治權力與市場行為的邊界。"
+      },
+      "body": {
+        "zh": [
+          "「加拿大聯盟稱，若採「日光規則」試驗，世界盃有 17 球越位進球會成立」是今天政策與法規版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在政策與法規脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Canadian league says 17 World Cup offside goals would have stood in its 'daylight' trial' is a key story in today's Policy & Regulation file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Policy & Regulation lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "policy-drone-industry-leader-urges-japan-and-taiwan-to-get-on-same-regulatory-page",
+      "category": "policy-regulation",
+      "image": "policy",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 5,
+      "title": {
+        "en": "Drone industry leader urges Japan and Taiwan to get on same regulatory page",
+        "zh": "無人機產業領袖敦促日本與台灣協調監管標準"
+      },
+      "dek": {
+        "en": "Courts, watchdogs and rule-making fights are redrawing the boundaries between political power and market behavior.",
+        "zh": "法院、監督機構與規則制定之爭，正重新劃出政治權力與市場行為的邊界。"
+      },
+      "body": {
+        "zh": [
+          "「無人機產業領袖敦促日本與台灣協調監管標準」是今天政策與法規版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在政策與法規脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Drone industry leader urges Japan and Taiwan to get on same regulatory page' is a key story in today's Policy & Regulation file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Policy & Regulation lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "policy-eu-files-additional-antitrust-charges-against-vivendi-over-lagard-re-deal",
+      "category": "policy-regulation",
+      "image": "policy",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 5,
+      "title": {
+        "en": "EU Files Additional Antitrust Charges Against Vivendi Over Lagardère Deal",
+        "zh": "歐盟就拉加代爾交易案對威望迪追加反壟斷指控"
+      },
+      "dek": {
+        "en": "Courts, watchdogs and rule-making fights are redrawing the boundaries between political power and market behavior.",
+        "zh": "法院、監督機構與規則制定之爭，正重新劃出政治權力與市場行為的邊界。"
+      },
+      "body": {
+        "zh": [
+          "「歐盟就拉加代爾交易案對威望迪追加反壟斷指控」是今天政策與法規版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在政策與法規脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'EU Files Additional Antitrust Charges Against Vivendi Over Lagardère Deal' is a key story in today's Policy & Regulation file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Policy & Regulation lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "cyber-former-eu-spyware-investigator-allegedly-hacked-with-pegasus",
+      "category": "cybersecurity",
+      "image": "cybersecurity",
+      "lead": true,
+      "author": "Avery Lin",
+      "read": 5,
+      "title": {
+        "en": "Former EU spyware investigator allegedly hacked with Pegasus",
+        "zh": "前歐盟間諜軟體調查員疑遭 Pegasus 入侵"
+      },
+      "dek": {
+        "en": "Spyware, AI tooling and grid security debates are widening the definition of systemic cyber risk.",
+        "zh": "間諜軟體、AI 工具與電網安全爭議，正擴大系統性資安風險的定義。"
+      },
+      "body": {
+        "zh": [
+          "「前歐盟間諜軟體調查員疑遭 Pegasus 入侵」是今天網路安全版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在網路安全脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Former EU spyware investigator allegedly hacked with Pegasus' is a key story in today's Cybersecurity file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Cybersecurity lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "cyber-jpmorgan-warns-cyberattacks-could-spark-the-next-banking-crisis",
+      "category": "cybersecurity",
+      "image": "cybersecurity",
+      "lead": false,
+      "author": "Avery Lin",
+      "read": 5,
+      "title": {
+        "en": "JPMorgan Warns Cyberattacks Could Spark the Next Banking Crisis",
+        "zh": "摩根大通警告，網路攻擊可能引爆下一場銀行危機"
+      },
+      "dek": {
+        "en": "Spyware, AI tooling and grid security debates are widening the definition of systemic cyber risk.",
+        "zh": "間諜軟體、AI 工具與電網安全爭議，正擴大系統性資安風險的定義。"
+      },
+      "body": {
+        "zh": [
+          "「摩根大通警告，網路攻擊可能引爆下一場銀行危機」是今天網路安全版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在網路安全脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'JPMorgan Warns Cyberattacks Could Spark the Next Banking Crisis' is a key story in today's Cybersecurity file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Cybersecurity lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "cyber-china-s-360-security-claims-ai-vulnerability-tool-rivals-claude-mythos",
+      "category": "cybersecurity",
+      "image": "cybersecurity",
+      "lead": false,
+      "author": "Avery Lin",
+      "read": 5,
+      "title": {
+        "en": "China's 360 Security claims AI vulnerability tool rivals Claude Mythos",
+        "zh": "中國 360 安全稱，其 AI 漏洞工具可與 Claude Mythos 抗衡"
+      },
+      "dek": {
+        "en": "Spyware, AI tooling and grid security debates are widening the definition of systemic cyber risk.",
+        "zh": "間諜軟體、AI 工具與電網安全爭議，正擴大系統性資安風險的定義。"
+      },
+      "body": {
+        "zh": [
+          "「中國 360 安全稱，其 AI 漏洞工具可與 Claude Mythos 抗衡」是今天網路安全版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在網路安全脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'China's 360 Security claims AI vulnerability tool rivals Claude Mythos' is a key story in today's Cybersecurity file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Cybersecurity lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "cyber-china-s-ai-now-matches-anthropic-mythos-in-cybersecurity",
+      "category": "cybersecurity",
+      "image": "cybersecurity",
+      "lead": false,
+      "author": "Avery Lin",
+      "read": 5,
+      "title": {
+        "en": "China's AI Now Matches Anthropic Mythos in Cybersecurity",
+        "zh": "中國 AI 在網路安全領域現已追平 Anthropic Mythos"
+      },
+      "dek": {
+        "en": "Spyware, AI tooling and grid security debates are widening the definition of systemic cyber risk.",
+        "zh": "間諜軟體、AI 工具與電網安全爭議，正擴大系統性資安風險的定義。"
+      },
+      "body": {
+        "zh": [
+          "「中國 AI 在網路安全領域現已追平 Anthropic Mythos」是今天網路安全版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在網路安全脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'China's AI Now Matches Anthropic Mythos in Cybersecurity' is a key story in today's Cybersecurity file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Cybersecurity lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "cyber-washington-weighs-ban-on-chinese-solar-inverters-which-could-raise-costs-for-us-rooftop-sy",
+      "category": "cybersecurity",
+      "image": "cybersecurity",
+      "lead": false,
+      "author": "Avery Lin",
+      "read": 5,
+      "title": {
+        "en": "Washington weighs ban on Chinese solar inverters, which could raise costs for US rooftop systems",
+        "zh": "華府考慮禁止中國太陽能逆變器，恐推高美國屋頂系統成本"
+      },
+      "dek": {
+        "en": "Spyware, AI tooling and grid security debates are widening the definition of systemic cyber risk.",
+        "zh": "間諜軟體、AI 工具與電網安全爭議，正擴大系統性資安風險的定義。"
+      },
+      "body": {
+        "zh": [
+          "「華府考慮禁止中國太陽能逆變器，恐推高美國屋頂系統成本」是今天網路安全版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在網路安全脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Washington weighs ban on Chinese solar inverters, which could raise costs for US rooftop systems' is a key story in today's Cybersecurity file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Cybersecurity lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "infra-mexico-s-maya-train-fails-to-deliver-economic-boost",
+      "category": "logistics-infrastructure",
+      "image": "infrastructure",
+      "lead": true,
+      "author": "Maya Chen",
+      "read": 5,
+      "title": {
+        "en": "Mexico's Maya Train fails to deliver economic boost",
+        "zh": "墨西哥瑪雅鐵路未能帶來預期經濟提振"
+      },
+      "dek": {
+        "en": "Railways, grids and industrial assets are revealing where infrastructure promises still fail to convert into durable capacity.",
+        "zh": "鐵路、電網與工業資產正暴露出，哪些基礎設施承諾仍未轉化為持久產能。"
+      },
+      "body": {
+        "zh": [
+          "「墨西哥瑪雅鐵路未能帶來預期經濟提振」是今天物流與基礎建設版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在物流與基礎建設脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Mexico's Maya Train fails to deliver economic boost' is a key story in today's Logistics & Infrastructure file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Logistics & Infrastructure lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "infra-envelio-wins-reuters-events-grid-infrastructure-award",
+      "category": "logistics-infrastructure",
+      "image": "infrastructure",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 5,
+      "title": {
+        "en": "envelio Wins Reuters Events Grid Infrastructure Award",
+        "zh": "envelio 獲頒路透電網基礎設施獎"
+      },
+      "dek": {
+        "en": "Railways, grids and industrial assets are revealing where infrastructure promises still fail to convert into durable capacity.",
+        "zh": "鐵路、電網與工業資產正暴露出，哪些基礎設施承諾仍未轉化為持久產能。"
+      },
+      "body": {
+        "zh": [
+          "「envelio 獲頒路透電網基礎設施獎」是今天物流與基礎建設版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在物流與基礎建設脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'envelio Wins Reuters Events Grid Infrastructure Award' is a key story in today's Logistics & Infrastructure file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Logistics & Infrastructure lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "infra-iran-announced-the-resumption-of-maritime-trade-with-qatar-reuters",
+      "category": "logistics-infrastructure",
+      "image": "infrastructure",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 5,
+      "title": {
+        "en": "Iran announced the resumption of maritime trade with Qatar - Reuters",
+        "zh": "伊朗宣布恢復與卡達的海上貿易"
+      },
+      "dek": {
+        "en": "Railways, grids and industrial assets are revealing where infrastructure promises still fail to convert into durable capacity.",
+        "zh": "鐵路、電網與工業資產正暴露出，哪些基礎設施承諾仍未轉化為持久產能。"
+      },
+      "body": {
+        "zh": [
+          "「伊朗宣布恢復與卡達的海上貿易」是今天物流與基礎建設版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在物流與基礎建設脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Iran announced the resumption of maritime trade with Qatar - Reuters' is a key story in today's Logistics & Infrastructure file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Logistics & Infrastructure lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "infra-ukraine-says-over-200-locomotives-damaged-in-russian-attacks-this-year",
+      "category": "logistics-infrastructure",
+      "image": "infrastructure",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 5,
+      "title": {
+        "en": "Ukraine says over 200 locomotives damaged in Russian attacks this year",
+        "zh": "烏克蘭稱今年已有逾 200 輛機車頭在俄軍攻擊中受損"
+      },
+      "dek": {
+        "en": "Railways, grids and industrial assets are revealing where infrastructure promises still fail to convert into durable capacity.",
+        "zh": "鐵路、電網與工業資產正暴露出，哪些基礎設施承諾仍未轉化為持久產能。"
+      },
+      "body": {
+        "zh": [
+          "「烏克蘭稱今年已有逾 200 輛機車頭在俄軍攻擊中受損」是今天物流與基礎建設版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在物流與基礎建設脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Ukraine says over 200 locomotives damaged in Russian attacks this year' is a key story in today's Logistics & Infrastructure file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Logistics & Infrastructure lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    },
+    {
+      "id": "infra-lukoil-nizhegorodnefteorgsintez-oil-refinery-suspends-operations-following-drone-attack-on",
+      "category": "logistics-infrastructure",
+      "image": "infrastructure",
+      "lead": false,
+      "author": "Maya Chen",
+      "read": 5,
+      "title": {
+        "en": "Lukoil-Nizhegorodnefteorgsintez oil refinery suspends operations following drone attack on July 2 - Reuters",
+        "zh": "盧克石油下屬煉油廠在 7 月 2 日無人機攻擊後暫停運作"
+      },
+      "dek": {
+        "en": "Railways, grids and industrial assets are revealing where infrastructure promises still fail to convert into durable capacity.",
+        "zh": "鐵路、電網與工業資產正暴露出，哪些基礎設施承諾仍未轉化為持久產能。"
+      },
+      "body": {
+        "zh": [
+          "「盧克石油下屬煉油廠在 7 月 2 日無人機攻擊後暫停運作」是今天物流與基礎建設版的重要觀察點，因為它不只是單一事件更新，也反映出相關系統正在重新調整。",
+          "放在物流與基礎建設脈絡中看，這類發展通常會同時牽動政策判斷、資金配置、營運節奏與外界預期。",
+          "更值得追蹤的不是表面標題本身，而是哪些原本被視為穩定的假設正在鬆動，進而改變決策順位。",
+          "接下來若出現新的規則、合作安排、投資調整、基礎設施應對或安全反應，這則消息的外溢效果就會進一步擴大。"
+        ],
+        "en": [
+          "'Lukoil-Nizhegorodnefteorgsintez oil refinery suspends operations following drone attack on July 2 - Reuters' is a key story in today's Logistics & Infrastructure file because it is more than a single update; it reflects a wider adjustment in the system around it.",
+          "Viewed through the Logistics & Infrastructure lens, developments like this can quickly influence policy choices, capital allocation, operating tempo and public expectations at the same time.",
+          "The more important question is which supposedly stable assumption is starting to weaken, because that usually changes priorities faster than the headline itself suggests.",
+          "If the next step brings rule changes, new partnerships, investment shifts, infrastructure responses or security measures, the story will matter well beyond its immediate trigger."
+        ]
+      }
+    }
+  ];
+
   window.DAILY_NEWS_STORIES["2026-07-02"] = [
         {
                 "id": "inter-u-s-iran-talks-conclude-in-doha-focused-on-strait",
