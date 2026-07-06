@@ -5,6 +5,1509 @@
 (function () {
   window.DAILY_NEWS_STORIES = window.DAILY_NEWS_STORIES || {};
 
+  window.DAILY_NEWS_STORIES["2026-07-07"] = [
+  {
+    "id": "inter-khamenei-funeral-signals-iran-s-defiance-and-new-regional-order",
+    "category": "international",
+    "image": "meeting",
+    "lead": true,
+    "author": "Maya Chen",
+    "read": 7,
+    "title": {
+      "en": "Khamenei funeral signals Iran's defiance and new regional order",
+      "zh": "哈米尼葬禮凸顯伊朗強硬姿態與區域新秩序"
+    },
+    "dek": {
+      "en": "The diplomatic angle matters because bargaining, alignment and symbolic messaging can quickly reshape how governments and investors read strategic risk.",
+      "zh": "這則外交新聞的重要性在於，談判、陣營協調與象徵性訊號，往往會迅速改變政府與投資人對戰略風險的判讀。"
+    },
+    "body": {
+      "zh": [
+        "哈米尼葬禮凸顯伊朗強硬姿態與區域新秩序這則發展說明，外交訊號不只是表面表態，而是各方重新安排談判節奏、盟友協調與風險定價的起點。對決策圈而言，真正需要觀察的是它如何改變彼此試探底線的方式。",
+        "若把這則國際新聞新聞放回更大的區域脈絡，就會看到政府、企業與投資人都必須同時處理安全、能源與市場信心之間的連動。來源為 Reuters 的報導，提供了判讀這類連動的具體切口。",
+        "接下來值得追蹤的是，是否會出現新的協商機制、代表性訪問、制裁調整或對外說法改變。這些後續動作往往比單一標題更能揭露制度是否真的正在轉向。",
+        "若相關訊號持續累積，外界對區域秩序、供應穩定與政策可預測性的判斷也會跟著改變，這正是國際新聞會迅速外溢到市場與企業規劃的原因。"
+      ],
+      "en": [
+        "Khamenei funeral signals Iran's defiance and new regional order shows that diplomatic signaling is not just rhetorical theatre; it often marks the start of a new round of bargaining, alliance management and strategic repricing.",
+        "Placed back into the wider International context, the story links security concerns, energy exposure and market confidence in ways that governments, companies and investors all have to process at once. Reuters's reporting gives that connection a concrete frame.",
+        "The next thing to watch is whether the headline is followed by new talks, official visits, sanctions adjustments or a shift in public messaging. Those second-order moves usually reveal whether institutions are genuinely changing course.",
+        "If the signal keeps building, assumptions about regional order, supply stability and policy predictability will also move. That is why international news can spill into business planning far faster than many expect."
+      ]
+    }
+  },
+  {
+    "id": "inter-malaysian-lawmakers-to-hold-hearing-on-lynas-u-s-rare-earths-deal",
+    "category": "international",
+    "image": "meeting",
+    "lead": false,
+    "author": "Maya Chen",
+    "read": 6,
+    "title": {
+      "en": "Malaysian lawmakers to hold hearing on Lynas-U.S. rare earths deal",
+      "zh": "馬來西亞國會將就 Lynas 與美國稀土協議舉行聽證"
+    },
+    "dek": {
+      "en": "The diplomatic angle matters because bargaining, alignment and symbolic messaging can quickly reshape how governments and investors read strategic risk.",
+      "zh": "這則外交新聞的重要性在於，談判、陣營協調與象徵性訊號，往往會迅速改變政府與投資人對戰略風險的判讀。"
+    },
+    "body": {
+      "zh": [
+        "馬來西亞國會將就 Lynas 與美國稀土協議舉行聽證這則發展說明，外交訊號不只是表面表態，而是各方重新安排談判節奏、盟友協調與風險定價的起點。對決策圈而言，真正需要觀察的是它如何改變彼此試探底線的方式。",
+        "若把這則國際新聞新聞放回更大的區域脈絡，就會看到政府、企業與投資人都必須同時處理安全、能源與市場信心之間的連動。來源為 Reuters 的報導，提供了判讀這類連動的具體切口。",
+        "接下來值得追蹤的是，是否會出現新的協商機制、代表性訪問、制裁調整或對外說法改變。這些後續動作往往比單一標題更能揭露制度是否真的正在轉向。",
+        "若相關訊號持續累積，外界對區域秩序、供應穩定與政策可預測性的判斷也會跟著改變，這正是國際新聞會迅速外溢到市場與企業規劃的原因。"
+      ],
+      "en": [
+        "Malaysian lawmakers to hold hearing on Lynas-U.S. rare earths deal shows that diplomatic signaling is not just rhetorical theatre; it often marks the start of a new round of bargaining, alliance management and strategic repricing.",
+        "Placed back into the wider International context, the story links security concerns, energy exposure and market confidence in ways that governments, companies and investors all have to process at once. Reuters's reporting gives that connection a concrete frame.",
+        "The next thing to watch is whether the headline is followed by new talks, official visits, sanctions adjustments or a shift in public messaging. Those second-order moves usually reveal whether institutions are genuinely changing course.",
+        "If the signal keeps building, assumptions about regional order, supply stability and policy predictability will also move. That is why international news can spill into business planning far faster than many expect."
+      ]
+    }
+  },
+  {
+    "id": "inter-trump-offers-to-help-putin-find-deal-with-ukraine-also-speaks-with-zelenskiy",
+    "category": "international",
+    "image": "meeting",
+    "lead": false,
+    "author": "Maya Chen",
+    "read": 6,
+    "title": {
+      "en": "Trump offers to help Putin find deal with Ukraine, also speaks with Zelenskiy",
+      "zh": "川普提議協助普丁尋求烏克蘭協議，並與澤倫斯基通話"
+    },
+    "dek": {
+      "en": "The diplomatic angle matters because bargaining, alignment and symbolic messaging can quickly reshape how governments and investors read strategic risk.",
+      "zh": "這則外交新聞的重要性在於，談判、陣營協調與象徵性訊號，往往會迅速改變政府與投資人對戰略風險的判讀。"
+    },
+    "body": {
+      "zh": [
+        "川普提議協助普丁尋求烏克蘭協議，並與澤倫斯基通話這則發展說明，外交訊號不只是表面表態，而是各方重新安排談判節奏、盟友協調與風險定價的起點。對決策圈而言，真正需要觀察的是它如何改變彼此試探底線的方式。",
+        "若把這則國際新聞新聞放回更大的區域脈絡，就會看到政府、企業與投資人都必須同時處理安全、能源與市場信心之間的連動。來源為 Reuters 的報導，提供了判讀這類連動的具體切口。",
+        "接下來值得追蹤的是，是否會出現新的協商機制、代表性訪問、制裁調整或對外說法改變。這些後續動作往往比單一標題更能揭露制度是否真的正在轉向。",
+        "若相關訊號持續累積，外界對區域秩序、供應穩定與政策可預測性的判斷也會跟著改變，這正是國際新聞會迅速外溢到市場與企業規劃的原因。"
+      ],
+      "en": [
+        "Trump offers to help Putin find deal with Ukraine, also speaks with Zelenskiy shows that diplomatic signaling is not just rhetorical theatre; it often marks the start of a new round of bargaining, alliance management and strategic repricing.",
+        "Placed back into the wider International context, the story links security concerns, energy exposure and market confidence in ways that governments, companies and investors all have to process at once. Reuters's reporting gives that connection a concrete frame.",
+        "The next thing to watch is whether the headline is followed by new talks, official visits, sanctions adjustments or a shift in public messaging. Those second-order moves usually reveal whether institutions are genuinely changing course.",
+        "If the signal keeps building, assumptions about regional order, supply stability and policy predictability will also move. That is why international news can spill into business planning far faster than many expect."
+      ]
+    }
+  },
+  {
+    "id": "inter-exclusive-pakistan-mediating-libya-unity-push-as-rival-camps-seek-deal-pakistani-sources-s",
+    "category": "international",
+    "image": "meeting",
+    "lead": false,
+    "author": "Maya Chen",
+    "read": 6,
+    "title": {
+      "en": "EXCLUSIVE: Pakistan mediating Libya unity push as rival camps seek deal, Pakistani sources say",
+      "zh": "獨家：巴基斯坦斡旋利比亞統一進程，敵對陣營尋求協議"
+    },
+    "dek": {
+      "en": "The diplomatic angle matters because bargaining, alignment and symbolic messaging can quickly reshape how governments and investors read strategic risk.",
+      "zh": "這則外交新聞的重要性在於，談判、陣營協調與象徵性訊號，往往會迅速改變政府與投資人對戰略風險的判讀。"
+    },
+    "body": {
+      "zh": [
+        "獨家：巴基斯坦斡旋利比亞統一進程，敵對陣營尋求協議這則發展說明，外交訊號不只是表面表態，而是各方重新安排談判節奏、盟友協調與風險定價的起點。對決策圈而言，真正需要觀察的是它如何改變彼此試探底線的方式。",
+        "若把這則國際新聞新聞放回更大的區域脈絡，就會看到政府、企業與投資人都必須同時處理安全、能源與市場信心之間的連動。來源為 Reuters 的報導，提供了判讀這類連動的具體切口。",
+        "接下來值得追蹤的是，是否會出現新的協商機制、代表性訪問、制裁調整或對外說法改變。這些後續動作往往比單一標題更能揭露制度是否真的正在轉向。",
+        "若相關訊號持續累積，外界對區域秩序、供應穩定與政策可預測性的判斷也會跟著改變，這正是國際新聞會迅速外溢到市場與企業規劃的原因。"
+      ],
+      "en": [
+        "EXCLUSIVE: Pakistan mediating Libya unity push as rival camps seek deal, Pakistani sources say shows that diplomatic signaling is not just rhetorical theatre; it often marks the start of a new round of bargaining, alliance management and strategic repricing.",
+        "Placed back into the wider International context, the story links security concerns, energy exposure and market confidence in ways that governments, companies and investors all have to process at once. Reuters's reporting gives that connection a concrete frame.",
+        "The next thing to watch is whether the headline is followed by new talks, official visits, sanctions adjustments or a shift in public messaging. Those second-order moves usually reveal whether institutions are genuinely changing course.",
+        "If the signal keeps building, assumptions about regional order, supply stability and policy predictability will also move. That is why international news can spill into business planning far faster than many expect."
+      ]
+    }
+  },
+  {
+    "id": "inter-guatemala-congress-president-visits-taiwan-affirms-bilateral-ties",
+    "category": "international",
+    "image": "meeting",
+    "lead": false,
+    "author": "Maya Chen",
+    "read": 6,
+    "title": {
+      "en": "Guatemala Congress president visits Taiwan, affirms bilateral ties",
+      "zh": "瓜地馬拉國會議長訪台，重申雙邊關係穩固"
+    },
+    "dek": {
+      "en": "The diplomatic angle matters because bargaining, alignment and symbolic messaging can quickly reshape how governments and investors read strategic risk.",
+      "zh": "這則外交新聞的重要性在於，談判、陣營協調與象徵性訊號，往往會迅速改變政府與投資人對戰略風險的判讀。"
+    },
+    "body": {
+      "zh": [
+        "瓜地馬拉國會議長訪台，重申雙邊關係穩固這則發展說明，外交訊號不只是表面表態，而是各方重新安排談判節奏、盟友協調與風險定價的起點。對決策圈而言，真正需要觀察的是它如何改變彼此試探底線的方式。",
+        "若把這則國際新聞新聞放回更大的區域脈絡，就會看到政府、企業與投資人都必須同時處理安全、能源與市場信心之間的連動。來源為 Focus Taiwan 的報導，提供了判讀這類連動的具體切口。",
+        "接下來值得追蹤的是，是否會出現新的協商機制、代表性訪問、制裁調整或對外說法改變。這些後續動作往往比單一標題更能揭露制度是否真的正在轉向。",
+        "若相關訊號持續累積，外界對區域秩序、供應穩定與政策可預測性的判斷也會跟著改變，這正是國際新聞會迅速外溢到市場與企業規劃的原因。"
+      ],
+      "en": [
+        "Guatemala Congress president visits Taiwan, affirms bilateral ties shows that diplomatic signaling is not just rhetorical theatre; it often marks the start of a new round of bargaining, alliance management and strategic repricing.",
+        "Placed back into the wider International context, the story links security concerns, energy exposure and market confidence in ways that governments, companies and investors all have to process at once. Focus Taiwan's reporting gives that connection a concrete frame.",
+        "The next thing to watch is whether the headline is followed by new talks, official visits, sanctions adjustments or a shift in public messaging. Those second-order moves usually reveal whether institutions are genuinely changing course.",
+        "If the signal keeps building, assumptions about regional order, supply stability and policy predictability will also move. That is why international news can spill into business planning far faster than many expect."
+      ]
+    }
+  },
+  {
+    "id": "tech-trading-day-chips-bounce-back-oil-eases",
+    "category": "technology",
+    "image": "technology",
+    "lead": true,
+    "author": "Iris Park",
+    "read": 6,
+    "title": {
+      "en": "Trading Day: Chips bounce back, oil eases",
+      "zh": "交易日聚焦：晶片股反彈，油價回落"
+    },
+    "dek": {
+      "en": "The technology angle matters because chip capacity, hardware contracts and AI investment now influence competitiveness far beyond the sector itself.",
+      "zh": "這則科技新聞的重要性在於，晶片產能、硬體合約與 AI 投資，如今對整體競爭力的影響早已超出科技業本身。"
+    },
+    "body": {
+      "zh": [
+        "交易日聚焦：晶片股反彈，油價回落反映，科技競爭如今已不只是產品之爭，而是資本、供應能力與地緣政治交互作用下的產業布局調整。尤其在 AI 與半導體相關領域，單一公司動作往往會被整條鏈條放大解讀。",
+        "放在科技脈絡中看，企業的合約、上市或營收訊號，往往直接牽動設備投資、客戶關係與國家層級的產業政策。Reuters 的這則報導，正好提供了這些連結的最新樣本。",
+        "真正值得注意的是，哪一個環節正在取得更高議價能力：是晶片設計、先進封裝、資料中心需求，還是終端裝置訂單。只要答案改變，資本支出與供應安排就會跟著改變。",
+        "因此，科技新聞的影響常不會停在股價波動，而會逐步延伸到人力配置、跨境投資與產能擴張節奏，進一步重塑產業競爭地圖。"
+      ],
+      "en": [
+        "Trading Day: Chips bounce back, oil eases highlights how technology competition is no longer only about products. It is increasingly about capital access, supply capacity and the geopolitical setting around AI and semiconductors.",
+        "Within the Technology file, contract wins, listings and revenue signals can quickly influence equipment spending, customer concentration and even national industrial strategy. Reuters's report offers a fresh example of that broader pattern.",
+        "The practical question is which layer of the stack is gaining bargaining power: chip design, advanced packaging, data-centre demand or device orders. Once that answer changes, investment plans tend to move quickly.",
+        "That is why technology stories rarely stop at market reaction. They often spill into hiring, cross-border investment and capacity expansion, gradually redrawing the map of industrial competition."
+      ]
+    }
+  },
+  {
+    "id": "tech-broadcom-secures-role-as-key-apple-supplier-with-chip-deal-through-2031",
+    "category": "technology",
+    "image": "technology",
+    "lead": false,
+    "author": "Iris Park",
+    "read": 5,
+    "title": {
+      "en": "Broadcom secures role as key Apple supplier with chip deal through 2031",
+      "zh": "博通敲定晶片合約，成為蘋果至 2031 年關鍵供應商"
+    },
+    "dek": {
+      "en": "The technology angle matters because chip capacity, hardware contracts and AI investment now influence competitiveness far beyond the sector itself.",
+      "zh": "這則科技新聞的重要性在於，晶片產能、硬體合約與 AI 投資，如今對整體競爭力的影響早已超出科技業本身。"
+    },
+    "body": {
+      "zh": [
+        "博通敲定晶片合約，成為蘋果至 2031 年關鍵供應商反映，科技競爭如今已不只是產品之爭，而是資本、供應能力與地緣政治交互作用下的產業布局調整。尤其在 AI 與半導體相關領域，單一公司動作往往會被整條鏈條放大解讀。",
+        "放在科技脈絡中看，企業的合約、上市或營收訊號，往往直接牽動設備投資、客戶關係與國家層級的產業政策。Reuters 的這則報導，正好提供了這些連結的最新樣本。",
+        "真正值得注意的是，哪一個環節正在取得更高議價能力：是晶片設計、先進封裝、資料中心需求，還是終端裝置訂單。只要答案改變，資本支出與供應安排就會跟著改變。",
+        "因此，科技新聞的影響常不會停在股價波動，而會逐步延伸到人力配置、跨境投資與產能擴張節奏，進一步重塑產業競爭地圖。"
+      ],
+      "en": [
+        "Broadcom secures role as key Apple supplier with chip deal through 2031 highlights how technology competition is no longer only about products. It is increasingly about capital access, supply capacity and the geopolitical setting around AI and semiconductors.",
+        "Within the Technology file, contract wins, listings and revenue signals can quickly influence equipment spending, customer concentration and even national industrial strategy. Reuters's report offers a fresh example of that broader pattern.",
+        "The practical question is which layer of the stack is gaining bargaining power: chip design, advanced packaging, data-centre demand or device orders. Once that answer changes, investment plans tend to move quickly.",
+        "That is why technology stories rarely stop at market reaction. They often spill into hiring, cross-border investment and capacity expansion, gradually redrawing the map of industrial competition."
+      ]
+    }
+  },
+  {
+    "id": "tech-south-korea-s-sk-hynix-launches-28-billion-us-listing-to-ride-global-ai-wave",
+    "category": "technology",
+    "image": "technology",
+    "lead": false,
+    "author": "Iris Park",
+    "read": 5,
+    "title": {
+      "en": "South Korea's SK Hynix launches $28 billion US listing to ride global AI wave",
+      "zh": "南韓 SK 海力士啟動 280 億美元美國上市計畫，搭上全球 AI 熱潮"
+    },
+    "dek": {
+      "en": "The technology angle matters because chip capacity, hardware contracts and AI investment now influence competitiveness far beyond the sector itself.",
+      "zh": "這則科技新聞的重要性在於，晶片產能、硬體合約與 AI 投資，如今對整體競爭力的影響早已超出科技業本身。"
+    },
+    "body": {
+      "zh": [
+        "南韓 SK 海力士啟動 280 億美元美國上市計畫，搭上全球 AI 熱潮反映，科技競爭如今已不只是產品之爭，而是資本、供應能力與地緣政治交互作用下的產業布局調整。尤其在 AI 與半導體相關領域，單一公司動作往往會被整條鏈條放大解讀。",
+        "放在科技脈絡中看，企業的合約、上市或營收訊號，往往直接牽動設備投資、客戶關係與國家層級的產業政策。Reuters 的這則報導，正好提供了這些連結的最新樣本。",
+        "真正值得注意的是，哪一個環節正在取得更高議價能力：是晶片設計、先進封裝、資料中心需求，還是終端裝置訂單。只要答案改變，資本支出與供應安排就會跟著改變。",
+        "因此，科技新聞的影響常不會停在股價波動，而會逐步延伸到人力配置、跨境投資與產能擴張節奏，進一步重塑產業競爭地圖。"
+      ],
+      "en": [
+        "South Korea's SK Hynix launches $28 billion US listing to ride global AI wave highlights how technology competition is no longer only about products. It is increasingly about capital access, supply capacity and the geopolitical setting around AI and semiconductors.",
+        "Within the Technology file, contract wins, listings and revenue signals can quickly influence equipment spending, customer concentration and even national industrial strategy. Reuters's report offers a fresh example of that broader pattern.",
+        "The practical question is which layer of the stack is gaining bargaining power: chip design, advanced packaging, data-centre demand or device orders. Once that answer changes, investment plans tend to move quickly.",
+        "That is why technology stories rarely stop at market reaction. They often spill into hiring, cross-border investment and capacity expansion, gradually redrawing the map of industrial competition."
+      ]
+    }
+  },
+  {
+    "id": "tech-foxconn-second-quarter-revenue-jumps-company-cautions-on-geopolitics",
+    "category": "technology",
+    "image": "technology",
+    "lead": false,
+    "author": "Iris Park",
+    "read": 5,
+    "title": {
+      "en": "Foxconn second-quarter revenue jumps, company cautions on geopolitics",
+      "zh": "鴻海第二季營收大增，但警告地緣政治風險升高"
+    },
+    "dek": {
+      "en": "The technology angle matters because chip capacity, hardware contracts and AI investment now influence competitiveness far beyond the sector itself.",
+      "zh": "這則科技新聞的重要性在於，晶片產能、硬體合約與 AI 投資，如今對整體競爭力的影響早已超出科技業本身。"
+    },
+    "body": {
+      "zh": [
+        "鴻海第二季營收大增，但警告地緣政治風險升高反映，科技競爭如今已不只是產品之爭，而是資本、供應能力與地緣政治交互作用下的產業布局調整。尤其在 AI 與半導體相關領域，單一公司動作往往會被整條鏈條放大解讀。",
+        "放在科技脈絡中看，企業的合約、上市或營收訊號，往往直接牽動設備投資、客戶關係與國家層級的產業政策。Reuters 的這則報導，正好提供了這些連結的最新樣本。",
+        "真正值得注意的是，哪一個環節正在取得更高議價能力：是晶片設計、先進封裝、資料中心需求，還是終端裝置訂單。只要答案改變，資本支出與供應安排就會跟著改變。",
+        "因此，科技新聞的影響常不會停在股價波動，而會逐步延伸到人力配置、跨境投資與產能擴張節奏，進一步重塑產業競爭地圖。"
+      ],
+      "en": [
+        "Foxconn second-quarter revenue jumps, company cautions on geopolitics highlights how technology competition is no longer only about products. It is increasingly about capital access, supply capacity and the geopolitical setting around AI and semiconductors.",
+        "Within the Technology file, contract wins, listings and revenue signals can quickly influence equipment spending, customer concentration and even national industrial strategy. Reuters's report offers a fresh example of that broader pattern.",
+        "The practical question is which layer of the stack is gaining bargaining power: chip design, advanced packaging, data-centre demand or device orders. Once that answer changes, investment plans tend to move quickly.",
+        "That is why technology stories rarely stop at market reaction. They often spill into hiring, cross-border investment and capacity expansion, gradually redrawing the map of industrial competition."
+      ]
+    }
+  },
+  {
+    "id": "tech-record-wave-of-ipo-lock-up-shares-to-hit-hong-kong-market",
+    "category": "technology",
+    "image": "technology",
+    "lead": false,
+    "author": "Iris Park",
+    "read": 5,
+    "title": {
+      "en": "Record wave of IPO lock-up shares to hit Hong Kong market",
+      "zh": "破紀錄 IPO 限售股將湧入香港市場"
+    },
+    "dek": {
+      "en": "The technology angle matters because chip capacity, hardware contracts and AI investment now influence competitiveness far beyond the sector itself.",
+      "zh": "這則科技新聞的重要性在於，晶片產能、硬體合約與 AI 投資，如今對整體競爭力的影響早已超出科技業本身。"
+    },
+    "body": {
+      "zh": [
+        "破紀錄 IPO 限售股將湧入香港市場反映，科技競爭如今已不只是產品之爭，而是資本、供應能力與地緣政治交互作用下的產業布局調整。尤其在 AI 與半導體相關領域，單一公司動作往往會被整條鏈條放大解讀。",
+        "放在科技脈絡中看，企業的合約、上市或營收訊號，往往直接牽動設備投資、客戶關係與國家層級的產業政策。Reuters 的這則報導，正好提供了這些連結的最新樣本。",
+        "真正值得注意的是，哪一個環節正在取得更高議價能力：是晶片設計、先進封裝、資料中心需求，還是終端裝置訂單。只要答案改變，資本支出與供應安排就會跟著改變。",
+        "因此，科技新聞的影響常不會停在股價波動，而會逐步延伸到人力配置、跨境投資與產能擴張節奏，進一步重塑產業競爭地圖。"
+      ],
+      "en": [
+        "Record wave of IPO lock-up shares to hit Hong Kong market highlights how technology competition is no longer only about products. It is increasingly about capital access, supply capacity and the geopolitical setting around AI and semiconductors.",
+        "Within the Technology file, contract wins, listings and revenue signals can quickly influence equipment spending, customer concentration and even national industrial strategy. Reuters's report offers a fresh example of that broader pattern.",
+        "The practical question is which layer of the stack is gaining bargaining power: chip design, advanced packaging, data-centre demand or device orders. Once that answer changes, investment plans tend to move quickly.",
+        "That is why technology stories rarely stop at market reaction. They often spill into hiring, cross-border investment and capacity expansion, gradually redrawing the map of industrial competition."
+      ]
+    }
+  },
+  {
+    "id": "sports-fifa-rejects-belgium-challenge-over-balogun-eligibility-trump-calls-red-card-u-turn-brilli",
+    "category": "sports",
+    "image": "stadium",
+    "lead": true,
+    "author": "Leo Huang",
+    "read": 5,
+    "title": {
+      "en": "FIFA rejects Belgium challenge over Balogun eligibility, Trump calls red card U-turn 'brilliant'",
+      "zh": "FIFA 駁回比利時對巴洛根資格的挑戰，川普稱紅牌翻案「精彩」"
+    },
+    "dek": {
+      "en": "The sports angle matters because selection disputes, injuries and tournament governance can alter competitive balance and public trust at the same time.",
+      "zh": "這則體育新聞的重要性在於，資格爭議、傷兵變化與賽事治理，往往會同時改變競技平衡與外界信任。"
+    },
+    "body": {
+      "zh": [
+        "FIFA 駁回比利時對巴洛根資格的挑戰，川普稱紅牌翻案「精彩」之所以重要，不只是因為比賽本身吸引目光，更因為世界盃這類大型賽事把規則、政治、醫療與公眾情緒全部壓縮到同一個舞台。任何爭議都可能迅速改變賽事敘事。",
+        "放在體育版面來看，球員資格、禁賽處分或傷病消息，會直接影響排兵布陣與對戰預期，也會進一步牽動轉播熱度與外界對治理公平性的看法。Reuters 的報導正反映這種交錯壓力。",
+        "更深一層的問題是，賽會是否能用一致標準維持裁決公信力。當參賽隊伍或政治人物公開施壓時，制度本身就會成為比賽的一部分。",
+        "因此，這類新聞的後續不只看比分，還要看決策透明度、球迷反應與管理機構是否能重新建立信任，因為這些因素都會影響賽事的整體價值。"
+      ],
+      "en": [
+        "FIFA rejects Belgium challenge over Balogun eligibility, Trump calls red card U-turn 'brilliant' matters for more than the match result, because a World Cup compresses rules, politics, medical risk and public emotion onto the same stage. Any controversy can rewrite the tournament narrative very quickly.",
+        "In the Sports file, eligibility decisions, suspensions and injury updates change tactics and expectations immediately, while also affecting broadcast attention and confidence in sporting governance. Reuters's reporting captures that overlap.",
+        "The deeper issue is whether tournament officials can preserve credibility with consistent standards. Once teams or political figures openly apply pressure, the institution itself becomes part of the competition.",
+        "That is why the next chapter is not only about the scoreline. Transparency, fan reaction and the governing body's ability to rebuild trust all shape the event's wider value."
+      ]
+    }
+  },
+  {
+    "id": "sports-england-s-henderson-to-miss-rest-of-world-cup-with-arm-injury-sky-sports-reports",
+    "category": "sports",
+    "image": "stadium",
+    "lead": false,
+    "author": "Leo Huang",
+    "read": 4,
+    "title": {
+      "en": "England's Henderson to miss rest of World Cup with arm injury, Sky Sports reports",
+      "zh": "天空體育報導：英格蘭亨德森因手臂受傷缺席世界盃剩餘賽事"
+    },
+    "dek": {
+      "en": "The sports angle matters because selection disputes, injuries and tournament governance can alter competitive balance and public trust at the same time.",
+      "zh": "這則體育新聞的重要性在於，資格爭議、傷兵變化與賽事治理，往往會同時改變競技平衡與外界信任。"
+    },
+    "body": {
+      "zh": [
+        "天空體育報導：英格蘭亨德森因手臂受傷缺席世界盃剩餘賽事之所以重要，不只是因為比賽本身吸引目光，更因為世界盃這類大型賽事把規則、政治、醫療與公眾情緒全部壓縮到同一個舞台。任何爭議都可能迅速改變賽事敘事。",
+        "放在體育版面來看，球員資格、禁賽處分或傷病消息，會直接影響排兵布陣與對戰預期，也會進一步牽動轉播熱度與外界對治理公平性的看法。Reuters 的報導正反映這種交錯壓力。",
+        "更深一層的問題是，賽會是否能用一致標準維持裁決公信力。當參賽隊伍或政治人物公開施壓時，制度本身就會成為比賽的一部分。",
+        "因此，這類新聞的後續不只看比分，還要看決策透明度、球迷反應與管理機構是否能重新建立信任，因為這些因素都會影響賽事的整體價值。"
+      ],
+      "en": [
+        "England's Henderson to miss rest of World Cup with arm injury, Sky Sports reports matters for more than the match result, because a World Cup compresses rules, politics, medical risk and public emotion onto the same stage. Any controversy can rewrite the tournament narrative very quickly.",
+        "In the Sports file, eligibility decisions, suspensions and injury updates change tactics and expectations immediately, while also affecting broadcast attention and confidence in sporting governance. Reuters's reporting captures that overlap.",
+        "The deeper issue is whether tournament officials can preserve credibility with consistent standards. Once teams or political figures openly apply pressure, the institution itself becomes part of the competition.",
+        "That is why the next chapter is not only about the scoreline. Transparency, fan reaction and the governing body's ability to rebuild trust all shape the event's wider value."
+      ]
+    }
+  },
+  {
+    "id": "sports-reaction-to-fifa-suspending-balogun-red-card-ban-after-trump-intervention",
+    "category": "sports",
+    "image": "stadium",
+    "lead": false,
+    "author": "Leo Huang",
+    "read": 4,
+    "title": {
+      "en": "Reaction to FIFA suspending Balogun red-card ban after Trump intervention",
+      "zh": "川普介入後 FIFA 暫停巴洛根紅牌禁賽，外界反應升溫"
+    },
+    "dek": {
+      "en": "The sports angle matters because selection disputes, injuries and tournament governance can alter competitive balance and public trust at the same time.",
+      "zh": "這則體育新聞的重要性在於，資格爭議、傷兵變化與賽事治理，往往會同時改變競技平衡與外界信任。"
+    },
+    "body": {
+      "zh": [
+        "川普介入後 FIFA 暫停巴洛根紅牌禁賽，外界反應升溫之所以重要，不只是因為比賽本身吸引目光，更因為世界盃這類大型賽事把規則、政治、醫療與公眾情緒全部壓縮到同一個舞台。任何爭議都可能迅速改變賽事敘事。",
+        "放在體育版面來看，球員資格、禁賽處分或傷病消息，會直接影響排兵布陣與對戰預期，也會進一步牽動轉播熱度與外界對治理公平性的看法。Reuters 的報導正反映這種交錯壓力。",
+        "更深一層的問題是，賽會是否能用一致標準維持裁決公信力。當參賽隊伍或政治人物公開施壓時，制度本身就會成為比賽的一部分。",
+        "因此，這類新聞的後續不只看比分，還要看決策透明度、球迷反應與管理機構是否能重新建立信任，因為這些因素都會影響賽事的整體價值。"
+      ],
+      "en": [
+        "Reaction to FIFA suspending Balogun red-card ban after Trump intervention matters for more than the match result, because a World Cup compresses rules, politics, medical risk and public emotion onto the same stage. Any controversy can rewrite the tournament narrative very quickly.",
+        "In the Sports file, eligibility decisions, suspensions and injury updates change tactics and expectations immediately, while also affecting broadcast attention and confidence in sporting governance. Reuters's reporting captures that overlap.",
+        "The deeper issue is whether tournament officials can preserve credibility with consistent standards. Once teams or political figures openly apply pressure, the institution itself becomes part of the competition.",
+        "That is why the next chapter is not only about the scoreline. Transparency, fan reaction and the governing body's ability to rebuild trust all shape the event's wider value."
+      ]
+    }
+  },
+  {
+    "id": "sports-uefa-slams-fifa-s-unprecedented-incomprehensible-and-unjustifiable-balogun-decision",
+    "category": "sports",
+    "image": "stadium",
+    "lead": false,
+    "author": "Leo Huang",
+    "read": 4,
+    "title": {
+      "en": "UEFA slams FIFA's 'unprecedented, incomprehensible and unjustifiable' Balogun decision",
+      "zh": "UEFA 痛批 FIFA 對巴洛根的決定「前所未見、難以理解且毫無正當性」"
+    },
+    "dek": {
+      "en": "The sports angle matters because selection disputes, injuries and tournament governance can alter competitive balance and public trust at the same time.",
+      "zh": "這則體育新聞的重要性在於，資格爭議、傷兵變化與賽事治理，往往會同時改變競技平衡與外界信任。"
+    },
+    "body": {
+      "zh": [
+        "UEFA 痛批 FIFA 對巴洛根的決定「前所未見、難以理解且毫無正當性」之所以重要，不只是因為比賽本身吸引目光，更因為世界盃這類大型賽事把規則、政治、醫療與公眾情緒全部壓縮到同一個舞台。任何爭議都可能迅速改變賽事敘事。",
+        "放在體育版面來看，球員資格、禁賽處分或傷病消息，會直接影響排兵布陣與對戰預期，也會進一步牽動轉播熱度與外界對治理公平性的看法。Reuters 的報導正反映這種交錯壓力。",
+        "更深一層的問題是，賽會是否能用一致標準維持裁決公信力。當參賽隊伍或政治人物公開施壓時，制度本身就會成為比賽的一部分。",
+        "因此，這類新聞的後續不只看比分，還要看決策透明度、球迷反應與管理機構是否能重新建立信任，因為這些因素都會影響賽事的整體價值。"
+      ],
+      "en": [
+        "UEFA slams FIFA's 'unprecedented, incomprehensible and unjustifiable' Balogun decision matters for more than the match result, because a World Cup compresses rules, politics, medical risk and public emotion onto the same stage. Any controversy can rewrite the tournament narrative very quickly.",
+        "In the Sports file, eligibility decisions, suspensions and injury updates change tactics and expectations immediately, while also affecting broadcast attention and confidence in sporting governance. Reuters's reporting captures that overlap.",
+        "The deeper issue is whether tournament officials can preserve credibility with consistent standards. Once teams or political figures openly apply pressure, the institution itself becomes part of the competition.",
+        "That is why the next chapter is not only about the scoreline. Transparency, fan reaction and the governing body's ability to rebuild trust all shape the event's wider value."
+      ]
+    }
+  },
+  {
+    "id": "sports-belgians-blast-trump-s-intervention-with-fifa-ahead-of-world-cup-clash",
+    "category": "sports",
+    "image": "stadium",
+    "lead": false,
+    "author": "Leo Huang",
+    "read": 4,
+    "title": {
+      "en": "Belgians blast Trump's intervention with FIFA ahead of World Cup clash",
+      "zh": "世界盃交手前，比利時方面猛烈抨擊川普介入 FIFA"
+    },
+    "dek": {
+      "en": "The sports angle matters because selection disputes, injuries and tournament governance can alter competitive balance and public trust at the same time.",
+      "zh": "這則體育新聞的重要性在於，資格爭議、傷兵變化與賽事治理，往往會同時改變競技平衡與外界信任。"
+    },
+    "body": {
+      "zh": [
+        "世界盃交手前，比利時方面猛烈抨擊川普介入 FIFA之所以重要，不只是因為比賽本身吸引目光，更因為世界盃這類大型賽事把規則、政治、醫療與公眾情緒全部壓縮到同一個舞台。任何爭議都可能迅速改變賽事敘事。",
+        "放在體育版面來看，球員資格、禁賽處分或傷病消息，會直接影響排兵布陣與對戰預期，也會進一步牽動轉播熱度與外界對治理公平性的看法。Reuters 的報導正反映這種交錯壓力。",
+        "更深一層的問題是，賽會是否能用一致標準維持裁決公信力。當參賽隊伍或政治人物公開施壓時，制度本身就會成為比賽的一部分。",
+        "因此，這類新聞的後續不只看比分，還要看決策透明度、球迷反應與管理機構是否能重新建立信任，因為這些因素都會影響賽事的整體價值。"
+      ],
+      "en": [
+        "Belgians blast Trump's intervention with FIFA ahead of World Cup clash matters for more than the match result, because a World Cup compresses rules, politics, medical risk and public emotion onto the same stage. Any controversy can rewrite the tournament narrative very quickly.",
+        "In the Sports file, eligibility decisions, suspensions and injury updates change tactics and expectations immediately, while also affecting broadcast attention and confidence in sporting governance. Reuters's reporting captures that overlap.",
+        "The deeper issue is whether tournament officials can preserve credibility with consistent standards. Once teams or political figures openly apply pressure, the institution itself becomes part of the competition.",
+        "That is why the next chapter is not only about the scoreline. Transparency, fan reaction and the governing body's ability to rebuild trust all shape the event's wider value."
+      ]
+    }
+  },
+  {
+    "id": "ship-shippers-maersk-and-hapag-lloyd-begin-return-to-suez-canal-trade-route",
+    "category": "shipping",
+    "image": "shipping",
+    "lead": true,
+    "author": "Daniel Ko",
+    "read": 6,
+    "title": {
+      "en": "Shippers Maersk and Hapag-Lloyd begin return to Suez Canal trade route",
+      "zh": "馬士基與赫伯羅德開始重返蘇伊士運河航線"
+    },
+    "dek": {
+      "en": "The shipping angle matters because route confidence, naval risk and port access directly affect the reliability and cost of global trade flows.",
+      "zh": "這則航運新聞的重要性在於，航線信心、海上風險與港口通達性，會直接影響全球貿易流動的可靠度與成本。"
+    },
+    "body": {
+      "zh": [
+        "馬士基與赫伯羅德開始重返蘇伊士運河航線凸顯，海上物流的核心問題不只是船有沒有開，而是保險、船員意願、航道安全與港口協調能否同時恢復正常。任何一項卡住，運價與時程都會立刻受影響。",
+        "從航運角度看，這類變化會迅速傳導到燃料成本、轉運安排與供應鏈交期。Reuters 的報導因此不只是區域新聞，而是觀察全球航線風險溢價的直接線索。",
+        "市場真正關心的是，航商是否會重新配置船隊，保險費是否回落，以及軍事或政治風險是否再次迫使繞行。這些決定會比官方聲明更快反映在物流成本上。",
+        "如果情勢進一步穩定，受益的不只航商，還包括依賴準時交貨的製造業與零售商；反之，任何新的衝突訊號都可能重新打亂節奏。"
+      ],
+      "en": [
+        "Shippers Maersk and Hapag-Lloyd begin return to Suez Canal trade route underscores that maritime logistics is not only about whether ships can move. Insurance terms, crew confidence, route security and port coordination all have to normalize at the same time.",
+        "From a Shipping perspective, shifts like this travel quickly into fuel costs, transshipment plans and delivery schedules. That is why Reuters's report is more than regional news; it is a direct clue about global route risk premiums.",
+        "What markets care about most is whether carriers will redeploy vessels, whether insurance rates will ease and whether military or political risk could force another rerouting cycle. Those choices often hit costs faster than official statements do.",
+        "If conditions stabilize, manufacturers and retailers that depend on predictable transit will benefit too. If tensions return, the operating tempo can unravel just as quickly."
+      ]
+    }
+  },
+  {
+    "id": "ship-iran-and-qatar-resume-maritime-trade-iranian-state-media-reports",
+    "category": "shipping",
+    "image": "shipping",
+    "lead": false,
+    "author": "Daniel Ko",
+    "read": 5,
+    "title": {
+      "en": "Iran and Qatar resume maritime trade, Iranian state media reports",
+      "zh": "伊朗官媒稱伊朗與卡達恢復海運貿易"
+    },
+    "dek": {
+      "en": "The shipping angle matters because route confidence, naval risk and port access directly affect the reliability and cost of global trade flows.",
+      "zh": "這則航運新聞的重要性在於，航線信心、海上風險與港口通達性，會直接影響全球貿易流動的可靠度與成本。"
+    },
+    "body": {
+      "zh": [
+        "伊朗官媒稱伊朗與卡達恢復海運貿易凸顯，海上物流的核心問題不只是船有沒有開，而是保險、船員意願、航道安全與港口協調能否同時恢復正常。任何一項卡住，運價與時程都會立刻受影響。",
+        "從航運角度看，這類變化會迅速傳導到燃料成本、轉運安排與供應鏈交期。Reuters 的報導因此不只是區域新聞，而是觀察全球航線風險溢價的直接線索。",
+        "市場真正關心的是，航商是否會重新配置船隊，保險費是否回落，以及軍事或政治風險是否再次迫使繞行。這些決定會比官方聲明更快反映在物流成本上。",
+        "如果情勢進一步穩定，受益的不只航商，還包括依賴準時交貨的製造業與零售商；反之，任何新的衝突訊號都可能重新打亂節奏。"
+      ],
+      "en": [
+        "Iran and Qatar resume maritime trade, Iranian state media reports underscores that maritime logistics is not only about whether ships can move. Insurance terms, crew confidence, route security and port coordination all have to normalize at the same time.",
+        "From a Shipping perspective, shifts like this travel quickly into fuel costs, transshipment plans and delivery schedules. That is why Reuters's report is more than regional news; it is a direct clue about global route risk premiums.",
+        "What markets care about most is whether carriers will redeploy vessels, whether insurance rates will ease and whether military or political risk could force another rerouting cycle. Those choices often hit costs faster than official statements do.",
+        "If conditions stabilize, manufacturers and retailers that depend on predictable transit will benefit too. If tensions return, the operating tempo can unravel just as quickly."
+      ]
+    }
+  },
+  {
+    "id": "ship-taiwan-says-it-is-tracking-upward-trend-in-chinese-naval-movements",
+    "category": "shipping",
+    "image": "shipping",
+    "lead": false,
+    "author": "Daniel Ko",
+    "read": 5,
+    "title": {
+      "en": "Taiwan says it is tracking 'upward trend' in Chinese naval movements",
+      "zh": "台灣表示正追蹤中國海軍活動「上升趨勢」"
+    },
+    "dek": {
+      "en": "The shipping angle matters because route confidence, naval risk and port access directly affect the reliability and cost of global trade flows.",
+      "zh": "這則航運新聞的重要性在於，航線信心、海上風險與港口通達性，會直接影響全球貿易流動的可靠度與成本。"
+    },
+    "body": {
+      "zh": [
+        "台灣表示正追蹤中國海軍活動「上升趨勢」凸顯，海上物流的核心問題不只是船有沒有開，而是保險、船員意願、航道安全與港口協調能否同時恢復正常。任何一項卡住，運價與時程都會立刻受影響。",
+        "從航運角度看，這類變化會迅速傳導到燃料成本、轉運安排與供應鏈交期。Reuters 的報導因此不只是區域新聞，而是觀察全球航線風險溢價的直接線索。",
+        "市場真正關心的是，航商是否會重新配置船隊，保險費是否回落，以及軍事或政治風險是否再次迫使繞行。這些決定會比官方聲明更快反映在物流成本上。",
+        "如果情勢進一步穩定，受益的不只航商，還包括依賴準時交貨的製造業與零售商；反之，任何新的衝突訊號都可能重新打亂節奏。"
+      ],
+      "en": [
+        "Taiwan says it is tracking 'upward trend' in Chinese naval movements underscores that maritime logistics is not only about whether ships can move. Insurance terms, crew confidence, route security and port coordination all have to normalize at the same time.",
+        "From a Shipping perspective, shifts like this travel quickly into fuel costs, transshipment plans and delivery schedules. That is why Reuters's report is more than regional news; it is a direct clue about global route risk premiums.",
+        "What markets care about most is whether carriers will redeploy vessels, whether insurance rates will ease and whether military or political risk could force another rerouting cycle. Those choices often hit costs faster than official statements do.",
+        "If conditions stabilize, manufacturers and retailers that depend on predictable transit will benefit too. If tensions return, the operating tempo can unravel just as quickly."
+      ]
+    }
+  },
+  {
+    "id": "ship-qatar-says-all-maritime-activities-will-resume-immediately",
+    "category": "shipping",
+    "image": "shipping",
+    "lead": false,
+    "author": "Daniel Ko",
+    "read": 5,
+    "title": {
+      "en": "Qatar says all maritime activities will resume immediately",
+      "zh": "卡達表示所有海上活動將立即恢復"
+    },
+    "dek": {
+      "en": "The shipping angle matters because route confidence, naval risk and port access directly affect the reliability and cost of global trade flows.",
+      "zh": "這則航運新聞的重要性在於，航線信心、海上風險與港口通達性，會直接影響全球貿易流動的可靠度與成本。"
+    },
+    "body": {
+      "zh": [
+        "卡達表示所有海上活動將立即恢復凸顯，海上物流的核心問題不只是船有沒有開，而是保險、船員意願、航道安全與港口協調能否同時恢復正常。任何一項卡住，運價與時程都會立刻受影響。",
+        "從航運角度看，這類變化會迅速傳導到燃料成本、轉運安排與供應鏈交期。Reuters 的報導因此不只是區域新聞，而是觀察全球航線風險溢價的直接線索。",
+        "市場真正關心的是，航商是否會重新配置船隊，保險費是否回落，以及軍事或政治風險是否再次迫使繞行。這些決定會比官方聲明更快反映在物流成本上。",
+        "如果情勢進一步穩定，受益的不只航商，還包括依賴準時交貨的製造業與零售商；反之，任何新的衝突訊號都可能重新打亂節奏。"
+      ],
+      "en": [
+        "Qatar says all maritime activities will resume immediately underscores that maritime logistics is not only about whether ships can move. Insurance terms, crew confidence, route security and port coordination all have to normalize at the same time.",
+        "From a Shipping perspective, shifts like this travel quickly into fuel costs, transshipment plans and delivery schedules. That is why Reuters's report is more than regional news; it is a direct clue about global route risk premiums.",
+        "What markets care about most is whether carriers will redeploy vessels, whether insurance rates will ease and whether military or political risk could force another rerouting cycle. Those choices often hit costs faster than official statements do.",
+        "If conditions stabilize, manufacturers and retailers that depend on predictable transit will benefit too. If tensions return, the operating tempo can unravel just as quickly."
+      ]
+    }
+  },
+  {
+    "id": "ship-china-russia-navies-to-hold-drills-off-china-coast",
+    "category": "shipping",
+    "image": "shipping",
+    "lead": false,
+    "author": "Daniel Ko",
+    "read": 5,
+    "title": {
+      "en": "China, Russia navies to hold drills off China coast",
+      "zh": "中俄海軍將在中國沿岸外海舉行聯合演訓"
+    },
+    "dek": {
+      "en": "The shipping angle matters because route confidence, naval risk and port access directly affect the reliability and cost of global trade flows.",
+      "zh": "這則航運新聞的重要性在於，航線信心、海上風險與港口通達性，會直接影響全球貿易流動的可靠度與成本。"
+    },
+    "body": {
+      "zh": [
+        "中俄海軍將在中國沿岸外海舉行聯合演訓凸顯，海上物流的核心問題不只是船有沒有開，而是保險、船員意願、航道安全與港口協調能否同時恢復正常。任何一項卡住，運價與時程都會立刻受影響。",
+        "從航運角度看，這類變化會迅速傳導到燃料成本、轉運安排與供應鏈交期。Reuters 的報導因此不只是區域新聞，而是觀察全球航線風險溢價的直接線索。",
+        "市場真正關心的是，航商是否會重新配置船隊，保險費是否回落，以及軍事或政治風險是否再次迫使繞行。這些決定會比官方聲明更快反映在物流成本上。",
+        "如果情勢進一步穩定，受益的不只航商，還包括依賴準時交貨的製造業與零售商；反之，任何新的衝突訊號都可能重新打亂節奏。"
+      ],
+      "en": [
+        "China, Russia navies to hold drills off China coast underscores that maritime logistics is not only about whether ships can move. Insurance terms, crew confidence, route security and port coordination all have to normalize at the same time.",
+        "From a Shipping perspective, shifts like this travel quickly into fuel costs, transshipment plans and delivery schedules. That is why Reuters's report is more than regional news; it is a direct clue about global route risk premiums.",
+        "What markets care about most is whether carriers will redeploy vessels, whether insurance rates will ease and whether military or political risk could force another rerouting cycle. Those choices often hit costs faster than official statements do.",
+        "If conditions stabilize, manufacturers and retailers that depend on predictable transit will benefit too. If tensions return, the operating tempo can unravel just as quickly."
+      ]
+    }
+  },
+  {
+    "id": "supply-ny-fed-says-supply-chain-pressures-eased-in-june",
+    "category": "supply-chain",
+    "image": "factory",
+    "lead": true,
+    "author": "Nina Shah",
+    "read": 6,
+    "title": {
+      "en": "NY Fed says supply chain pressures eased in June",
+      "zh": "紐約聯準銀行稱 6 月供應鏈壓力有所緩解"
+    },
+    "dek": {
+      "en": "The supply-chain angle matters because sourcing choices, production economics and inventory strategy determine how quickly companies can adapt to shocks.",
+      "zh": "這則供應鏈新聞的重要性在於，採購選擇、生產經濟與庫存策略，決定企業能多快調整以因應衝擊。"
+    },
+    "body": {
+      "zh": [
+        "紐約聯準銀行稱 6 月供應鏈壓力有所緩解說明，供應鏈調整往往不是單一步驟，而是需求、原料、定價與交貨條件同步改變後的結果。企業必須在效率與韌性之間重新取捨。",
+        "放在供應鏈脈絡裡，這種訊號會影響採購週期、備料策略與客戶議價能力。Reuters 的報導讓人更清楚看到哪個環節正成為新的瓶頸或新的利潤來源。",
+        "接下來要追蹤的是，企業會不會加深多元採購、延長庫存保護帶，或把部分製造與組裝重新移往更可控的地點。這些實務決策才是供應鏈重整真正的內容。",
+        "因此，這類新聞通常不只影響單一公司，而會沿著上下游逐步擴散，最後反映在交期穩定度、利潤結構與產業競爭順位上。"
+      ],
+      "en": [
+        "NY Fed says supply chain pressures eased in June shows that supply-chain adjustment is rarely a single move. It usually reflects simultaneous changes in demand, inputs, pricing power and delivery terms, forcing companies to rebalance efficiency and resilience.",
+        "Inside the Supply Chain file, signals like this influence procurement cycles, inventory buffers and customer bargaining power. Reuters's reporting makes it easier to see which node is becoming the next bottleneck or the next profit pool.",
+        "The next question is whether firms deepen supplier diversification, lengthen inventory cover or relocate parts of manufacturing and assembly to more controllable locations. Those operational choices are the real content of supply-chain redesign.",
+        "That is why a story like this seldom stays confined to one company. It usually spreads through upstream and downstream networks and eventually appears in delivery reliability, margins and competitive ranking."
+      ]
+    }
+  },
+  {
+    "id": "supply-broadcom-secures-role-as-key-apple-supplier-with-chip-deal-through-2031",
+    "category": "supply-chain",
+    "image": "factory",
+    "lead": false,
+    "author": "Nina Shah",
+    "read": 5,
+    "title": {
+      "en": "Broadcom secures role as key Apple supplier with chip deal through 2031",
+      "zh": "博通敲定晶片合約，成為蘋果至 2031 年關鍵供應商"
+    },
+    "dek": {
+      "en": "The supply-chain angle matters because sourcing choices, production economics and inventory strategy determine how quickly companies can adapt to shocks.",
+      "zh": "這則供應鏈新聞的重要性在於，採購選擇、生產經濟與庫存策略，決定企業能多快調整以因應衝擊。"
+    },
+    "body": {
+      "zh": [
+        "博通敲定晶片合約，成為蘋果至 2031 年關鍵供應商說明，供應鏈調整往往不是單一步驟，而是需求、原料、定價與交貨條件同步改變後的結果。企業必須在效率與韌性之間重新取捨。",
+        "放在供應鏈脈絡裡，這種訊號會影響採購週期、備料策略與客戶議價能力。Reuters 的報導讓人更清楚看到哪個環節正成為新的瓶頸或新的利潤來源。",
+        "接下來要追蹤的是，企業會不會加深多元採購、延長庫存保護帶，或把部分製造與組裝重新移往更可控的地點。這些實務決策才是供應鏈重整真正的內容。",
+        "因此，這類新聞通常不只影響單一公司，而會沿著上下游逐步擴散，最後反映在交期穩定度、利潤結構與產業競爭順位上。"
+      ],
+      "en": [
+        "Broadcom secures role as key Apple supplier with chip deal through 2031 shows that supply-chain adjustment is rarely a single move. It usually reflects simultaneous changes in demand, inputs, pricing power and delivery terms, forcing companies to rebalance efficiency and resilience.",
+        "Inside the Supply Chain file, signals like this influence procurement cycles, inventory buffers and customer bargaining power. Reuters's reporting makes it easier to see which node is becoming the next bottleneck or the next profit pool.",
+        "The next question is whether firms deepen supplier diversification, lengthen inventory cover or relocate parts of manufacturing and assembly to more controllable locations. Those operational choices are the real content of supply-chain redesign.",
+        "That is why a story like this seldom stays confined to one company. It usually spreads through upstream and downstream networks and eventually appears in delivery reliability, margins and competitive ranking."
+      ]
+    }
+  },
+  {
+    "id": "supply-renault-making-higher-profits-on-compact-electric-models-than-megane-says-ceo",
+    "category": "supply-chain",
+    "image": "factory",
+    "lead": false,
+    "author": "Nina Shah",
+    "read": 5,
+    "title": {
+      "en": "Renault making higher profits on compact electric models than Megane, says CEO",
+      "zh": "雷諾執行長稱緊湊型電動車獲利高於 Megane"
+    },
+    "dek": {
+      "en": "The supply-chain angle matters because sourcing choices, production economics and inventory strategy determine how quickly companies can adapt to shocks.",
+      "zh": "這則供應鏈新聞的重要性在於，採購選擇、生產經濟與庫存策略，決定企業能多快調整以因應衝擊。"
+    },
+    "body": {
+      "zh": [
+        "雷諾執行長稱緊湊型電動車獲利高於 Megane說明，供應鏈調整往往不是單一步驟，而是需求、原料、定價與交貨條件同步改變後的結果。企業必須在效率與韌性之間重新取捨。",
+        "放在供應鏈脈絡裡，這種訊號會影響採購週期、備料策略與客戶議價能力。Reuters 的報導讓人更清楚看到哪個環節正成為新的瓶頸或新的利潤來源。",
+        "接下來要追蹤的是，企業會不會加深多元採購、延長庫存保護帶，或把部分製造與組裝重新移往更可控的地點。這些實務決策才是供應鏈重整真正的內容。",
+        "因此，這類新聞通常不只影響單一公司，而會沿著上下游逐步擴散，最後反映在交期穩定度、利潤結構與產業競爭順位上。"
+      ],
+      "en": [
+        "Renault making higher profits on compact electric models than Megane, says CEO shows that supply-chain adjustment is rarely a single move. It usually reflects simultaneous changes in demand, inputs, pricing power and delivery terms, forcing companies to rebalance efficiency and resilience.",
+        "Inside the Supply Chain file, signals like this influence procurement cycles, inventory buffers and customer bargaining power. Reuters's reporting makes it easier to see which node is becoming the next bottleneck or the next profit pool.",
+        "The next question is whether firms deepen supplier diversification, lengthen inventory cover or relocate parts of manufacturing and assembly to more controllable locations. Those operational choices are the real content of supply-chain redesign.",
+        "That is why a story like this seldom stays confined to one company. It usually spreads through upstream and downstream networks and eventually appears in delivery reliability, margins and competitive ranking."
+      ]
+    }
+  },
+  {
+    "id": "supply-malaysian-lawmakers-to-hold-hearing-on-lynas-u-s-rare-earths-deal",
+    "category": "supply-chain",
+    "image": "factory",
+    "lead": false,
+    "author": "Nina Shah",
+    "read": 5,
+    "title": {
+      "en": "Malaysian lawmakers to hold hearing on Lynas-U.S. rare earths deal",
+      "zh": "馬來西亞國會將就 Lynas 與美國稀土協議舉行聽證"
+    },
+    "dek": {
+      "en": "The supply-chain angle matters because sourcing choices, production economics and inventory strategy determine how quickly companies can adapt to shocks.",
+      "zh": "這則供應鏈新聞的重要性在於，採購選擇、生產經濟與庫存策略，決定企業能多快調整以因應衝擊。"
+    },
+    "body": {
+      "zh": [
+        "馬來西亞國會將就 Lynas 與美國稀土協議舉行聽證說明，供應鏈調整往往不是單一步驟，而是需求、原料、定價與交貨條件同步改變後的結果。企業必須在效率與韌性之間重新取捨。",
+        "放在供應鏈脈絡裡，這種訊號會影響採購週期、備料策略與客戶議價能力。Reuters 的報導讓人更清楚看到哪個環節正成為新的瓶頸或新的利潤來源。",
+        "接下來要追蹤的是，企業會不會加深多元採購、延長庫存保護帶，或把部分製造與組裝重新移往更可控的地點。這些實務決策才是供應鏈重整真正的內容。",
+        "因此，這類新聞通常不只影響單一公司，而會沿著上下游逐步擴散，最後反映在交期穩定度、利潤結構與產業競爭順位上。"
+      ],
+      "en": [
+        "Malaysian lawmakers to hold hearing on Lynas-U.S. rare earths deal shows that supply-chain adjustment is rarely a single move. It usually reflects simultaneous changes in demand, inputs, pricing power and delivery terms, forcing companies to rebalance efficiency and resilience.",
+        "Inside the Supply Chain file, signals like this influence procurement cycles, inventory buffers and customer bargaining power. Reuters's reporting makes it easier to see which node is becoming the next bottleneck or the next profit pool.",
+        "The next question is whether firms deepen supplier diversification, lengthen inventory cover or relocate parts of manufacturing and assembly to more controllable locations. Those operational choices are the real content of supply-chain redesign.",
+        "That is why a story like this seldom stays confined to one company. It usually spreads through upstream and downstream networks and eventually appears in delivery reliability, margins and competitive ranking."
+      ]
+    }
+  },
+  {
+    "id": "supply-ev-maker-rivian-expects-increase-in-quarterly-revenue",
+    "category": "supply-chain",
+    "image": "factory",
+    "lead": false,
+    "author": "Nina Shah",
+    "read": 5,
+    "title": {
+      "en": "EV maker Rivian expects increase in quarterly revenue",
+      "zh": "電動車製造商 Rivian 預期季度營收成長"
+    },
+    "dek": {
+      "en": "The supply-chain angle matters because sourcing choices, production economics and inventory strategy determine how quickly companies can adapt to shocks.",
+      "zh": "這則供應鏈新聞的重要性在於，採購選擇、生產經濟與庫存策略，決定企業能多快調整以因應衝擊。"
+    },
+    "body": {
+      "zh": [
+        "電動車製造商 Rivian 預期季度營收成長說明，供應鏈調整往往不是單一步驟，而是需求、原料、定價與交貨條件同步改變後的結果。企業必須在效率與韌性之間重新取捨。",
+        "放在供應鏈脈絡裡，這種訊號會影響採購週期、備料策略與客戶議價能力。Reuters 的報導讓人更清楚看到哪個環節正成為新的瓶頸或新的利潤來源。",
+        "接下來要追蹤的是，企業會不會加深多元採購、延長庫存保護帶，或把部分製造與組裝重新移往更可控的地點。這些實務決策才是供應鏈重整真正的內容。",
+        "因此，這類新聞通常不只影響單一公司，而會沿著上下游逐步擴散，最後反映在交期穩定度、利潤結構與產業競爭順位上。"
+      ],
+      "en": [
+        "EV maker Rivian expects increase in quarterly revenue shows that supply-chain adjustment is rarely a single move. It usually reflects simultaneous changes in demand, inputs, pricing power and delivery terms, forcing companies to rebalance efficiency and resilience.",
+        "Inside the Supply Chain file, signals like this influence procurement cycles, inventory buffers and customer bargaining power. Reuters's reporting makes it easier to see which node is becoming the next bottleneck or the next profit pool.",
+        "The next question is whether firms deepen supplier diversification, lengthen inventory cover or relocate parts of manufacturing and assembly to more controllable locations. Those operational choices are the real content of supply-chain redesign.",
+        "That is why a story like this seldom stays confined to one company. It usually spreads through upstream and downstream networks and eventually appears in delivery reliability, margins and competitive ranking."
+      ]
+    }
+  },
+  {
+    "id": "econ-foxconn-second-quarter-revenue-jumps-company-cautions-on-geopolitics",
+    "category": "economy-markets",
+    "image": "market",
+    "lead": true,
+    "author": "Priya Raman",
+    "read": 6,
+    "title": {
+      "en": "Foxconn second-quarter revenue jumps, company cautions on geopolitics",
+      "zh": "鴻海第二季營收大增，但警告地緣政治風險升高"
+    },
+    "dek": {
+      "en": "The market angle matters because earnings, rates and asset prices often reprice expectations before policymakers can fully respond.",
+      "zh": "這則市場新聞的重要性在於，企業獲利、利率與資產價格常在政策完全回應之前，就先行重寫市場預期。"
+    },
+    "body": {
+      "zh": [
+        "鴻海第二季營收大增，但警告地緣政治風險升高反映，市場定價正在根據企業基本面、利率預期與地緣風險重新調整。投資人現在關心的不只是單一數據，而是這些訊號彼此是否互相強化。",
+        "在經濟與市場版面中，這類消息往往會同時影響股市情緒、匯率路徑與政策空間。Reuters 的報導因此有價值，因為它揭示了資金正在如何重新排序風險與報酬。",
+        "真正值得觀察的是，這種定價變化是否會延伸成更持久的資產輪動，或只是一次短暫修正。若利率、能源與科技股方向同時變動，市場波動就可能被放大。",
+        "對企業與政府來說，資本市場的訊號會反向影響融資成本與政策溝通，因此這些 headline 往往比表面上更具實質效果。"
+      ],
+      "en": [
+        "Foxconn second-quarter revenue jumps, company cautions on geopolitics suggests that markets are repricing around fundamentals, rate expectations and geopolitical risk at the same time. Investors are no longer reacting to one data point in isolation.",
+        "Within the Economy & Markets file, stories like this can move equity sentiment, currency expectations and policy room all at once. Reuters's reporting matters because it shows how capital is reordering risk and reward in real time.",
+        "The key question is whether the move becomes a more durable asset rotation or remains a short-lived correction. When rates, energy assumptions and technology shares shift together, volatility tends to amplify.",
+        "For companies and governments, those market signals loop back into financing costs and policy communication. That is why a market headline often has more real-world force than it first appears to have."
+      ]
+    }
+  },
+  {
+    "id": "econ-south-korea-to-create-future-fund-from-chip-windfall-to-spur-growth-tackle-inequality",
+    "category": "economy-markets",
+    "image": "market",
+    "lead": false,
+    "author": "Priya Raman",
+    "read": 5,
+    "title": {
+      "en": "South Korea to create future fund from chip windfall to spur growth, tackle inequality",
+      "zh": "南韓擬以晶片紅利設立未來基金，兼顧成長與不平等"
+    },
+    "dek": {
+      "en": "The market angle matters because earnings, rates and asset prices often reprice expectations before policymakers can fully respond.",
+      "zh": "這則市場新聞的重要性在於，企業獲利、利率與資產價格常在政策完全回應之前，就先行重寫市場預期。"
+    },
+    "body": {
+      "zh": [
+        "南韓擬以晶片紅利設立未來基金，兼顧成長與不平等反映，市場定價正在根據企業基本面、利率預期與地緣風險重新調整。投資人現在關心的不只是單一數據，而是這些訊號彼此是否互相強化。",
+        "在經濟與市場版面中，這類消息往往會同時影響股市情緒、匯率路徑與政策空間。Reuters 的報導因此有價值，因為它揭示了資金正在如何重新排序風險與報酬。",
+        "真正值得觀察的是，這種定價變化是否會延伸成更持久的資產輪動，或只是一次短暫修正。若利率、能源與科技股方向同時變動，市場波動就可能被放大。",
+        "對企業與政府來說，資本市場的訊號會反向影響融資成本與政策溝通，因此這些 headline 往往比表面上更具實質效果。"
+      ],
+      "en": [
+        "South Korea to create future fund from chip windfall to spur growth, tackle inequality suggests that markets are repricing around fundamentals, rate expectations and geopolitical risk at the same time. Investors are no longer reacting to one data point in isolation.",
+        "Within the Economy & Markets file, stories like this can move equity sentiment, currency expectations and policy room all at once. Reuters's reporting matters because it shows how capital is reordering risk and reward in real time.",
+        "The key question is whether the move becomes a more durable asset rotation or remains a short-lived correction. When rates, energy assumptions and technology shares shift together, volatility tends to amplify.",
+        "For companies and governments, those market signals loop back into financing costs and policy communication. That is why a market headline often has more real-world force than it first appears to have."
+      ]
+    }
+  },
+  {
+    "id": "econ-s-and-p-500-nasdaq-close-sharply-higher-as-broadcom-rallies",
+    "category": "economy-markets",
+    "image": "market",
+    "lead": false,
+    "author": "Priya Raman",
+    "read": 5,
+    "title": {
+      "en": "S&P 500, Nasdaq close sharply higher as Broadcom rallies",
+      "zh": "博通勁揚帶動標普 500 與那斯達克大幅收高"
+    },
+    "dek": {
+      "en": "The market angle matters because earnings, rates and asset prices often reprice expectations before policymakers can fully respond.",
+      "zh": "這則市場新聞的重要性在於，企業獲利、利率與資產價格常在政策完全回應之前，就先行重寫市場預期。"
+    },
+    "body": {
+      "zh": [
+        "博通勁揚帶動標普 500 與那斯達克大幅收高反映，市場定價正在根據企業基本面、利率預期與地緣風險重新調整。投資人現在關心的不只是單一數據，而是這些訊號彼此是否互相強化。",
+        "在經濟與市場版面中，這類消息往往會同時影響股市情緒、匯率路徑與政策空間。Reuters 的報導因此有價值，因為它揭示了資金正在如何重新排序風險與報酬。",
+        "真正值得觀察的是，這種定價變化是否會延伸成更持久的資產輪動，或只是一次短暫修正。若利率、能源與科技股方向同時變動，市場波動就可能被放大。",
+        "對企業與政府來說，資本市場的訊號會反向影響融資成本與政策溝通，因此這些 headline 往往比表面上更具實質效果。"
+      ],
+      "en": [
+        "S&P 500, Nasdaq close sharply higher as Broadcom rallies suggests that markets are repricing around fundamentals, rate expectations and geopolitical risk at the same time. Investors are no longer reacting to one data point in isolation.",
+        "Within the Economy & Markets file, stories like this can move equity sentiment, currency expectations and policy room all at once. Reuters's reporting matters because it shows how capital is reordering risk and reward in real time.",
+        "The key question is whether the move becomes a more durable asset rotation or remains a short-lived correction. When rates, energy assumptions and technology shares shift together, volatility tends to amplify.",
+        "For companies and governments, those market signals loop back into financing costs and policy communication. That is why a market headline often has more real-world force than it first appears to have."
+      ]
+    }
+  },
+  {
+    "id": "econ-ecb-s-schnabel-says-iran-shock-is-not-over",
+    "category": "economy-markets",
+    "image": "market",
+    "lead": false,
+    "author": "Priya Raman",
+    "read": 5,
+    "title": {
+      "en": "ECB's Schnabel says Iran shock is not over",
+      "zh": "歐洲央行施納貝爾表示，伊朗衝擊尚未結束"
+    },
+    "dek": {
+      "en": "The market angle matters because earnings, rates and asset prices often reprice expectations before policymakers can fully respond.",
+      "zh": "這則市場新聞的重要性在於，企業獲利、利率與資產價格常在政策完全回應之前，就先行重寫市場預期。"
+    },
+    "body": {
+      "zh": [
+        "歐洲央行施納貝爾表示，伊朗衝擊尚未結束反映，市場定價正在根據企業基本面、利率預期與地緣風險重新調整。投資人現在關心的不只是單一數據，而是這些訊號彼此是否互相強化。",
+        "在經濟與市場版面中，這類消息往往會同時影響股市情緒、匯率路徑與政策空間。Reuters 的報導因此有價值，因為它揭示了資金正在如何重新排序風險與報酬。",
+        "真正值得觀察的是，這種定價變化是否會延伸成更持久的資產輪動，或只是一次短暫修正。若利率、能源與科技股方向同時變動，市場波動就可能被放大。",
+        "對企業與政府來說，資本市場的訊號會反向影響融資成本與政策溝通，因此這些 headline 往往比表面上更具實質效果。"
+      ],
+      "en": [
+        "ECB's Schnabel says Iran shock is not over suggests that markets are repricing around fundamentals, rate expectations and geopolitical risk at the same time. Investors are no longer reacting to one data point in isolation.",
+        "Within the Economy & Markets file, stories like this can move equity sentiment, currency expectations and policy room all at once. Reuters's reporting matters because it shows how capital is reordering risk and reward in real time.",
+        "The key question is whether the move becomes a more durable asset rotation or remains a short-lived correction. When rates, energy assumptions and technology shares shift together, volatility tends to amplify.",
+        "For companies and governments, those market signals loop back into financing costs and policy communication. That is why a market headline often has more real-world force than it first appears to have."
+      ]
+    }
+  },
+  {
+    "id": "econ-spain-portugal-step-up-scrutiny-of-soaring-property-markets",
+    "category": "economy-markets",
+    "image": "market",
+    "lead": false,
+    "author": "Priya Raman",
+    "read": 5,
+    "title": {
+      "en": "Spain, Portugal step up scrutiny of soaring property markets",
+      "zh": "西班牙與葡萄牙加強審視飆升的房地產市場"
+    },
+    "dek": {
+      "en": "The market angle matters because earnings, rates and asset prices often reprice expectations before policymakers can fully respond.",
+      "zh": "這則市場新聞的重要性在於，企業獲利、利率與資產價格常在政策完全回應之前，就先行重寫市場預期。"
+    },
+    "body": {
+      "zh": [
+        "西班牙與葡萄牙加強審視飆升的房地產市場反映，市場定價正在根據企業基本面、利率預期與地緣風險重新調整。投資人現在關心的不只是單一數據，而是這些訊號彼此是否互相強化。",
+        "在經濟與市場版面中，這類消息往往會同時影響股市情緒、匯率路徑與政策空間。Reuters 的報導因此有價值，因為它揭示了資金正在如何重新排序風險與報酬。",
+        "真正值得觀察的是，這種定價變化是否會延伸成更持久的資產輪動，或只是一次短暫修正。若利率、能源與科技股方向同時變動，市場波動就可能被放大。",
+        "對企業與政府來說，資本市場的訊號會反向影響融資成本與政策溝通，因此這些 headline 往往比表面上更具實質效果。"
+      ],
+      "en": [
+        "Spain, Portugal step up scrutiny of soaring property markets suggests that markets are repricing around fundamentals, rate expectations and geopolitical risk at the same time. Investors are no longer reacting to one data point in isolation.",
+        "Within the Economy & Markets file, stories like this can move equity sentiment, currency expectations and policy room all at once. Reuters's reporting matters because it shows how capital is reordering risk and reward in real time.",
+        "The key question is whether the move becomes a more durable asset rotation or remains a short-lived correction. When rates, energy assumptions and technology shares shift together, volatility tends to amplify.",
+        "For companies and governments, those market signals loop back into financing costs and policy communication. That is why a market headline often has more real-world force than it first appears to have."
+      ]
+    }
+  },
+  {
+    "id": "energy-as-temperatures-rise-companies-flying-blind-on-heat-stress-risk",
+    "category": "energy-climate",
+    "image": "energy",
+    "lead": true,
+    "author": "Amara Okafor",
+    "read": 6,
+    "title": {
+      "en": "As temperatures rise, companies ‘flying blind’ on heat stress risk",
+      "zh": "氣溫升高之際，企業對熱壓力風險仍如同盲飛"
+    },
+    "dek": {
+      "en": "The energy and climate angle matters because heat, fuel supply and grid stability increasingly shape economic resilience and political room to maneuver.",
+      "zh": "這則能源與氣候新聞的重要性在於，高溫、燃料供應與電網穩定，愈來愈直接左右經濟韌性與政策操作空間。"
+    },
+    "body": {
+      "zh": [
+        "氣溫升高之際，企業對熱壓力風險仍如同盲飛提醒外界，能源與氣候壓力現在已不是分開處理的兩條議題，而是會同時影響電網穩定、供應安全與社會承受能力。任何一端出現弱點，都可能迅速放大。",
+        "放在能源與氣候框架中，這類事件往往會牽動燃料調度、企業成本與公共安全應變。Reuters 的報導讓這些連鎖效應更具體，也讓決策者更難忽視基礎系統的脆弱之處。",
+        "接下來最需要觀察的是，政府與企業會否把這次訊號轉化為更實際的投資、備援與需求管理措施；如果沒有，下一次衝擊的成本通常只會更高。",
+        "因此，能源與氣候新聞的重要性不只在於當下災情或價格，而在於它如何揭露系統能否承受未來更頻繁、更複雜的壓力測試。"
+      ],
+      "en": [
+        "As temperatures rise, companies ‘flying blind’ on heat stress risk is a reminder that energy and climate pressure can no longer be treated as separate stories. They now intersect through grid stability, supply security and the public's tolerance for disruption.",
+        "In the Energy & Climate file, events like this quickly feed into fuel allocation, corporate costs and emergency response planning. Reuters's reporting makes those chain reactions more concrete and harder for policymakers to ignore.",
+        "The next thing to watch is whether governments and companies turn the signal into real investment, backup capacity and demand-management measures. If not, the cost of the next shock is usually even higher.",
+        "That is why the significance of an energy or climate headline is not limited to today's damage or price move. It lies in what the event reveals about whether core systems can absorb more frequent and more complex stress tests."
+      ]
+    }
+  },
+  {
+    "id": "energy-cuba-s-national-electric-grid-collapses-reason-unknown",
+    "category": "energy-climate",
+    "image": "energy",
+    "lead": false,
+    "author": "Amara Okafor",
+    "read": 5,
+    "title": {
+      "en": "Cuba's national electric grid collapses, reason unknown",
+      "zh": "古巴全國電網崩潰，原因未明"
+    },
+    "dek": {
+      "en": "The energy and climate angle matters because heat, fuel supply and grid stability increasingly shape economic resilience and political room to maneuver.",
+      "zh": "這則能源與氣候新聞的重要性在於，高溫、燃料供應與電網穩定，愈來愈直接左右經濟韌性與政策操作空間。"
+    },
+    "body": {
+      "zh": [
+        "古巴全國電網崩潰，原因未明提醒外界，能源與氣候壓力現在已不是分開處理的兩條議題，而是會同時影響電網穩定、供應安全與社會承受能力。任何一端出現弱點，都可能迅速放大。",
+        "放在能源與氣候框架中，這類事件往往會牽動燃料調度、企業成本與公共安全應變。Reuters 的報導讓這些連鎖效應更具體，也讓決策者更難忽視基礎系統的脆弱之處。",
+        "接下來最需要觀察的是，政府與企業會否把這次訊號轉化為更實際的投資、備援與需求管理措施；如果沒有，下一次衝擊的成本通常只會更高。",
+        "因此，能源與氣候新聞的重要性不只在於當下災情或價格，而在於它如何揭露系統能否承受未來更頻繁、更複雜的壓力測試。"
+      ],
+      "en": [
+        "Cuba's national electric grid collapses, reason unknown is a reminder that energy and climate pressure can no longer be treated as separate stories. They now intersect through grid stability, supply security and the public's tolerance for disruption.",
+        "In the Energy & Climate file, events like this quickly feed into fuel allocation, corporate costs and emergency response planning. Reuters's reporting makes those chain reactions more concrete and harder for policymakers to ignore.",
+        "The next thing to watch is whether governments and companies turn the signal into real investment, backup capacity and demand-management measures. If not, the cost of the next shock is usually even higher.",
+        "That is why the significance of an energy or climate headline is not limited to today's damage or price move. It lies in what the event reveals about whether core systems can absorb more frequent and more complex stress tests."
+      ]
+    }
+  },
+  {
+    "id": "energy-world-absorbs-historic-iran-war-oil-supply-loss-but-depleted-stocks-bring-risks",
+    "category": "energy-climate",
+    "image": "energy",
+    "lead": false,
+    "author": "Amara Okafor",
+    "read": 5,
+    "title": {
+      "en": "World absorbs historic Iran war oil supply loss, but depleted stocks bring risks",
+      "zh": "全球暫時吸收伊朗戰事造成的歷史性供油損失，但低庫存風險升高"
+    },
+    "dek": {
+      "en": "The energy and climate angle matters because heat, fuel supply and grid stability increasingly shape economic resilience and political room to maneuver.",
+      "zh": "這則能源與氣候新聞的重要性在於，高溫、燃料供應與電網穩定，愈來愈直接左右經濟韌性與政策操作空間。"
+    },
+    "body": {
+      "zh": [
+        "全球暫時吸收伊朗戰事造成的歷史性供油損失，但低庫存風險升高提醒外界，能源與氣候壓力現在已不是分開處理的兩條議題，而是會同時影響電網穩定、供應安全與社會承受能力。任何一端出現弱點，都可能迅速放大。",
+        "放在能源與氣候框架中，這類事件往往會牽動燃料調度、企業成本與公共安全應變。Reuters 的報導讓這些連鎖效應更具體，也讓決策者更難忽視基礎系統的脆弱之處。",
+        "接下來最需要觀察的是，政府與企業會否把這次訊號轉化為更實際的投資、備援與需求管理措施；如果沒有，下一次衝擊的成本通常只會更高。",
+        "因此，能源與氣候新聞的重要性不只在於當下災情或價格，而在於它如何揭露系統能否承受未來更頻繁、更複雜的壓力測試。"
+      ],
+      "en": [
+        "World absorbs historic Iran war oil supply loss, but depleted stocks bring risks is a reminder that energy and climate pressure can no longer be treated as separate stories. They now intersect through grid stability, supply security and the public's tolerance for disruption.",
+        "In the Energy & Climate file, events like this quickly feed into fuel allocation, corporate costs and emergency response planning. Reuters's reporting makes those chain reactions more concrete and harder for policymakers to ignore.",
+        "The next thing to watch is whether governments and companies turn the signal into real investment, backup capacity and demand-management measures. If not, the cost of the next shock is usually even higher.",
+        "That is why the significance of an energy or climate headline is not limited to today's damage or price move. It lies in what the event reveals about whether core systems can absorb more frequent and more complex stress tests."
+      ]
+    }
+  },
+  {
+    "id": "energy-pjm-says-emergency-electricity-conservation-during-us-heat-wave-kept-power-demand-shy-of-r",
+    "category": "energy-climate",
+    "image": "energy",
+    "lead": false,
+    "author": "Amara Okafor",
+    "read": 5,
+    "title": {
+      "en": "PJM says emergency electricity conservation during US heat wave kept power demand shy of record",
+      "zh": "PJM 表示，美國熱浪期間的緊急節電避免電力需求創新高"
+    },
+    "dek": {
+      "en": "The energy and climate angle matters because heat, fuel supply and grid stability increasingly shape economic resilience and political room to maneuver.",
+      "zh": "這則能源與氣候新聞的重要性在於，高溫、燃料供應與電網穩定，愈來愈直接左右經濟韌性與政策操作空間。"
+    },
+    "body": {
+      "zh": [
+        "PJM 表示，美國熱浪期間的緊急節電避免電力需求創新高提醒外界，能源與氣候壓力現在已不是分開處理的兩條議題，而是會同時影響電網穩定、供應安全與社會承受能力。任何一端出現弱點，都可能迅速放大。",
+        "放在能源與氣候框架中，這類事件往往會牽動燃料調度、企業成本與公共安全應變。Reuters 的報導讓這些連鎖效應更具體，也讓決策者更難忽視基礎系統的脆弱之處。",
+        "接下來最需要觀察的是，政府與企業會否把這次訊號轉化為更實際的投資、備援與需求管理措施；如果沒有，下一次衝擊的成本通常只會更高。",
+        "因此，能源與氣候新聞的重要性不只在於當下災情或價格，而在於它如何揭露系統能否承受未來更頻繁、更複雜的壓力測試。"
+      ],
+      "en": [
+        "PJM says emergency electricity conservation during US heat wave kept power demand shy of record is a reminder that energy and climate pressure can no longer be treated as separate stories. They now intersect through grid stability, supply security and the public's tolerance for disruption.",
+        "In the Energy & Climate file, events like this quickly feed into fuel allocation, corporate costs and emergency response planning. Reuters's reporting makes those chain reactions more concrete and harder for policymakers to ignore.",
+        "The next thing to watch is whether governments and companies turn the signal into real investment, backup capacity and demand-management measures. If not, the cost of the next shock is usually even higher.",
+        "That is why the significance of an energy or climate headline is not limited to today's damage or price move. It lies in what the event reveals about whether core systems can absorb more frequent and more complex stress tests."
+      ]
+    }
+  },
+  {
+    "id": "energy-wildfire-in-southern-france-forces-10-000-people-from-their-homes",
+    "category": "energy-climate",
+    "image": "energy",
+    "lead": false,
+    "author": "Amara Okafor",
+    "read": 5,
+    "title": {
+      "en": "Wildfire in southern France forces 10,000 people from their homes",
+      "zh": "法國南部野火迫使一萬人撤離家園"
+    },
+    "dek": {
+      "en": "The energy and climate angle matters because heat, fuel supply and grid stability increasingly shape economic resilience and political room to maneuver.",
+      "zh": "這則能源與氣候新聞的重要性在於，高溫、燃料供應與電網穩定，愈來愈直接左右經濟韌性與政策操作空間。"
+    },
+    "body": {
+      "zh": [
+        "法國南部野火迫使一萬人撤離家園提醒外界，能源與氣候壓力現在已不是分開處理的兩條議題，而是會同時影響電網穩定、供應安全與社會承受能力。任何一端出現弱點，都可能迅速放大。",
+        "放在能源與氣候框架中，這類事件往往會牽動燃料調度、企業成本與公共安全應變。Reuters 的報導讓這些連鎖效應更具體，也讓決策者更難忽視基礎系統的脆弱之處。",
+        "接下來最需要觀察的是，政府與企業會否把這次訊號轉化為更實際的投資、備援與需求管理措施；如果沒有，下一次衝擊的成本通常只會更高。",
+        "因此，能源與氣候新聞的重要性不只在於當下災情或價格，而在於它如何揭露系統能否承受未來更頻繁、更複雜的壓力測試。"
+      ],
+      "en": [
+        "Wildfire in southern France forces 10,000 people from their homes is a reminder that energy and climate pressure can no longer be treated as separate stories. They now intersect through grid stability, supply security and the public's tolerance for disruption.",
+        "In the Energy & Climate file, events like this quickly feed into fuel allocation, corporate costs and emergency response planning. Reuters's reporting makes those chain reactions more concrete and harder for policymakers to ignore.",
+        "The next thing to watch is whether governments and companies turn the signal into real investment, backup capacity and demand-management measures. If not, the cost of the next shock is usually even higher.",
+        "That is why the significance of an energy or climate headline is not limited to today's damage or price move. It lies in what the event reveals about whether core systems can absorb more frequent and more complex stress tests."
+      ]
+    }
+  },
+  {
+    "id": "policy-thales-expands-in-fast-growing-sea-drone-warfare-market-with-exail-deal",
+    "category": "policy-regulation",
+    "image": "policy",
+    "lead": true,
+    "author": "Leila Haddad",
+    "read": 6,
+    "title": {
+      "en": "Thales expands in fast-growing sea drone warfare market with Exail deal",
+      "zh": "泰雷茲透過 Exail 交易擴大布局快速成長的海上無人機作戰市場"
+    },
+    "dek": {
+      "en": "The policy angle matters because regulators are moving earlier, and new rules can alter incentives, compliance costs and competition very quickly.",
+      "zh": "這則政策與法規新聞的重要性在於，監管機關正更早出手，而新規則很快就會改變誘因、合規成本與競爭格局。"
+    },
+    "body": {
+      "zh": [
+        "泰雷茲透過 Exail 交易擴大布局快速成長的海上無人機作戰市場顯示，監管與制度設計正試圖更早介入市場與技術發展，避免風險累積到難以回頭的程度。對企業而言，真正的挑戰往往不是法條本身，而是它改變了投資與競爭規則。",
+        "在政策與法規版面中，這類變化通常會重新分配合規成本、談判籌碼與責任邊界。Reuters 的報導之所以重要，在於它讓外界看見監管重心正在往哪裡移動。",
+        "接下來要觀察的是，相關措施會否擴大到跨境合作、執法指引或新的司法挑戰。這些後續發展往往決定規則是象徵性表態，還是真正改變行為。",
+        "因此，政策新聞的影響常是延後但深遠的：它可能不會立刻反映在營收上，卻會逐步重塑市場結構與公司策略。"
+      ],
+      "en": [
+        "Thales expands in fast-growing sea drone warfare market with Exail deal shows how regulators and rule-makers are trying to intervene earlier, before risks become too entrenched to manage. For companies, the challenge is often less about the text of the rule than about how it changes incentives and competition.",
+        "Inside the Policy & Regulation file, shifts like this reallocate compliance costs, bargaining leverage and responsibility boundaries. Reuters's report matters because it reveals where regulatory attention is moving next.",
+        "The next stage to monitor is whether the measure expands into cross-border coordination, enforcement guidance or fresh court challenges. Those follow-on steps usually determine whether a rule is symbolic or behavior-changing.",
+        "That is why policy stories often work with a delay but have lasting force. They may not hit revenue immediately, yet they can steadily reshape market structure and corporate strategy."
+      ]
+    }
+  },
+  {
+    "id": "policy-un-s-guterres-warns-ai-outpacing-oversight-urges-global-rules-to-protect-children",
+    "category": "policy-regulation",
+    "image": "policy",
+    "lead": false,
+    "author": "Leila Haddad",
+    "read": 5,
+    "title": {
+      "en": "UN's Guterres warns AI outpacing oversight, urges global rules to protect children",
+      "zh": "聯合國秘書長古特瑞斯警告 AI 發展超前監管，籲訂全球規則保護兒童"
+    },
+    "dek": {
+      "en": "The policy angle matters because regulators are moving earlier, and new rules can alter incentives, compliance costs and competition very quickly.",
+      "zh": "這則政策與法規新聞的重要性在於，監管機關正更早出手，而新規則很快就會改變誘因、合規成本與競爭格局。"
+    },
+    "body": {
+      "zh": [
+        "聯合國秘書長古特瑞斯警告 AI 發展超前監管，籲訂全球規則保護兒童顯示，監管與制度設計正試圖更早介入市場與技術發展，避免風險累積到難以回頭的程度。對企業而言，真正的挑戰往往不是法條本身，而是它改變了投資與競爭規則。",
+        "在政策與法規版面中，這類變化通常會重新分配合規成本、談判籌碼與責任邊界。Reuters 的報導之所以重要，在於它讓外界看見監管重心正在往哪裡移動。",
+        "接下來要觀察的是，相關措施會否擴大到跨境合作、執法指引或新的司法挑戰。這些後續發展往往決定規則是象徵性表態，還是真正改變行為。",
+        "因此，政策新聞的影響常是延後但深遠的：它可能不會立刻反映在營收上，卻會逐步重塑市場結構與公司策略。"
+      ],
+      "en": [
+        "UN's Guterres warns AI outpacing oversight, urges global rules to protect children shows how regulators and rule-makers are trying to intervene earlier, before risks become too entrenched to manage. For companies, the challenge is often less about the text of the rule than about how it changes incentives and competition.",
+        "Inside the Policy & Regulation file, shifts like this reallocate compliance costs, bargaining leverage and responsibility boundaries. Reuters's report matters because it reveals where regulatory attention is moving next.",
+        "The next stage to monitor is whether the measure expands into cross-border coordination, enforcement guidance or fresh court challenges. Those follow-on steps usually determine whether a rule is symbolic or behavior-changing.",
+        "That is why policy stories often work with a delay but have lasting force. They may not hit revenue immediately, yet they can steadily reshape market structure and corporate strategy."
+      ]
+    }
+  },
+  {
+    "id": "policy-itv-and-comcast-s-sky-reshape-british-tv-landscape-with-2-1-billion-deal",
+    "category": "policy-regulation",
+    "image": "policy",
+    "lead": false,
+    "author": "Leila Haddad",
+    "read": 5,
+    "title": {
+      "en": "ITV and Comcast's Sky reshape British TV landscape with $2.1 billion deal",
+      "zh": "ITV 與康卡斯特旗下 Sky 以 21 億美元交易重塑英國電視版圖"
+    },
+    "dek": {
+      "en": "The policy angle matters because regulators are moving earlier, and new rules can alter incentives, compliance costs and competition very quickly.",
+      "zh": "這則政策與法規新聞的重要性在於，監管機關正更早出手，而新規則很快就會改變誘因、合規成本與競爭格局。"
+    },
+    "body": {
+      "zh": [
+        "ITV 與康卡斯特旗下 Sky 以 21 億美元交易重塑英國電視版圖顯示，監管與制度設計正試圖更早介入市場與技術發展，避免風險累積到難以回頭的程度。對企業而言，真正的挑戰往往不是法條本身，而是它改變了投資與競爭規則。",
+        "在政策與法規版面中，這類變化通常會重新分配合規成本、談判籌碼與責任邊界。Reuters 的報導之所以重要，在於它讓外界看見監管重心正在往哪裡移動。",
+        "接下來要觀察的是，相關措施會否擴大到跨境合作、執法指引或新的司法挑戰。這些後續發展往往決定規則是象徵性表態，還是真正改變行為。",
+        "因此，政策新聞的影響常是延後但深遠的：它可能不會立刻反映在營收上，卻會逐步重塑市場結構與公司策略。"
+      ],
+      "en": [
+        "ITV and Comcast's Sky reshape British TV landscape with $2.1 billion deal shows how regulators and rule-makers are trying to intervene earlier, before risks become too entrenched to manage. For companies, the challenge is often less about the text of the rule than about how it changes incentives and competition.",
+        "Inside the Policy & Regulation file, shifts like this reallocate compliance costs, bargaining leverage and responsibility boundaries. Reuters's report matters because it reveals where regulatory attention is moving next.",
+        "The next stage to monitor is whether the measure expands into cross-border coordination, enforcement guidance or fresh court challenges. Those follow-on steps usually determine whether a rule is symbolic or behavior-changing.",
+        "That is why policy stories often work with a delay but have lasting force. They may not hit revenue immediately, yet they can steadily reshape market structure and corporate strategy."
+      ]
+    }
+  },
+  {
+    "id": "policy-financial-services-ai-dangers-highlighted-by-regulator-s-review",
+    "category": "policy-regulation",
+    "image": "policy",
+    "lead": false,
+    "author": "Leila Haddad",
+    "read": 5,
+    "title": {
+      "en": "Financial services AI dangers highlighted by regulator's review",
+      "zh": "監管機關檢視凸顯金融服務導入 AI 的風險"
+    },
+    "dek": {
+      "en": "The policy angle matters because regulators are moving earlier, and new rules can alter incentives, compliance costs and competition very quickly.",
+      "zh": "這則政策與法規新聞的重要性在於，監管機關正更早出手，而新規則很快就會改變誘因、合規成本與競爭格局。"
+    },
+    "body": {
+      "zh": [
+        "監管機關檢視凸顯金融服務導入 AI 的風險顯示，監管與制度設計正試圖更早介入市場與技術發展，避免風險累積到難以回頭的程度。對企業而言，真正的挑戰往往不是法條本身，而是它改變了投資與競爭規則。",
+        "在政策與法規版面中，這類變化通常會重新分配合規成本、談判籌碼與責任邊界。Reuters 的報導之所以重要，在於它讓外界看見監管重心正在往哪裡移動。",
+        "接下來要觀察的是，相關措施會否擴大到跨境合作、執法指引或新的司法挑戰。這些後續發展往往決定規則是象徵性表態，還是真正改變行為。",
+        "因此，政策新聞的影響常是延後但深遠的：它可能不會立刻反映在營收上，卻會逐步重塑市場結構與公司策略。"
+      ],
+      "en": [
+        "Financial services AI dangers highlighted by regulator's review shows how regulators and rule-makers are trying to intervene earlier, before risks become too entrenched to manage. For companies, the challenge is often less about the text of the rule than about how it changes incentives and competition.",
+        "Inside the Policy & Regulation file, shifts like this reallocate compliance costs, bargaining leverage and responsibility boundaries. Reuters's report matters because it reveals where regulatory attention is moving next.",
+        "The next stage to monitor is whether the measure expands into cross-border coordination, enforcement guidance or fresh court challenges. Those follow-on steps usually determine whether a rule is symbolic or behavior-changing.",
+        "That is why policy stories often work with a delay but have lasting force. They may not hit revenue immediately, yet they can steadily reshape market structure and corporate strategy."
+      ]
+    }
+  },
+  {
+    "id": "policy-us-supreme-court-won-t-block-texas-app-store-age-verification-law",
+    "category": "policy-regulation",
+    "image": "policy",
+    "lead": false,
+    "author": "Leila Haddad",
+    "read": 5,
+    "title": {
+      "en": "US Supreme Court won't block Texas app store age verification law",
+      "zh": "美國最高法院不阻止德州 App 商店年齡驗證法"
+    },
+    "dek": {
+      "en": "The policy angle matters because regulators are moving earlier, and new rules can alter incentives, compliance costs and competition very quickly.",
+      "zh": "這則政策與法規新聞的重要性在於，監管機關正更早出手，而新規則很快就會改變誘因、合規成本與競爭格局。"
+    },
+    "body": {
+      "zh": [
+        "美國最高法院不阻止德州 App 商店年齡驗證法顯示，監管與制度設計正試圖更早介入市場與技術發展，避免風險累積到難以回頭的程度。對企業而言，真正的挑戰往往不是法條本身，而是它改變了投資與競爭規則。",
+        "在政策與法規版面中，這類變化通常會重新分配合規成本、談判籌碼與責任邊界。Reuters 的報導之所以重要，在於它讓外界看見監管重心正在往哪裡移動。",
+        "接下來要觀察的是，相關措施會否擴大到跨境合作、執法指引或新的司法挑戰。這些後續發展往往決定規則是象徵性表態，還是真正改變行為。",
+        "因此，政策新聞的影響常是延後但深遠的：它可能不會立刻反映在營收上，卻會逐步重塑市場結構與公司策略。"
+      ],
+      "en": [
+        "US Supreme Court won't block Texas app store age verification law shows how regulators and rule-makers are trying to intervene earlier, before risks become too entrenched to manage. For companies, the challenge is often less about the text of the rule than about how it changes incentives and competition.",
+        "Inside the Policy & Regulation file, shifts like this reallocate compliance costs, bargaining leverage and responsibility boundaries. Reuters's report matters because it reveals where regulatory attention is moving next.",
+        "The next stage to monitor is whether the measure expands into cross-border coordination, enforcement guidance or fresh court challenges. Those follow-on steps usually determine whether a rule is symbolic or behavior-changing.",
+        "That is why policy stories often work with a delay but have lasting force. They may not hit revenue immediately, yet they can steadily reshape market structure and corporate strategy."
+      ]
+    }
+  },
+  {
+    "id": "cyber-us-law-firm-blank-rome-faces-class-action-over-data-breach",
+    "category": "cybersecurity",
+    "image": "cyber",
+    "lead": true,
+    "author": "Ethan Lin",
+    "read": 6,
+    "title": {
+      "en": "US law firm Blank Rome faces class action over data breach",
+      "zh": "美國律師事務所 Blank Rome 因資料外洩面臨集體訴訟"
+    },
+    "dek": {
+      "en": "The cybersecurity angle matters because data exposure, digital dependence and strategic trust now intersect across legal, commercial and state systems.",
+      "zh": "這則網路安全新聞的重要性在於，資料曝險、數位依賴與戰略信任，已在法律、商業與國家體系之間交錯疊加。"
+    },
+    "body": {
+      "zh": [
+        "美國律師事務所 Blank Rome 因資料外洩面臨集體訴訟凸顯，資安事件已不只是技術部門的風險，而是會同時牽動法律責任、商業信任與國家安全敘事。尤其在資料與 AI 依賴加深的情況下，單一破口就可能外溢成制度問題。",
+        "放在網路安全脈絡中，這類新聞通常會逼迫組織重新檢查通報義務、第三方風險與修補速度。Reuters 的報導之所以有價值，是因為它揭示數位依賴正如何改變治理成本。",
+        "真正值得注意的是，機構會不會把事件視為一次性危機，或藉此調整更長期的身分控管、資料分級與供應商管理。後者才會決定韌性是否真的提升。",
+        "因此，資安 headline 的外溢效果常跨越單一公司，最後反映在監管態度、客戶要求與跨境合作門檻上。"
+      ],
+      "en": [
+        "US law firm Blank Rome faces class action over data breach underlines that cybersecurity risk is no longer confined to the IT department. It now spills into legal liability, commercial trust and even national-security narratives.",
+        "In the Cybersecurity file, stories like this usually force organizations to re-examine disclosure duties, third-party exposure and patching speed. Reuters's reporting is valuable because it shows how digital dependence is changing governance costs.",
+        "The real question is whether institutions treat the event as a one-off incident or use it to rethink identity controls, data classification and vendor management over a longer horizon. The second path is what actually builds resilience.",
+        "That is why a cybersecurity headline often extends beyond one company and eventually shows up in regulatory posture, customer demands and cross-border cooperation thresholds."
+      ]
+    }
+  },
+  {
+    "id": "cyber-nato-defence-push-already-strains-europe-s-budgets",
+    "category": "cybersecurity",
+    "image": "cyber",
+    "lead": false,
+    "author": "Ethan Lin",
+    "read": 5,
+    "title": {
+      "en": "NATO defence push already strains Europe's budgets",
+      "zh": "北約擴大國防投入已對歐洲預算造成壓力"
+    },
+    "dek": {
+      "en": "The cybersecurity angle matters because data exposure, digital dependence and strategic trust now intersect across legal, commercial and state systems.",
+      "zh": "這則網路安全新聞的重要性在於，資料曝險、數位依賴與戰略信任，已在法律、商業與國家體系之間交錯疊加。"
+    },
+    "body": {
+      "zh": [
+        "北約擴大國防投入已對歐洲預算造成壓力凸顯，資安事件已不只是技術部門的風險，而是會同時牽動法律責任、商業信任與國家安全敘事。尤其在資料與 AI 依賴加深的情況下，單一破口就可能外溢成制度問題。",
+        "放在網路安全脈絡中，這類新聞通常會逼迫組織重新檢查通報義務、第三方風險與修補速度。Reuters 的報導之所以有價值，是因為它揭示數位依賴正如何改變治理成本。",
+        "真正值得注意的是，機構會不會把事件視為一次性危機，或藉此調整更長期的身分控管、資料分級與供應商管理。後者才會決定韌性是否真的提升。",
+        "因此，資安 headline 的外溢效果常跨越單一公司，最後反映在監管態度、客戶要求與跨境合作門檻上。"
+      ],
+      "en": [
+        "NATO defence push already strains Europe's budgets underlines that cybersecurity risk is no longer confined to the IT department. It now spills into legal liability, commercial trust and even national-security narratives.",
+        "In the Cybersecurity file, stories like this usually force organizations to re-examine disclosure duties, third-party exposure and patching speed. Reuters's reporting is valuable because it shows how digital dependence is changing governance costs.",
+        "The real question is whether institutions treat the event as a one-off incident or use it to rethink identity controls, data classification and vendor management over a longer horizon. The second path is what actually builds resilience.",
+        "That is why a cybersecurity headline often extends beyond one company and eventually shows up in regulatory posture, customer demands and cross-border cooperation thresholds."
+      ]
+    }
+  },
+  {
+    "id": "cyber-norway-urges-china-to-help-bring-russia-to-ukraine-peace-talks",
+    "category": "cybersecurity",
+    "image": "cyber",
+    "lead": false,
+    "author": "Ethan Lin",
+    "read": 5,
+    "title": {
+      "en": "Norway urges China to help bring Russia to Ukraine peace talks",
+      "zh": "挪威敦促中國協助將俄羅斯帶回烏克蘭和平談判"
+    },
+    "dek": {
+      "en": "The cybersecurity angle matters because data exposure, digital dependence and strategic trust now intersect across legal, commercial and state systems.",
+      "zh": "這則網路安全新聞的重要性在於，資料曝險、數位依賴與戰略信任，已在法律、商業與國家體系之間交錯疊加。"
+    },
+    "body": {
+      "zh": [
+        "挪威敦促中國協助將俄羅斯帶回烏克蘭和平談判凸顯，資安事件已不只是技術部門的風險，而是會同時牽動法律責任、商業信任與國家安全敘事。尤其在資料與 AI 依賴加深的情況下，單一破口就可能外溢成制度問題。",
+        "放在網路安全脈絡中，這類新聞通常會逼迫組織重新檢查通報義務、第三方風險與修補速度。Reuters 的報導之所以有價值，是因為它揭示數位依賴正如何改變治理成本。",
+        "真正值得注意的是，機構會不會把事件視為一次性危機，或藉此調整更長期的身分控管、資料分級與供應商管理。後者才會決定韌性是否真的提升。",
+        "因此，資安 headline 的外溢效果常跨越單一公司，最後反映在監管態度、客戶要求與跨境合作門檻上。"
+      ],
+      "en": [
+        "Norway urges China to help bring Russia to Ukraine peace talks underlines that cybersecurity risk is no longer confined to the IT department. It now spills into legal liability, commercial trust and even national-security narratives.",
+        "In the Cybersecurity file, stories like this usually force organizations to re-examine disclosure duties, third-party exposure and patching speed. Reuters's reporting is valuable because it shows how digital dependence is changing governance costs.",
+        "The real question is whether institutions treat the event as a one-off incident or use it to rethink identity controls, data classification and vendor management over a longer horizon. The second path is what actually builds resilience.",
+        "That is why a cybersecurity headline often extends beyond one company and eventually shows up in regulatory posture, customer demands and cross-border cooperation thresholds."
+      ]
+    }
+  },
+  {
+    "id": "cyber-armenia-hopes-it-can-resolve-problematic-issues-with-russia-pm-pashinyan-says",
+    "category": "cybersecurity",
+    "image": "cyber",
+    "lead": false,
+    "author": "Ethan Lin",
+    "read": 5,
+    "title": {
+      "en": "Armenia hopes it can resolve 'problematic issues' with Russia, PM Pashinyan says",
+      "zh": "亞美尼亞總理帕希尼揚稱希望解決與俄羅斯的「棘手問題」"
+    },
+    "dek": {
+      "en": "The cybersecurity angle matters because data exposure, digital dependence and strategic trust now intersect across legal, commercial and state systems.",
+      "zh": "這則網路安全新聞的重要性在於，資料曝險、數位依賴與戰略信任，已在法律、商業與國家體系之間交錯疊加。"
+    },
+    "body": {
+      "zh": [
+        "亞美尼亞總理帕希尼揚稱希望解決與俄羅斯的「棘手問題」凸顯，資安事件已不只是技術部門的風險，而是會同時牽動法律責任、商業信任與國家安全敘事。尤其在資料與 AI 依賴加深的情況下，單一破口就可能外溢成制度問題。",
+        "放在網路安全脈絡中，這類新聞通常會逼迫組織重新檢查通報義務、第三方風險與修補速度。Reuters 的報導之所以有價值，是因為它揭示數位依賴正如何改變治理成本。",
+        "真正值得注意的是，機構會不會把事件視為一次性危機，或藉此調整更長期的身分控管、資料分級與供應商管理。後者才會決定韌性是否真的提升。",
+        "因此，資安 headline 的外溢效果常跨越單一公司，最後反映在監管態度、客戶要求與跨境合作門檻上。"
+      ],
+      "en": [
+        "Armenia hopes it can resolve 'problematic issues' with Russia, PM Pashinyan says underlines that cybersecurity risk is no longer confined to the IT department. It now spills into legal liability, commercial trust and even national-security narratives.",
+        "In the Cybersecurity file, stories like this usually force organizations to re-examine disclosure duties, third-party exposure and patching speed. Reuters's reporting is valuable because it shows how digital dependence is changing governance costs.",
+        "The real question is whether institutions treat the event as a one-off incident or use it to rethink identity controls, data classification and vendor management over a longer horizon. The second path is what actually builds resilience.",
+        "That is why a cybersecurity headline often extends beyond one company and eventually shows up in regulatory posture, customer demands and cross-border cooperation thresholds."
+      ]
+    }
+  },
+  {
+    "id": "cyber-indian-it-firms-face-muted-q1-as-ai-shift-weak-demand-weigh",
+    "category": "cybersecurity",
+    "image": "cyber",
+    "lead": false,
+    "author": "Ethan Lin",
+    "read": 5,
+    "title": {
+      "en": "Indian IT firms face muted Q1 as AI shift, weak demand weigh",
+      "zh": "AI 轉型與需求疲弱夾擊，印度 IT 企業第一季表現低迷"
+    },
+    "dek": {
+      "en": "The cybersecurity angle matters because data exposure, digital dependence and strategic trust now intersect across legal, commercial and state systems.",
+      "zh": "這則網路安全新聞的重要性在於，資料曝險、數位依賴與戰略信任，已在法律、商業與國家體系之間交錯疊加。"
+    },
+    "body": {
+      "zh": [
+        "AI 轉型與需求疲弱夾擊，印度 IT 企業第一季表現低迷凸顯，資安事件已不只是技術部門的風險，而是會同時牽動法律責任、商業信任與國家安全敘事。尤其在資料與 AI 依賴加深的情況下，單一破口就可能外溢成制度問題。",
+        "放在網路安全脈絡中，這類新聞通常會逼迫組織重新檢查通報義務、第三方風險與修補速度。Reuters 的報導之所以有價值，是因為它揭示數位依賴正如何改變治理成本。",
+        "真正值得注意的是，機構會不會把事件視為一次性危機，或藉此調整更長期的身分控管、資料分級與供應商管理。後者才會決定韌性是否真的提升。",
+        "因此，資安 headline 的外溢效果常跨越單一公司，最後反映在監管態度、客戶要求與跨境合作門檻上。"
+      ],
+      "en": [
+        "Indian IT firms face muted Q1 as AI shift, weak demand weigh underlines that cybersecurity risk is no longer confined to the IT department. It now spills into legal liability, commercial trust and even national-security narratives.",
+        "In the Cybersecurity file, stories like this usually force organizations to re-examine disclosure duties, third-party exposure and patching speed. Reuters's reporting is valuable because it shows how digital dependence is changing governance costs.",
+        "The real question is whether institutions treat the event as a one-off incident or use it to rethink identity controls, data classification and vendor management over a longer horizon. The second path is what actually builds resilience.",
+        "That is why a cybersecurity headline often extends beyond one company and eventually shows up in regulatory posture, customer demands and cross-border cooperation thresholds."
+      ]
+    }
+  },
+  {
+    "id": "logis-why-one-cancelled-data-center-matters-to-every-supply-chain-executive",
+    "category": "logistics-infrastructure",
+    "image": "infrastructure",
+    "lead": true,
+    "author": "Sofia Reyes",
+    "read": 6,
+    "title": {
+      "en": "Why One Cancelled Data Center Matters to Every Supply Chain Executive",
+      "zh": "為何一座被取消的資料中心牽動每位供應鏈主管"
+    },
+    "dek": {
+      "en": "The logistics and infrastructure angle matters because corridors, projects and network capacity determine how reliably goods and strategic resources can move.",
+      "zh": "這則物流與基礎建設新聞的重要性在於，運輸走廊、工程項目與網路容量，會決定貨物與戰略資源能否穩定流動。"
+    },
+    "body": {
+      "zh": [
+        "為何一座被取消的資料中心牽動每位供應鏈主管被放進今日版面，是因為它說明物流節點與基礎建設投資如何同時影響效率、安全與區域競爭力。表面看似單一工程或單一設施的變化，實際上常會沿著整張網路擴散。",
+        "從物流與基礎建設角度看，港口、鐵路、道路、能源與資料中心等設施，都是企業判斷交期與成本時的底層條件。Logistics Viewpoints 的報導讓這些條件變動具體化，也提醒外界瓶頸常在無預警下浮現。",
+        "接下來要觀察的是，是否會引發新的投資、延期、替代路徑或政策支援。這些回應通常比原始事件更能決定容量缺口是被吸收還是放大。",
+        "因此，物流與基礎建設新聞雖然常被視為慢變題材，但一旦碰上市場波動或地緣政治壓力，就會迅速變成整體供應網絡的關鍵風險。"
+      ],
+      "en": [
+        "Why One Cancelled Data Center Matters to Every Supply Chain Executive belongs in today's file because it shows how logistics nodes and infrastructure investment affect efficiency, security and regional competitiveness at the same time. What looks like a single project change often spreads across the wider network.",
+        "From a Logistics & Infrastructure perspective, ports, railways, roads, power systems and data centres are the hidden conditions behind delivery timing and cost. Logistics Viewpoints's report makes those moving parts more visible and reminds readers that bottlenecks often surface without much warning.",
+        "The next question is whether the development triggers new investment, delay, rerouting or policy support. Those responses usually determine whether a capacity gap is absorbed or amplified.",
+        "That is why logistics and infrastructure stories can look slow-moving until market volatility or geopolitical pressure suddenly turns them into system-wide risks."
+      ]
+    }
+  },
+  {
+    "id": "logis-russia-destroyed-or-damaged-more-than-200-ukrainian-locomotives-this-year",
+    "category": "logistics-infrastructure",
+    "image": "infrastructure",
+    "lead": false,
+    "author": "Sofia Reyes",
+    "read": 5,
+    "title": {
+      "en": "Russia destroyed or damaged more than 200 Ukrainian locomotives this year",
+      "zh": "俄羅斯今年已摧毀或損壞逾 200 輛烏克蘭機車頭"
+    },
+    "dek": {
+      "en": "The logistics and infrastructure angle matters because corridors, projects and network capacity determine how reliably goods and strategic resources can move.",
+      "zh": "這則物流與基礎建設新聞的重要性在於，運輸走廊、工程項目與網路容量，會決定貨物與戰略資源能否穩定流動。"
+    },
+    "body": {
+      "zh": [
+        "俄羅斯今年已摧毀或損壞逾 200 輛烏克蘭機車頭被放進今日版面，是因為它說明物流節點與基礎建設投資如何同時影響效率、安全與區域競爭力。表面看似單一工程或單一設施的變化，實際上常會沿著整張網路擴散。",
+        "從物流與基礎建設角度看，港口、鐵路、道路、能源與資料中心等設施，都是企業判斷交期與成本時的底層條件。Railway PRO 的報導讓這些條件變動具體化，也提醒外界瓶頸常在無預警下浮現。",
+        "接下來要觀察的是，是否會引發新的投資、延期、替代路徑或政策支援。這些回應通常比原始事件更能決定容量缺口是被吸收還是放大。",
+        "因此，物流與基礎建設新聞雖然常被視為慢變題材，但一旦碰上市場波動或地緣政治壓力，就會迅速變成整體供應網絡的關鍵風險。"
+      ],
+      "en": [
+        "Russia destroyed or damaged more than 200 Ukrainian locomotives this year belongs in today's file because it shows how logistics nodes and infrastructure investment affect efficiency, security and regional competitiveness at the same time. What looks like a single project change often spreads across the wider network.",
+        "From a Logistics & Infrastructure perspective, ports, railways, roads, power systems and data centres are the hidden conditions behind delivery timing and cost. Railway PRO's report makes those moving parts more visible and reminds readers that bottlenecks often surface without much warning.",
+        "The next question is whether the development triggers new investment, delay, rerouting or policy support. Those responses usually determine whether a capacity gap is absorbed or amplified.",
+        "That is why logistics and infrastructure stories can look slow-moving until market volatility or geopolitical pressure suddenly turns them into system-wide risks."
+      ]
+    }
+  },
+  {
+    "id": "logis-can-lamu-port-sustain-its-gulf-conflict-windfall",
+    "category": "logistics-infrastructure",
+    "image": "infrastructure",
+    "lead": false,
+    "author": "Sofia Reyes",
+    "read": 5,
+    "title": {
+      "en": "Can Lamu Port sustain its Gulf conflict windfall?",
+      "zh": "拉穆港能否延續海灣衝突帶來的意外收益？"
+    },
+    "dek": {
+      "en": "The logistics and infrastructure angle matters because corridors, projects and network capacity determine how reliably goods and strategic resources can move.",
+      "zh": "這則物流與基礎建設新聞的重要性在於，運輸走廊、工程項目與網路容量，會決定貨物與戰略資源能否穩定流動。"
+    },
+    "body": {
+      "zh": [
+        "拉穆港能否延續海灣衝突帶來的意外收益？被放進今日版面，是因為它說明物流節點與基礎建設投資如何同時影響效率、安全與區域競爭力。表面看似單一工程或單一設施的變化，實際上常會沿著整張網路擴散。",
+        "從物流與基礎建設角度看，港口、鐵路、道路、能源與資料中心等設施，都是企業判斷交期與成本時的底層條件。ZAWYA 的報導讓這些條件變動具體化，也提醒外界瓶頸常在無預警下浮現。",
+        "接下來要觀察的是，是否會引發新的投資、延期、替代路徑或政策支援。這些回應通常比原始事件更能決定容量缺口是被吸收還是放大。",
+        "因此，物流與基礎建設新聞雖然常被視為慢變題材，但一旦碰上市場波動或地緣政治壓力，就會迅速變成整體供應網絡的關鍵風險。"
+      ],
+      "en": [
+        "Can Lamu Port sustain its Gulf conflict windfall? belongs in today's file because it shows how logistics nodes and infrastructure investment affect efficiency, security and regional competitiveness at the same time. What looks like a single project change often spreads across the wider network.",
+        "From a Logistics & Infrastructure perspective, ports, railways, roads, power systems and data centres are the hidden conditions behind delivery timing and cost. ZAWYA's report makes those moving parts more visible and reminds readers that bottlenecks often surface without much warning.",
+        "The next question is whether the development triggers new investment, delay, rerouting or policy support. Those responses usually determine whether a capacity gap is absorbed or amplified.",
+        "That is why logistics and infrastructure stories can look slow-moving until market volatility or geopolitical pressure suddenly turns them into system-wide risks."
+      ]
+    }
+  },
+  {
+    "id": "logis-saudi-rcrc-begins-building-three-bridges-at-prince-turki-road-northern-ring-interchange",
+    "category": "logistics-infrastructure",
+    "image": "infrastructure",
+    "lead": false,
+    "author": "Sofia Reyes",
+    "read": 5,
+    "title": {
+      "en": "Saudi: RCRC begins building three bridges at Prince Turki Road–Northern Ring interchange",
+      "zh": "沙烏地 RCRC 啟動王子圖爾基路與北環交流道三座橋梁工程"
+    },
+    "dek": {
+      "en": "The logistics and infrastructure angle matters because corridors, projects and network capacity determine how reliably goods and strategic resources can move.",
+      "zh": "這則物流與基礎建設新聞的重要性在於，運輸走廊、工程項目與網路容量，會決定貨物與戰略資源能否穩定流動。"
+    },
+    "body": {
+      "zh": [
+        "沙烏地 RCRC 啟動王子圖爾基路與北環交流道三座橋梁工程被放進今日版面，是因為它說明物流節點與基礎建設投資如何同時影響效率、安全與區域競爭力。表面看似單一工程或單一設施的變化，實際上常會沿著整張網路擴散。",
+        "從物流與基礎建設角度看，港口、鐵路、道路、能源與資料中心等設施，都是企業判斷交期與成本時的底層條件。ZAWYA 的報導讓這些條件變動具體化，也提醒外界瓶頸常在無預警下浮現。",
+        "接下來要觀察的是，是否會引發新的投資、延期、替代路徑或政策支援。這些回應通常比原始事件更能決定容量缺口是被吸收還是放大。",
+        "因此，物流與基礎建設新聞雖然常被視為慢變題材，但一旦碰上市場波動或地緣政治壓力，就會迅速變成整體供應網絡的關鍵風險。"
+      ],
+      "en": [
+        "Saudi: RCRC begins building three bridges at Prince Turki Road–Northern Ring interchange belongs in today's file because it shows how logistics nodes and infrastructure investment affect efficiency, security and regional competitiveness at the same time. What looks like a single project change often spreads across the wider network.",
+        "From a Logistics & Infrastructure perspective, ports, railways, roads, power systems and data centres are the hidden conditions behind delivery timing and cost. ZAWYA's report makes those moving parts more visible and reminds readers that bottlenecks often surface without much warning.",
+        "The next question is whether the development triggers new investment, delay, rerouting or policy support. Those responses usually determine whether a capacity gap is absorbed or amplified.",
+        "That is why logistics and infrastructure stories can look slow-moving until market volatility or geopolitical pressure suddenly turns them into system-wide risks."
+      ]
+    }
+  },
+  {
+    "id": "logis-port-authorities-are-accelerating-marine-infrastructure-upgrades-nationwide",
+    "category": "logistics-infrastructure",
+    "image": "infrastructure",
+    "lead": false,
+    "author": "Sofia Reyes",
+    "read": 5,
+    "title": {
+      "en": "Port authorities are accelerating marine infrastructure upgrades nationwide",
+      "zh": "全國港務機關正加速海事基礎設施升級"
+    },
+    "dek": {
+      "en": "The logistics and infrastructure angle matters because corridors, projects and network capacity determine how reliably goods and strategic resources can move.",
+      "zh": "這則物流與基礎建設新聞的重要性在於，運輸走廊、工程項目與網路容量，會決定貨物與戰略資源能否穩定流動。"
+    },
+    "body": {
+      "zh": [
+        "全國港務機關正加速海事基礎設施升級被放進今日版面，是因為它說明物流節點與基礎建設投資如何同時影響效率、安全與區域競爭力。表面看似單一工程或單一設施的變化，實際上常會沿著整張網路擴散。",
+        "從物流與基礎建設角度看，港口、鐵路、道路、能源與資料中心等設施，都是企業判斷交期與成本時的底層條件。American Journal of Transportation 的報導讓這些條件變動具體化，也提醒外界瓶頸常在無預警下浮現。",
+        "接下來要觀察的是，是否會引發新的投資、延期、替代路徑或政策支援。這些回應通常比原始事件更能決定容量缺口是被吸收還是放大。",
+        "因此，物流與基礎建設新聞雖然常被視為慢變題材，但一旦碰上市場波動或地緣政治壓力，就會迅速變成整體供應網絡的關鍵風險。"
+      ],
+      "en": [
+        "Port authorities are accelerating marine infrastructure upgrades nationwide belongs in today's file because it shows how logistics nodes and infrastructure investment affect efficiency, security and regional competitiveness at the same time. What looks like a single project change often spreads across the wider network.",
+        "From a Logistics & Infrastructure perspective, ports, railways, roads, power systems and data centres are the hidden conditions behind delivery timing and cost. American Journal of Transportation's report makes those moving parts more visible and reminds readers that bottlenecks often surface without much warning.",
+        "The next question is whether the development triggers new investment, delay, rerouting or policy support. Those responses usually determine whether a capacity gap is absorbed or amplified.",
+        "That is why logistics and infrastructure stories can look slow-moving until market volatility or geopolitical pressure suddenly turns them into system-wide risks."
+      ]
+    }
+  }
+];
+
   window.DAILY_NEWS_STORIES["2026-07-06"] = [
     {
       "id": "inter-outgoing-uk-pm-starmer-says-successor-cannot-spend-less-time-on-foreign-affairs",
