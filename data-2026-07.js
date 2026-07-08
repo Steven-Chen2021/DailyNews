@@ -5,6 +5,1509 @@
 (function () {
   window.DAILY_NEWS_STORIES = window.DAILY_NEWS_STORIES || {};
 
+  window.DAILY_NEWS_STORIES["2026-07-09"] = [
+  {
+    "id": "inter-kazakhstan-s-top-court-says-president-can-seek-another-term",
+    "category": "international",
+    "image": "meeting",
+    "lead": true,
+    "author": "Maya Chen",
+    "read": 8,
+    "title": {
+      "en": "Kazakhstan's top court says president can seek another term",
+      "zh": "哈薩克最高法院稱總統可再尋求連任"
+    },
+    "dek": {
+      "en": "The diplomatic angle matters because court rulings, crisis signaling and strategic minerals deals can quickly reshape how governments and investors read geopolitical risk.",
+      "zh": "這則國際新聞的重要性在於，司法裁決、危機訊號與戰略礦物交易，往往會迅速改變政府與投資人對地緣風險的判讀。"
+    },
+    "body": {
+      "zh": [
+        "「哈薩克最高法院稱總統可再尋求連任」顯示這則國際新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日國際版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Kazakhstan's top court says president can seek another term\" matters because this international story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's international file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "inter-oil-prices-settle-at-pre-iran-war-levels-as-crude-output-grows",
+    "category": "international",
+    "image": "meeting",
+    "lead": false,
+    "author": "Maya Chen",
+    "read": 7,
+    "title": {
+      "en": "Oil prices settle at pre-Iran war levels as crude output grows",
+      "zh": "原油增產帶動油價回落至伊朗戰爭前水準"
+    },
+    "dek": {
+      "en": "The diplomatic angle matters because court rulings, crisis signaling and strategic minerals deals can quickly reshape how governments and investors read geopolitical risk.",
+      "zh": "這則國際新聞的重要性在於，司法裁決、危機訊號與戰略礦物交易，往往會迅速改變政府與投資人對地緣風險的判讀。"
+    },
+    "body": {
+      "zh": [
+        "「原油增產帶動油價回落至伊朗戰爭前水準」顯示這則國際新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日國際版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Oil prices settle at pre-Iran war levels as crude output grows\" matters because this international story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's international file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "inter-uk-summons-senior-iranian-diplomat-over-stabbing-of-iranian-journalist-in-london",
+    "category": "international",
+    "image": "meeting",
+    "lead": false,
+    "author": "Maya Chen",
+    "read": 7,
+    "title": {
+      "en": "UK summons senior Iranian diplomat over stabbing of Iranian journalist in London",
+      "zh": "英國就伊朗記者在倫敦遇刺案召見伊朗資深外交官"
+    },
+    "dek": {
+      "en": "The diplomatic angle matters because court rulings, crisis signaling and strategic minerals deals can quickly reshape how governments and investors read geopolitical risk.",
+      "zh": "這則國際新聞的重要性在於，司法裁決、危機訊號與戰略礦物交易，往往會迅速改變政府與投資人對地緣風險的判讀。"
+    },
+    "body": {
+      "zh": [
+        "「英國就伊朗記者在倫敦遇刺案召見伊朗資深外交官」顯示這則國際新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日國際版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"UK summons senior Iranian diplomat over stabbing of Iranian journalist in London\" matters because this international story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's international file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "inter-australia-s-lynas-south-korea-s-js-link-sign-deal-for-malaysia-magnet-factory",
+    "category": "international",
+    "image": "meeting",
+    "lead": false,
+    "author": "Maya Chen",
+    "read": 7,
+    "title": {
+      "en": "Australia's Lynas, South Korea's JS Link sign deal for Malaysia magnet factory",
+      "zh": "澳洲萊納斯與南韓 JS Link 簽署馬來西亞磁材廠協議"
+    },
+    "dek": {
+      "en": "The diplomatic angle matters because court rulings, crisis signaling and strategic minerals deals can quickly reshape how governments and investors read geopolitical risk.",
+      "zh": "這則國際新聞的重要性在於，司法裁決、危機訊號與戰略礦物交易，往往會迅速改變政府與投資人對地緣風險的判讀。"
+    },
+    "body": {
+      "zh": [
+        "「澳洲萊納斯與南韓 JS Link 簽署馬來西亞磁材廠協議」顯示這則國際新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日國際版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Australia's Lynas, South Korea's JS Link sign deal for Malaysia magnet factory\" matters because this international story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's international file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "inter-s-p-500-ends-down-after-trump-says-iran-deal-is-over",
+    "category": "international",
+    "image": "meeting",
+    "lead": false,
+    "author": "Maya Chen",
+    "read": 7,
+    "title": {
+      "en": "S&P 500 ends down after Trump says Iran deal is 'over'",
+      "zh": "川普稱伊朗協議「已告終」後，標普 500 收低"
+    },
+    "dek": {
+      "en": "The diplomatic angle matters because court rulings, crisis signaling and strategic minerals deals can quickly reshape how governments and investors read geopolitical risk.",
+      "zh": "這則國際新聞的重要性在於，司法裁決、危機訊號與戰略礦物交易，往往會迅速改變政府與投資人對地緣風險的判讀。"
+    },
+    "body": {
+      "zh": [
+        "「川普稱伊朗協議「已告終」後，標普 500 收低」顯示這則國際新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日國際版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"S&P 500 ends down after Trump says Iran deal is 'over'\" matters because this international story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's international file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "tech-investors-get-inflation-wake-up-call-as-trump-fires-up-oil-prices",
+    "category": "technology",
+    "image": "technology",
+    "lead": true,
+    "author": "Iris Park",
+    "read": 7,
+    "title": {
+      "en": "Investors get inflation 'wake-up call' as Trump fires up oil prices",
+      "zh": "川普帶動油價飆升，投資人收到通膨警報"
+    },
+    "dek": {
+      "en": "The technology angle matters because chip supply, AI model access and hardware investment now influence competitiveness far beyond the sector itself.",
+      "zh": "這則科技新聞的重要性在於，晶片供應、AI 模型存取與硬體投資，如今對整體競爭力的影響早已超出科技業本身。"
+    },
+    "body": {
+      "zh": [
+        "「川普帶動油價飆升，投資人收到通膨警報」顯示這則科技新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日科技版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Investors get inflation 'wake-up call' as Trump fires up oil prices\" matters because this technology story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's technology file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "tech-perplexity-says-it-plans-to-use-nvidia-s-new-cpu",
+    "category": "technology",
+    "image": "technology",
+    "lead": false,
+    "author": "Iris Park",
+    "read": 6,
+    "title": {
+      "en": "Perplexity says it plans to use Nvidia's new CPU",
+      "zh": "Perplexity 計畫採用輝達新款 CPU"
+    },
+    "dek": {
+      "en": "The technology angle matters because chip supply, AI model access and hardware investment now influence competitiveness far beyond the sector itself.",
+      "zh": "這則科技新聞的重要性在於，晶片供應、AI 模型存取與硬體投資，如今對整體競爭力的影響早已超出科技業本身。"
+    },
+    "body": {
+      "zh": [
+        "「Perplexity 計畫採用輝達新款 CPU」顯示這則科技新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日科技版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Perplexity says it plans to use Nvidia's new CPU\" matters because this technology story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's technology file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "tech-china-s-actions-risk-creation-of-new-status-quo-taiwan-official-says",
+    "category": "technology",
+    "image": "technology",
+    "lead": false,
+    "author": "Iris Park",
+    "read": 6,
+    "title": {
+      "en": "China's actions risk creation of new status quo, Taiwan official says",
+      "zh": "台灣官員：中國行動恐形成新的現狀"
+    },
+    "dek": {
+      "en": "The technology angle matters because chip supply, AI model access and hardware investment now influence competitiveness far beyond the sector itself.",
+      "zh": "這則科技新聞的重要性在於，晶片供應、AI 模型存取與硬體投資，如今對整體競爭力的影響早已超出科技業本身。"
+    },
+    "body": {
+      "zh": [
+        "「台灣官員：中國行動恐形成新的現狀」顯示這則科技新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日科技版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"China's actions risk creation of new status quo, Taiwan official says\" matters because this technology story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's technology file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "tech-house-collapses-as-flash-flood-hits-northern-vietnam",
+    "category": "technology",
+    "image": "technology",
+    "lead": false,
+    "author": "Iris Park",
+    "read": 6,
+    "title": {
+      "en": "House collapses as flash flood hits northern Vietnam",
+      "zh": "北越暴洪侵襲，民宅倒塌"
+    },
+    "dek": {
+      "en": "The technology angle matters because chip supply, AI model access and hardware investment now influence competitiveness far beyond the sector itself.",
+      "zh": "這則科技新聞的重要性在於，晶片供應、AI 模型存取與硬體投資，如今對整體競爭力的影響早已超出科技業本身。"
+    },
+    "body": {
+      "zh": [
+        "「北越暴洪侵襲，民宅倒塌」顯示這則科技新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日科技版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"House collapses as flash flood hits northern Vietnam\" matters because this technology story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's technology file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "tech-severe-storms-floods-hit-several-chinese-provinces",
+    "category": "technology",
+    "image": "technology",
+    "lead": false,
+    "author": "Iris Park",
+    "read": 6,
+    "title": {
+      "en": "Severe storms, floods hit several Chinese provinces",
+      "zh": "暴雨與洪水襲擊中國多個省份"
+    },
+    "dek": {
+      "en": "The technology angle matters because chip supply, AI model access and hardware investment now influence competitiveness far beyond the sector itself.",
+      "zh": "這則科技新聞的重要性在於，晶片供應、AI 模型存取與硬體投資，如今對整體競爭力的影響早已超出科技業本身。"
+    },
+    "body": {
+      "zh": [
+        "「暴雨與洪水襲擊中國多個省份」顯示這則科技新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日科技版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Severe storms, floods hit several Chinese provinces\" matters because this technology story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's technology file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "sport-egypt-fa-criticises-var-after-dramatic-world-cup-defeat-by-argentina",
+    "category": "sports",
+    "image": "stadium",
+    "lead": true,
+    "author": "Leo Huang",
+    "read": 6,
+    "title": {
+      "en": "Egypt FA criticises VAR after dramatic World Cup defeat by Argentina",
+      "zh": "埃及足協批評 VAR，世界盃戲劇性敗給阿根廷"
+    },
+    "dek": {
+      "en": "The sports angle matters because tournament pressure, officiating and audience economics now shape reputations and investment far beyond the pitch.",
+      "zh": "這則體育新聞的重要性在於，賽事壓力、判決尺度與觀眾經濟，正持續影響場外聲望與資金配置。"
+    },
+    "body": {
+      "zh": [
+        "「埃及足協批評 VAR，世界盃戲劇性敗給阿根廷」顯示這則體育新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日體育版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Egypt FA criticises VAR after dramatic World Cup defeat by Argentina\" matters because this sports story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's sports file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "sport-spain-s-well-oiled-machine-faces-belgian-blast-in-world-cup-quarter-final",
+    "category": "sports",
+    "image": "stadium",
+    "lead": false,
+    "author": "Leo Huang",
+    "read": 5,
+    "title": {
+      "en": "Spain's well-oiled machine faces Belgian blast in World Cup quarter-final",
+      "zh": "西班牙運轉流暢，世界盃八強將迎戰比利時強攻"
+    },
+    "dek": {
+      "en": "The sports angle matters because tournament pressure, officiating and audience economics now shape reputations and investment far beyond the pitch.",
+      "zh": "這則體育新聞的重要性在於，賽事壓力、判決尺度與觀眾經濟，正持續影響場外聲望與資金配置。"
+    },
+    "body": {
+      "zh": [
+        "「西班牙運轉流暢，世界盃八強將迎戰比利時強攻」顯示這則體育新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日體育版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Spain's well-oiled machine faces Belgian blast in World Cup quarter-final\" matters because this sports story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's sports file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "sport-the-world-cup-s-hidden-runners-referees-keep-pace-with-players-and-pressure",
+    "category": "sports",
+    "image": "stadium",
+    "lead": false,
+    "author": "Leo Huang",
+    "read": 5,
+    "title": {
+      "en": "The World Cup's hidden runners: referees keep pace with players and pressure",
+      "zh": "世界盃的隱形跑者：裁判緊跟球員與壓力節奏"
+    },
+    "dek": {
+      "en": "The sports angle matters because tournament pressure, officiating and audience economics now shape reputations and investment far beyond the pitch.",
+      "zh": "這則體育新聞的重要性在於，賽事壓力、判決尺度與觀眾經濟，正持續影響場外聲望與資金配置。"
+    },
+    "body": {
+      "zh": [
+        "「世界盃的隱形跑者：裁判緊跟球員與壓力節奏」顯示這則體育新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日體育版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"The World Cup's hidden runners: referees keep pace with players and pressure\" matters because this sports story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's sports file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "sport-mlb-teams-up-with-cricket-s-suryakumar-to-reach-fans-in-india",
+    "category": "sports",
+    "image": "stadium",
+    "lead": false,
+    "author": "Leo Huang",
+    "read": 5,
+    "title": {
+      "en": "MLB teams up with cricket's Suryakumar to reach fans in India",
+      "zh": "MLB 與蘇利亞庫瑪合作，搶攻印度球迷市場"
+    },
+    "dek": {
+      "en": "The sports angle matters because tournament pressure, officiating and audience economics now shape reputations and investment far beyond the pitch.",
+      "zh": "這則體育新聞的重要性在於，賽事壓力、判決尺度與觀眾經濟，正持續影響場外聲望與資金配置。"
+    },
+    "body": {
+      "zh": [
+        "「MLB 與蘇利亞庫瑪合作，搶攻印度球迷市場」顯示這則體育新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日體育版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"MLB teams up with cricket's Suryakumar to reach fans in India\" matters because this sports story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's sports file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "sport-world-cup-photo-daily",
+    "category": "sports",
+    "image": "stadium",
+    "lead": false,
+    "author": "Leo Huang",
+    "read": 5,
+    "title": {
+      "en": "World Cup Photo Daily",
+      "zh": "世界盃每日照片精選"
+    },
+    "dek": {
+      "en": "The sports angle matters because tournament pressure, officiating and audience economics now shape reputations and investment far beyond the pitch.",
+      "zh": "這則體育新聞的重要性在於，賽事壓力、判決尺度與觀眾經濟，正持續影響場外聲望與資金配置。"
+    },
+    "body": {
+      "zh": [
+        "「世界盃每日照片精選」顯示這則體育新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日體育版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"World Cup Photo Daily\" matters because this sports story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's sports file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "ship-four-oil-and-gas-tankers-turn-back-from-hormuz-strait-after-vessel-attacks",
+    "category": "shipping",
+    "image": "shipping",
+    "lead": true,
+    "author": "Daniel Ko",
+    "read": 6,
+    "title": {
+      "en": "Four oil and gas tankers turn back from Hormuz strait after vessel attacks",
+      "zh": "船舶遇襲後，四艘油氣運輸船在荷莫茲海峽折返"
+    },
+    "dek": {
+      "en": "The shipping angle matters because chokepoints, tanker risk and freight pricing can quickly alter how cargo, energy and insurance move across regions.",
+      "zh": "這則航運新聞的重要性在於，航道瓶頸、油輪風險與運價波動，往往會迅速改變貨物、能源與保險的流動方式。"
+    },
+    "body": {
+      "zh": [
+        "「船舶遇襲後，四艘油氣運輸船在荷莫茲海峽折返」顯示這則航運新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日航運版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Four oil and gas tankers turn back from Hormuz strait after vessel attacks\" matters because this shipping story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's shipping file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "ship-swiss-official-sees-good-chance-15-us-tariff-rate-maintained",
+    "category": "shipping",
+    "image": "shipping",
+    "lead": false,
+    "author": "Daniel Ko",
+    "read": 5,
+    "title": {
+      "en": "Swiss official sees good chance 15% US tariff rate maintained",
+      "zh": "瑞士官員認為美國 15% 關稅稅率有望維持"
+    },
+    "dek": {
+      "en": "The shipping angle matters because chokepoints, tanker risk and freight pricing can quickly alter how cargo, energy and insurance move across regions.",
+      "zh": "這則航運新聞的重要性在於，航道瓶頸、油輪風險與運價波動，往往會迅速改變貨物、能源與保險的流動方式。"
+    },
+    "body": {
+      "zh": [
+        "「瑞士官員認為美國 15% 關稅稅率有望維持」顯示這則航運新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日航運版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Swiss official sees good chance 15% US tariff rate maintained\" matters because this shipping story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's shipping file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "ship-ireland-s-manna-begins-push-into-u-s-drone-delivery-battleground",
+    "category": "shipping",
+    "image": "shipping",
+    "lead": false,
+    "author": "Daniel Ko",
+    "read": 5,
+    "title": {
+      "en": "Ireland's Manna begins push into U.S. drone delivery \"battleground\"",
+      "zh": "愛爾蘭 Manna 展開進軍美國無人機配送「主戰場」"
+    },
+    "dek": {
+      "en": "The shipping angle matters because chokepoints, tanker risk and freight pricing can quickly alter how cargo, energy and insurance move across regions.",
+      "zh": "這則航運新聞的重要性在於，航道瓶頸、油輪風險與運價波動，往往會迅速改變貨物、能源與保險的流動方式。"
+    },
+    "body": {
+      "zh": [
+        "「愛爾蘭 Manna 展開進軍美國無人機配送「主戰場」」顯示這則航運新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日航運版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Ireland's Manna begins push into U.S. drone delivery \"battleground\"\" matters because this shipping story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's shipping file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "ship-hormuz-shipping-risk-raised-to-severe-after-tankers-hit-reviving-u-s-iran-tensio",
+    "category": "shipping",
+    "image": "shipping",
+    "lead": false,
+    "author": "Daniel Ko",
+    "read": 5,
+    "title": {
+      "en": "Hormuz shipping risk raised to severe after tankers hit, reviving U.S.-Iran tensions",
+      "zh": "油輪遇襲後，荷莫茲航運風險升至嚴重並再度激化美伊緊張"
+    },
+    "dek": {
+      "en": "The shipping angle matters because chokepoints, tanker risk and freight pricing can quickly alter how cargo, energy and insurance move across regions.",
+      "zh": "這則航運新聞的重要性在於，航道瓶頸、油輪風險與運價波動，往往會迅速改變貨物、能源與保險的流動方式。"
+    },
+    "body": {
+      "zh": [
+        "「油輪遇襲後，荷莫茲航運風險升至嚴重並再度激化美伊緊張」顯示這則航運新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日航運版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Hormuz shipping risk raised to severe after tankers hit, reviving U.S.-Iran tensions\" matters because this shipping story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's shipping file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "ship-us-container-imports-jumped-8-in-june-ahead-of-higher-fuel-costs-and-tariff-incr",
+    "category": "shipping",
+    "image": "shipping",
+    "lead": false,
+    "author": "Daniel Ko",
+    "read": 5,
+    "title": {
+      "en": "US container imports jumped 8% in June ahead of higher fuel costs and tariff increases",
+      "zh": "因燃料成本與關稅將升，美國 6 月貨櫃進口跳增 8%"
+    },
+    "dek": {
+      "en": "The shipping angle matters because chokepoints, tanker risk and freight pricing can quickly alter how cargo, energy and insurance move across regions.",
+      "zh": "這則航運新聞的重要性在於，航道瓶頸、油輪風險與運價波動，往往會迅速改變貨物、能源與保險的流動方式。"
+    },
+    "body": {
+      "zh": [
+        "「因燃料成本與關稅將升，美國 6 月貨櫃進口跳增 8%」顯示這則航運新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日航運版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"US container imports jumped 8% in June ahead of higher fuel costs and tariff increases\" matters because this shipping story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's shipping file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "supply-stuck-in-linear-can-a-european-push-help-the-circular-economy-get-into-gear",
+    "category": "supply-chain",
+    "image": "factory",
+    "lead": true,
+    "author": "Nina Shah",
+    "read": 6,
+    "title": {
+      "en": "Stuck in linear: Can a European push help the circular economy get into gear?",
+      "zh": "卡在線性模式：歐洲推動能否讓循環經濟真正動起來？"
+    },
+    "dek": {
+      "en": "The supply-chain angle matters because tariffs, factory output and procurement rules can quickly reshape sourcing costs and industrial strategy.",
+      "zh": "這則供應鏈新聞的重要性在於，關稅、產能與採購規則變動，往往會迅速重塑採購成本與產業策略。"
+    },
+    "body": {
+      "zh": [
+        "「卡在線性模式：歐洲推動能否讓循環經濟真正動起來？」顯示這則供應鏈新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日供應鏈版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Stuck in linear: Can a European push help the circular economy get into gear?\" matters because this supply-chain story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's supply-chain file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "supply-latin-american-countries-some-steelmakers-argue-for-us-tariff-exemptions",
+    "category": "supply-chain",
+    "image": "factory",
+    "lead": false,
+    "author": "Nina Shah",
+    "read": 5,
+    "title": {
+      "en": "Latin American countries, some steelmakers argue for US tariff exemptions",
+      "zh": "拉美國家與部分鋼廠主張豁免美國關稅"
+    },
+    "dek": {
+      "en": "The supply-chain angle matters because tariffs, factory output and procurement rules can quickly reshape sourcing costs and industrial strategy.",
+      "zh": "這則供應鏈新聞的重要性在於，關稅、產能與採購規則變動，往往會迅速重塑採購成本與產業策略。"
+    },
+    "body": {
+      "zh": [
+        "「拉美國家與部分鋼廠主張豁免美國關稅」顯示這則供應鏈新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日供應鏈版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Latin American countries, some steelmakers argue for US tariff exemptions\" matters because this supply-chain story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's supply-chain file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "supply-airbus-deliveries-rise-15-to-351-in-first-half",
+    "category": "supply-chain",
+    "image": "factory",
+    "lead": false,
+    "author": "Nina Shah",
+    "read": 5,
+    "title": {
+      "en": "Airbus deliveries rise 15% to 351 in first half",
+      "zh": "空中巴士上半年交付量增 15% 至 351 架"
+    },
+    "dek": {
+      "en": "The supply-chain angle matters because tariffs, factory output and procurement rules can quickly reshape sourcing costs and industrial strategy.",
+      "zh": "這則供應鏈新聞的重要性在於，關稅、產能與採購規則變動，往往會迅速重塑採購成本與產業策略。"
+    },
+    "body": {
+      "zh": [
+        "「空中巴士上半年交付量增 15% 至 351 架」顯示這則供應鏈新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日供應鏈版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Airbus deliveries rise 15% to 351 in first half\" matters because this supply-chain story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's supply-chain file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "supply-senate-committee-to-vote-on-bill-to-tighten-us-ban-on-chinese-vehicles",
+    "category": "supply-chain",
+    "image": "factory",
+    "lead": false,
+    "author": "Nina Shah",
+    "read": 5,
+    "title": {
+      "en": "Senate committee to vote on bill to tighten US ban on Chinese vehicles",
+      "zh": "參院委員會將表決收緊美國禁止中國車輛法案"
+    },
+    "dek": {
+      "en": "The supply-chain angle matters because tariffs, factory output and procurement rules can quickly reshape sourcing costs and industrial strategy.",
+      "zh": "這則供應鏈新聞的重要性在於，關稅、產能與採購規則變動，往往會迅速重塑採購成本與產業策略。"
+    },
+    "body": {
+      "zh": [
+        "「參院委員會將表決收緊美國禁止中國車輛法案」顯示這則供應鏈新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日供應鏈版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Senate committee to vote on bill to tighten US ban on Chinese vehicles\" matters because this supply-chain story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's supply-chain file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "supply-canada-s-trade-surplus-in-may-jumps-to-a-four-year-high-as-us-exports-surge",
+    "category": "supply-chain",
+    "image": "factory",
+    "lead": false,
+    "author": "Nina Shah",
+    "read": 5,
+    "title": {
+      "en": "Canada's trade surplus in May jumps to a four-year high as US exports surge",
+      "zh": "隨對美出口激增，加拿大 5 月貿易順差升至四年高點"
+    },
+    "dek": {
+      "en": "The supply-chain angle matters because tariffs, factory output and procurement rules can quickly reshape sourcing costs and industrial strategy.",
+      "zh": "這則供應鏈新聞的重要性在於，關稅、產能與採購規則變動，往往會迅速重塑採購成本與產業策略。"
+    },
+    "body": {
+      "zh": [
+        "「隨對美出口激增，加拿大 5 月貿易順差升至四年高點」顯示這則供應鏈新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日供應鏈版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Canada's trade surplus in May jumps to a four-year high as US exports surge\" matters because this supply-chain story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's supply-chain file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "market-severe-storms-floods-hit-several-chinese-provinces",
+    "category": "economy-markets",
+    "image": "markets",
+    "lead": true,
+    "author": "Owen Lee",
+    "read": 6,
+    "title": {
+      "en": "Severe storms, floods hit several Chinese provinces",
+      "zh": "中國多地遭強風暴與洪患夾擊"
+    },
+    "dek": {
+      "en": "The markets angle matters because weather shocks, state power and investor sentiment can rapidly spill into pricing, growth assumptions and capital flows.",
+      "zh": "這則經濟與市場新聞的重要性在於，極端天氣、國家權力與投資情緒，可能迅速外溢到價格、成長預期與資本流向。"
+    },
+    "body": {
+      "zh": [
+        "「中國多地遭強風暴與洪患夾擊」顯示這則經濟與市場新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日經濟與市場版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Severe storms, floods hit several Chinese provinces\" matters because this economy & markets story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's economy & markets file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "market-draft-egyptian-law-expands-powers-of-military-linked-economic-body",
+    "category": "economy-markets",
+    "image": "markets",
+    "lead": false,
+    "author": "Owen Lee",
+    "read": 5,
+    "title": {
+      "en": "Draft Egyptian law expands powers of military-linked economic body",
+      "zh": "埃及法案草案擴大軍方相關經濟機構權力"
+    },
+    "dek": {
+      "en": "The markets angle matters because weather shocks, state power and investor sentiment can rapidly spill into pricing, growth assumptions and capital flows.",
+      "zh": "這則經濟與市場新聞的重要性在於，極端天氣、國家權力與投資情緒，可能迅速外溢到價格、成長預期與資本流向。"
+    },
+    "body": {
+      "zh": [
+        "「埃及法案草案擴大軍方相關經濟機構權力」顯示這則經濟與市場新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日經濟與市場版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Draft Egyptian law expands powers of military-linked economic body\" matters because this economy & markets story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's economy & markets file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "market-tornadoes-wreak-havoc-across-central-china-as-typhoon-bavi-looms-offshore",
+    "category": "economy-markets",
+    "image": "markets",
+    "lead": false,
+    "author": "Owen Lee",
+    "read": 5,
+    "title": {
+      "en": "Tornadoes wreak havoc across central China as Typhoon Bavi looms offshore",
+      "zh": "颱風巴威逼近之際，龍捲風重創中國中部"
+    },
+    "dek": {
+      "en": "The markets angle matters because weather shocks, state power and investor sentiment can rapidly spill into pricing, growth assumptions and capital flows.",
+      "zh": "這則經濟與市場新聞的重要性在於，極端天氣、國家權力與投資情緒，可能迅速外溢到價格、成長預期與資本流向。"
+    },
+    "body": {
+      "zh": [
+        "「颱風巴威逼近之際，龍捲風重創中國中部」顯示這則經濟與市場新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日經濟與市場版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Tornadoes wreak havoc across central China as Typhoon Bavi looms offshore\" matters because this economy & markets story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's economy & markets file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "market-taiwan-s-preparations-to-face-a-chinese-attack-are-not-a-provocation-senior-offi",
+    "category": "economy-markets",
+    "image": "markets",
+    "lead": false,
+    "author": "Owen Lee",
+    "read": 5,
+    "title": {
+      "en": "Taiwan's preparations to face a Chinese attack are not a provocation, senior official says",
+      "zh": "台灣資深官員：因應中國攻擊的準備並非挑釁"
+    },
+    "dek": {
+      "en": "The markets angle matters because weather shocks, state power and investor sentiment can rapidly spill into pricing, growth assumptions and capital flows.",
+      "zh": "這則經濟與市場新聞的重要性在於，極端天氣、國家權力與投資情緒，可能迅速外溢到價格、成長預期與資本流向。"
+    },
+    "body": {
+      "zh": [
+        "「台灣資深官員：因應中國攻擊的準備並非挑釁」顯示這則經濟與市場新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日經濟與市場版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Taiwan's preparations to face a Chinese attack are not a provocation, senior official says\" matters because this economy & markets story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's economy & markets file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "market-argentine-fans-express-relief-at-team-s-comeback-against-egypt",
+    "category": "economy-markets",
+    "image": "markets",
+    "lead": false,
+    "author": "Owen Lee",
+    "read": 5,
+    "title": {
+      "en": "Argentine fans express relief at team's comeback against Egypt",
+      "zh": "阿根廷球迷為球隊逆轉埃及鬆一口氣"
+    },
+    "dek": {
+      "en": "The markets angle matters because weather shocks, state power and investor sentiment can rapidly spill into pricing, growth assumptions and capital flows.",
+      "zh": "這則經濟與市場新聞的重要性在於，極端天氣、國家權力與投資情緒，可能迅速外溢到價格、成長預期與資本流向。"
+    },
+    "body": {
+      "zh": [
+        "「阿根廷球迷為球隊逆轉埃及鬆一口氣」顯示這則經濟與市場新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日經濟與市場版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Argentine fans express relief at team's comeback against Egypt\" matters because this economy & markets story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's economy & markets file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "energy-climate-change-threatens-to-dent-italy-s-long-term-economic-growth-and-worsen-de",
+    "category": "energy-climate",
+    "image": "climate",
+    "lead": true,
+    "author": "Ava Lin",
+    "read": 6,
+    "title": {
+      "en": "Climate change threatens to dent Italy's long-term economic growth and worsen debt risks, study says",
+      "zh": "研究：氣候變遷恐削弱義大利長期成長並加劇債務風險"
+    },
+    "dek": {
+      "en": "The energy and climate angle matters because power demand, fuel security and adaptation spending now shape both inflation and long-term resilience.",
+      "zh": "這則能源與氣候新聞的重要性在於，電力需求、燃料安全與調適支出，如今同時左右通膨與長期韌性。"
+    },
+    "body": {
+      "zh": [
+        "「研究：氣候變遷恐削弱義大利長期成長並加劇債務風險」顯示這則能源與氣候新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日能源與氣候版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Climate change threatens to dent Italy's long-term economic growth and worsen debt risks, study says\" matters because this energy & climate story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's energy & climate file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "energy-india-estimates-300-gw-power-demand-next-year-backs-local-clean-energy-manufactu",
+    "category": "energy-climate",
+    "image": "climate",
+    "lead": false,
+    "author": "Ava Lin",
+    "read": 5,
+    "title": {
+      "en": "India estimates 300 GW power demand next year, backs local clean-energy manufacturing",
+      "zh": "印度估明年電力需求達 300GW，並力挺本土潔淨能源製造"
+    },
+    "dek": {
+      "en": "The energy and climate angle matters because power demand, fuel security and adaptation spending now shape both inflation and long-term resilience.",
+      "zh": "這則能源與氣候新聞的重要性在於，電力需求、燃料安全與調適支出，如今同時左右通膨與長期韌性。"
+    },
+    "body": {
+      "zh": [
+        "「印度估明年電力需求達 300GW，並力挺本土潔淨能源製造」顯示這則能源與氣候新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日能源與氣候版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"India estimates 300 GW power demand next year, backs local clean-energy manufacturing\" matters because this energy & climate story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's energy & climate file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "energy-europe-s-next-climate-adaptation-boom-isn-t-solar-panels-it-s-asphalt",
+    "category": "energy-climate",
+    "image": "climate",
+    "lead": false,
+    "author": "Ava Lin",
+    "read": 5,
+    "title": {
+      "en": "Europe's next climate adaptation boom isn't solar panels — it's asphalt",
+      "zh": "歐洲氣候調適投資下一波熱潮不是太陽能，而是瀝青"
+    },
+    "dek": {
+      "en": "The energy and climate angle matters because power demand, fuel security and adaptation spending now shape both inflation and long-term resilience.",
+      "zh": "這則能源與氣候新聞的重要性在於，電力需求、燃料安全與調適支出，如今同時左右通膨與長期韌性。"
+    },
+    "body": {
+      "zh": [
+        "「歐洲氣候調適投資下一波熱潮不是太陽能，而是瀝青」顯示這則能源與氣候新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日能源與氣候版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Europe's next climate adaptation boom isn't solar panels — it's asphalt\" matters because this energy & climate story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's energy & climate file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "energy-investors-get-inflation-wake-up-call-as-trump-fires-up-oil-prices",
+    "category": "energy-climate",
+    "image": "climate",
+    "lead": false,
+    "author": "Ava Lin",
+    "read": 5,
+    "title": {
+      "en": "Investors get inflation 'wake-up call' as Trump fires up oil prices",
+      "zh": "油價遭川普言論點燃，市場迎來通膨喚醒時刻"
+    },
+    "dek": {
+      "en": "The energy and climate angle matters because power demand, fuel security and adaptation spending now shape both inflation and long-term resilience.",
+      "zh": "這則能源與氣候新聞的重要性在於，電力需求、燃料安全與調適支出，如今同時左右通膨與長期韌性。"
+    },
+    "body": {
+      "zh": [
+        "「油價遭川普言論點燃，市場迎來通膨喚醒時刻」顯示這則能源與氣候新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日能源與氣候版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Investors get inflation 'wake-up call' as Trump fires up oil prices\" matters because this energy & climate story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's energy & climate file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "energy-russia-bans-diesel-exports-to-ensure-domestic-supply-after-targeted-ukrainian-dr",
+    "category": "energy-climate",
+    "image": "climate",
+    "lead": false,
+    "author": "Ava Lin",
+    "read": 5,
+    "title": {
+      "en": "Russia bans diesel exports to ensure domestic supply after targeted Ukrainian drone strikes",
+      "zh": "烏軍無人機打擊後，俄羅斯為確保國內供應禁止柴油出口"
+    },
+    "dek": {
+      "en": "The energy and climate angle matters because power demand, fuel security and adaptation spending now shape both inflation and long-term resilience.",
+      "zh": "這則能源與氣候新聞的重要性在於，電力需求、燃料安全與調適支出，如今同時左右通膨與長期韌性。"
+    },
+    "body": {
+      "zh": [
+        "「烏軍無人機打擊後，俄羅斯為確保國內供應禁止柴油出口」顯示這則能源與氣候新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日能源與氣候版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Russia bans diesel exports to ensure domestic supply after targeted Ukrainian drone strikes\" matters because this energy & climate story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's energy & climate file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "policy-aba-eyes-more-rollbacks-to-law-school-diversity-rules",
+    "category": "policy-regulation",
+    "image": "policy",
+    "lead": true,
+    "author": "Grace Wong",
+    "read": 5,
+    "title": {
+      "en": "ABA eyes more rollbacks to law school diversity rules",
+      "zh": "美國律師協會擬進一步放寬法學院多元規則"
+    },
+    "dek": {
+      "en": "The policy angle matters because courts, watchdogs and rule changes can quickly redraw the operating boundaries for companies and institutions.",
+      "zh": "這則政策與法規新聞的重要性在於，法院、監管機關與規則調整，往往會迅速改寫企業與機構的運作邊界。"
+    },
+    "body": {
+      "zh": [
+        "「美國律師協會擬進一步放寬法學院多元規則」顯示這則政策與法規新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日政策與法規版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"ABA eyes more rollbacks to law school diversity rules\" matters because this policy & regulation story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's policy & regulation file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "policy-french-antitrust-watchdog-orders-meta-to-resume-talks-with-media-groups-over-pub",
+    "category": "policy-regulation",
+    "image": "policy",
+    "lead": false,
+    "author": "Grace Wong",
+    "read": 4,
+    "title": {
+      "en": "French antitrust watchdog orders Meta to resume talks with media groups over publishing fees",
+      "zh": "法國反壟斷機關命 Meta 恢復與媒體團體協商出版費"
+    },
+    "dek": {
+      "en": "The policy angle matters because courts, watchdogs and rule changes can quickly redraw the operating boundaries for companies and institutions.",
+      "zh": "這則政策與法規新聞的重要性在於，法院、監管機關與規則調整，往往會迅速改寫企業與機構的運作邊界。"
+    },
+    "body": {
+      "zh": [
+        "「法國反壟斷機關命 Meta 恢復與媒體團體協商出版費」顯示這則政策與法規新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日政策與法規版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"French antitrust watchdog orders Meta to resume talks with media groups over publishing fees\" matters because this policy & regulation story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's policy & regulation file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "policy-apple-loses-challenges-against-eu-rules-to-curb-big-tech",
+    "category": "policy-regulation",
+    "image": "policy",
+    "lead": false,
+    "author": "Grace Wong",
+    "read": 4,
+    "title": {
+      "en": "Apple loses challenges against EU rules to curb Big Tech",
+      "zh": "蘋果挑戰歐盟遏制大型科技規則敗訴"
+    },
+    "dek": {
+      "en": "The policy angle matters because courts, watchdogs and rule changes can quickly redraw the operating boundaries for companies and institutions.",
+      "zh": "這則政策與法規新聞的重要性在於，法院、監管機關與規則調整，往往會迅速改寫企業與機構的運作邊界。"
+    },
+    "body": {
+      "zh": [
+        "「蘋果挑戰歐盟遏制大型科技規則敗訴」顯示這則政策與法規新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日政策與法規版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Apple loses challenges against EU rules to curb Big Tech\" matters because this policy & regulation story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's policy & regulation file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "policy-sanofi-to-stop-disparaging-rival-flu-vaccine-to-stave-off-eu-antitrust-fine",
+    "category": "policy-regulation",
+    "image": "policy",
+    "lead": false,
+    "author": "Grace Wong",
+    "read": 4,
+    "title": {
+      "en": "Sanofi to stop disparaging rival flu vaccine to stave off EU antitrust fine",
+      "zh": "賽諾菲同意停止貶抑對手流感疫苗以避免歐盟罰款"
+    },
+    "dek": {
+      "en": "The policy angle matters because courts, watchdogs and rule changes can quickly redraw the operating boundaries for companies and institutions.",
+      "zh": "這則政策與法規新聞的重要性在於，法院、監管機關與規則調整，往往會迅速改寫企業與機構的運作邊界。"
+    },
+    "body": {
+      "zh": [
+        "「賽諾菲同意停止貶抑對手流感疫苗以避免歐盟罰款」顯示這則政策與法規新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日政策與法規版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Sanofi to stop disparaging rival flu vaccine to stave off EU antitrust fine\" matters because this policy & regulation story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's policy & regulation file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "policy-india-central-bank-backs-crypto-ban-tax-department-warns-of-evasion-risks-docume",
+    "category": "policy-regulation",
+    "image": "policy",
+    "lead": false,
+    "author": "Grace Wong",
+    "read": 4,
+    "title": {
+      "en": "India central bank backs crypto ban, tax department warns of evasion risks, documents show",
+      "zh": "文件顯示：印度央行支持禁用加密貨幣，稅務部門警告逃稅風險"
+    },
+    "dek": {
+      "en": "The policy angle matters because courts, watchdogs and rule changes can quickly redraw the operating boundaries for companies and institutions.",
+      "zh": "這則政策與法規新聞的重要性在於，法院、監管機關與規則調整，往往會迅速改寫企業與機構的運作邊界。"
+    },
+    "body": {
+      "zh": [
+        "「文件顯示：印度央行支持禁用加密貨幣，稅務部門警告逃稅風險」顯示這則政策與法規新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日政策與法規版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"India central bank backs crypto ban, tax department warns of evasion risks, documents show\" matters because this policy & regulation story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's policy & regulation file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "cyber-china-issues-backdoor-security-alert-over-anthropic-s-claude-code",
+    "category": "cybersecurity",
+    "image": "data",
+    "lead": true,
+    "author": "Noah Kim",
+    "read": 6,
+    "title": {
+      "en": "China issues 'backdoor' security alert over Anthropic's Claude Code",
+      "zh": "中國就 Anthropic Claude Code 發布「後門」安全警示"
+    },
+    "dek": {
+      "en": "The cybersecurity angle matters because software trust, telecom outages and encryption risk can quickly affect markets, transport and national resilience.",
+      "zh": "這則網路安全新聞的重要性在於，軟體信任、電信故障與加密風險，可能迅速影響市場、運輸與國家韌性。"
+    },
+    "body": {
+      "zh": [
+        "「中國就 Anthropic Claude Code 發布「後門」安全警示」顯示這則網路安全新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日網路安全版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"China issues 'backdoor' security alert over Anthropic's Claude Code\" matters because this cybersecurity story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's cybersecurity file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "cyber-telstra-outage-in-australia-disrupts-trains-and-payments-no-evidence-of-maliciou",
+    "category": "cybersecurity",
+    "image": "data",
+    "lead": false,
+    "author": "Noah Kim",
+    "read": 5,
+    "title": {
+      "en": "Telstra outage in Australia disrupts trains and payments; no evidence of 'malicious' activity",
+      "zh": "澳洲 Telstra 當機擾亂列車與支付，暫無惡意活動證據"
+    },
+    "dek": {
+      "en": "The cybersecurity angle matters because software trust, telecom outages and encryption risk can quickly affect markets, transport and national resilience.",
+      "zh": "這則網路安全新聞的重要性在於，軟體信任、電信故障與加密風險，可能迅速影響市場、運輸與國家韌性。"
+    },
+    "body": {
+      "zh": [
+        "「澳洲 Telstra 當機擾亂列車與支付，暫無惡意活動證據」顯示這則網路安全新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日網路安全版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Telstra outage in Australia disrupts trains and payments; no evidence of 'malicious' activity\" matters because this cybersecurity story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's cybersecurity file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "cyber-focus-crypto-firms-prepare-defenses-as-quantum-threat-to-encryption-draws-nearer",
+    "category": "cybersecurity",
+    "image": "data",
+    "lead": false,
+    "author": "Noah Kim",
+    "read": 5,
+    "title": {
+      "en": "Focus: Crypto firms prepare defenses as quantum threat to encryption draws nearer",
+      "zh": "聚焦：隨量子威脅逼近，加密貨幣公司準備強化防線"
+    },
+    "dek": {
+      "en": "The cybersecurity angle matters because software trust, telecom outages and encryption risk can quickly affect markets, transport and national resilience.",
+      "zh": "這則網路安全新聞的重要性在於，軟體信任、電信故障與加密風險，可能迅速影響市場、運輸與國家韌性。"
+    },
+    "body": {
+      "zh": [
+        "「聚焦：隨量子威脅逼近，加密貨幣公司準備強化防線」顯示這則網路安全新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日網路安全版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Focus: Crypto firms prepare defenses as quantum threat to encryption draws nearer\" matters because this cybersecurity story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's cybersecurity file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "cyber-trump-s-visit-a-win-for-turkey-s-erdogan-nato-tensions-aside",
+    "category": "cybersecurity",
+    "image": "data",
+    "lead": false,
+    "author": "Noah Kim",
+    "read": 5,
+    "title": {
+      "en": "Trump's visit a win for Turkey's Erdogan, NATO tensions aside",
+      "zh": "川普來訪成土耳其總統艾爾段的勝利，北約緊張仍在"
+    },
+    "dek": {
+      "en": "The cybersecurity angle matters because software trust, telecom outages and encryption risk can quickly affect markets, transport and national resilience.",
+      "zh": "這則網路安全新聞的重要性在於，軟體信任、電信故障與加密風險，可能迅速影響市場、運輸與國家韌性。"
+    },
+    "body": {
+      "zh": [
+        "「川普來訪成土耳其總統艾爾段的勝利，北約緊張仍在」顯示這則網路安全新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日網路安全版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Trump's visit a win for Turkey's Erdogan, NATO tensions aside\" matters because this cybersecurity story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's cybersecurity file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "cyber-canada-wants-more-backers-for-global-defence-bank-foreign-minister-says",
+    "category": "cybersecurity",
+    "image": "data",
+    "lead": false,
+    "author": "Noah Kim",
+    "read": 5,
+    "title": {
+      "en": "Canada wants more backers for global defence bank, foreign minister says",
+      "zh": "加拿大外長：希望為全球國防銀行爭取更多支持者"
+    },
+    "dek": {
+      "en": "The cybersecurity angle matters because software trust, telecom outages and encryption risk can quickly affect markets, transport and national resilience.",
+      "zh": "這則網路安全新聞的重要性在於，軟體信任、電信故障與加密風險，可能迅速影響市場、運輸與國家韌性。"
+    },
+    "body": {
+      "zh": [
+        "「加拿大外長：希望為全球國防銀行爭取更多支持者」顯示這則網路安全新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日網路安全版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Canada wants more backers for global defence bank, foreign minister says\" matters because this cybersecurity story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's cybersecurity file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "infra-europe-s-next-climate-adaptation-boom-isn-t-solar-panels-it-s-asphalt",
+    "category": "logistics-infrastructure",
+    "image": "infrastructure",
+    "lead": true,
+    "author": "Sofia Reyes",
+    "read": 6,
+    "title": {
+      "en": "Europe's next climate adaptation boom isn't solar panels — it's asphalt",
+      "zh": "歐洲基建適應熱潮轉向瀝青而非太陽能"
+    },
+    "dek": {
+      "en": "The infrastructure angle matters because transport assets, heat stress and communications links determine whether trade routes remain usable under pressure.",
+      "zh": "這則物流與基礎建設新聞的重要性在於，運輸資產、高溫壓力與通訊連結，決定了貿易路線在壓力下是否仍能運作。"
+    },
+    "body": {
+      "zh": [
+        "「歐洲基建適應熱潮轉向瀝青而非太陽能」顯示這則物流與基礎建設新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日物流與基礎建設版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Europe's next climate adaptation boom isn't solar panels — it's asphalt\" matters because this logistics & infrastructure story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's logistics & infrastructure file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "infra-ukraine-strikes-russian-shadow-fleet-tankers-supplying-crimea",
+    "category": "logistics-infrastructure",
+    "image": "infrastructure",
+    "lead": false,
+    "author": "Sofia Reyes",
+    "read": 5,
+    "title": {
+      "en": "Ukraine strikes Russian 'shadow fleet' tankers supplying Crimea",
+      "zh": "烏克蘭襲擊為克里米亞補給的俄羅斯「影子船隊」油輪"
+    },
+    "dek": {
+      "en": "The infrastructure angle matters because transport assets, heat stress and communications links determine whether trade routes remain usable under pressure.",
+      "zh": "這則物流與基礎建設新聞的重要性在於，運輸資產、高溫壓力與通訊連結，決定了貿易路線在壓力下是否仍能運作。"
+    },
+    "body": {
+      "zh": [
+        "「烏克蘭襲擊為克里米亞補給的俄羅斯「影子船隊」油輪」顯示這則物流與基礎建設新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日物流與基礎建設版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Ukraine strikes Russian 'shadow fleet' tankers supplying Crimea\" matters because this logistics & infrastructure story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's logistics & infrastructure file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "infra-motorists-queue-for-fuel-in-omsk-after-ukrainian-drones-hit-russia-s-biggest-ref",
+    "category": "logistics-infrastructure",
+    "image": "infrastructure",
+    "lead": false,
+    "author": "Sofia Reyes",
+    "read": 5,
+    "title": {
+      "en": "Motorists queue for fuel in Omsk after Ukrainian drones hit Russia's biggest refinery",
+      "zh": "烏軍無人機擊中俄國最大煉油廠後，鄂木斯克駕駛排隊加油"
+    },
+    "dek": {
+      "en": "The infrastructure angle matters because transport assets, heat stress and communications links determine whether trade routes remain usable under pressure.",
+      "zh": "這則物流與基礎建設新聞的重要性在於，運輸資產、高溫壓力與通訊連結，決定了貿易路線在壓力下是否仍能運作。"
+    },
+    "body": {
+      "zh": [
+        "「烏軍無人機擊中俄國最大煉油廠後，鄂木斯克駕駛排隊加油」顯示這則物流與基礎建設新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日物流與基礎建設版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Motorists queue for fuel in Omsk after Ukrainian drones hit Russia's biggest refinery\" matters because this logistics & infrastructure story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's logistics & infrastructure file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "infra-europe-may-face-more-deadly-weeks-as-new-heatwave-builds-who-warns",
+    "category": "logistics-infrastructure",
+    "image": "infrastructure",
+    "lead": false,
+    "author": "Sofia Reyes",
+    "read": 5,
+    "title": {
+      "en": "Europe may face 'more deadly weeks' as new heatwave builds, WHO warns",
+      "zh": "WHO 警告新熱浪增強，歐洲恐迎來更致命數週"
+    },
+    "dek": {
+      "en": "The infrastructure angle matters because transport assets, heat stress and communications links determine whether trade routes remain usable under pressure.",
+      "zh": "這則物流與基礎建設新聞的重要性在於，運輸資產、高溫壓力與通訊連結，決定了貿易路線在壓力下是否仍能運作。"
+    },
+    "body": {
+      "zh": [
+        "「WHO 警告新熱浪增強，歐洲恐迎來更致命數週」顯示這則物流與基礎建設新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日物流與基礎建設版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Europe may face 'more deadly weeks' as new heatwave builds, WHO warns\" matters because this logistics & infrastructure story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's logistics & infrastructure file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  },
+  {
+    "id": "infra-russia-begins-jamming-starlink-to-counter-ukrainian-drones-reuters-reports",
+    "category": "logistics-infrastructure",
+    "image": "infrastructure",
+    "lead": false,
+    "author": "Sofia Reyes",
+    "read": 5,
+    "title": {
+      "en": "Russia begins jamming Starlink to counter Ukrainian drones, Reuters reports",
+      "zh": "路透：俄羅斯開始干擾 Starlink 以反制烏軍無人機"
+    },
+    "dek": {
+      "en": "The infrastructure angle matters because transport assets, heat stress and communications links determine whether trade routes remain usable under pressure.",
+      "zh": "這則物流與基礎建設新聞的重要性在於，運輸資產、高溫壓力與通訊連結，決定了貿易路線在壓力下是否仍能運作。"
+    },
+    "body": {
+      "zh": [
+        "「路透：俄羅斯開始干擾 Starlink 以反制烏軍無人機」顯示這則物流與基礎建設新聞的意義不只停留在單一事件，而是牽動更廣泛的風險判讀、資源配置與制度回應。對決策者而言，眼前更新的重要性在於它可能改變外界對下一步走向的基本假設。",
+        "若把這則消息放回今日物流與基礎建設版面的脈絡來看，它與價格、投資、治理或跨境協調之間都有連動效果。也因此，一則看似局部的發展，往往會迅速變成企業、政府或投資人必須重新評估的訊號。",
+        "接下來最值得觀察的是，相關機構是否會把訊號轉化成更具體的第二步行動，例如調整政策、變更採購與支出、更新風險控管，或公開新的執行安排。這些後續動作通常比第一時間的標題更能說明底層系統是否正在轉變。",
+        "如果後續訊號持續累積，影響就可能外溢到規劃假設、成本結構與跨部門協調。這也是為什麼這則新聞值得關注的不只是今天發生了什麼，更在於它之後可能迫使其他參與者如何回應。"
+      ],
+      "en": [
+        "\"Russia begins jamming Starlink to counter Ukrainian drones, Reuters reports\" matters because this logistics & infrastructure story is not only about a single event; it also affects broader judgments about risk, resource allocation and institutional response. For decision-makers, the immediate update can alter the baseline assumptions used to think about what happens next.",
+        "Placed back into today's logistics & infrastructure file, the report links to pricing, investment, governance or cross-border coordination. That is why a seemingly narrow development can quickly become a signal that companies, governments and investors need to re-evaluate.",
+        "The next thing to watch is whether institutions translate the signal into more concrete second-step moves such as policy changes, revised procurement or spending plans, updated risk controls or publicly visible execution choices. Those follow-up actions usually say more about the underlying system than the first headline alone.",
+        "If the signal keeps building, the consequences can spread into planning assumptions, cost structures and cross-functional coordination. That is why the story deserves attention not only for what happened today, but for what it may force other actors to do next."
+      ]
+    }
+  }
+];
+
   window.DAILY_NEWS_STORIES["2026-07-08"] = [
   {
     "id": "inter-kazakhstan-s-top-court-says-president-can-seek-another-term",
