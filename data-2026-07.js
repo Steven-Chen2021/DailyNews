@@ -5,6 +5,1509 @@
 (function () {
   window.DAILY_NEWS_STORIES = window.DAILY_NEWS_STORIES || {};
 
+  window.DAILY_NEWS_STORIES["2026-07-22"] = [
+  {
+    "id": "inter-tankers-with-saudi-crude-turn-back-as-houthis-open-new-front-in-us-iran-war",
+    "category": "international",
+    "image": "meeting",
+    "lead": true,
+    "author": "Maya Chen",
+    "read": 9,
+    "title": {
+      "en": "Tankers with Saudi crude turn back as Houthis open new front in US-Iran war",
+      "zh": "沙烏地原油油輪折返，青年運動為美伊戰爭另闢戰線"
+    },
+    "dek": {
+      "en": "This international story matters because diplomacy, trade flows and conflict signals can quickly reset how governments and markets price geopolitical risk.",
+      "zh": "這則國際新聞的重要性在於，外交互動、貿易流向與衝突訊號，往往會迅速改變政府與市場對地緣政治風險的定價。"
+    },
+    "body": {
+      "zh": [
+        "「沙烏地原油油輪折返，青年運動為美伊戰爭另闢戰線」值得列入今日國際版面，因為它不只是單一事件更新，也可能改變各國政府、企業與投資人對區域穩定與跨境協調的判斷。",
+        "放回更大的脈絡來看，這項發展牽動的是外交訊號、貿易流向與安全風險如何彼此疊加，並影響市場對未來局勢的預期。",
+        "接下來最值得觀察的是，相關政府是否會把這個訊號轉化為更具體的會談、警告、經濟措施或軍事部署。",
+        "若後續反應持續累積，這則新聞的重要性就不只停留在今日更新，而會成為地緣風險重新定價的實際證據。"
+      ],
+      "en": [
+        "\"Tankers with Saudi crude turn back as Houthis open new front in US-Iran war\" belongs in today's international file because it is more than a single update; it can alter how governments, companies and investors judge regional stability and cross-border coordination.",
+        "Placed in a wider frame, the development shows how diplomatic signals, trade flows and security risk reinforce one another and shape expectations for what comes next.",
+        "The next thing to watch is whether the governments involved turn the signal into more concrete talks, warnings, economic measures or military moves.",
+        "If those follow-on responses continue to build, the story will matter not just as a daily headline but as evidence that geopolitical risk is being repriced in real time."
+      ]
+    }
+  },
+  {
+    "id": "inter-malaysia-revokes-licence-of-u-s-investor-balaji-srinivasan-s-network-school-official-says",
+    "category": "international",
+    "image": "meeting",
+    "lead": false,
+    "author": "Maya Chen",
+    "read": 8,
+    "title": {
+      "en": "Malaysia revokes licence of U.S. investor Balaji Srinivasan's Network School, official says",
+      "zh": "馬來西亞撤銷美國投資人巴拉吉・斯里尼瓦桑的 Network School 執照"
+    },
+    "dek": {
+      "en": "This international story matters because diplomacy, trade flows and conflict signals can quickly reset how governments and markets price geopolitical risk.",
+      "zh": "這則國際新聞的重要性在於，外交互動、貿易流向與衝突訊號，往往會迅速改變政府與市場對地緣政治風險的定價。"
+    },
+    "body": {
+      "zh": [
+        "「馬來西亞撤銷美國投資人巴拉吉・斯里尼瓦桑的 Network School 執照」值得列入今日國際版面，因為它不只是單一事件更新，也可能改變各國政府、企業與投資人對區域穩定與跨境協調的判斷。",
+        "放回更大的脈絡來看，這項發展牽動的是外交訊號、貿易流向與安全風險如何彼此疊加，並影響市場對未來局勢的預期。",
+        "接下來最值得觀察的是，相關政府是否會把這個訊號轉化為更具體的會談、警告、經濟措施或軍事部署。",
+        "若後續反應持續累積，這則新聞的重要性就不只停留在今日更新，而會成為地緣風險重新定價的實際證據。"
+      ],
+      "en": [
+        "\"Malaysia revokes licence of U.S. investor Balaji Srinivasan's Network School, official says\" belongs in today's international file because it is more than a single update; it can alter how governments, companies and investors judge regional stability and cross-border coordination.",
+        "Placed in a wider frame, the development shows how diplomatic signals, trade flows and security risk reinforce one another and shape expectations for what comes next.",
+        "The next thing to watch is whether the governments involved turn the signal into more concrete talks, warnings, economic measures or military moves.",
+        "If those follow-on responses continue to build, the story will matter not just as a daily headline but as evidence that geopolitical risk is being repriced in real time."
+      ]
+    }
+  },
+  {
+    "id": "inter-japan-protests-chinese-live-fire-drill-in-nearby-waters",
+    "category": "international",
+    "image": "meeting",
+    "lead": false,
+    "author": "Maya Chen",
+    "read": 7,
+    "title": {
+      "en": "Japan protests Chinese live-fire drill in nearby waters",
+      "zh": "日本抗議中國在鄰近海域進行實彈操演"
+    },
+    "dek": {
+      "en": "This international story matters because diplomacy, trade flows and conflict signals can quickly reset how governments and markets price geopolitical risk.",
+      "zh": "這則國際新聞的重要性在於，外交互動、貿易流向與衝突訊號，往往會迅速改變政府與市場對地緣政治風險的定價。"
+    },
+    "body": {
+      "zh": [
+        "「日本抗議中國在鄰近海域進行實彈操演」值得列入今日國際版面，因為它不只是單一事件更新，也可能改變各國政府、企業與投資人對區域穩定與跨境協調的判斷。",
+        "放回更大的脈絡來看，這項發展牽動的是外交訊號、貿易流向與安全風險如何彼此疊加，並影響市場對未來局勢的預期。",
+        "接下來最值得觀察的是，相關政府是否會把這個訊號轉化為更具體的會談、警告、經濟措施或軍事部署。",
+        "若後續反應持續累積，這則新聞的重要性就不只停留在今日更新，而會成為地緣風險重新定價的實際證據。"
+      ],
+      "en": [
+        "\"Japan protests Chinese live-fire drill in nearby waters\" belongs in today's international file because it is more than a single update; it can alter how governments, companies and investors judge regional stability and cross-border coordination.",
+        "Placed in a wider frame, the development shows how diplomatic signals, trade flows and security risk reinforce one another and shape expectations for what comes next.",
+        "The next thing to watch is whether the governments involved turn the signal into more concrete talks, warnings, economic measures or military moves.",
+        "If those follow-on responses continue to build, the story will matter not just as a daily headline but as evidence that geopolitical risk is being repriced in real time."
+      ]
+    }
+  },
+  {
+    "id": "inter-china-solar-exports-to-south-southeast-asia-and-africa-rise-despite-post-rebate-slump",
+    "category": "international",
+    "image": "meeting",
+    "lead": false,
+    "author": "Maya Chen",
+    "read": 6,
+    "title": {
+      "en": "China solar exports to South, Southeast Asia and Africa rise despite post-rebate slump",
+      "zh": "中國對南亞、東南亞與非洲太陽能出口成長，抵銷退稅調整衝擊"
+    },
+    "dek": {
+      "en": "This international story matters because diplomacy, trade flows and conflict signals can quickly reset how governments and markets price geopolitical risk.",
+      "zh": "這則國際新聞的重要性在於，外交互動、貿易流向與衝突訊號，往往會迅速改變政府與市場對地緣政治風險的定價。"
+    },
+    "body": {
+      "zh": [
+        "「中國對南亞、東南亞與非洲太陽能出口成長，抵銷退稅調整衝擊」值得列入今日國際版面，因為它不只是單一事件更新，也可能改變各國政府、企業與投資人對區域穩定與跨境協調的判斷。",
+        "放回更大的脈絡來看，這項發展牽動的是外交訊號、貿易流向與安全風險如何彼此疊加，並影響市場對未來局勢的預期。",
+        "接下來最值得觀察的是，相關政府是否會把這個訊號轉化為更具體的會談、警告、經濟措施或軍事部署。",
+        "若後續反應持續累積，這則新聞的重要性就不只停留在今日更新，而會成為地緣風險重新定價的實際證據。"
+      ],
+      "en": [
+        "\"China solar exports to South, Southeast Asia and Africa rise despite post-rebate slump\" belongs in today's international file because it is more than a single update; it can alter how governments, companies and investors judge regional stability and cross-border coordination.",
+        "Placed in a wider frame, the development shows how diplomatic signals, trade flows and security risk reinforce one another and shape expectations for what comes next.",
+        "The next thing to watch is whether the governments involved turn the signal into more concrete talks, warnings, economic measures or military moves.",
+        "If those follow-on responses continue to build, the story will matter not just as a daily headline but as evidence that geopolitical risk is being repriced in real time."
+      ]
+    }
+  },
+  {
+    "id": "inter-gold-gains-on-hopes-of-de-escalation-in-middle-east-conflict",
+    "category": "international",
+    "image": "meeting",
+    "lead": false,
+    "author": "Maya Chen",
+    "read": 5,
+    "title": {
+      "en": "Gold gains on hopes of de-escalation in Middle East conflict",
+      "zh": "中東衝突可望降溫，金價因避險需求與和談預期走高"
+    },
+    "dek": {
+      "en": "This international story matters because diplomacy, trade flows and conflict signals can quickly reset how governments and markets price geopolitical risk.",
+      "zh": "這則國際新聞的重要性在於，外交互動、貿易流向與衝突訊號，往往會迅速改變政府與市場對地緣政治風險的定價。"
+    },
+    "body": {
+      "zh": [
+        "「中東衝突可望降溫，金價因避險需求與和談預期走高」值得列入今日國際版面，因為它不只是單一事件更新，也可能改變各國政府、企業與投資人對區域穩定與跨境協調的判斷。",
+        "放回更大的脈絡來看，這項發展牽動的是外交訊號、貿易流向與安全風險如何彼此疊加，並影響市場對未來局勢的預期。",
+        "接下來最值得觀察的是，相關政府是否會把這個訊號轉化為更具體的會談、警告、經濟措施或軍事部署。",
+        "若後續反應持續累積，這則新聞的重要性就不只停留在今日更新，而會成為地緣風險重新定價的實際證據。"
+      ],
+      "en": [
+        "\"Gold gains on hopes of de-escalation in Middle East conflict\" belongs in today's international file because it is more than a single update; it can alter how governments, companies and investors judge regional stability and cross-border coordination.",
+        "Placed in a wider frame, the development shows how diplomatic signals, trade flows and security risk reinforce one another and shape expectations for what comes next.",
+        "The next thing to watch is whether the governments involved turn the signal into more concrete talks, warnings, economic measures or military moves.",
+        "If those follow-on responses continue to build, the story will matter not just as a daily headline but as evidence that geopolitical risk is being repriced in real time."
+      ]
+    }
+  },
+  {
+    "id": "techn-tsmc-expects-strong-multi-year-demand-for-ai-chips-as-it-ramps-up-arizona-investment",
+    "category": "technology",
+    "image": "technology",
+    "lead": true,
+    "author": "Leo Huang",
+    "read": 9,
+    "title": {
+      "en": "TSMC expects 'strong, multi-year' demand for AI chips as it ramps up Arizona investment",
+      "zh": "台積電擴大亞利桑那投資，預期 AI 晶片需求將強勁多年"
+    },
+    "dek": {
+      "en": "This technology story matters because AI infrastructure, chip strategy and digital policy are reshaping where capital, talent and strategic leverage flow.",
+      "zh": "這則科技新聞的重要性在於，AI 基礎設施、晶片戰略與數位政策，正在重塑資本、人才與戰略影響力的流向。"
+    },
+    "body": {
+      "zh": [
+        "「台積電擴大亞利桑那投資，預期 AI 晶片需求將強勁多年」值得列入今日科技版面，因為它顯示 AI 競賽、晶片投資與數位治理正在如何一起改寫產業的技術與資金版圖。",
+        "放進更大的脈絡來看，這類發展往往不只影響單一公司，還會牽動供應商規劃、資料中心擴建、法遵成本與國家產業策略。",
+        "接下來最值得觀察的是，這個訊號會否進一步轉化為新的訂單、資本支出、合作協議或更明確的監理方向。",
+        "若這股動能延續，這則新聞的重要性就不只在於科技話題本身，更是下一輪基礎設施與平台競賽誰掌握優勢的指標。"
+      ],
+      "en": [
+        "\"TSMC expects 'strong, multi-year' demand for AI chips as it ramps up Arizona investment\" belongs in today's technology file because it shows how the AI race, chip investment and digital governance are reshaping the sector's technical and financial map.",
+        "In the broader picture, developments like this reach beyond one company and influence supplier planning, data-centre build-outs, compliance costs and national industrial strategy.",
+        "The next thing to watch is whether the signal turns into new orders, capital spending, partnership agreements or clearer regulatory direction.",
+        "If that momentum holds, the story will matter not only as technology news but as a marker of who is gaining leverage in the next infrastructure and platform cycle."
+      ]
+    }
+  },
+  {
+    "id": "techn-chipmaker-iqe-raises-annual-sales-growth-forecast-on-ai-data-centre-demand",
+    "category": "technology",
+    "image": "technology",
+    "lead": false,
+    "author": "Leo Huang",
+    "read": 8,
+    "title": {
+      "en": "Chipmaker IQE raises annual sales growth forecast on AI, data centre demand",
+      "zh": "IQE 受惠 AI 與資料中心需求，上調全年營收成長預測"
+    },
+    "dek": {
+      "en": "This technology story matters because AI infrastructure, chip strategy and digital policy are reshaping where capital, talent and strategic leverage flow.",
+      "zh": "這則科技新聞的重要性在於，AI 基礎設施、晶片戰略與數位政策，正在重塑資本、人才與戰略影響力的流向。"
+    },
+    "body": {
+      "zh": [
+        "「IQE 受惠 AI 與資料中心需求，上調全年營收成長預測」值得列入今日科技版面，因為它顯示 AI 競賽、晶片投資與數位治理正在如何一起改寫產業的技術與資金版圖。",
+        "放進更大的脈絡來看，這類發展往往不只影響單一公司，還會牽動供應商規劃、資料中心擴建、法遵成本與國家產業策略。",
+        "接下來最值得觀察的是，這個訊號會否進一步轉化為新的訂單、資本支出、合作協議或更明確的監理方向。",
+        "若這股動能延續，這則新聞的重要性就不只在於科技話題本身，更是下一輪基礎設施與平台競賽誰掌握優勢的指標。"
+      ],
+      "en": [
+        "\"Chipmaker IQE raises annual sales growth forecast on AI, data centre demand\" belongs in today's technology file because it shows how the AI race, chip investment and digital governance are reshaping the sector's technical and financial map.",
+        "In the broader picture, developments like this reach beyond one company and influence supplier planning, data-centre build-outs, compliance costs and national industrial strategy.",
+        "The next thing to watch is whether the signal turns into new orders, capital spending, partnership agreements or clearer regulatory direction.",
+        "If that momentum holds, the story will matter not only as technology news but as a marker of who is gaining leverage in the next infrastructure and platform cycle."
+      ]
+    }
+  },
+  {
+    "id": "techn-tsmc-to-raise-chipmaking-prices-by-up-to-10-in-2027-nikkei-asia-reports",
+    "category": "technology",
+    "image": "technology",
+    "lead": false,
+    "author": "Leo Huang",
+    "read": 7,
+    "title": {
+      "en": "TSMC to raise chipmaking prices by up to 10% in 2027, Nikkei Asia reports",
+      "zh": "日經亞洲：台積電 2027 年晶圓代工價格最高將調升一成"
+    },
+    "dek": {
+      "en": "This technology story matters because AI infrastructure, chip strategy and digital policy are reshaping where capital, talent and strategic leverage flow.",
+      "zh": "這則科技新聞的重要性在於，AI 基礎設施、晶片戰略與數位政策，正在重塑資本、人才與戰略影響力的流向。"
+    },
+    "body": {
+      "zh": [
+        "「日經亞洲：台積電 2027 年晶圓代工價格最高將調升一成」值得列入今日科技版面，因為它顯示 AI 競賽、晶片投資與數位治理正在如何一起改寫產業的技術與資金版圖。",
+        "放進更大的脈絡來看，這類發展往往不只影響單一公司，還會牽動供應商規劃、資料中心擴建、法遵成本與國家產業策略。",
+        "接下來最值得觀察的是，這個訊號會否進一步轉化為新的訂單、資本支出、合作協議或更明確的監理方向。",
+        "若這股動能延續，這則新聞的重要性就不只在於科技話題本身，更是下一輪基礎設施與平台競賽誰掌握優勢的指標。"
+      ],
+      "en": [
+        "\"TSMC to raise chipmaking prices by up to 10% in 2027, Nikkei Asia reports\" belongs in today's technology file because it shows how the AI race, chip investment and digital governance are reshaping the sector's technical and financial map.",
+        "In the broader picture, developments like this reach beyond one company and influence supplier planning, data-centre build-outs, compliance costs and national industrial strategy.",
+        "The next thing to watch is whether the signal turns into new orders, capital spending, partnership agreements or clearer regulatory direction.",
+        "If that momentum holds, the story will matter not only as technology news but as a marker of who is gaining leverage in the next infrastructure and platform cycle."
+      ]
+    }
+  },
+  {
+    "id": "techn-taiwan-indicts-ex-tsmc-employee-over-alleged-theft-of-trade-secrets-for-intended-use-in-china",
+    "category": "technology",
+    "image": "technology",
+    "lead": false,
+    "author": "Leo Huang",
+    "read": 6,
+    "title": {
+      "en": "Taiwan indicts ex-TSMC employee over alleged theft of trade secrets for intended use in China",
+      "zh": "台灣起訴前台積電員工，指其竊取營業秘密擬供中國使用"
+    },
+    "dek": {
+      "en": "This technology story matters because AI infrastructure, chip strategy and digital policy are reshaping where capital, talent and strategic leverage flow.",
+      "zh": "這則科技新聞的重要性在於，AI 基礎設施、晶片戰略與數位政策，正在重塑資本、人才與戰略影響力的流向。"
+    },
+    "body": {
+      "zh": [
+        "「台灣起訴前台積電員工，指其竊取營業秘密擬供中國使用」值得列入今日科技版面，因為它顯示 AI 競賽、晶片投資與數位治理正在如何一起改寫產業的技術與資金版圖。",
+        "放進更大的脈絡來看，這類發展往往不只影響單一公司，還會牽動供應商規劃、資料中心擴建、法遵成本與國家產業策略。",
+        "接下來最值得觀察的是，這個訊號會否進一步轉化為新的訂單、資本支出、合作協議或更明確的監理方向。",
+        "若這股動能延續，這則新聞的重要性就不只在於科技話題本身，更是下一輪基礎設施與平台競賽誰掌握優勢的指標。"
+      ],
+      "en": [
+        "\"Taiwan indicts ex-TSMC employee over alleged theft of trade secrets for intended use in China\" belongs in today's technology file because it shows how the AI race, chip investment and digital governance are reshaping the sector's technical and financial map.",
+        "In the broader picture, developments like this reach beyond one company and influence supplier planning, data-centre build-outs, compliance costs and national industrial strategy.",
+        "The next thing to watch is whether the signal turns into new orders, capital spending, partnership agreements or clearer regulatory direction.",
+        "If that momentum holds, the story will matter not only as technology news but as a marker of who is gaining leverage in the next infrastructure and platform cycle."
+      ]
+    }
+  },
+  {
+    "id": "techn-uk-chief-financial-officers-turn-more-hopeful-about-ai",
+    "category": "technology",
+    "image": "technology",
+    "lead": false,
+    "author": "Leo Huang",
+    "read": 5,
+    "title": {
+      "en": "UK chief financial officers turn more hopeful about AI",
+      "zh": "英國財務長對 AI 前景轉趨樂觀"
+    },
+    "dek": {
+      "en": "This technology story matters because AI infrastructure, chip strategy and digital policy are reshaping where capital, talent and strategic leverage flow.",
+      "zh": "這則科技新聞的重要性在於，AI 基礎設施、晶片戰略與數位政策，正在重塑資本、人才與戰略影響力的流向。"
+    },
+    "body": {
+      "zh": [
+        "「英國財務長對 AI 前景轉趨樂觀」值得列入今日科技版面，因為它顯示 AI 競賽、晶片投資與數位治理正在如何一起改寫產業的技術與資金版圖。",
+        "放進更大的脈絡來看，這類發展往往不只影響單一公司，還會牽動供應商規劃、資料中心擴建、法遵成本與國家產業策略。",
+        "接下來最值得觀察的是，這個訊號會否進一步轉化為新的訂單、資本支出、合作協議或更明確的監理方向。",
+        "若這股動能延續，這則新聞的重要性就不只在於科技話題本身，更是下一輪基礎設施與平台競賽誰掌握優勢的指標。"
+      ],
+      "en": [
+        "\"UK chief financial officers turn more hopeful about AI\" belongs in today's technology file because it shows how the AI race, chip investment and digital governance are reshaping the sector's technical and financial map.",
+        "In the broader picture, developments like this reach beyond one company and influence supplier planning, data-centre build-outs, compliance costs and national industrial strategy.",
+        "The next thing to watch is whether the signal turns into new orders, capital spending, partnership agreements or clearer regulatory direction.",
+        "If that momentum holds, the story will matter not only as technology news but as a marker of who is gaining leverage in the next infrastructure and platform cycle."
+      ]
+    }
+  },
+  {
+    "id": "sport-how-a-64-team-world-cup-could-transform-soccer-s-economics",
+    "category": "sports",
+    "image": "stadium",
+    "lead": true,
+    "author": "Iris Wu",
+    "read": 9,
+    "title": {
+      "en": "How a 64-team World Cup could transform soccer's economics",
+      "zh": "64 隊世界盃可能徹底改寫足球經濟版圖"
+    },
+    "dek": {
+      "en": "This sports story matters because global tournaments now shape politics, commercial rights and national branding far beyond the field of play.",
+      "zh": "這則體育新聞的重要性在於，全球大型賽事如今影響的不只是場上勝負，還牽動政治、商業權利與國家形象。"
+    },
+    "body": {
+      "zh": [
+        "「64 隊世界盃可能徹底改寫足球經濟版圖」值得列入今日體育版面，因為現代體育經濟早已超出比賽本身，延伸到觀光、轉播、軟實力與公共形象。",
+        "放回整體脈絡來看，這項發展反映出主辦方、球隊、贊助商與政府如何共同塑造全球賽事的意義與價值。",
+        "接下來最值得觀察的是，主辦單位、聯盟或政治人物是否會以新的訊息、規則調整、商業安排或公開批評作出回應。",
+        "若後續反應持續擴大，這則新聞的重要性就不只屬於球迷，也與體育如何連結金錢、治理與國際形象息息相關。"
+      ],
+      "en": [
+        "\"How a 64-team World Cup could transform soccer's economics\" belongs in today's sports file because the modern sports economy extends well beyond competition into tourism, broadcasting, soft power and public image.",
+        "Placed in context, the development speaks to how organisers, teams, sponsors and governments all try to shape the meaning and value of a global event.",
+        "The next thing to watch is whether organisers, leagues or political actors respond with new messaging, rule changes, commercial moves or public criticism.",
+        "If those reactions deepen, the story will matter not only for fans but for anyone tracking how sport now intersects with money, governance and international branding."
+      ]
+    }
+  },
+  {
+    "id": "sport-ten-takeaways-from-the-2026-world-cup",
+    "category": "sports",
+    "image": "stadium",
+    "lead": false,
+    "author": "Iris Wu",
+    "read": 8,
+    "title": {
+      "en": "Ten takeaways from the 2026 World Cup",
+      "zh": "2026 世界盃的十項關鍵觀察"
+    },
+    "dek": {
+      "en": "This sports story matters because global tournaments now shape politics, commercial rights and national branding far beyond the field of play.",
+      "zh": "這則體育新聞的重要性在於，全球大型賽事如今影響的不只是場上勝負，還牽動政治、商業權利與國家形象。"
+    },
+    "body": {
+      "zh": [
+        "「2026 世界盃的十項關鍵觀察」值得列入今日體育版面，因為現代體育經濟早已超出比賽本身，延伸到觀光、轉播、軟實力與公共形象。",
+        "放回整體脈絡來看，這項發展反映出主辦方、球隊、贊助商與政府如何共同塑造全球賽事的意義與價值。",
+        "接下來最值得觀察的是，主辦單位、聯盟或政治人物是否會以新的訊息、規則調整、商業安排或公開批評作出回應。",
+        "若後續反應持續擴大，這則新聞的重要性就不只屬於球迷，也與體育如何連結金錢、治理與國際形象息息相關。"
+      ],
+      "en": [
+        "\"Ten takeaways from the 2026 World Cup\" belongs in today's sports file because the modern sports economy extends well beyond competition into tourism, broadcasting, soft power and public image.",
+        "Placed in context, the development speaks to how organisers, teams, sponsors and governments all try to shape the meaning and value of a global event.",
+        "The next thing to watch is whether organisers, leagues or political actors respond with new messaging, rule changes, commercial moves or public criticism.",
+        "If those reactions deepen, the story will matter not only for fans but for anyone tracking how sport now intersects with money, governance and international branding."
+      ]
+    }
+  },
+  {
+    "id": "sport-world-cup-review-american-makeover-leaves-soccer-facing-a-battle-for-its-soul",
+    "category": "sports",
+    "image": "stadium",
+    "lead": false,
+    "author": "Iris Wu",
+    "read": 7,
+    "title": {
+      "en": "World Cup review: American makeover leaves soccer facing a battle for its soul",
+      "zh": "世界盃檢討：美式改造之後，足球正面臨靈魂保衛戰"
+    },
+    "dek": {
+      "en": "This sports story matters because global tournaments now shape politics, commercial rights and national branding far beyond the field of play.",
+      "zh": "這則體育新聞的重要性在於，全球大型賽事如今影響的不只是場上勝負，還牽動政治、商業權利與國家形象。"
+    },
+    "body": {
+      "zh": [
+        "「世界盃檢討：美式改造之後，足球正面臨靈魂保衛戰」值得列入今日體育版面，因為現代體育經濟早已超出比賽本身，延伸到觀光、轉播、軟實力與公共形象。",
+        "放回整體脈絡來看，這項發展反映出主辦方、球隊、贊助商與政府如何共同塑造全球賽事的意義與價值。",
+        "接下來最值得觀察的是，主辦單位、聯盟或政治人物是否會以新的訊息、規則調整、商業安排或公開批評作出回應。",
+        "若後續反應持續擴大，這則新聞的重要性就不只屬於球迷，也與體育如何連結金錢、治理與國際形象息息相關。"
+      ],
+      "en": [
+        "\"World Cup review: American makeover leaves soccer facing a battle for its soul\" belongs in today's sports file because the modern sports economy extends well beyond competition into tourism, broadcasting, soft power and public image.",
+        "Placed in context, the development speaks to how organisers, teams, sponsors and governments all try to shape the meaning and value of a global event.",
+        "The next thing to watch is whether organisers, leagues or political actors respond with new messaging, rule changes, commercial moves or public criticism.",
+        "If those reactions deepen, the story will matter not only for fans but for anyone tracking how sport now intersects with money, governance and international branding."
+      ]
+    }
+  },
+  {
+    "id": "sport-scores-celebrate-spain-s-kings-of-the-world-win-in-exhilarated-madrid",
+    "category": "sports",
+    "image": "stadium",
+    "lead": false,
+    "author": "Iris Wu",
+    "read": 6,
+    "title": {
+      "en": "Scores celebrate Spain's 'Kings of the World' win in exhilarated Madrid",
+      "zh": "馬德里沸騰慶祝，西班牙以「世界之王」姿態奪冠"
+    },
+    "dek": {
+      "en": "This sports story matters because global tournaments now shape politics, commercial rights and national branding far beyond the field of play.",
+      "zh": "這則體育新聞的重要性在於，全球大型賽事如今影響的不只是場上勝負，還牽動政治、商業權利與國家形象。"
+    },
+    "body": {
+      "zh": [
+        "「馬德里沸騰慶祝，西班牙以「世界之王」姿態奪冠」值得列入今日體育版面，因為現代體育經濟早已超出比賽本身，延伸到觀光、轉播、軟實力與公共形象。",
+        "放回整體脈絡來看，這項發展反映出主辦方、球隊、贊助商與政府如何共同塑造全球賽事的意義與價值。",
+        "接下來最值得觀察的是，主辦單位、聯盟或政治人物是否會以新的訊息、規則調整、商業安排或公開批評作出回應。",
+        "若後續反應持續擴大，這則新聞的重要性就不只屬於球迷，也與體育如何連結金錢、治理與國際形象息息相關。"
+      ],
+      "en": [
+        "\"Scores celebrate Spain's 'Kings of the World' win in exhilarated Madrid\" belongs in today's sports file because the modern sports economy extends well beyond competition into tourism, broadcasting, soft power and public image.",
+        "Placed in context, the development speaks to how organisers, teams, sponsors and governments all try to shape the meaning and value of a global event.",
+        "The next thing to watch is whether organisers, leagues or political actors respond with new messaging, rule changes, commercial moves or public criticism.",
+        "If those reactions deepen, the story will matter not only for fans but for anyone tracking how sport now intersects with money, governance and international branding."
+      ]
+    }
+  },
+  {
+    "id": "sport-great-american-sleepover-softens-us-image-abroad-but-world-cup-charm-campaign-hit-some-bumps",
+    "category": "sports",
+    "image": "stadium",
+    "lead": false,
+    "author": "Iris Wu",
+    "read": 5,
+    "title": {
+      "en": "'Great American Sleepover' softens US image abroad, but World Cup charm campaign hit some bumps",
+      "zh": "「偉大的美國睡衣派對」柔化美國形象，但世界盃魅力宣傳仍有顛簸"
+    },
+    "dek": {
+      "en": "This sports story matters because global tournaments now shape politics, commercial rights and national branding far beyond the field of play.",
+      "zh": "這則體育新聞的重要性在於，全球大型賽事如今影響的不只是場上勝負，還牽動政治、商業權利與國家形象。"
+    },
+    "body": {
+      "zh": [
+        "「「偉大的美國睡衣派對」柔化美國形象，但世界盃魅力宣傳仍有顛簸」值得列入今日體育版面，因為現代體育經濟早已超出比賽本身，延伸到觀光、轉播、軟實力與公共形象。",
+        "放回整體脈絡來看，這項發展反映出主辦方、球隊、贊助商與政府如何共同塑造全球賽事的意義與價值。",
+        "接下來最值得觀察的是，主辦單位、聯盟或政治人物是否會以新的訊息、規則調整、商業安排或公開批評作出回應。",
+        "若後續反應持續擴大，這則新聞的重要性就不只屬於球迷，也與體育如何連結金錢、治理與國際形象息息相關。"
+      ],
+      "en": [
+        "\"'Great American Sleepover' softens US image abroad, but World Cup charm campaign hit some bumps\" belongs in today's sports file because the modern sports economy extends well beyond competition into tourism, broadcasting, soft power and public image.",
+        "Placed in context, the development speaks to how organisers, teams, sponsors and governments all try to shape the meaning and value of a global event.",
+        "The next thing to watch is whether organisers, leagues or political actors respond with new messaging, rule changes, commercial moves or public criticism.",
+        "If those reactions deepen, the story will matter not only for fans but for anyone tracking how sport now intersects with money, governance and international branding."
+      ]
+    }
+  },
+  {
+    "id": "shipp-tankers-with-saudi-crude-turn-back-as-houthis-open-new-front-in-us-iran-war",
+    "category": "shipping",
+    "image": "shipping",
+    "lead": true,
+    "author": "Aaron Lin",
+    "read": 9,
+    "title": {
+      "en": "Tankers with Saudi crude turn back as Houthis open new front in US-Iran war",
+      "zh": "青年運動另闢戰線後，載運沙烏地原油的油輪折返"
+    },
+    "dek": {
+      "en": "This shipping story matters because route security, insurance costs and port decisions determine how quickly regional conflict spills into global trade.",
+      "zh": "這則航運新聞的重要性在於，航道安全、保險成本與港口決策，決定了區域衝突多快外溢到全球貿易。"
+    },
+    "body": {
+      "zh": [
+        "「青年運動另闢戰線後，載運沙烏地原油的油輪折返」值得列入今日航運版面，因為一旦安全風險、通行信心或運價變動，海運網絡往往會立刻作出反應。",
+        "放到更大的脈絡來看，這項發展同時牽動油輪繞航、保費調整、港口作業與商品到貨時點，影響的不只是一條航線。",
+        "接下來最值得觀察的是，船東、港口、海軍或保險業者是否會調整指引、班表、承保條件或風險評估。",
+        "若這些調整持續擴散，這則新聞就不只是航運更新，而會成為運輸壓力直接推高貿易成本與供應不確定性的前兆。"
+      ],
+      "en": [
+        "\"Tankers with Saudi crude turn back as Houthis open new front in US-Iran war\" belongs in today's shipping file because maritime networks react quickly when security risk, transit confidence or freight pricing shifts.",
+        "In a wider frame, the development touches tanker rerouting, insurance costs, port operations and commodity timing, affecting far more than a single corridor.",
+        "The next thing to watch is whether shipowners, ports, navies or insurers change guidance, schedules, coverage terms or risk estimates.",
+        "If those adjustments spread, the story will matter as an early signal that shipping stress is feeding directly into broader trade costs and supply uncertainty."
+      ]
+    }
+  },
+  {
+    "id": "shipp-houthis-warn-shipping-companies-to-avoid-saudi-ports-email-shows",
+    "category": "shipping",
+    "image": "shipping",
+    "lead": false,
+    "author": "Aaron Lin",
+    "read": 8,
+    "title": {
+      "en": "Houthis warn shipping companies to avoid Saudi ports, email shows",
+      "zh": "電子郵件顯示青年運動警告航商避開沙烏地港口"
+    },
+    "dek": {
+      "en": "This shipping story matters because route security, insurance costs and port decisions determine how quickly regional conflict spills into global trade.",
+      "zh": "這則航運新聞的重要性在於，航道安全、保險成本與港口決策，決定了區域衝突多快外溢到全球貿易。"
+    },
+    "body": {
+      "zh": [
+        "「電子郵件顯示青年運動警告航商避開沙烏地港口」值得列入今日航運版面，因為一旦安全風險、通行信心或運價變動，海運網絡往往會立刻作出反應。",
+        "放到更大的脈絡來看，這項發展同時牽動油輪繞航、保費調整、港口作業與商品到貨時點，影響的不只是一條航線。",
+        "接下來最值得觀察的是，船東、港口、海軍或保險業者是否會調整指引、班表、承保條件或風險評估。",
+        "若這些調整持續擴散，這則新聞就不只是航運更新，而會成為運輸壓力直接推高貿易成本與供應不確定性的前兆。"
+      ],
+      "en": [
+        "\"Houthis warn shipping companies to avoid Saudi ports, email shows\" belongs in today's shipping file because maritime networks react quickly when security risk, transit confidence or freight pricing shifts.",
+        "In a wider frame, the development touches tanker rerouting, insurance costs, port operations and commodity timing, affecting far more than a single corridor.",
+        "The next thing to watch is whether shipowners, ports, navies or insurers change guidance, schedules, coverage terms or risk estimates.",
+        "If those adjustments spread, the story will matter as an early signal that shipping stress is feeding directly into broader trade costs and supply uncertainty."
+      ]
+    }
+  },
+  {
+    "id": "shipp-asian-refiners-look-to-suez-canal-to-move-saudi-oil-amid-houthi-shipping-threats",
+    "category": "shipping",
+    "image": "shipping",
+    "lead": false,
+    "author": "Aaron Lin",
+    "read": 7,
+    "title": {
+      "en": "Asian refiners look to Suez Canal to move Saudi oil amid Houthi shipping threats",
+      "zh": "面對青年運動威脅，亞洲煉油商改評估經蘇伊士運送沙烏地原油"
+    },
+    "dek": {
+      "en": "This shipping story matters because route security, insurance costs and port decisions determine how quickly regional conflict spills into global trade.",
+      "zh": "這則航運新聞的重要性在於，航道安全、保險成本與港口決策，決定了區域衝突多快外溢到全球貿易。"
+    },
+    "body": {
+      "zh": [
+        "「面對青年運動威脅，亞洲煉油商改評估經蘇伊士運送沙烏地原油」值得列入今日航運版面，因為一旦安全風險、通行信心或運價變動，海運網絡往往會立刻作出反應。",
+        "放到更大的脈絡來看，這項發展同時牽動油輪繞航、保費調整、港口作業與商品到貨時點，影響的不只是一條航線。",
+        "接下來最值得觀察的是，船東、港口、海軍或保險業者是否會調整指引、班表、承保條件或風險評估。",
+        "若這些調整持續擴散，這則新聞就不只是航運更新，而會成為運輸壓力直接推高貿易成本與供應不確定性的前兆。"
+      ],
+      "en": [
+        "\"Asian refiners look to Suez Canal to move Saudi oil amid Houthi shipping threats\" belongs in today's shipping file because maritime networks react quickly when security risk, transit confidence or freight pricing shifts.",
+        "In a wider frame, the development touches tanker rerouting, insurance costs, port operations and commodity timing, affecting far more than a single corridor.",
+        "The next thing to watch is whether shipowners, ports, navies or insurers change guidance, schedules, coverage terms or risk estimates.",
+        "If those adjustments spread, the story will matter as an early signal that shipping stress is feeding directly into broader trade costs and supply uncertainty."
+      ]
+    }
+  },
+  {
+    "id": "shipp-hormuz-vessel-crossings-extend-slide-on-fresh-us-iran-attacks",
+    "category": "shipping",
+    "image": "shipping",
+    "lead": false,
+    "author": "Aaron Lin",
+    "read": 6,
+    "title": {
+      "en": "Hormuz vessel crossings extend slide on fresh US-Iran attacks",
+      "zh": "美伊再度交火後，荷莫茲海峽船舶通行量續降"
+    },
+    "dek": {
+      "en": "This shipping story matters because route security, insurance costs and port decisions determine how quickly regional conflict spills into global trade.",
+      "zh": "這則航運新聞的重要性在於，航道安全、保險成本與港口決策，決定了區域衝突多快外溢到全球貿易。"
+    },
+    "body": {
+      "zh": [
+        "「美伊再度交火後，荷莫茲海峽船舶通行量續降」值得列入今日航運版面，因為一旦安全風險、通行信心或運價變動，海運網絡往往會立刻作出反應。",
+        "放到更大的脈絡來看，這項發展同時牽動油輪繞航、保費調整、港口作業與商品到貨時點，影響的不只是一條航線。",
+        "接下來最值得觀察的是，船東、港口、海軍或保險業者是否會調整指引、班表、承保條件或風險評估。",
+        "若這些調整持續擴散，這則新聞就不只是航運更新，而會成為運輸壓力直接推高貿易成本與供應不確定性的前兆。"
+      ],
+      "en": [
+        "\"Hormuz vessel crossings extend slide on fresh US-Iran attacks\" belongs in today's shipping file because maritime networks react quickly when security risk, transit confidence or freight pricing shifts.",
+        "In a wider frame, the development touches tanker rerouting, insurance costs, port operations and commodity timing, affecting far more than a single corridor.",
+        "The next thing to watch is whether shipowners, ports, navies or insurers change guidance, schedules, coverage terms or risk estimates.",
+        "If those adjustments spread, the story will matter as an early signal that shipping stress is feeding directly into broader trade costs and supply uncertainty."
+      ]
+    }
+  },
+  {
+    "id": "shipp-cpc-stops-accepting-kazakh-oil-due-to-attacks-on-tankers-sources-say",
+    "category": "shipping",
+    "image": "shipping",
+    "lead": false,
+    "author": "Aaron Lin",
+    "read": 5,
+    "title": {
+      "en": "CPC stops accepting Kazakh oil due to attacks on tankers, sources say",
+      "zh": "消息人士：因油輪遇襲，CPC 暫停接收哈薩克原油"
+    },
+    "dek": {
+      "en": "This shipping story matters because route security, insurance costs and port decisions determine how quickly regional conflict spills into global trade.",
+      "zh": "這則航運新聞的重要性在於，航道安全、保險成本與港口決策，決定了區域衝突多快外溢到全球貿易。"
+    },
+    "body": {
+      "zh": [
+        "「消息人士：因油輪遇襲，CPC 暫停接收哈薩克原油」值得列入今日航運版面，因為一旦安全風險、通行信心或運價變動，海運網絡往往會立刻作出反應。",
+        "放到更大的脈絡來看，這項發展同時牽動油輪繞航、保費調整、港口作業與商品到貨時點，影響的不只是一條航線。",
+        "接下來最值得觀察的是，船東、港口、海軍或保險業者是否會調整指引、班表、承保條件或風險評估。",
+        "若這些調整持續擴散，這則新聞就不只是航運更新，而會成為運輸壓力直接推高貿易成本與供應不確定性的前兆。"
+      ],
+      "en": [
+        "\"CPC stops accepting Kazakh oil due to attacks on tankers, sources say\" belongs in today's shipping file because maritime networks react quickly when security risk, transit confidence or freight pricing shifts.",
+        "In a wider frame, the development touches tanker rerouting, insurance costs, port operations and commodity timing, affecting far more than a single corridor.",
+        "The next thing to watch is whether shipowners, ports, navies or insurers change guidance, schedules, coverage terms or risk estimates.",
+        "If those adjustments spread, the story will matter as an early signal that shipping stress is feeding directly into broader trade costs and supply uncertainty."
+      ]
+    }
+  },
+  {
+    "id": "suppl-trump-orders-tightening-of-defense-supply-chain-waiver-rules",
+    "category": "supply-chain",
+    "image": "factory",
+    "lead": true,
+    "author": "Nina Kao",
+    "read": 9,
+    "title": {
+      "en": "Trump orders tightening of defense supply-chain waiver rules",
+      "zh": "川普下令收緊國防供應鏈豁免規則"
+    },
+    "dek": {
+      "en": "This supply-chain story matters because tariffs, factory pressure and sourcing shifts can reprice production risk across entire industries.",
+      "zh": "這則供應鏈新聞的重要性在於，關稅、工廠壓力與採購轉移，會替整個產業重新定價生產風險。"
+    },
+    "body": {
+      "zh": [
+        "「川普下令收緊國防供應鏈豁免規則」值得列入今日供應鏈版面，因為它顯示採購、工廠管理、法遵與價格壓力如何一起改變生產決策。",
+        "放回脈絡來看，這類發展會影響供應商分散、庫存規劃、貿易合規，以及製造商與買方之間的議價能力。",
+        "接下來最值得觀察的是，企業是否會透過新的採購安排、價格調整、供應商稽核或產能地理轉移來回應。",
+        "若這些營運反應逐步擴大，這則新聞的重要性就會體現在風險如何重新寫進合約、利潤與投資計畫之中。"
+      ],
+      "en": [
+        "\"Trump orders tightening of defense supply-chain waiver rules\" belongs in today's supply-chain file because it shows how sourcing, plant management, compliance and pricing pressure can alter production decisions together.",
+        "Placed back into context, developments like this influence supplier diversification, inventory planning, trade compliance and the bargaining power of manufacturers and buyers.",
+        "The next thing to watch is whether companies respond with new procurement plans, price changes, vendor audits or geographic shifts in capacity.",
+        "If those operational responses broaden, the story will matter as evidence that supply-chain risk is being rebuilt into contracts, margins and investment plans."
+      ]
+    }
+  },
+  {
+    "id": "suppl-u-s-auto-industry-races-to-purge-chinese-connected-car-hardware-amid-federal-push",
+    "category": "supply-chain",
+    "image": "factory",
+    "lead": false,
+    "author": "Nina Kao",
+    "read": 8,
+    "title": {
+      "en": "U.S. auto industry races to purge Chinese connected-car hardware amid federal push",
+      "zh": "美國聯邦推動下，車廠急於清除中國製聯網汽車硬體"
+    },
+    "dek": {
+      "en": "This supply-chain story matters because tariffs, factory pressure and sourcing shifts can reprice production risk across entire industries.",
+      "zh": "這則供應鏈新聞的重要性在於，關稅、工廠壓力與採購轉移，會替整個產業重新定價生產風險。"
+    },
+    "body": {
+      "zh": [
+        "「美國聯邦推動下，車廠急於清除中國製聯網汽車硬體」值得列入今日供應鏈版面，因為它顯示採購、工廠管理、法遵與價格壓力如何一起改變生產決策。",
+        "放回脈絡來看，這類發展會影響供應商分散、庫存規劃、貿易合規，以及製造商與買方之間的議價能力。",
+        "接下來最值得觀察的是，企業是否會透過新的採購安排、價格調整、供應商稽核或產能地理轉移來回應。",
+        "若這些營運反應逐步擴大，這則新聞的重要性就會體現在風險如何重新寫進合約、利潤與投資計畫之中。"
+      ],
+      "en": [
+        "\"U.S. auto industry races to purge Chinese connected-car hardware amid federal push\" belongs in today's supply-chain file because it shows how sourcing, plant management, compliance and pricing pressure can alter production decisions together.",
+        "Placed back into context, developments like this influence supplier diversification, inventory planning, trade compliance and the bargaining power of manufacturers and buyers.",
+        "The next thing to watch is whether companies respond with new procurement plans, price changes, vendor audits or geographic shifts in capacity.",
+        "If those operational responses broaden, the story will matter as evidence that supply-chain risk is being rebuilt into contracts, margins and investment plans."
+      ]
+    }
+  },
+  {
+    "id": "suppl-us-mexico-resume-usmca-trade-talks-as-trump-hits-canada-with-new-tariffs",
+    "category": "supply-chain",
+    "image": "factory",
+    "lead": false,
+    "author": "Nina Kao",
+    "read": 7,
+    "title": {
+      "en": "US, Mexico resume USMCA trade talks as Trump hits Canada with new tariffs",
+      "zh": "美墨恢復 USMCA 貿易談判，川普同時對加拿大加徵新關稅"
+    },
+    "dek": {
+      "en": "This supply-chain story matters because tariffs, factory pressure and sourcing shifts can reprice production risk across entire industries.",
+      "zh": "這則供應鏈新聞的重要性在於，關稅、工廠壓力與採購轉移，會替整個產業重新定價生產風險。"
+    },
+    "body": {
+      "zh": [
+        "「美墨恢復 USMCA 貿易談判，川普同時對加拿大加徵新關稅」值得列入今日供應鏈版面，因為它顯示採購、工廠管理、法遵與價格壓力如何一起改變生產決策。",
+        "放回脈絡來看，這類發展會影響供應商分散、庫存規劃、貿易合規，以及製造商與買方之間的議價能力。",
+        "接下來最值得觀察的是，企業是否會透過新的採購安排、價格調整、供應商稽核或產能地理轉移來回應。",
+        "若這些營運反應逐步擴大，這則新聞的重要性就會體現在風險如何重新寫進合約、利潤與投資計畫之中。"
+      ],
+      "en": [
+        "\"US, Mexico resume USMCA trade talks as Trump hits Canada with new tariffs\" belongs in today's supply-chain file because it shows how sourcing, plant management, compliance and pricing pressure can alter production decisions together.",
+        "Placed back into context, developments like this influence supplier diversification, inventory planning, trade compliance and the bargaining power of manufacturers and buyers.",
+        "The next thing to watch is whether companies respond with new procurement plans, price changes, vendor audits or geographic shifts in capacity.",
+        "If those operational responses broaden, the story will matter as evidence that supply-chain risk is being rebuilt into contracts, margins and investment plans."
+      ]
+    }
+  },
+  {
+    "id": "suppl-valeo-to-make-drone-motors-in-france-for-harmattan-ai",
+    "category": "supply-chain",
+    "image": "factory",
+    "lead": false,
+    "author": "Nina Kao",
+    "read": 6,
+    "title": {
+      "en": "Valeo to make drone motors in France for Harmattan AI",
+      "zh": "Valeo 將在法國為 Harmattan AI 生產無人機馬達"
+    },
+    "dek": {
+      "en": "This supply-chain story matters because tariffs, factory pressure and sourcing shifts can reprice production risk across entire industries.",
+      "zh": "這則供應鏈新聞的重要性在於，關稅、工廠壓力與採購轉移，會替整個產業重新定價生產風險。"
+    },
+    "body": {
+      "zh": [
+        "「Valeo 將在法國為 Harmattan AI 生產無人機馬達」值得列入今日供應鏈版面，因為它顯示採購、工廠管理、法遵與價格壓力如何一起改變生產決策。",
+        "放回脈絡來看，這類發展會影響供應商分散、庫存規劃、貿易合規，以及製造商與買方之間的議價能力。",
+        "接下來最值得觀察的是，企業是否會透過新的採購安排、價格調整、供應商稽核或產能地理轉移來回應。",
+        "若這些營運反應逐步擴大，這則新聞的重要性就會體現在風險如何重新寫進合約、利潤與投資計畫之中。"
+      ],
+      "en": [
+        "\"Valeo to make drone motors in France for Harmattan AI\" belongs in today's supply-chain file because it shows how sourcing, plant management, compliance and pricing pressure can alter production decisions together.",
+        "Placed back into context, developments like this influence supplier diversification, inventory planning, trade compliance and the bargaining power of manufacturers and buyers.",
+        "The next thing to watch is whether companies respond with new procurement plans, price changes, vendor audits or geographic shifts in capacity.",
+        "If those operational responses broaden, the story will matter as evidence that supply-chain risk is being rebuilt into contracts, margins and investment plans."
+      ]
+    }
+  },
+  {
+    "id": "suppl-forget-crude-war-pushes-refiners-to-the-brink",
+    "category": "supply-chain",
+    "image": "factory",
+    "lead": false,
+    "author": "Nina Kao",
+    "read": 5,
+    "title": {
+      "en": "Forget crude. War pushes refiners to the brink",
+      "zh": "別再只看原油，戰事正把煉油業推向臨界點"
+    },
+    "dek": {
+      "en": "This supply-chain story matters because tariffs, factory pressure and sourcing shifts can reprice production risk across entire industries.",
+      "zh": "這則供應鏈新聞的重要性在於，關稅、工廠壓力與採購轉移，會替整個產業重新定價生產風險。"
+    },
+    "body": {
+      "zh": [
+        "「別再只看原油，戰事正把煉油業推向臨界點」值得列入今日供應鏈版面，因為它顯示採購、工廠管理、法遵與價格壓力如何一起改變生產決策。",
+        "放回脈絡來看，這類發展會影響供應商分散、庫存規劃、貿易合規，以及製造商與買方之間的議價能力。",
+        "接下來最值得觀察的是，企業是否會透過新的採購安排、價格調整、供應商稽核或產能地理轉移來回應。",
+        "若這些營運反應逐步擴大，這則新聞的重要性就會體現在風險如何重新寫進合約、利潤與投資計畫之中。"
+      ],
+      "en": [
+        "\"Forget crude. War pushes refiners to the brink\" belongs in today's supply-chain file because it shows how sourcing, plant management, compliance and pricing pressure can alter production decisions together.",
+        "Placed back into context, developments like this influence supplier diversification, inventory planning, trade compliance and the bargaining power of manufacturers and buyers.",
+        "The next thing to watch is whether companies respond with new procurement plans, price changes, vendor audits or geographic shifts in capacity.",
+        "If those operational responses broaden, the story will matter as evidence that supply-chain risk is being rebuilt into contracts, margins and investment plans."
+      ]
+    }
+  },
+  {
+    "id": "econo-goldman-sachs-creates-private-markets-platform-for-wealthy-clients-memo-shows",
+    "category": "economy-markets",
+    "image": "markets",
+    "lead": true,
+    "author": "Victor Shen",
+    "read": 9,
+    "title": {
+      "en": "Goldman Sachs creates private markets platform for wealthy clients, memo shows",
+      "zh": "高盛成立私人市場平台，鎖定高資產客戶"
+    },
+    "dek": {
+      "en": "This economy and markets story matters because investor sentiment, policy expectations and commodity moves can quickly alter financing conditions for households and firms.",
+      "zh": "這則經濟與市場新聞的重要性在於，投資情緒、政策預期與商品價格波動，往往會迅速改變家庭與企業的融資條件。"
+    },
+    "body": {
+      "zh": [
+        "「高盛成立私人市場平台，鎖定高資產客戶」值得列入今日經濟與市場版面，因為它捕捉到政策訊號、資產價格與信心效應如何往往比實體經濟變化得更快。",
+        "放進更大的框架來看，這項發展可能影響借貸成本、資本流向、投資組合配置，以及企業投資或聘僱的意願。",
+        "接下來最值得觀察的是，央行、投資人或企業管理階層是否會透過修正預測、價格目標、避險安排或支出計畫作出回應。",
+        "若這些調整持續出現，這則新聞的重要性就在於它證明市場定價已經開始改變現實世界的經濟行為。"
+      ],
+      "en": [
+        "\"Goldman Sachs creates private markets platform for wealthy clients, memo shows\" belongs in today's economy and markets file because it captures how policy signals, asset prices and confidence effects often move faster than the underlying economy.",
+        "In the broader frame, the development can influence borrowing costs, capital flows, portfolio positioning and the willingness of companies to invest or hire.",
+        "The next thing to watch is whether central banks, investors or corporate managers react with revised forecasts, price targets, hedges or spending plans.",
+        "If those adjustments continue, the story will matter as a practical sign that market pricing is already changing real-world economic behaviour."
+      ]
+    }
+  },
+  {
+    "id": "econo-taiwan-says-chinese-vessel-activity-jumps-raising-fears-for-pacific-supply-routes",
+    "category": "economy-markets",
+    "image": "markets",
+    "lead": false,
+    "author": "Victor Shen",
+    "read": 8,
+    "title": {
+      "en": "Taiwan says Chinese vessel activity jumps, raising fears for Pacific supply routes",
+      "zh": "台灣稱中國船艦活動激增，升高太平洋補給航線疑慮"
+    },
+    "dek": {
+      "en": "This economy and markets story matters because investor sentiment, policy expectations and commodity moves can quickly alter financing conditions for households and firms.",
+      "zh": "這則經濟與市場新聞的重要性在於，投資情緒、政策預期與商品價格波動，往往會迅速改變家庭與企業的融資條件。"
+    },
+    "body": {
+      "zh": [
+        "「台灣稱中國船艦活動激增，升高太平洋補給航線疑慮」值得列入今日經濟與市場版面，因為它捕捉到政策訊號、資產價格與信心效應如何往往比實體經濟變化得更快。",
+        "放進更大的框架來看，這項發展可能影響借貸成本、資本流向、投資組合配置，以及企業投資或聘僱的意願。",
+        "接下來最值得觀察的是，央行、投資人或企業管理階層是否會透過修正預測、價格目標、避險安排或支出計畫作出回應。",
+        "若這些調整持續出現，這則新聞的重要性就在於它證明市場定價已經開始改變現實世界的經濟行為。"
+      ],
+      "en": [
+        "\"Taiwan says Chinese vessel activity jumps, raising fears for Pacific supply routes\" belongs in today's economy and markets file because it captures how policy signals, asset prices and confidence effects often move faster than the underlying economy.",
+        "In the broader frame, the development can influence borrowing costs, capital flows, portfolio positioning and the willingness of companies to invest or hire.",
+        "The next thing to watch is whether central banks, investors or corporate managers react with revised forecasts, price targets, hedges or spending plans.",
+        "If those adjustments continue, the story will matter as a practical sign that market pricing is already changing real-world economic behaviour."
+      ]
+    }
+  },
+  {
+    "id": "econo-aliexpress-hit-with-550-million-fine-over-sales-of-illegal-products",
+    "category": "economy-markets",
+    "image": "markets",
+    "lead": false,
+    "author": "Victor Shen",
+    "read": 7,
+    "title": {
+      "en": "AliExpress hit with €550 million fine over sales of illegal products",
+      "zh": "AliExpress 因販售非法商品遭歐盟重罰 5.5 億歐元"
+    },
+    "dek": {
+      "en": "This economy and markets story matters because investor sentiment, policy expectations and commodity moves can quickly alter financing conditions for households and firms.",
+      "zh": "這則經濟與市場新聞的重要性在於，投資情緒、政策預期與商品價格波動，往往會迅速改變家庭與企業的融資條件。"
+    },
+    "body": {
+      "zh": [
+        "「AliExpress 因販售非法商品遭歐盟重罰 5.5 億歐元」值得列入今日經濟與市場版面，因為它捕捉到政策訊號、資產價格與信心效應如何往往比實體經濟變化得更快。",
+        "放進更大的框架來看，這項發展可能影響借貸成本、資本流向、投資組合配置，以及企業投資或聘僱的意願。",
+        "接下來最值得觀察的是，央行、投資人或企業管理階層是否會透過修正預測、價格目標、避險安排或支出計畫作出回應。",
+        "若這些調整持續出現，這則新聞的重要性就在於它證明市場定價已經開始改變現實世界的經濟行為。"
+      ],
+      "en": [
+        "\"AliExpress hit with €550 million fine over sales of illegal products\" belongs in today's economy and markets file because it captures how policy signals, asset prices and confidence effects often move faster than the underlying economy.",
+        "In the broader frame, the development can influence borrowing costs, capital flows, portfolio positioning and the willingness of companies to invest or hire.",
+        "The next thing to watch is whether central banks, investors or corporate managers react with revised forecasts, price targets, hedges or spending plans.",
+        "If those adjustments continue, the story will matter as a practical sign that market pricing is already changing real-world economic behaviour."
+      ]
+    }
+  },
+  {
+    "id": "econo-taiwan-indicts-ex-tsmc-employee-over-alleged-theft-of-trade-secrets-for-intended-use-in-china",
+    "category": "economy-markets",
+    "image": "markets",
+    "lead": false,
+    "author": "Victor Shen",
+    "read": 6,
+    "title": {
+      "en": "Taiwan indicts ex-TSMC employee over alleged theft of trade secrets for intended use in China",
+      "zh": "台灣起訴前台積電員工涉竊營業秘密，擬供中國使用"
+    },
+    "dek": {
+      "en": "This economy and markets story matters because investor sentiment, policy expectations and commodity moves can quickly alter financing conditions for households and firms.",
+      "zh": "這則經濟與市場新聞的重要性在於，投資情緒、政策預期與商品價格波動，往往會迅速改變家庭與企業的融資條件。"
+    },
+    "body": {
+      "zh": [
+        "「台灣起訴前台積電員工涉竊營業秘密，擬供中國使用」值得列入今日經濟與市場版面，因為它捕捉到政策訊號、資產價格與信心效應如何往往比實體經濟變化得更快。",
+        "放進更大的框架來看，這項發展可能影響借貸成本、資本流向、投資組合配置，以及企業投資或聘僱的意願。",
+        "接下來最值得觀察的是，央行、投資人或企業管理階層是否會透過修正預測、價格目標、避險安排或支出計畫作出回應。",
+        "若這些調整持續出現，這則新聞的重要性就在於它證明市場定價已經開始改變現實世界的經濟行為。"
+      ],
+      "en": [
+        "\"Taiwan indicts ex-TSMC employee over alleged theft of trade secrets for intended use in China\" belongs in today's economy and markets file because it captures how policy signals, asset prices and confidence effects often move faster than the underlying economy.",
+        "In the broader frame, the development can influence borrowing costs, capital flows, portfolio positioning and the willingness of companies to invest or hire.",
+        "The next thing to watch is whether central banks, investors or corporate managers react with revised forecasts, price targets, hedges or spending plans.",
+        "If those adjustments continue, the story will matter as a practical sign that market pricing is already changing real-world economic behaviour."
+      ]
+    }
+  },
+  {
+    "id": "econo-uk-s-burnham-pledges-stability-says-reuters-correspondent",
+    "category": "economy-markets",
+    "image": "markets",
+    "lead": false,
+    "author": "Victor Shen",
+    "read": 5,
+    "title": {
+      "en": "UK's Burnham pledges stability, says Reuters correspondent",
+      "zh": "英國的 Burnham 承諾維持穩定，路透記者指出市場關注延續性"
+    },
+    "dek": {
+      "en": "This economy and markets story matters because investor sentiment, policy expectations and commodity moves can quickly alter financing conditions for households and firms.",
+      "zh": "這則經濟與市場新聞的重要性在於，投資情緒、政策預期與商品價格波動，往往會迅速改變家庭與企業的融資條件。"
+    },
+    "body": {
+      "zh": [
+        "「英國的 Burnham 承諾維持穩定，路透記者指出市場關注延續性」值得列入今日經濟與市場版面，因為它捕捉到政策訊號、資產價格與信心效應如何往往比實體經濟變化得更快。",
+        "放進更大的框架來看，這項發展可能影響借貸成本、資本流向、投資組合配置，以及企業投資或聘僱的意願。",
+        "接下來最值得觀察的是，央行、投資人或企業管理階層是否會透過修正預測、價格目標、避險安排或支出計畫作出回應。",
+        "若這些調整持續出現，這則新聞的重要性就在於它證明市場定價已經開始改變現實世界的經濟行為。"
+      ],
+      "en": [
+        "\"UK's Burnham pledges stability, says Reuters correspondent\" belongs in today's economy and markets file because it captures how policy signals, asset prices and confidence effects often move faster than the underlying economy.",
+        "In the broader frame, the development can influence borrowing costs, capital flows, portfolio positioning and the willingness of companies to invest or hire.",
+        "The next thing to watch is whether central banks, investors or corporate managers react with revised forecasts, price targets, hedges or spending plans.",
+        "If those adjustments continue, the story will matter as a practical sign that market pricing is already changing real-world economic behaviour."
+      ]
+    }
+  },
+  {
+    "id": "energ-us-states-new-york-city-sue-epa-for-relaxing-climate-rule-over-hydrofluorocarbons",
+    "category": "energy-climate",
+    "image": "climate",
+    "lead": true,
+    "author": "Clara Tsai",
+    "read": 9,
+    "title": {
+      "en": "US states, New York City sue EPA for relaxing climate rule over hydrofluorocarbons",
+      "zh": "美國各州與紐約市控告 EPA 放寬氫氟碳化物氣候規則"
+    },
+    "dek": {
+      "en": "This energy and climate story matters because energy investment, carbon rules and extreme weather increasingly shape industrial costs and long-term resilience.",
+      "zh": "這則能源與氣候新聞的重要性在於，能源投資、碳規則與極端天氣，正愈來愈深刻地塑造產業成本與長期韌性。"
+    },
+    "body": {
+      "zh": [
+        "「美國各州與紐約市控告 EPA 放寬氫氟碳化物氣候規則」值得列入今日能源與氣候版面，因為它顯示燃料策略、電網風險與環境壓力正愈來愈緊密地連動。",
+        "放回脈絡來看，這項發展可能影響發電選擇、排放成本、水資源安全、產業規劃，以及政府如何定義能源韌性。",
+        "接下來最值得觀察的是，公用事業、能源生產商或政策制定者是否會透過新的投資、法遵調整、緊急計畫或價格修正回應。",
+        "若後續回應範圍擴大，這則新聞的重要性就在於它顯示氣候壓力與能源戰略已愈來愈難分開看待。"
+      ],
+      "en": [
+        "\"US states, New York City sue EPA for relaxing climate rule over hydrofluorocarbons\" belongs in today's energy and climate file because it shows how fuel strategy, grid risk and environmental stress increasingly move together.",
+        "Placed in context, the development can affect generation choices, emissions costs, water security, industrial planning and how governments define energy resilience.",
+        "The next thing to watch is whether utilities, producers or policymakers respond with new investments, compliance changes, emergency plans or pricing revisions.",
+        "If those responses widen, the story will matter as evidence that climate pressure and energy strategy are becoming harder to separate."
+      ]
+    }
+  },
+  {
+    "id": "energ-global-hunger-declines-across-continents-but-climate-trade-risks-loom-un-says",
+    "category": "energy-climate",
+    "image": "climate",
+    "lead": false,
+    "author": "Clara Tsai",
+    "read": 8,
+    "title": {
+      "en": "Global hunger declines across continents but climate, trade risks loom, UN says",
+      "zh": "聯合國：全球飢餓持續下降，但氣候與貿易風險仍在前方"
+    },
+    "dek": {
+      "en": "This energy and climate story matters because energy investment, carbon rules and extreme weather increasingly shape industrial costs and long-term resilience.",
+      "zh": "這則能源與氣候新聞的重要性在於，能源投資、碳規則與極端天氣，正愈來愈深刻地塑造產業成本與長期韌性。"
+    },
+    "body": {
+      "zh": [
+        "「聯合國：全球飢餓持續下降，但氣候與貿易風險仍在前方」值得列入今日能源與氣候版面，因為它顯示燃料策略、電網風險與環境壓力正愈來愈緊密地連動。",
+        "放回脈絡來看，這項發展可能影響發電選擇、排放成本、水資源安全、產業規劃，以及政府如何定義能源韌性。",
+        "接下來最值得觀察的是，公用事業、能源生產商或政策制定者是否會透過新的投資、法遵調整、緊急計畫或價格修正回應。",
+        "若後續回應範圍擴大，這則新聞的重要性就在於它顯示氣候壓力與能源戰略已愈來愈難分開看待。"
+      ],
+      "en": [
+        "\"Global hunger declines across continents but climate, trade risks loom, UN says\" belongs in today's energy and climate file because it shows how fuel strategy, grid risk and environmental stress increasingly move together.",
+        "Placed in context, the development can affect generation choices, emissions costs, water security, industrial planning and how governments define energy resilience.",
+        "The next thing to watch is whether utilities, producers or policymakers respond with new investments, compliance changes, emergency plans or pricing revisions.",
+        "If those responses widen, the story will matter as evidence that climate pressure and energy strategy are becoming harder to separate."
+      ]
+    }
+  },
+  {
+    "id": "energ-iraq-s-oil-minister-says-us-energy-deals-worth-about-200-billion",
+    "category": "energy-climate",
+    "image": "climate",
+    "lead": false,
+    "author": "Clara Tsai",
+    "read": 7,
+    "title": {
+      "en": "Iraq's oil minister says US energy deals worth about $200 billion",
+      "zh": "伊拉克石油部長稱與美國達成約 2,000 億美元能源協議"
+    },
+    "dek": {
+      "en": "This energy and climate story matters because energy investment, carbon rules and extreme weather increasingly shape industrial costs and long-term resilience.",
+      "zh": "這則能源與氣候新聞的重要性在於，能源投資、碳規則與極端天氣，正愈來愈深刻地塑造產業成本與長期韌性。"
+    },
+    "body": {
+      "zh": [
+        "「伊拉克石油部長稱與美國達成約 2,000 億美元能源協議」值得列入今日能源與氣候版面，因為它顯示燃料策略、電網風險與環境壓力正愈來愈緊密地連動。",
+        "放回脈絡來看，這項發展可能影響發電選擇、排放成本、水資源安全、產業規劃，以及政府如何定義能源韌性。",
+        "接下來最值得觀察的是，公用事業、能源生產商或政策制定者是否會透過新的投資、法遵調整、緊急計畫或價格修正回應。",
+        "若後續回應範圍擴大，這則新聞的重要性就在於它顯示氣候壓力與能源戰略已愈來愈難分開看待。"
+      ],
+      "en": [
+        "\"Iraq's oil minister says US energy deals worth about $200 billion\" belongs in today's energy and climate file because it shows how fuel strategy, grid risk and environmental stress increasingly move together.",
+        "Placed in context, the development can affect generation choices, emissions costs, water security, industrial planning and how governments define energy resilience.",
+        "The next thing to watch is whether utilities, producers or policymakers respond with new investments, compliance changes, emergency plans or pricing revisions.",
+        "If those responses widen, the story will matter as evidence that climate pressure and energy strategy are becoming harder to separate."
+      ]
+    }
+  },
+  {
+    "id": "energ-coal-sector-urges-trump-administration-to-provide-financing-for-existing-new-power-plants",
+    "category": "energy-climate",
+    "image": "climate",
+    "lead": false,
+    "author": "Clara Tsai",
+    "read": 6,
+    "title": {
+      "en": "Coal sector urges Trump administration to provide financing for existing, new power plants",
+      "zh": "煤炭產業要求川普政府為既有與新建電廠提供融資"
+    },
+    "dek": {
+      "en": "This energy and climate story matters because energy investment, carbon rules and extreme weather increasingly shape industrial costs and long-term resilience.",
+      "zh": "這則能源與氣候新聞的重要性在於，能源投資、碳規則與極端天氣，正愈來愈深刻地塑造產業成本與長期韌性。"
+    },
+    "body": {
+      "zh": [
+        "「煤炭產業要求川普政府為既有與新建電廠提供融資」值得列入今日能源與氣候版面，因為它顯示燃料策略、電網風險與環境壓力正愈來愈緊密地連動。",
+        "放回脈絡來看，這項發展可能影響發電選擇、排放成本、水資源安全、產業規劃，以及政府如何定義能源韌性。",
+        "接下來最值得觀察的是，公用事業、能源生產商或政策制定者是否會透過新的投資、法遵調整、緊急計畫或價格修正回應。",
+        "若後續回應範圍擴大，這則新聞的重要性就在於它顯示氣候壓力與能源戰略已愈來愈難分開看待。"
+      ],
+      "en": [
+        "\"Coal sector urges Trump administration to provide financing for existing, new power plants\" belongs in today's energy and climate file because it shows how fuel strategy, grid risk and environmental stress increasingly move together.",
+        "Placed in context, the development can affect generation choices, emissions costs, water security, industrial planning and how governments define energy resilience.",
+        "The next thing to watch is whether utilities, producers or policymakers respond with new investments, compliance changes, emergency plans or pricing revisions.",
+        "If those responses widen, the story will matter as evidence that climate pressure and energy strategy are becoming harder to separate."
+      ]
+    }
+  },
+  {
+    "id": "energ-fires-in-spain-and-france-hail-in-balkans-europe-s-erratic-weather-persists",
+    "category": "energy-climate",
+    "image": "climate",
+    "lead": false,
+    "author": "Clara Tsai",
+    "read": 5,
+    "title": {
+      "en": "Fires in Spain and France, hail in Balkans; Europe's erratic weather persists",
+      "zh": "西班牙、法國野火延燒，巴爾幹冰雹頻仍，歐洲異常天氣持續"
+    },
+    "dek": {
+      "en": "This energy and climate story matters because energy investment, carbon rules and extreme weather increasingly shape industrial costs and long-term resilience.",
+      "zh": "這則能源與氣候新聞的重要性在於，能源投資、碳規則與極端天氣，正愈來愈深刻地塑造產業成本與長期韌性。"
+    },
+    "body": {
+      "zh": [
+        "「西班牙、法國野火延燒，巴爾幹冰雹頻仍，歐洲異常天氣持續」值得列入今日能源與氣候版面，因為它顯示燃料策略、電網風險與環境壓力正愈來愈緊密地連動。",
+        "放回脈絡來看，這項發展可能影響發電選擇、排放成本、水資源安全、產業規劃，以及政府如何定義能源韌性。",
+        "接下來最值得觀察的是，公用事業、能源生產商或政策制定者是否會透過新的投資、法遵調整、緊急計畫或價格修正回應。",
+        "若後續回應範圍擴大，這則新聞的重要性就在於它顯示氣候壓力與能源戰略已愈來愈難分開看待。"
+      ],
+      "en": [
+        "\"Fires in Spain and France, hail in Balkans; Europe's erratic weather persists\" belongs in today's energy and climate file because it shows how fuel strategy, grid risk and environmental stress increasingly move together.",
+        "Placed in context, the development can affect generation choices, emissions costs, water security, industrial planning and how governments define energy resilience.",
+        "The next thing to watch is whether utilities, producers or policymakers respond with new investments, compliance changes, emergency plans or pricing revisions.",
+        "If those responses widen, the story will matter as evidence that climate pressure and energy strategy are becoming harder to separate."
+      ]
+    }
+  },
+  {
+    "id": "polic-construction-chemicals-companies-trade-associations-hit-with-eu-cartel-charges",
+    "category": "policy-regulation",
+    "image": "policy",
+    "lead": true,
+    "author": "Ethan Liu",
+    "read": 9,
+    "title": {
+      "en": "Construction chemicals companies, trade associations hit with EU cartel charges",
+      "zh": "建築化學品公司與業界協會遭歐盟提出卡特爾指控"
+    },
+    "dek": {
+      "en": "This policy and regulation story matters because court rulings, regulatory tools and enforcement design can redraw the operating boundaries for governments and companies.",
+      "zh": "這則政策與法規新聞的重要性在於，法院裁決、監理工具與執法設計，都可能重新劃定政府與企業的運作邊界。"
+    },
+    "body": {
+      "zh": [
+        "「建築化學品公司與業界協會遭歐盟提出卡特爾指控」值得列入今日政策與法規版面，因為制度規則最重要的時刻，往往就是它重新界定各方可以做、必須做或不得做什麼的時候。",
+        "放回更大的圖像來看，這項發展會影響法遵策略、訴訟風險、市場結構，以及國家權力與企業自由之間的平衡。",
+        "接下來最值得觀察的是，主管機關、法院或企業是否會透過上訴、和解、指引修正或內控制度重設來回應。",
+        "若這些反應持續升高，這則新聞的重要性就在於它顯示改變的不只是執法強度，而是整本規則手冊本身。"
+      ],
+      "en": [
+        "\"Construction chemicals companies, trade associations hit with EU cartel charges\" belongs in today's policy and regulation file because institutional rules matter most when they redefine what actors are allowed, required or forbidden to do.",
+        "Placed back into the bigger picture, the development affects compliance strategy, litigation risk, market structure and the balance between state power and corporate freedom.",
+        "The next thing to watch is whether agencies, courts or companies answer with appeals, settlements, guidance changes or redesigned internal controls.",
+        "If those responses intensify, the story will matter as a sign that the rulebook itself is shifting rather than merely being enforced."
+      ]
+    }
+  },
+  {
+    "id": "polic-us-lawmakers-urge-trump-to-act-against-eu-tech-rules-suggest-trade-probes",
+    "category": "policy-regulation",
+    "image": "policy",
+    "lead": false,
+    "author": "Ethan Liu",
+    "read": 8,
+    "title": {
+      "en": "US lawmakers urge Trump to act against EU tech rules, suggest trade probes",
+      "zh": "美國國會議員敦促川普對歐盟科技規則採取行動，並建議啟動貿易調查"
+    },
+    "dek": {
+      "en": "This policy and regulation story matters because court rulings, regulatory tools and enforcement design can redraw the operating boundaries for governments and companies.",
+      "zh": "這則政策與法規新聞的重要性在於，法院裁決、監理工具與執法設計，都可能重新劃定政府與企業的運作邊界。"
+    },
+    "body": {
+      "zh": [
+        "「美國國會議員敦促川普對歐盟科技規則採取行動，並建議啟動貿易調查」值得列入今日政策與法規版面，因為制度規則最重要的時刻，往往就是它重新界定各方可以做、必須做或不得做什麼的時候。",
+        "放回更大的圖像來看，這項發展會影響法遵策略、訴訟風險、市場結構，以及國家權力與企業自由之間的平衡。",
+        "接下來最值得觀察的是，主管機關、法院或企業是否會透過上訴、和解、指引修正或內控制度重設來回應。",
+        "若這些反應持續升高，這則新聞的重要性就在於它顯示改變的不只是執法強度，而是整本規則手冊本身。"
+      ],
+      "en": [
+        "\"US lawmakers urge Trump to act against EU tech rules, suggest trade probes\" belongs in today's policy and regulation file because institutional rules matter most when they redefine what actors are allowed, required or forbidden to do.",
+        "Placed back into the bigger picture, the development affects compliance strategy, litigation risk, market structure and the balance between state power and corporate freedom.",
+        "The next thing to watch is whether agencies, courts or companies answer with appeals, settlements, guidance changes or redesigned internal controls.",
+        "If those responses intensify, the story will matter as a sign that the rulebook itself is shifting rather than merely being enforced."
+      ]
+    }
+  },
+  {
+    "id": "polic-paramount-skydance-ordered-to-pause-warner-bros-acquisition-through-august-3",
+    "category": "policy-regulation",
+    "image": "policy",
+    "lead": false,
+    "author": "Ethan Liu",
+    "read": 7,
+    "title": {
+      "en": "Paramount Skydance ordered to pause Warner Bros acquisition through August 3",
+      "zh": "派拉蒙與 Skydance 被令暫停華納兄弟收購案至 8 月 3 日"
+    },
+    "dek": {
+      "en": "This policy and regulation story matters because court rulings, regulatory tools and enforcement design can redraw the operating boundaries for governments and companies.",
+      "zh": "這則政策與法規新聞的重要性在於，法院裁決、監理工具與執法設計，都可能重新劃定政府與企業的運作邊界。"
+    },
+    "body": {
+      "zh": [
+        "「派拉蒙與 Skydance 被令暫停華納兄弟收購案至 8 月 3 日」值得列入今日政策與法規版面，因為制度規則最重要的時刻，往往就是它重新界定各方可以做、必須做或不得做什麼的時候。",
+        "放回更大的圖像來看，這項發展會影響法遵策略、訴訟風險、市場結構，以及國家權力與企業自由之間的平衡。",
+        "接下來最值得觀察的是，主管機關、法院或企業是否會透過上訴、和解、指引修正或內控制度重設來回應。",
+        "若這些反應持續升高，這則新聞的重要性就在於它顯示改變的不只是執法強度，而是整本規則手冊本身。"
+      ],
+      "en": [
+        "\"Paramount Skydance ordered to pause Warner Bros acquisition through August 3\" belongs in today's policy and regulation file because institutional rules matter most when they redefine what actors are allowed, required or forbidden to do.",
+        "Placed back into the bigger picture, the development affects compliance strategy, litigation risk, market structure and the balance between state power and corporate freedom.",
+        "The next thing to watch is whether agencies, courts or companies answer with appeals, settlements, guidance changes or redesigned internal controls.",
+        "If those responses intensify, the story will matter as a sign that the rulebook itself is shifting rather than merely being enforced."
+      ]
+    }
+  },
+  {
+    "id": "polic-u-s-auto-industry-races-to-purge-chinese-connected-car-hardware-amid-federal-push",
+    "category": "policy-regulation",
+    "image": "policy",
+    "lead": false,
+    "author": "Ethan Liu",
+    "read": 6,
+    "title": {
+      "en": "U.S. auto industry races to purge Chinese connected-car hardware amid federal push",
+      "zh": "美國聯邦推動下，車廠急於清除中國製聯網汽車硬體"
+    },
+    "dek": {
+      "en": "This policy and regulation story matters because court rulings, regulatory tools and enforcement design can redraw the operating boundaries for governments and companies.",
+      "zh": "這則政策與法規新聞的重要性在於，法院裁決、監理工具與執法設計，都可能重新劃定政府與企業的運作邊界。"
+    },
+    "body": {
+      "zh": [
+        "「美國聯邦推動下，車廠急於清除中國製聯網汽車硬體」值得列入今日政策與法規版面，因為制度規則最重要的時刻，往往就是它重新界定各方可以做、必須做或不得做什麼的時候。",
+        "放回更大的圖像來看，這項發展會影響法遵策略、訴訟風險、市場結構，以及國家權力與企業自由之間的平衡。",
+        "接下來最值得觀察的是，主管機關、法院或企業是否會透過上訴、和解、指引修正或內控制度重設來回應。",
+        "若這些反應持續升高，這則新聞的重要性就在於它顯示改變的不只是執法強度，而是整本規則手冊本身。"
+      ],
+      "en": [
+        "\"U.S. auto industry races to purge Chinese connected-car hardware amid federal push\" belongs in today's policy and regulation file because institutional rules matter most when they redefine what actors are allowed, required or forbidden to do.",
+        "Placed back into the bigger picture, the development affects compliance strategy, litigation risk, market structure and the balance between state power and corporate freedom.",
+        "The next thing to watch is whether agencies, courts or companies answer with appeals, settlements, guidance changes or redesigned internal controls.",
+        "If those responses intensify, the story will matter as a sign that the rulebook itself is shifting rather than merely being enforced."
+      ]
+    }
+  },
+  {
+    "id": "polic-washington-judge-blocks-kalshi-contracts-cites-state-s-gambling-law",
+    "category": "policy-regulation",
+    "image": "policy",
+    "lead": false,
+    "author": "Ethan Liu",
+    "read": 5,
+    "title": {
+      "en": "Washington judge blocks Kalshi contracts, cites state's gambling law",
+      "zh": "華盛頓州法官以州博彩法為由，阻止 Kalshi 合約"
+    },
+    "dek": {
+      "en": "This policy and regulation story matters because court rulings, regulatory tools and enforcement design can redraw the operating boundaries for governments and companies.",
+      "zh": "這則政策與法規新聞的重要性在於，法院裁決、監理工具與執法設計，都可能重新劃定政府與企業的運作邊界。"
+    },
+    "body": {
+      "zh": [
+        "「華盛頓州法官以州博彩法為由，阻止 Kalshi 合約」值得列入今日政策與法規版面，因為制度規則最重要的時刻，往往就是它重新界定各方可以做、必須做或不得做什麼的時候。",
+        "放回更大的圖像來看，這項發展會影響法遵策略、訴訟風險、市場結構，以及國家權力與企業自由之間的平衡。",
+        "接下來最值得觀察的是，主管機關、法院或企業是否會透過上訴、和解、指引修正或內控制度重設來回應。",
+        "若這些反應持續升高，這則新聞的重要性就在於它顯示改變的不只是執法強度，而是整本規則手冊本身。"
+      ],
+      "en": [
+        "\"Washington judge blocks Kalshi contracts, cites state's gambling law\" belongs in today's policy and regulation file because institutional rules matter most when they redefine what actors are allowed, required or forbidden to do.",
+        "Placed back into the bigger picture, the development affects compliance strategy, litigation risk, market structure and the balance between state power and corporate freedom.",
+        "The next thing to watch is whether agencies, courts or companies answer with appeals, settlements, guidance changes or redesigned internal controls.",
+        "If those responses intensify, the story will matter as a sign that the rulebook itself is shifting rather than merely being enforced."
+      ]
+    }
+  },
+  {
+    "id": "cyber-ai-broke-cybersecurity-s-math-now-what",
+    "category": "cybersecurity",
+    "image": "cybersecurity",
+    "lead": true,
+    "author": "Sophie Wang",
+    "read": 9,
+    "title": {
+      "en": "AI broke cybersecurity’s math. Now what?",
+      "zh": "AI 打破了網路安全原有的數學假設，接下來怎麼辦？"
+    },
+    "dek": {
+      "en": "This cybersecurity story matters because cyber incidents, digital fraud and information risk can disrupt trust, compliance and business continuity at scale.",
+      "zh": "這則網路安全新聞的重要性在於，資安事件、數位詐欺與資訊風險，可能大規模破壞信任、法遵與營運連續性。"
+    },
+    "body": {
+      "zh": [
+        "「AI 打破了網路安全原有的數學假設，接下來怎麼辦？」值得列入今日網路安全版面，因為數位風險很少只是技術問題，往往很快就會變成治理、法律與營運層面的挑戰。",
+        "放回更大的框架來看，這項發展牽動事件應變、揭露義務、第三方曝險，以及組織是否能維持關鍵系統的可信與可用。",
+        "接下來最值得觀察的是，企業、監管機關或教育機構是否會以更深入調查、更嚴控制、更快揭露或新的風險假設來回應。",
+        "若這些反應逐步擴大，這則新聞的重要性就在於它顯示資安風險正被當作核心商業與公共治理風險，而不再只是旁支議題。"
+      ],
+      "en": [
+        "\"AI broke cybersecurity’s math. Now what?\" belongs in today's cybersecurity file because digital risk rarely stays technical for long; it quickly becomes a governance, legal and operational challenge.",
+        "In a wider frame, the development touches incident response, disclosure duties, third-party exposure and whether organisations can keep critical systems trusted and available.",
+        "The next thing to watch is whether companies, regulators or public institutions respond with deeper investigations, tighter controls, faster disclosure or revised risk assumptions.",
+        "If those responses broaden, the story will matter as evidence that cyber risk is increasingly being priced like a core business and public-sector threat rather than a side issue."
+      ]
+    }
+  },
+  {
+    "id": "cyber-tiktok-us-chief-security-officer-to-testify-before-us-house-on-september-15",
+    "category": "cybersecurity",
+    "image": "cybersecurity",
+    "lead": false,
+    "author": "Sophie Wang",
+    "read": 8,
+    "title": {
+      "en": "TikTok US chief security officer to testify before US House on September 15",
+      "zh": "TikTok 美國資安主管將於 9 月 15 日赴眾院作證"
+    },
+    "dek": {
+      "en": "This cybersecurity story matters because cyber incidents, digital fraud and information risk can disrupt trust, compliance and business continuity at scale.",
+      "zh": "這則網路安全新聞的重要性在於，資安事件、數位詐欺與資訊風險，可能大規模破壞信任、法遵與營運連續性。"
+    },
+    "body": {
+      "zh": [
+        "「TikTok 美國資安主管將於 9 月 15 日赴眾院作證」值得列入今日網路安全版面，因為數位風險很少只是技術問題，往往很快就會變成治理、法律與營運層面的挑戰。",
+        "放回更大的框架來看，這項發展牽動事件應變、揭露義務、第三方曝險，以及組織是否能維持關鍵系統的可信與可用。",
+        "接下來最值得觀察的是，企業、監管機關或教育機構是否會以更深入調查、更嚴控制、更快揭露或新的風險假設來回應。",
+        "若這些反應逐步擴大，這則新聞的重要性就在於它顯示資安風險正被當作核心商業與公共治理風險，而不再只是旁支議題。"
+      ],
+      "en": [
+        "\"TikTok US chief security officer to testify before US House on September 15\" belongs in today's cybersecurity file because digital risk rarely stays technical for long; it quickly becomes a governance, legal and operational challenge.",
+        "In a wider frame, the development touches incident response, disclosure duties, third-party exposure and whether organisations can keep critical systems trusted and available.",
+        "The next thing to watch is whether companies, regulators or public institutions respond with deeper investigations, tighter controls, faster disclosure or revised risk assumptions.",
+        "If those responses broaden, the story will matter as evidence that cyber risk is increasingly being priced like a core business and public-sector threat rather than a side issue."
+      ]
+    }
+  },
+  {
+    "id": "cyber-google-updates-lightweight-gemini-models-but-flagship-still-delayed",
+    "category": "cybersecurity",
+    "image": "cybersecurity",
+    "lead": false,
+    "author": "Sophie Wang",
+    "read": 7,
+    "title": {
+      "en": "Google updates lightweight Gemini models, but flagship still delayed",
+      "zh": "Google 更新輕量版 Gemini 模型，但旗艦版本仍延後"
+    },
+    "dek": {
+      "en": "This cybersecurity story matters because cyber incidents, digital fraud and information risk can disrupt trust, compliance and business continuity at scale.",
+      "zh": "這則網路安全新聞的重要性在於，資安事件、數位詐欺與資訊風險，可能大規模破壞信任、法遵與營運連續性。"
+    },
+    "body": {
+      "zh": [
+        "「Google 更新輕量版 Gemini 模型，但旗艦版本仍延後」值得列入今日網路安全版面，因為數位風險很少只是技術問題，往往很快就會變成治理、法律與營運層面的挑戰。",
+        "放回更大的框架來看，這項發展牽動事件應變、揭露義務、第三方曝險，以及組織是否能維持關鍵系統的可信與可用。",
+        "接下來最值得觀察的是，企業、監管機關或教育機構是否會以更深入調查、更嚴控制、更快揭露或新的風險假設來回應。",
+        "若這些反應逐步擴大，這則新聞的重要性就在於它顯示資安風險正被當作核心商業與公共治理風險，而不再只是旁支議題。"
+      ],
+      "en": [
+        "\"Google updates lightweight Gemini models, but flagship still delayed\" belongs in today's cybersecurity file because digital risk rarely stays technical for long; it quickly becomes a governance, legal and operational challenge.",
+        "In a wider frame, the development touches incident response, disclosure duties, third-party exposure and whether organisations can keep critical systems trusted and available.",
+        "The next thing to watch is whether companies, regulators or public institutions respond with deeper investigations, tighter controls, faster disclosure or revised risk assumptions.",
+        "If those responses broaden, the story will matter as evidence that cyber risk is increasingly being priced like a core business and public-sector threat rather than a side issue."
+      ]
+    }
+  },
+  {
+    "id": "cyber-taiwan-education-ministry-hosts-cybersecurity-workshop",
+    "category": "cybersecurity",
+    "image": "cybersecurity",
+    "lead": false,
+    "author": "Sophie Wang",
+    "read": 6,
+    "title": {
+      "en": "Taiwan education ministry hosts cybersecurity workshop",
+      "zh": "台灣教育部舉辦網路安全工作坊"
+    },
+    "dek": {
+      "en": "This cybersecurity story matters because cyber incidents, digital fraud and information risk can disrupt trust, compliance and business continuity at scale.",
+      "zh": "這則網路安全新聞的重要性在於，資安事件、數位詐欺與資訊風險，可能大規模破壞信任、法遵與營運連續性。"
+    },
+    "body": {
+      "zh": [
+        "「台灣教育部舉辦網路安全工作坊」值得列入今日網路安全版面，因為數位風險很少只是技術問題，往往很快就會變成治理、法律與營運層面的挑戰。",
+        "放回更大的框架來看，這項發展牽動事件應變、揭露義務、第三方曝險，以及組織是否能維持關鍵系統的可信與可用。",
+        "接下來最值得觀察的是，企業、監管機關或教育機構是否會以更深入調查、更嚴控制、更快揭露或新的風險假設來回應。",
+        "若這些反應逐步擴大，這則新聞的重要性就在於它顯示資安風險正被當作核心商業與公共治理風險，而不再只是旁支議題。"
+      ],
+      "en": [
+        "\"Taiwan education ministry hosts cybersecurity workshop\" belongs in today's cybersecurity file because digital risk rarely stays technical for long; it quickly becomes a governance, legal and operational challenge.",
+        "In a wider frame, the development touches incident response, disclosure duties, third-party exposure and whether organisations can keep critical systems trusted and available.",
+        "The next thing to watch is whether companies, regulators or public institutions respond with deeper investigations, tighter controls, faster disclosure or revised risk assumptions.",
+        "If those responses broaden, the story will matter as evidence that cyber risk is increasingly being priced like a core business and public-sector threat rather than a side issue."
+      ]
+    }
+  },
+  {
+    "id": "cyber-taiwan-approves-o-pay-for-small-overseas-remittances",
+    "category": "cybersecurity",
+    "image": "cybersecurity",
+    "lead": false,
+    "author": "Sophie Wang",
+    "read": 5,
+    "title": {
+      "en": "Taiwan approves O'Pay for small overseas remittances",
+      "zh": "台灣核准 O'Pay 小額海外匯款服務"
+    },
+    "dek": {
+      "en": "This cybersecurity story matters because cyber incidents, digital fraud and information risk can disrupt trust, compliance and business continuity at scale.",
+      "zh": "這則網路安全新聞的重要性在於，資安事件、數位詐欺與資訊風險，可能大規模破壞信任、法遵與營運連續性。"
+    },
+    "body": {
+      "zh": [
+        "「台灣核准 O'Pay 小額海外匯款服務」值得列入今日網路安全版面，因為數位風險很少只是技術問題，往往很快就會變成治理、法律與營運層面的挑戰。",
+        "放回更大的框架來看，這項發展牽動事件應變、揭露義務、第三方曝險，以及組織是否能維持關鍵系統的可信與可用。",
+        "接下來最值得觀察的是，企業、監管機關或教育機構是否會以更深入調查、更嚴控制、更快揭露或新的風險假設來回應。",
+        "若這些反應逐步擴大，這則新聞的重要性就在於它顯示資安風險正被當作核心商業與公共治理風險，而不再只是旁支議題。"
+      ],
+      "en": [
+        "\"Taiwan approves O'Pay for small overseas remittances\" belongs in today's cybersecurity file because digital risk rarely stays technical for long; it quickly becomes a governance, legal and operational challenge.",
+        "In a wider frame, the development touches incident response, disclosure duties, third-party exposure and whether organisations can keep critical systems trusted and available.",
+        "The next thing to watch is whether companies, regulators or public institutions respond with deeper investigations, tighter controls, faster disclosure or revised risk assumptions.",
+        "If those responses broaden, the story will matter as evidence that cyber risk is increasingly being priced like a core business and public-sector threat rather than a side issue."
+      ]
+    }
+  },
+  {
+    "id": "logis-south-africa-gets-1-5-billion-world-bank-loan-for-infrastructure",
+    "category": "logistics-infrastructure",
+    "image": "infrastructure",
+    "lead": true,
+    "author": "Daniel Kuo",
+    "read": 9,
+    "title": {
+      "en": "South Africa gets $1.5 billion World Bank loan for infrastructure",
+      "zh": "南非獲世界銀行 15 億美元貸款，用於基礎建設"
+    },
+    "dek": {
+      "en": "This logistics and infrastructure story matters because transport networks, industrial sites and public works determine how efficiently economies absorb shocks and keep goods moving.",
+      "zh": "這則物流與基礎建設新聞的重要性在於，運輸網絡、工業設施與公共工程決定經濟體如何吸收衝擊並維持貨物流動。"
+    },
+    "body": {
+      "zh": [
+        "「南非獲世界銀行 15 億美元貸款，用於基礎建設」值得列入今日物流與基礎建設版面，因為實體系統決定了經濟體究竟能多快改道、擴張或從衝擊中恢復。",
+        "放回脈絡來看，這項發展會影響資本支出、維修優先順序、運輸走廊韌性，以及成長計畫是否有真實產能支撐。",
+        "接下來最值得觀察的是，政府、港口、公用事業或營運商是否會以更快施工、維修排程、融資方案或韌性升級作出回應。",
+        "若這些回應持續累積，這則新聞的重要性就在於它能實際顯示哪些基礎設施系統正在被強化、哪些仍然暴露在風險之下。"
+      ],
+      "en": [
+        "\"South Africa gets $1.5 billion World Bank loan for infrastructure\" belongs in today's logistics and infrastructure file because physical systems set the real limits on how fast economies can reroute, expand or recover.",
+        "Placed back into context, the development affects capital spending, maintenance priorities, corridor resilience and whether growth plans can be supported by actual capacity.",
+        "The next thing to watch is whether governments, ports, utilities or operators answer with faster construction, repair schedules, financing plans or resilience upgrades.",
+        "If those responses accumulate, the story will matter as a practical indicator of which infrastructure systems are being reinforced and which remain exposed."
+      ]
+    }
+  },
+  {
+    "id": "logis-zimbabwe-adds-freight-rail-option-to-lithium-export-gateway",
+    "category": "logistics-infrastructure",
+    "image": "infrastructure",
+    "lead": false,
+    "author": "Daniel Kuo",
+    "read": 8,
+    "title": {
+      "en": "Zimbabwe adds freight rail option to lithium export gateway",
+      "zh": "辛巴威新增貨運鐵路選項，強化鋰出口走廊"
+    },
+    "dek": {
+      "en": "This logistics and infrastructure story matters because transport networks, industrial sites and public works determine how efficiently economies absorb shocks and keep goods moving.",
+      "zh": "這則物流與基礎建設新聞的重要性在於，運輸網絡、工業設施與公共工程決定經濟體如何吸收衝擊並維持貨物流動。"
+    },
+    "body": {
+      "zh": [
+        "「辛巴威新增貨運鐵路選項，強化鋰出口走廊」值得列入今日物流與基礎建設版面，因為實體系統決定了經濟體究竟能多快改道、擴張或從衝擊中恢復。",
+        "放回脈絡來看，這項發展會影響資本支出、維修優先順序、運輸走廊韌性，以及成長計畫是否有真實產能支撐。",
+        "接下來最值得觀察的是，政府、港口、公用事業或營運商是否會以更快施工、維修排程、融資方案或韌性升級作出回應。",
+        "若這些回應持續累積，這則新聞的重要性就在於它能實際顯示哪些基礎設施系統正在被強化、哪些仍然暴露在風險之下。"
+      ],
+      "en": [
+        "\"Zimbabwe adds freight rail option to lithium export gateway\" belongs in today's logistics and infrastructure file because physical systems set the real limits on how fast economies can reroute, expand or recover.",
+        "Placed back into context, the development affects capital spending, maintenance priorities, corridor resilience and whether growth plans can be supported by actual capacity.",
+        "The next thing to watch is whether governments, ports, utilities or operators answer with faster construction, repair schedules, financing plans or resilience upgrades.",
+        "If those responses accumulate, the story will matter as a practical indicator of which infrastructure systems are being reinforced and which remain exposed."
+      ]
+    }
+  },
+  {
+    "id": "logis-morocco-to-boost-hotel-beds-by-a-fifth-ahead-of-2030-world-cup",
+    "category": "logistics-infrastructure",
+    "image": "infrastructure",
+    "lead": false,
+    "author": "Daniel Kuo",
+    "read": 7,
+    "title": {
+      "en": "Morocco to boost hotel beds by a fifth ahead of 2030 World Cup",
+      "zh": "摩洛哥將在 2030 世界盃前把旅館床位增加五分之一"
+    },
+    "dek": {
+      "en": "This logistics and infrastructure story matters because transport networks, industrial sites and public works determine how efficiently economies absorb shocks and keep goods moving.",
+      "zh": "這則物流與基礎建設新聞的重要性在於，運輸網絡、工業設施與公共工程決定經濟體如何吸收衝擊並維持貨物流動。"
+    },
+    "body": {
+      "zh": [
+        "「摩洛哥將在 2030 世界盃前把旅館床位增加五分之一」值得列入今日物流與基礎建設版面，因為實體系統決定了經濟體究竟能多快改道、擴張或從衝擊中恢復。",
+        "放回脈絡來看，這項發展會影響資本支出、維修優先順序、運輸走廊韌性，以及成長計畫是否有真實產能支撐。",
+        "接下來最值得觀察的是，政府、港口、公用事業或營運商是否會以更快施工、維修排程、融資方案或韌性升級作出回應。",
+        "若這些回應持續累積，這則新聞的重要性就在於它能實際顯示哪些基礎設施系統正在被強化、哪些仍然暴露在風險之下。"
+      ],
+      "en": [
+        "\"Morocco to boost hotel beds by a fifth ahead of 2030 World Cup\" belongs in today's logistics and infrastructure file because physical systems set the real limits on how fast economies can reroute, expand or recover.",
+        "Placed back into context, the development affects capital spending, maintenance priorities, corridor resilience and whether growth plans can be supported by actual capacity.",
+        "The next thing to watch is whether governments, ports, utilities or operators answer with faster construction, repair schedules, financing plans or resilience upgrades.",
+        "If those responses accumulate, the story will matter as a practical indicator of which infrastructure systems are being reinforced and which remain exposed."
+      ]
+    }
+  },
+  {
+    "id": "logis-kremlin-says-russian-online-retailer-wildberries-suffered-losses-in-warehouse-attacks",
+    "category": "logistics-infrastructure",
+    "image": "infrastructure",
+    "lead": false,
+    "author": "Daniel Kuo",
+    "read": 6,
+    "title": {
+      "en": "Kremlin says Russian online retailer Wildberries suffered losses in warehouse attacks",
+      "zh": "克里姆林宮稱俄羅斯電商 Wildberries 倉庫遇襲後蒙受損失"
+    },
+    "dek": {
+      "en": "This logistics and infrastructure story matters because transport networks, industrial sites and public works determine how efficiently economies absorb shocks and keep goods moving.",
+      "zh": "這則物流與基礎建設新聞的重要性在於，運輸網絡、工業設施與公共工程決定經濟體如何吸收衝擊並維持貨物流動。"
+    },
+    "body": {
+      "zh": [
+        "「克里姆林宮稱俄羅斯電商 Wildberries 倉庫遇襲後蒙受損失」值得列入今日物流與基礎建設版面，因為實體系統決定了經濟體究竟能多快改道、擴張或從衝擊中恢復。",
+        "放回脈絡來看，這項發展會影響資本支出、維修優先順序、運輸走廊韌性，以及成長計畫是否有真實產能支撐。",
+        "接下來最值得觀察的是，政府、港口、公用事業或營運商是否會以更快施工、維修排程、融資方案或韌性升級作出回應。",
+        "若這些回應持續累積，這則新聞的重要性就在於它能實際顯示哪些基礎設施系統正在被強化、哪些仍然暴露在風險之下。"
+      ],
+      "en": [
+        "\"Kremlin says Russian online retailer Wildberries suffered losses in warehouse attacks\" belongs in today's logistics and infrastructure file because physical systems set the real limits on how fast economies can reroute, expand or recover.",
+        "Placed back into context, the development affects capital spending, maintenance priorities, corridor resilience and whether growth plans can be supported by actual capacity.",
+        "The next thing to watch is whether governments, ports, utilities or operators answer with faster construction, repair schedules, financing plans or resilience upgrades.",
+        "If those responses accumulate, the story will matter as a practical indicator of which infrastructure systems are being reinforced and which remain exposed."
+      ]
+    }
+  },
+  {
+    "id": "logis-robotics-startup-humanoid-raises-152-million-series-a-round-at-1-35-billion-valuation",
+    "category": "logistics-infrastructure",
+    "image": "infrastructure",
+    "lead": false,
+    "author": "Daniel Kuo",
+    "read": 5,
+    "title": {
+      "en": "Robotics startup Humanoid raises $152 million Series A round at $1.35 billion valuation",
+      "zh": "機器人新創 Humanoid 完成 1.52 億美元 A 輪募資，估值達 13.5 億美元"
+    },
+    "dek": {
+      "en": "This logistics and infrastructure story matters because transport networks, industrial sites and public works determine how efficiently economies absorb shocks and keep goods moving.",
+      "zh": "這則物流與基礎建設新聞的重要性在於，運輸網絡、工業設施與公共工程決定經濟體如何吸收衝擊並維持貨物流動。"
+    },
+    "body": {
+      "zh": [
+        "「機器人新創 Humanoid 完成 1.52 億美元 A 輪募資，估值達 13.5 億美元」值得列入今日物流與基礎建設版面，因為實體系統決定了經濟體究竟能多快改道、擴張或從衝擊中恢復。",
+        "放回脈絡來看，這項發展會影響資本支出、維修優先順序、運輸走廊韌性，以及成長計畫是否有真實產能支撐。",
+        "接下來最值得觀察的是，政府、港口、公用事業或營運商是否會以更快施工、維修排程、融資方案或韌性升級作出回應。",
+        "若這些回應持續累積，這則新聞的重要性就在於它能實際顯示哪些基礎設施系統正在被強化、哪些仍然暴露在風險之下。"
+      ],
+      "en": [
+        "\"Robotics startup Humanoid raises $152 million Series A round at $1.35 billion valuation\" belongs in today's logistics and infrastructure file because physical systems set the real limits on how fast economies can reroute, expand or recover.",
+        "Placed back into context, the development affects capital spending, maintenance priorities, corridor resilience and whether growth plans can be supported by actual capacity.",
+        "The next thing to watch is whether governments, ports, utilities or operators answer with faster construction, repair schedules, financing plans or resilience upgrades.",
+        "If those responses accumulate, the story will matter as a practical indicator of which infrastructure systems are being reinforced and which remain exposed."
+      ]
+    }
+  }
+];
+
   window.DAILY_NEWS_STORIES["2026-07-21"] = [
   {
     "id": "inter-north-korea-russia-foreign-ministers-hold-strategic-talks-in-moscow-kcna-says",
